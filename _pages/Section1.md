@@ -16,11 +16,9 @@ output:
 
 # 1.1 Introduction to Professional Responsibility
 
-Our band could be your life. Real names’d be proof. [^2a645a89]
+> Our band could be your life. Real names’d be proof. [^2a645a89]
 
-[^2a645a89]: 9 Minutemen, History Lesson - Part II, Double Nickels on the Dime (1984).
-
-9 Minutemen, History Lesson - Part II, Double Nickels on the Dime (1984). 
+[^2a645a89]: Minutemen, History Lesson - Part II, Double Nickels on the Dime (1984).
 
 Welcome to professional responsibility. Contrary to conventional wisdom among law students, this is one of the most important classes you will take in law school. It is not only the only class explicitly required by the American Bar Association (“ABA”), but also the subject of the [Multistate Professional Responsibility Examination](LINK) (“MPRE”), a test that the overwhelming majority of law school graduates must pass in order to become a member of their state bar association.[^bb58e403]
 
