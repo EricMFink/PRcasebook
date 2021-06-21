@@ -2,17 +2,16 @@
 layout: page
 
 title: Professional Responsibility
-chapter: '1: Introduction'
+chapter: 'Part 1: Introduction'
 
 output: 
   pdf_document:
     latex_engine: xelatex
-    template: casebook.tex
+    template: casebook-memoir.tex
     
 ---
 
 # 1.1 Introduction to Professional Responsibility
-
 
 > Our band could be your life. Real names'd be proof. 
 
