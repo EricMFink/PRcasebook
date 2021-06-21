@@ -16,7 +16,7 @@ output:
 
 \pagebreak
 
-Cover Illustration: Hablot Knight Brown or "Phiz”, Attorney and Client, Fortitute and Impatience
+Cover Illustration: Hablot Knight Brown or "Phiz", Attorney and Client, Fortitute and Impatience
  (1853)
 
 \pagebreak

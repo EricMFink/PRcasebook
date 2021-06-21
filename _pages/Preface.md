@@ -15,7 +15,7 @@ output:
 
 ## Brian L. Frye 
 
-Cover Illustration: Hablot Knight Brown or "Phiz”, Attorney and Client, Fortitute and Impatience
+Cover Illustration: Hablot Knight Brown or "Phiz", Attorney and Client, Fortitute and Impatience
  (1853)
 
 It would be idle to assert that there is nothing of selfishness in the pursuit of a profession. But its ideal is not one of individual success in competitive acquisitive activity. And because ideals operate powerfully to shape action, professional activity, even at its worst, is restrained and guided by something better than the desire for money rewards - [NOTE1]
@@ -26,7 +26,7 @@ About half the practice of a decent lawyer consists of telling would-be clients 
 
 We will not at present inquire whether the doctrine which is held on this subject by English lawyers be or be not agreeable to reason and morality; whether it be right that a man should, with a wig on his head, and a band round his neck, do for a guinea what, without those appendages, he would think it wicked and infamous to do for an empire; whether it be right that, not merely believing but knowing a statement to be true, he should do all that can be done by sophistry, by rhetoric, by solemn asseveration, by indignant exclamation, by gesture, by play of features, by terrifying one honest witness, by perplexing another, to cause a jury to think that statement false. [NOTE4]
 
-Justice says ye? I tell ye Hogan's r-right whin he says: ‘Justice is blind. ' Blind she is, an' deef an' dumb an' has a wooden leg! Niver again will they dhraw me to a coort. I'll take th' rude justice iv a piece iv lead pipe without costs or th' r-right iv appeal. [NOTE5]
+Justice says ye? I tell ye Hogan's r-right whin he says: 'Justice is blind. ' Blind she is, an' deef an' dumb an' has a wooden leg! Niver again will they dhraw me to a coort. I'll take th' rude justice iv a piece iv lead pipe without costs or th' r-right iv appeal. [NOTE5]
 
 Lawyer—One who protects us against robbers by taking away the temptation. [NOTE6]
 
@@ -157,7 +157,7 @@ We wanted this casebook to be as easy to use and understand as possible. Accordi
 
 This casebook covers a wide range of different subjects related to the professional responsibility of attorneys. While it is possible to cover all of this material in a three credit-hour course, you may wish to omit some subjects. You may also wish to supplement the materials in this casebook with additional materials. We encourage you to use this casebook in any way that you like. 
 
-This casebook is licensed "Creative Commons 0 / No Rights Reserved.” That means that we explicitly disclaim any copyright claim in all of the original elements that we created in writing this casebook and have intentionally placed the casebook in the public domain. Because this casebook is in the public domain, you can use the materials in it in any way that you like, with or without attribution. Of course, the casebook contains many copyrighted elements that belong to other people and that we used pursuant to fair use. Those elements are still protected by copyright. 
+This casebook is licensed "Creative Commons 0 / No Rights Reserved." That means that we explicitly disclaim any copyright claim in all of the original elements that we created in writing this casebook and have intentionally placed the casebook in the public domain. Because this casebook is in the public domain, you can use the materials in it in any way that you like, with or without attribution. Of course, the casebook contains many copyrighted elements that belong to other people and that we used pursuant to fair use. Those elements are still protected by copyright. 
 
 We hope that this free casebook helps show that it is possible to create teaching materials for legal education in an open-source format. And we hope it makes access to the law governing legal practice more accessible to law students, attorneys, and anyone interested in the regulation of the legal profession. 
 
