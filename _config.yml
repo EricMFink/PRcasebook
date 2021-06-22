@@ -4,7 +4,7 @@ title: Professional Responsibility
 description: An Open-Source Casebook
 name: Eric M. Fink
 
-last_updated: 8 January 2021 # leave blank if you don't want to display last updated
+last_updated: 22June 2021 # leave blank if you don't want to display last updated
 
 author: Eric M. Fink
 position: Associate Professor
@@ -17,6 +17,14 @@ email: efink@elon.edu
 phone: 336-279-9334
 web: emfink.net/ElonLaw
 
+collections: 
+  cases: 
+    output: true 
+  rules:
+    output: true
+  statutes: 
+    output: true 
+
 # -----------------------------------------------------------------------------
 # Jekyll settings
 # -----------------------------------------------------------------------------
@@ -26,7 +34,6 @@ web: emfink.net/ElonLaw
 # deployment
 host: localhost
 port: 4000
-
 
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
