@@ -3,28 +3,28 @@
 ## Usage {% marginfigure 'margin-id-whatever' 'path/to/image' 'This is the caption' %}
 #
 module Jekyll
-  class RenderMarginFigureTag < Liquid::Tag
+ class RenderMarginFigureTag < Liquid::Tag
 
-  	require "shellwords"
+ 	require "shellwords"
 
-    def initialize(tag_name, text, tokens)
-      super
-      @text = text.shellsplit
-    end
-
-    def render(context)
-      baseurl = context.registers[:site].config['baseurl']
-      if @text[1].start_with?('http://', 'https://', '//')
-        "<label for='#{@text[0]}' class='margin-toggle'>&#8853;</label>"+
-        "<input type='checkbox' id='#{@text[0]}' class='margin-toggle'/>"+
-        "<span class='marginnote'><img class='fullwidth' src='#{@text[1]}'/><br>#{@text[2]}"
-      else
-        "<label for='#{@text[0]}' class='margin-toggle'>&#8853;</label>"+
-        "<input type='checkbox' id='#{@text[0]}' class='margin-toggle'/>"+
-        "<span class='marginnote'><img class='fullwidth' src='#{baseurl}/#{@text[1]}'/><br>#{@text[2]}"
-      end
-    end
+  def initialize(tag_name, text, tokens)
+   super
+   @text = text.shellsplit
   end
+
+  def render(context)
+   baseurl = context.registers[:site].config['baseurl']
+   if @text[1].start_with?('http://', 'https://', '//')
+    "<label for='#{@text[0]}' class='margin-toggle'>&#8853;</label>"+
+    "<input type='checkbox' id='#{@text[0]}' class='margin-toggle'/>"+
+    "<span class='marginnote'><img class='fullwidth' src='#{@text[1]}'/><br>#{@text[2]}"
+   else
+    "<label for='#{@text[0]}' class='margin-toggle'>&#8853;</label>"+
+    "<input type='checkbox' id='#{@text[0]}' class='margin-toggle'/>"+
+    "<span class='marginnote'><img class='fullwidth' src='#{baseurl}/#{@text[1]}'/><br>#{@text[2]}"
+   end
+  end
+ end
 end
 
 Liquid::Template.register_tag('marginfigure', Jekyll::RenderMarginFigureTag)

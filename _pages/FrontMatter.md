@@ -4,10 +4,10 @@ layout: page
 title: Professional Responsibility
 
 output: 
-  pdf_document:
-    latex_engine: xelatex
-    template: casebook.tex
-    
+ pdf_document:
+  latex_engine: xelatex
+  template: casebook.tex
+  
 ---
 
 # Professional Responsibility An Open Source Casebook
@@ -23,11 +23,11 @@ Cover Illustration: Hablot Knight Brown or "Phiz", Attorney and Client, Fortitut
 
 > It would be idle to assert that there is nothing of selfishness in the pursuit of a profession. But its ideal is not one of individual success in competitive acquisitive activity. And because ideals operate powerfully to shape action, professional activity, even at its worst, is restrained and guided by something better than the desire for money rewards — 
 
-- Roscoe Pound, What is a Profession - the Rise of the Legal Profession in Antiquity, 19 Notre Dame L. Rev. 203 (1944).
+- Roscoe Pound, What is a Profession—the Rise of the Legal Profession in Antiquity, 19 Notre Dame L. Rev. 203 (1944).
 
 > The function of the lawyer is to preserve a sceptical relativism in a society hell-bent for absolutes. The worse the society, the more law there will be. In Hell there will be nothing but law and due process will be meticulously observed.
 
-- Grant Gilmore, The Ages of American Law  110 (1977). 
+- Grant Gilmore, The Ages of American Law 110 (1977). 
 
 > About half the practice of a decent lawyer consists of telling would-be clients that they are damned fools and should stop.
 

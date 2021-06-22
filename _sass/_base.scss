@@ -3,9 +3,9 @@
 }
 
 .group:after {
-  content: "";
-  display: table;
-  clear: both;
+ content: "";
+ display: table;
+ clear: both;
 }
 
 html, body { 
@@ -51,7 +51,7 @@ body.sidenotes {
 	margin-right: 0;
 	padding-left: 0;
 	padding-right: 0;
-    counter-reset: h1;  
+  counter-reset: h1; 
 	counter-reset: sidenote-counter; 
 }
 
@@ -76,10 +76,10 @@ body.sidenotes {
 }
 
 .wrapper {
-    max-width: -webkit-calc(90%);
-    max-width:         calc(90%);
-    margin-right: auto;
-    margin-left: auto;
-    padding-right: 0;
-    padding-left: 0;
+  max-width: -webkit-calc(90%);
+  max-width:     calc(90%);
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 0;
+  padding-left: 0;
 }

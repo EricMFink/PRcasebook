@@ -1,11 +1,11 @@
 .page-container {
-    padding: 100px 0; /* VERTICAL PADDING FOR TITLE ON EVERY PAGE */
+  padding: 100px 0; /* VERTICAL PADDING FOR TITLE ON EVERY PAGE */
 }
 
 .center-screen {
-    position: relative;
-    margin-left: auto;
-    margin-right: auto;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .page-header {
@@ -13,34 +13,34 @@
 }
 
 .page-title {
-    color: $theme-color;
-    font-family: $heading-font; 
-    font-size: $title-size;
-    line-height: $line-height;
-    font-weight: $medium-weight;
-    font-style: normal;
+  color: $theme-color;
+  font-family: $heading-font; 
+  font-size: $title-size;
+  line-height: $line-height;
+  font-weight: $medium-weight;
+  font-style: normal;
 	margin-top: 0;
 	margin-bottom: 0;
 }
 
 .page-subtitle {
-    color: $theme-color;
-    font-family: $heading-font; 
-    font-size: $subtitle-size;
-    line-height: $line-height;
-    font-weight: $normal-weight;
-    font-style: normal;
-    line-height: 1;
+  color: $theme-color;
+  font-family: $heading-font; 
+  font-size: $subtitle-size;
+  line-height: $line-height;
+  font-weight: $normal-weight;
+  font-style: normal;
+  line-height: 1;
 	margin-top: 1rem;
 	margin-bottom: 0;
 }
 
 .page-cite {
-    font-family: $serif-font; 
+  font-family: $serif-font; 
 	color: $text-color;
-    font-size: $body-size;
-    line-height: $line-height;
-    font-weight: $light-weight;
+  font-size: $body-size;
+  line-height: $line-height;
+  font-weight: $light-weight;
 	margin-top: 1rem;
 	margin-bottom: 0;
 }
@@ -62,14 +62,14 @@
 }
 
 .illustration {
-    padding-top: 2rem;
-    padding-top: 2rem;
-    height: auto;
-    width: 100%;
+  padding-top: 2rem;
+  padding-top: 2rem;
+  height: auto;
+  width: 100%;
 }
 
 .center{
-    text-align: center;
+  text-align: center;
 }
 
 
@@ -87,7 +87,7 @@
 }
 
 .gevalt p {
-    text-align: center;
+  text-align: center;
 	max-width: 90%;
 	margin-left: 0;
 	margin-right: 0;

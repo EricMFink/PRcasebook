@@ -3,20 +3,20 @@
 ## YOUR TEXT STRING HERE (sort of, you know, small caps) if you are using the tufte.css file
 
 module Jekyll
-  class RenderNewThoughtTag < Liquid::Tag
+ class RenderNewThoughtTag < Liquid::Tag
 
 require "shellwords"
 
-    def initialize(tag_name, text, tokens)
-      super
-      @text = text.shellsplit
-    end
-
-
-    def render(context)
-      "<span class='newthought'>#{@text[0]} "
-    end
+  def initialize(tag_name, text, tokens)
+   super
+   @text = text.shellsplit
   end
+
+
+  def render(context)
+   "<span class='newthought'>#{@text[0]} "
+  end
+ end
 end
 
 Liquid::Template.register_tag('newthought', Jekyll::RenderNewThoughtTag)

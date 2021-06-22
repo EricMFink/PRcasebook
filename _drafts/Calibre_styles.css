@@ -1,477 +1,477 @@
 .calibre {
-    display: block;
-    font-size: 1em;
-    margin-bottom: 0;
-    margin-left: 5pt;
-    margin-right: 5pt;
-    margin-top: 0;
-    padding-left: 0;
-    padding-right: 0
-    }
+  display: block;
+  font-size: 1em;
+  margin-bottom: 0;
+  margin-left: 5pt;
+  margin-right: 5pt;
+  margin-top: 0;
+  padding-left: 0;
+  padding-right: 0
+  }
 .calibre1 {
-    break-inside: avoid;
-    column-count: 1;
-    height: auto;
-    margin-bottom: 0;
-    margin-left: 0;
-    margin-right: 0;
-    margin-top: 0;
-    max-height: 100%;
-    max-width: 100%;
-    oeb-column-number: 1;
-    padding-bottom: 0;
-    padding-left: 0;
-    padding-right: 0;
-    padding-top: 0;
-    width: auto
-    }
+  break-inside: avoid;
+  column-count: 1;
+  height: auto;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  max-height: 100%;
+  max-width: 100%;
+  oeb-column-number: 1;
+  padding-bottom: 0;
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 0;
+  width: auto
+  }
 .calibre2 {
-    display: block;
-    font-size: 1.41667em;
-    font-weight: bold;
-    line-height: 1.2;
-    margin-bottom: 0.83em;
-    margin-left: 0;
-    margin-right: 0;
-    margin-top: 0.83em
-    }
+  display: block;
+  font-size: 1.41667em;
+  font-weight: bold;
+  line-height: 1.2;
+  margin-bottom: 0.83em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0.83em
+  }
 .calibre3 {
-    display: block;
-    list-style-type: decimal;
-    margin-bottom: 1em;
-    margin-left: 0;
-    margin-right: 0;
-    margin-top: 1em
-    }
+  display: block;
+  list-style-type: decimal;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 1em
+  }
 .calibre4 {
-    display: list-item
-    }
+  display: list-item
+  }
 .calibre5 {
-    display: block;
-    margin-bottom: 1em;
-    margin-left: 0;
-    margin-right: 0;
-    margin-top: 1em
-    }
+  display: block;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 1em
+  }
 .calibre6 {
-    border-bottom-color: currentColor;
-    border-bottom-style: inset;
-    border-bottom-width: 1px;
-    border-left-color: currentColor;
-    border-left-style: inset;
-    border-left-width: 1px;
-    border-right-color: currentColor;
-    border-right-style: inset;
-    border-right-width: 1px;
-    border-top-color: currentColor;
-    border-top-style: inset;
-    border-top-width: 1px;
-    color: gray;
-    display: block;
-    height: 2px;
-    margin-bottom: 0.5em;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 0.5em
-    }
+  border-bottom-color: currentColor;
+  border-bottom-style: inset;
+  border-bottom-width: 1px;
+  border-left-color: currentColor;
+  border-left-style: inset;
+  border-left-width: 1px;
+  border-right-color: currentColor;
+  border-right-style: inset;
+  border-right-width: 1px;
+  border-top-color: currentColor;
+  border-top-style: inset;
+  border-top-width: 1px;
+  color: gray;
+  display: block;
+  height: 2px;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0.5em
+  }
 .calibre7 {
-    display: block;
-    page-break-after: always
-    }
+  display: block;
+  page-break-after: always
+  }
 .calibre8 {
-    display: block;
-    list-style-type: disc;
-    margin-bottom: 1em;
-    margin-left: 0;
-    margin-right: 0;
-    margin-top: 1em
-    }
+  display: block;
+  list-style-type: disc;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 1em
+  }
 .calibre9 {
-    display: block;
-    font-size: 2em;
-    font-weight: bold;
-    line-height: 1.2;
-    margin-bottom: 0.67em;
-    margin-left: 0;
-    margin-right: 0;
-    margin-top: 0.67em
-    }
+  display: block;
+  font-size: 2em;
+  font-weight: bold;
+  line-height: 1.2;
+  margin-bottom: 0.67em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0.67em
+  }
 .calibre10 {
-    border-collapse: separate;
-    border-spacing: 2px;
-    display: table;
-    margin-bottom: 0;
-    margin-top: 0;
-    text-indent: 0
-    }
+  border-collapse: separate;
+  border-spacing: 2px;
+  display: table;
+  margin-bottom: 0;
+  margin-top: 0;
+  text-indent: 0
+  }
 .calibre11 {
-    display: table-row;
-    vertical-align: middle
-    }
+  display: table-row;
+  vertical-align: middle
+  }
 .calibre12 {
-    display: table-cell;
-    padding-bottom: 1px;
-    padding-left: 1px;
-    padding-right: 1px;
-    padding-top: 1px;
-    text-align: inherit;
-    vertical-align: inherit
-    }
+  display: table-cell;
+  padding-bottom: 1px;
+  padding-left: 1px;
+  padding-right: 1px;
+  padding-top: 1px;
+  text-align: inherit;
+  vertical-align: inherit
+  }
 .calibre13 {
-    display: block;
-    width: 37.137255%
-    }
+  display: block;
+  width: 37.137255%
+  }
 .calibre14 {
-    display: block;
-    width: 24.156863%
-    }
+  display: block;
+  width: 24.156863%
+  }
 .calibre15 {
-    display: block;
-    width: 32.941176%
-    }
+  display: block;
+  width: 32.941176%
+  }
 .calibre16 {
-    display: block;
-    width: 76.666667%
-    }
+  display: block;
+  width: 76.666667%
+  }
 .calibre17 {
-    display: block;
-    width: 71.882353%
-    }
+  display: block;
+  width: 71.882353%
+  }
 .calibre18 {
-    display: block;
-    width: 11.529412%
-    }
+  display: block;
+  width: 11.529412%
+  }
 .calibre19 {
-    display: block;
-    width: 3.686275%
-    }
+  display: block;
+  width: 3.686275%
+  }
 .calibre20 {
-    display: block;
-    width: 62.941176%
-    }
+  display: block;
+  width: 62.941176%
+  }
 .calibre21 {
-    display: block;
-    width: 47.098039%
-    }
+  display: block;
+  width: 47.098039%
+  }
 .calibre22 {
-    display: block;
-    width: 27.647059%
-    }
+  display: block;
+  width: 27.647059%
+  }
 .calibre23 {
-    display: block;
-    width: 43.333333%
-    }
+  display: block;
+  width: 43.333333%
+  }
 .calibre24 {
-    display: block;
-    width: 57.568627%
-    }
+  display: block;
+  width: 57.568627%
+  }
 .calibre25 {
-    display: block;
-    width: 38.54902%
-    }
+  display: block;
+  width: 38.54902%
+  }
 .calibre26 {
-    display: block;
-    width: 40.666667%
-    }
+  display: block;
+  width: 40.666667%
+  }
 .calibre27 {
-    display: block;
-    width: 9.098039%
-    }
+  display: block;
+  width: 9.098039%
+  }
 .calibre28 {
-    display: block;
-    font-size: 1.125em;
-    font-weight: bold;
-    line-height: 1.2;
-    margin-bottom: 1em;
-    margin-left: 0;
-    margin-right: 0;
-    margin-top: 1em
-    }
+  display: block;
+  font-size: 1.125em;
+  font-weight: bold;
+  line-height: 1.2;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 1em
+  }
 .calibre29 {
-    display: block;
-    width: 75.45098%
-    }
+  display: block;
+  width: 75.45098%
+  }
 .calibre30 {
-    display: block;
-    width: 9.960784%
-    }
+  display: block;
+  width: 9.960784%
+  }
 .calibre31 {
-    display: block;
-    width: 33.333333%
-    }
+  display: block;
+  width: 33.333333%
+  }
 .calibre32 {
-    display: block;
-    width: 20.54902%
-    }
+  display: block;
+  width: 20.54902%
+  }
 .calibre33 {
-    display: block;
-    width: 36.392157%
-    }
+  display: block;
+  width: 36.392157%
+  }
 .calibre34 {
-    display: block;
-    width: 5.960784%
-    }
+  display: block;
+  width: 5.960784%
+  }
 .calibre35 {
-    display: block;
-    width: 17.176471%
-    }
+  display: block;
+  width: 17.176471%
+  }
 .calibre36 {
-    display: block;
-    width: 4.352941%
-    }
+  display: block;
+  width: 4.352941%
+  }
 .calibre37 {
-    display: block;
-    width: 70%
-    }
+  display: block;
+  width: 70%
+  }
 .calibre38 {
-    display: block;
-    width: 59.882353%
-    }
+  display: block;
+  width: 59.882353%
+  }
 .calibre39 {
-    display: block;
-    width: 30.784314%
-    }
+  display: block;
+  width: 30.784314%
+  }
 .calibre40 {
-    display: block;
-    width: 41.019608%
-    }
+  display: block;
+  width: 41.019608%
+  }
 .calibre41 {
-    display: block;
-    font-weight: bold;
-    margin-bottom: 1.33em;
-    margin-left: 0;
-    margin-right: 0;
-    margin-top: 1.33em
-    }
+  display: block;
+  font-weight: bold;
+  margin-bottom: 1.33em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 1.33em
+  }
 .calibre42 {
-    display: block;
-    width: 99.686275%
-    }
+  display: block;
+  width: 99.686275%
+  }
 .calibre43 {
-    display: block;
-    width: 36.705882%
-    }
+  display: block;
+  width: 36.705882%
+  }
 .calibre44 {
-    display: block;
-    font-size: 0.75em;
-    font-weight: bold;
-    margin-bottom: 1.67em;
-    margin-left: 0;
-    margin-right: 0;
-    margin-top: 1.67em
-    }
+  display: block;
+  font-size: 0.75em;
+  font-weight: bold;
+  margin-bottom: 1.67em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 1.67em
+  }
 .calibre45 {
-    display: block;
-    width: 76.470588%
-    }
+  display: block;
+  width: 76.470588%
+  }
 .calibre46 {
-    display: block;
-    width: 13.098039%
-    }
+  display: block;
+  width: 13.098039%
+  }
 .calibre47 {
-    display: block;
-    width: 38.235294%
-    }
+  display: block;
+  width: 38.235294%
+  }
 .calibre48 {
-    display: block;
-    font-size: 0.58333em;
-    font-weight: bold;
-    margin-bottom: 2.33em;
-    margin-left: 0;
-    margin-right: 0;
-    margin-top: 2.33em
-    }
+  display: block;
+  font-size: 0.58333em;
+  font-weight: bold;
+  margin-bottom: 2.33em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 2.33em
+  }
 .calibre49 {
-    display: block;
-    width: 69.803922%
-    }
+  display: block;
+  width: 69.803922%
+  }
 .calibre50 {
-    display: block;
-    width: 63.490196%
-    }
+  display: block;
+  width: 63.490196%
+  }
 .calibre51 {
-    display: block;
-    width: 8.509804%
-    }
+  display: block;
+  width: 8.509804%
+  }
 .calibre52 {
-    display: block;
-    width: 15.176471%
-    }
+  display: block;
+  width: 15.176471%
+  }
 .calibre53 {
-    display: block;
-    width: 43.960784%
-    }
+  display: block;
+  width: 43.960784%
+  }
 .calibre54 {
-    display: block;
-    width: 63.882353%
-    }
+  display: block;
+  width: 63.882353%
+  }
 .calibre55 {
-    display: block;
-    width: 3.294118%
-    }
+  display: block;
+  width: 3.294118%
+  }
 .calibre56 {
-    display: block;
-    width: 3.568627%
-    }
+  display: block;
+  width: 3.568627%
+  }
 .calibre57 {
-    display: block;
-    width: 27.058824%
-    }
+  display: block;
+  width: 27.058824%
+  }
 .calibre58 {
-    display: block;
-    width: 44.27451%
-    }
+  display: block;
+  width: 44.27451%
+  }
 .calibre59 {
-    display: block;
-    width: 75.294118%
-    }
+  display: block;
+  width: 75.294118%
+  }
 .calibre60 {
-    display: block;
-    width: 14.509804%
-    }
+  display: block;
+  width: 14.509804%
+  }
 .calibre61 {
-    display: block;
-    width: 43.254902%
-    }
+  display: block;
+  width: 43.254902%
+  }
 .calibre62 {
-    display: block;
-    width: 76.196078%
-    }
+  display: block;
+  width: 76.196078%
+  }
 .calibre63 {
-    display: block;
-    width: 42.392157%
-    }
+  display: block;
+  width: 42.392157%
+  }
 .calibre64 {
-    display: block;
-    width: 48.980392%
-    }
+  display: block;
+  width: 48.980392%
+  }
 .calibre65 {
-    display: block;
-    width: 4.235294%
-    }
+  display: block;
+  width: 4.235294%
+  }
 .calibre66 {
-    display: block;
-    width: 9.803922%
-    }
+  display: block;
+  width: 9.803922%
+  }
 .calibre67 {
-    display: block;
-    width: 44.901961%
-    }
+  display: block;
+  width: 44.901961%
+  }
 .calibre68 {
-    display: block;
-    width: 1.058824%
-    }
+  display: block;
+  width: 1.058824%
+  }
 .calibre69 {
-    display: block;
-    width: 45.137255%
-    }
+  display: block;
+  width: 45.137255%
+  }
 .calibre70 {
-    display: block;
-    width: 49.45098%
-    }
+  display: block;
+  width: 49.45098%
+  }
 .calibre71 {
-    display: block;
-    width: 58.823529%
-    }
+  display: block;
+  width: 58.823529%
+  }
 .calibre72 {
-    display: block;
-    width: 59.019608%
-    }
+  display: block;
+  width: 59.019608%
+  }
 .calibre73 {
-    display: block;
-    width: 17.843137%
-    }
+  display: block;
+  width: 17.843137%
+  }
 .calibre74 {
-    display: block;
-    width: 40.117647%
-    }
+  display: block;
+  width: 40.117647%
+  }
 .calibre75 {
-    display: block;
-    width: 39.960784%
-    }
+  display: block;
+  width: 39.960784%
+  }
 .calibre76 {
-    display: block;
-    width: 66.588235%
-    }
+  display: block;
+  width: 66.588235%
+  }
 .center {
-    display: block;
-    font-size: 2em;
-    font-weight: bold;
-    line-height: 1.2;
-    margin-bottom: 0.67em;
-    margin-left: 0;
-    margin-right: 0;
-    margin-top: 0.67em;
-    text-align: center
-    }
+  display: block;
+  font-size: 2em;
+  font-weight: bold;
+  line-height: 1.2;
+  margin-bottom: 0.67em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0.67em;
+  text-align: center
+  }
 .center1 {
-    display: block;
-    margin-bottom: 1em;
-    margin-left: 0;
-    margin-right: 0;
-    margin-top: 1em;
-    text-align: center
-    }
+  display: block;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 1em;
+  text-align: center
+  }
 .offset {
-    border-bottom-color: black;
-    border-bottom-style: solid;
-    border-bottom-width: 1px;
-    border-left-color: black;
-    border-left-style: solid;
-    border-left-width: 1px;
-    border-right-color: black;
-    border-right-style: solid;
-    border-right-width: 1px;
-    border-top-color: black;
-    border-top-style: solid;
-    border-top-width: 1px;
-    display: block;
-    margin-bottom: 1em;
-    margin-left: 1em;
-    margin-right: 1em;
-    margin-top: 1em;
-    padding-bottom: 1.5em;
-    padding-left: 1.5em;
-    padding-right: 1.5em;
-    padding-top: 1.5em
-    }
+  border-bottom-color: black;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-left-color: black;
+  border-left-style: solid;
+  border-left-width: 1px;
+  border-right-color: black;
+  border-right-style: solid;
+  border-right-width: 1px;
+  border-top-color: black;
+  border-top-style: solid;
+  border-top-width: 1px;
+  display: block;
+  margin-bottom: 1em;
+  margin-left: 1em;
+  margin-right: 1em;
+  margin-top: 1em;
+  padding-bottom: 1.5em;
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+  padding-top: 1.5em
+  }
 .small {
-    display: block;
-    font-size: 0.75em;
-    margin-bottom: 1em;
-    margin-left: 0;
-    margin-right: 0;
-    margin-top: 1em
-    }
+  display: block;
+  font-size: 0.75em;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 1em
+  }
 .sr-only {
-    border-bottom-color: currentColor;
-    border-bottom-style: none;
-    border-bottom-width: 0;
-    border-left-color: currentColor;
-    border-left-style: none;
-    border-left-width: 0;
-    border-right-color: currentColor;
-    border-right-style: none;
-    border-right-width: 0;
-    border-top-color: currentColor;
-    border-top-style: none;
-    border-top-width: 0;
-    clip: rect(0, 0, 0, 0);
-    height: 1px;
-    margin-bottom: -1px;
-    margin-left: -1px;
-    margin-right: -1px;
-    margin-top: -1px;
-    overflow: hidden;
-    padding-bottom: 0;
-    padding-left: 0;
-    padding-right: 0;
-    padding-top: 0;
-    width: 1px
-    }
+  border-bottom-color: currentColor;
+  border-bottom-style: none;
+  border-bottom-width: 0;
+  border-left-color: currentColor;
+  border-left-style: none;
+  border-left-width: 0;
+  border-right-color: currentColor;
+  border-right-style: none;
+  border-right-width: 0;
+  border-top-color: currentColor;
+  border-top-style: none;
+  border-top-width: 0;
+  clip: rect(0, 0, 0, 0);
+  height: 1px;
+  margin-bottom: -1px;
+  margin-left: -1px;
+  margin-right: -1px;
+  margin-top: -1px;
+  overflow: hidden;
+  padding-bottom: 0;
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 0;
+  width: 1px
+  }
 
 @page {
-    margin-bottom: 5pt;
-    margin-top: 5pt
-    }
+  margin-bottom: 5pt;
+  margin-top: 5pt
+  }
 

@@ -5,10 +5,10 @@ title: Professional Responsibility
 chapter: 'Preface'
 
 output: 
-  pdf_document:
-    latex_engine: xelatex
-    template: casebook.tex
-    
+ pdf_document:
+  latex_engine: xelatex
+  template: casebook.tex
+  
 ---
 
 # Professional Responsibility An Open Source Casebook
@@ -18,7 +18,7 @@ output:
 Cover Illustration: Hablot Knight Brown or "Phiz", Attorney and Client, Fortitute and Impatience
  (1853)
 
-It would be idle to assert that there is nothing of selfishness in the pursuit of a profession. But its ideal is not one of individual success in competitive acquisitive activity. And because ideals operate powerfully to shape action, professional activity, even at its worst, is restrained and guided by something better than the desire for money rewards - [NOTE1]
+It would be idle to assert that there is nothing of selfishness in the pursuit of a profession. But its ideal is not one of individual success in competitive acquisitive activity. And because ideals operate powerfully to shape action, professional activity, even at its worst, is restrained and guided by something better than the desire for money rewards—[NOTE1]
 
 The function of the lawyer is to preserve a sceptical relativism in a society hell-bent for absolutes. The worse the society, the more law there will be. In Hell there will be nothing but law and due process will be meticulously observed. [NOTE2]
 
@@ -49,7 +49,7 @@ Trademark Law: An Open-Source Casebook
 • 
 James Boyle
  
-&amp; 
+ & 
 Jennifer Jenkins
 , 
 Open Intellectual Property Casebook 
@@ -63,7 +63,7 @@ Michael Grynberg
 , 
 Jeremy Sheff
  
-&amp; 
+ & 
 Rebecca Tushnet
 , 
 Open Source Property: A Free Casebook 
@@ -86,15 +86,15 @@ An Introduction to Property Law in the U.S.
 • 
 Jeffrey Litwak
 , 
-Interstate Compact Law: Cases &amp; Materials 
+Interstate Compact Law: Cases & Materials 
 
 • 
 Lydia Pallas Loren
  
-&amp; 
+ & 
 Joseph Scott Miller
 , 
-Intellectual Property Law: Cases &amp; Materials 
+Intellectual Property Law: Cases & Materials 
 
 • 
 John T. Parry
@@ -104,10 +104,10 @@ Cases and Problems in Civil Rights Litipation: State, Federal and International 
 • 
 Eric Goldman
  
-&amp; 
+ & 
 Rebecca Tushnet
 , 
-Advertising &amp; Marketing Law: Cases &amp; Materials 
+Advertising & Marketing Law: Cases & Materials 
 
 In addition, the 
 Center for Computer-Assisted Legal Instruction (CALI)
@@ -121,7 +121,7 @@ in many different subjects, including:
 
 • Basic Income Tax 
 
-• Contract Doctrine, Theory &amp; Practice 
+• Contract Doctrine, Theory & Practice 
 
 • Corporate Income Tax 
 
@@ -167,11 +167,11 @@ Brian L. Frye & Elizabeth Schiller
 
 [NOTE1] 
 
-Roscoe Pound, What is a Profession - the Rise of the Legal Profession in Antiquity, 19 Notre Dame L. Rev. 203 (1944).
+Roscoe Pound, What is a Profession—the Rise of the Legal Profession in Antiquity, 19 Notre Dame L. Rev. 203 (1944).
 
 [NOTE2]
 
-Grant Gilmore, The Ages of American Law  110 (1977). 
+Grant Gilmore, The Ages of American Law 110 (1977). 
 
 [NOTE3]
 

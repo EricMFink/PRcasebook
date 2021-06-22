@@ -12,7 +12,7 @@
 
 .case h1 {
 	font-size: $h3;
-    margin-top: 2rem;
+  margin-top: 2rem;
 }
 
 .case h2 {
@@ -33,24 +33,24 @@
 }
 
 .case blockquote {
-    border: none;
+  border: none;
 }
 
 .case blockquote, 
 blockquote p {
-    font-style: normal;
-    margin-top: 0;
-    margin-bottom: 0.5rem;
+  font-style: normal;
+  margin-top: 0;
+  margin-bottom: 0.5rem;
 	margin-left: 1rem;
 	line-height: 1.5;
 	margin-right: .5rem;
-    padding: 0;
+  padding: 0;
 }
 
 .case-footer {
 	border-top: 1px solid $dark-grey;
 	margin-top: 2rem;
-    margin-bottom: 0rem;
+  margin-bottom: 0rem;
 	font-family: $sans-font;
 	font-size: $small-size;
 	font-weight: $light-weight;
@@ -95,18 +95,18 @@ blockquote p {
 	margin-top: 4rem; 
 }
 
-.statute h2 {  
+.statute h2 { 
 	font-size: 1.236rem; 
 	margin-top: 3rem; 
 }
 
-.statute h3 {  
+.statute h3 { 
 	font-size: 1rem; 
 }
 
 
 /* heading for comments */
-.statute h4 {  
+.statute h4 { 
 	font-size: 0.8rem; 
 	font-style: italic;
 	font-weight: $normal-weight;
@@ -122,7 +122,7 @@ blockquote p {
 }
 
 /* body of illustrations */
-.statute h6 {  
+.statute h6 { 
 	font-family: $sans-font;
 	font-size: $smaller-size;
 	font-weight: $light-weight;
@@ -132,23 +132,23 @@ blockquote p {
 }
 
 .statute blockquote { 
-    font-size: 1rem;
+  font-size: 1rem;
 	font-weight: $light-weight;
 	font-style: normal;
 	line-height: $line-height;
 	border: none; 
-    margin-left: 1.5rem;
+  margin-left: 1.5rem;
 	margin-top: 1rem; 
 	margin-bottom: 1rem; 
 	padding: 0;
 }
 
 .statute blockquote p {
-    font-size: 1rem;
+  font-size: 1rem;
 	line-height: $line-height;
 	font-style: normal;
 	margin-top: 1rem; 
 	margin-bottom: 1rem; 
-    padding: 0;
+  padding: 0;
 	max-width: 50rem;
 }

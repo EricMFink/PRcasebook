@@ -15,7 +15,7 @@ output:
 
 > Our band could be your life. Real names'd be proof. 
 
-- Minutemen, History Lesson - Part II, Double Nickels on the Dime (1984).
+- Minutemen, History Lesson—Part II, Double Nickels on the Dime (1984).
 
 Welcome to professional responsibility. Contrary to conventional wisdom among law students, this is one of the most important classes you will take in law school. It is the only class explicitly required by the American Bar Association ("ABA"), and also the subject of the [Multistate Professional Responsibility Examination](https://www.ncbex.org/exams/mpre/) ("MPRE"), a test that the overwhelming majority of law school graduates must pass in order to become a member of their state bar association.[^bb58e403]
 
