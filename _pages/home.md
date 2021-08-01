@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: casebook-cover
 permalink: /
 title: home
 
