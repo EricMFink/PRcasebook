@@ -1,12 +1,8 @@
 ---
-layout: page
+layout: casebook-cover
 
 title: Professional Responsibility
 chapter: 'Part 8: Justifying the Rules of Professional Responsibility'
-
-output: pdf_document:
-    latex_engine: xelatex
-    template: casebook-memoir.tex
  
 ---
 

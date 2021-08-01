@@ -5,10 +5,11 @@ title: home
 
 ---
 
-<h1 class="profile">{{ site.title }}</h1>
-<h2 class="profile">{{ site.author }}</h2>
-<h3 class="profile">{{ site.institution }}</h3>
-<h4 class="profile">{{ site.street }}</h4>
-<h4 class="profile">{{ site.city }}, {{ site.state }} {{ site.zip }}</h4>
-<h4 class="profile">{{ site.phone }}</h4>
-<h4 class="profile">{{ site.email }}</h4>
+# Professional Responsibility An Open Source Casebook
+
+## Brian L. Frye & Elizabeth Schiller 
+
+### Edited & Revised by Eric M. Fink 
+
+
+![Hablot Knight Brown or "Phiz", Attorney and Client, Fortitute and Impatience (1853)](../assets/images/cover-FRYE.png)

@@ -4,11 +4,6 @@ layout: chapter
 title: Professional Responsibility
 chapter: 'Introduction'
 number: "1"
-
-output: 
-  pdf_document:
-    latex_engine: xelatex
-    template: casebook.tex
     
 ---
 
