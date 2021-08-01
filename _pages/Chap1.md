@@ -1,5 +1,5 @@
 ---
-layout: chapter
+layout: casebook
 
 title: Professional Responsibility
 chapter: 'Introduction'
