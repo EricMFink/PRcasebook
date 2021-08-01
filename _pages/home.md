@@ -12,4 +12,4 @@ title: home
 ### Edited & Revised by Eric M. Fink 
 
 
-![Hablot Knight Brown or "Phiz", Attorney and Client, Fortitute and Impatience (1853)](../assets/images/cover-FRYE.png)
+![Hablot Knight Brown or "Phiz", Attorney and Client, Fortitute and Impatience (1853)](../PRcasebook/assets/images/cover-FRYE.png)
