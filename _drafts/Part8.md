@@ -18,7 +18,7 @@ In one form or another, lawyers have existed since time immemorial. The very for
 
 While philosophers have long struggled with legal ethics, the jurisprudential study of legal ethics is still in its infancy. The following excepts provide an eclectic selection of perspectives on modern philosophical legal ethics, beginning with a historical survey, and continuing with representative examples from canonical works. 
 
---- 
+-— 
 
 #### David Luban & W. Bradley Wendel, Philosophical Legal Ethics: An Affectionate History, 30 Georgetown Journal of Legal Ethics 337 (2017) 
 
@@ -104,7 +104,7 @@ A second possible Second Wave response to the moralistic challenge is that First
 
 Another possibility for dealing with the alarms and torments brought upon others by the law, with which both of us have some sympathy, is to emphasize that public ethics deals with a world characterized by the necessity of compromise. Dilemmas in political life, of which the practice of law is a part, are sometimes incapable of resolution without a sense that there is something disagreeable, even wrongful, about the resolution, even though the conclusion may be justified. 
 
---- 
+-— 
 
 ##### Questions
 
@@ -124,7 +124,7 @@ Johnson: "Sir, you do not know it to be good or bad till the Judge determines."
 
 — James Boswell, Life of Johnson (1791). 
 
---- 
+-— 
 
 #### Louis D. Brandeis, The Opportunity in the Law (1905) 
 
@@ -137,7 +137,7 @@ Furthermore, lawyers of high standing have often failed to apply in connection w
 
 Here, consequently, is the great opportunity in the law. The next generation must witness a continuing and ever-increasing contest between those who have and those who have not. The people's thought will take shape in action; and it lies with us, with you to whom in part the future belongs, to say on what lines the action is to be expressed; whether it is to be expressed wisely and temperately, or wildly and intemperately; whether it is to be expressed on lines of evolution or on lines of revolution. Nothing can better fit you for taking part in the solution of these problems, than the study and preeminently the practice of law. Those of you who feel drawn to that profession may rest assured that you will find in it an opportunity for usefulness which is probably unequalled. There is a call upon the legal profession to do a great work for this country. 
 
---- 
+-— 
 
 #### Woodrow Wilson, The Lawyer and the Community, 192 N. Am. Rev. 604 (1910)
 
@@ -145,7 +145,7 @@ Lawyers are not a mere body of expert business advisers in the field of civil la
 
 Whatever may be the cause, it is evident that he now regards himself as the counsel of individuals exclusively and not of communities. He may plead the new organization of politics, which seems to exclude all counsel except that of party success and personal control; he may argue that public questions have changed, have drifted away from his field, and that his advice is no longer asked; but, whatever his explanation or excuse, the fact is the same. He does not play the part he used to play. He does not show the spirit in affairs he used to show. He does not do what he ought to do. 
 
---- 
+-— 
 
 #### Tom C. Clark, Teaching Professional Ethics,  12 San Diego L. Rev. 249 (1975) 
 
@@ -154,7 +154,7 @@ In scholarly articles as well as in the popular press, lawyers are being condemn
 
 There is no doubt in my mind that the present state of our disciplinary machinery is deplorable and that we must perfect the professional system of disciplining and weeding out judges and lawyers who are inept, lazy, corrupt or dishonest. Happily, the organized bar has finally begun to move in this direction, but this is an effort which has a crucial prerequisite, the same prerequisite that Senator Ervin alluded to in his Honolulu speech: integrity. Unless the bar is uniformly imbued with that spirit of honesty and decency and unless it is inspired to insist upon the exercise of the highest ideals in the day-to-day practice of law, then no disciplinary system can be effective and no code of professional conduct will be anything more than a hypocritical farce. 
 
---- 
+-— 
 
 #### Warren E. Burger, The Role of the Law School in the Teaching of Legal Ethics and Professional Responsibility, 29 Clev. St. L. Rev. 377 (1980) 
 
@@ -166,7 +166,7 @@ But lawyers are not "licensed" to promote conflict; they must be more than skill
 
 Our profession carries public and ethical burdens with its privileges. Daniel Webster spoke of justice as "the greatest interest of man on earth." As a profession with a monopoly over the performance of certain services, we have special obligations to the consumers of justice to be energetic and imaginative in producing the best quality of justice at the lowest possible costs for those who use it, and with a minimum of delay. It was in these respects that my late colleague, Charles Fahy, hoped that we would think of a lawyer and the law as forces for moral good, "as a civilization of its own, enhancing the whole of our civilization." 
 
---- 
+-— 
 
 ##### Questions
 
@@ -176,7 +176,7 @@ Our profession carries public and ethical burdens with its privileges. Daniel We
 
 ### The First Wave of Legal Ethics: Moral Theories
 
---- 
+-— 
 
 ##### Richard Wasserstrom, Lawyers as Professionals: Some Moral Issues, 5 Hum. Rts. 1 (1975)
 Conventional wisdom has it that where the attorney-client relationship exists, the point of view of the attorney is properly different—and appreciably so—from that which would be appropriate in the absence of the attorney-client relationship. For where the attorney-client relationship exists, it is often appropriate and many times even obligatory for the attorney to do things that, all other things being equal, an ordinary person need not, and should not do. What is characteristic of this role of a lawyer is the lawyer's required indifference to a wide variety of ends and consequences that in other contexts would be of undeniable moral significance. Once a lawyer represents a client, the lawyer has a duty to make his or her expertise fully available in the realization of the end sought by the client, irrespective, for the most part, of the moral worth to which the end will be put or the character of the client who seeks to utilize it. Provided that the end sought is not illegal, the lawyer is, in essence, an amoral technician whose peculiar skills and knowledge in respect to the law are available to those with whom the relationship of client is established. The question, as I have indicated, is whether this particular and pervasive feature of professionalism is itself justifiable. At a minimum, I do not think any of the typical, simple answers will suffice. 
@@ -191,7 +191,7 @@ The lawyer need not of course agree to represent the client (and that is equally
 
 More specifically, if it is correct that this is the perspective of lawyers in particular and professionals in general, is it right that this should be their perspective? Is it right that the lawyer should be able so easily to put to one side otherwise difficult problems with the answer: but these are not and cannot be my concern as a lawyer? What do we gain and what do we lose from having a social universe in which there are professionals such as lawyers, who, as such, inhabit a universe of the sort I have been trying to describe? 
 
---- 
+-— 
 
 #### William H. Simon, The Ideology of Advocacy: Procedural Justice and Professional Ethics, 1978 Wis. L. Rev. 29 (1978) 
 
@@ -211,7 +211,7 @@ Although the three versions of the Ideology of Advocacy all defend the same core
 
 At the base of each version of the Ideology of Advocacy is an appeal to an aspect of the fundamental value of individuality: autonomy, responsibility, dignity. Yet, in each instance, the practices and attitudes of professional advocacy subvert the norms of individuality in the interest of a repressive conception of social stability. The essay will argue that to take the value of individuality seriously would require the abandonment of the Ideology of Advocacy and of legal professionalism. Indeed, it will also suggest that respect for the value of law itself may require the repudiation of legal professionalism. 
 
---- 
+-— 
 
 #### Deborah L. Rhode, Ethical Perspectives on Legal Practice, 37 Stan. L. Rev. 589 (1985) 
 
@@ -231,7 +231,7 @@ Such contexts cannot, of course, be identified in the abstract. Yet to concede t
 
 That is by no means to imply that systematic reflection will yield determinate resolutions, or to overlook the limitations of moral methodology noted earlier. But this concession need not invite paralysis. There may be no uncontrovertible answers, but there are better and worse ways of thinking about the questions. Thus, the attempt must be to create more channels within which serious normative dialogue can occur. Individuals must have ongoing occasions to confront ethical issues, to test their perceptions openly, and to raise concerns about client or collegial practices without professional risk. For that purpose, far more is needed than bar association advisory opinions or law firm conflict-of-interest committees. Rather, the profession must fashion structures within and across employing institutions that can encourage collective support and a sense of responsibility for normative concerns.
 
---- 
+-— 
 
 #### Thomas Shaffer, The Legal Ethics of Radical Individualism, 65 Tex. L. Rev. 963 (1987)
 
@@ -247,7 +247,7 @@ In Christianity, marriage is, in the Hebraic ethics of Jesus, so fundamental tha
 
 There are two ways to take account of the religious tradition in American legal ethics. One way is to note that the cultural deposits of most American lawyers include the religious tradition. Failing to take account of the tradition therefore is failing to be truthful. As Peter Berger put it, "The very least that a knowledge of religious traditions has to offer is a catalogue of heresies for possible home use." That is, the religious tradition, when we are conscious of it, helps to keep us from repeating obvious moral mistakes and, more profoundly, it influences our behavior when we are not conscious of it. Berger thought that these influences were appropriate: "In everyday life it is just as important that some things can silently be taken for granted as that some things are reaffirmed in so many words." In that sense, law-office behavior probably rests on religious tradition in an ordinary and everyday way. The risk in Berger's reassurance, as Robert Bellah and his colleagues recently demonstrated, is that we will lose or distort influences that we do not bring into the light and make sense of. The work of bringing moral influences into the light and making sense of them is the purpose of the discipline of ethics.
 
---- 
+-— 
 
 #### Charles Fried, The Lawyer as Friend: The Moral Foundations of the Lawyer-Client Relation, 85 Yale L.J. (1976)
 
@@ -263,11 +263,11 @@ The resolution of this problem is aided, I think, if set in a larger perspective
 
 This suggests an interesting way to look at the situation of the lawyer. As a professional person one has a special care for the interests of those accepted as clients, just as his friends, his family, and he himself have a very general claim to his special concern. But I concede this does no more than widen the problem. It merely shows that in claiming this authorization to have a special care for my clients I am doing something which I do in other contexts as well.
 
---- 
+-— 
 
 ### The Second Wave of Legal Ethics: Political Theories 
 
---- 
+-— 
 
 #### Monroe H. Freedman, A Critique of Philosophizing About Lawyers' Ethics,  25 Geo. J. Legal Ethics 91 (2012) 
 
@@ -279,7 +279,7 @@ My point is not that the rules of lawyers' ethics do not demand serious reform f
 
 Finally, despite the ongoing need for reform of ethical rules and practices, I resent the irresponsible charge that the practice of law is inherently immoral or amoral. For more than half a century I have served as an associate, partner, supervisor, co-counsel, consultant, and mentor alongside countless lawyers who, like me, have found the practice of law to be an exhilarating, gratifying, and essentially moral profession of serving the dignity and autonomy of our fellow citizens and of maintaining the ideals of our constitutional democracy. This moral role of service to others, and to our society, would not be possible if lawyers were to view their relationship with their clients with a patronizing attitude of moral arrogance. 
 
---- 
+-— 
 
 #### Susan P. Koniak, Through the Looking Glass of Ethics and the Wrong with Rights We Find There, 9 Geo. J. Legal Ethics 1 (1995) 
 
@@ -289,7 +289,7 @@ Rights law is not only strong enough to overshadow obligation law, it is strong 
 
 Unlike tax law, tort law or other sources of legal obligation in our normative world, ethics is not merely a source of obligation but the place where obligation is understood as dignifying and ennobling. Our normative structure thus allows for the possibility that obligation can be understood as something more akin to a blessing than a burden. But the fact that this idea is so central to ethics may account for the secondary status that ethics occupies in our world, culturally and legally. The idea basic to ethics—dignifying and ennobling obligation—is an idea adrift in an alien universe. It does not resonate with our basic normative structures and, thus, we cannot quite take the enterprise seriously. Our thought tends to get stuck in this circle: if the obligation were meant to be mandatory or binding in some strong sense, it would be legal; on the other hand, if the obligation were designed to be ennobling, it would not be a legal obligation, which we understand to be a burden visited on us by the state, not a gift. 
 
---- 
+-— 
 
 #### Katherine R. Kruse, Fortress in the Sand: The Plural Values of Client-Centered Representation, 12 Clinical L. Rev. 501 (2006) 
 
@@ -303,7 +303,7 @@ An internal critique is, however, not enough. The inherent weakness of rights th
 
 Ethics, legal ethics and judicial ethics in particular, is the natural starting point for such an effort. In legal and judicial ethics we find the possibility of dignifying obligations that are enforceable as law. Adrift in a legal world obsessed with rights, these areas of study have long been and remain the step-children of American legal thought. They are considered soft, secondary subjects not worthy of the attention of our most serious scholars. They are law that is not quite law because how could dignifying obligation be mandatory like law? And ethics that is not quite ethics because how could mandatory obligation like law be worthy of the name of ethics? These subjects posit a possibility not found elsewhere in law, a possible normative understanding we need to nurture and explore, not ignore or mock. By treating legal obligations that dignify as important features in our jurisprudential vision, we may not only be able to walk back through the looking glass. We may be able to bring with us new possibilities of achieving a more just world. 
 
---- 
+-— 
 
 #### Alice Woolley & W. Bradley Wendel, Legal Ethics and Moral Character,
  23 Geo. J.L. Ethics 1065 (2010) 
@@ -322,7 +322,7 @@ One must consider the possibility of committing the fundamental attribution erro
 
 For Fried the issues are different, and relate to the problem of the maladaptive version of the morally skeptical lawyer, who loses her moral compass altogether, pursuing victory for her client at any cost. Fried's ideal of being a special purpose friend is attractive on its face, but does not carry over completely to the lawyering context. As many of Fried's critics have pointed out, friends are not privileged to do nasty things for each other merely because they are friends. Moreover, lawyers sometimes treat their clients in ways they would never treat their friends—for example, refusing to help a client once he runs out of money. Indeed, some lawyers learn to be hired guns rather than friends. An obviously extreme version of this is the New Jersey lawyer who (allegedly) arranged for the murder of witnesses to secure acquittal for his clients on the basis of "no witnesses, no case." This is not to suggest that every lawyer who embraces zealous advocacy so loses his moral bearings as to view murder as an acceptable litigation strategy, but is to suggest the fine li that exists between reserving moral judgment and losing the capacity for it. Critics of Fried's metaphor complain that he drained the morally attractive features out of friendship in order to make it work as an analogy for representing clients. By doing that, he made it difficult to find anything of real moral value in the lawyer-client relationship. Thus, as Postema suggests, a lawyer feels torn between her personal moral commitments and the requirements of role, and thus begins to identify with a stance of detachment from all normatively significant commitments. 
 
---- 
+-— 
 
 ##### Questions
 

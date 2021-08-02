@@ -1,4 +1,13 @@
-# Section 3: The Legal Duties of an Attorney 3.1: Fiduciary Duties 
+---
+layout: casebook
+
+title: Professional Responsibility
+chapter: '3: The Legal Duties of an Attorney'
+permalink: "Part3"
+  
+---
+
+# 3.1: Fiduciary Duties 
 
 Attorneys are fiduciaries of their clients. As fiduciaries, they have certain legal duties to their clients, which include: 
 

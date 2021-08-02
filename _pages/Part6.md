@@ -1,12 +1,13 @@
+---
+layout: casebook
 
-# Section 6: Advocacy & Conduct 6.1: Frivolous Pleadings 
+title: Professional Responsibility
+chapter: 'Section 6: Advocacy & Conduct in Litigation'
+permalink: "Part6"
+  
+---
 
-Meaningless, who dare to say it wasn't meaningless? Shout from the rooftops and address the press. Ha ha ha it
- 
-was 
-totally meaningless
-,
-91 
+# 6.1: Frivolous Pleadings 
 
 While courts have always prohibited "frivolous" litigation, they have also struggled to define it. In theory, frivolous litigation consists of a pleading or motion that a competent attorney would know has no legitimate basis in fact or law. But of course, it is often hard to know whether a legal claim is legitimate or has a chance of success. Sometimes, courts change their minds, and sometimes, juries are unpredictable. Frivolity is often in the eye of the beholder. 
 
@@ -4928,46 +4929,6 @@ Questions:
 
 1. The parties agreed to a settlement. After the settlement conference, the plaintiff's attorneys privately convinced their client to pay them an additional $85,000 from her cash settlement, and did not disclose that additional fee agreement to the judge. The majority suggests that the arrangement was ultimately fair to the client, but the dissent disagrees. What do you think? 
 
-
 2. Did the client provide informed consent to the additional attorney's fees? Is the problem that the respondents convinced their client to pay them an additional $85,000 or that they didn't disclose it to the judge? 
 
 3. Do you think the punishment was adequate under the circumstances? 
-
-Further Readings: 
-
-- 
-Thomas F. Guernsey, 
-Truthfulness in Negotiation,
- 17 U. Rich. L. Rev. 99 (1982) 
-
-- 
-Geoffrey C. Hazard Jr., 
-The Lawyer's Obligation to be Trustworthy When Dealing with 
-
-Opposing Parties,
- 33 S.C. L. Rev. 181 (1981) 
-
-- 
-Charles B. Craver, 
-Negotiation Ethics: How to Be Deceptive without Being Dishonest/How to Be Assertive without Being Offensive,
- 38 S. Tex. L. Rev. 713 (1997) 
-
-- 
-Geoffrey M. Peters, 
-The Use of Lies in Negotiation,
- 48 Ohio St. L.J. 1 (1987) 
-
-- Eleanor H. Norton, 
-Bargaining and the Ethic of Process,
- 64 N.Y.U. L. Rev. 493 (1989) 
-
-- 
-Daisy H. Floyd, 
-Can the Judge Do That?
-—
-The Need for a Clearer Judicial Role in 
-
-Settlement,
- 26 Ariz. St. L.J. 45 (1994) 
-
- 

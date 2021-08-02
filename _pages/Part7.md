@@ -1,8 +1,13 @@
+---
+layout: casebook
 
-# Section 7: The Regulation of the Legal Profession 7.1: Bar Admission 
+title: Professional Responsibility
+chapter: '7: The Regulation of the Legal Profession'
+permalink: "Part7"
+  
+---
 
-It's nice to be liked, but it's better by far to get paid. I know that most of the friends that I have don't really see it that way. But if you can give 'em each one wish, how much do you want to bet they'd wish success for themselves and their friends, and that would include lots of money.
-107 
+# 7.1: Bar Admission 
 
 In the United States, admission to the bar and the regulation of attorneys is governed primarily by state law. Specifically, the highest court of each state establishes the standards for admission to the state's bar and the rules of professional responsibility regulating the conduct of the members of the state's bar. Courts uniformly delegate those responsibilities to administrative organizations. Typically, courts delegate admission to the bar to a board of bar examiners and delegate the regulation of the bar to a disciplinary board. But the court always retains the ultimate authority over both admission to the bar and regulation of the bar. 
 
@@ -3421,11 +3426,3 @@ Lichtenstein Award
 
 3. The Colorado Supreme Court rejected the Commission's recommendation to reprimand Lichtenstein. Do you agree with its decision? Why or why not? 
 
-Further Reading: 
-
-- 
-Cynthia Gray, 
-The Line Between Legal Error and Judicial Misconduct: Balancing Judicial 
-
-Independence and Accountability,
- 32 Hofstra L. Rev. 1245 (2004) <span type="pagebreak" title="828" id="calibre_link-1209"></span>

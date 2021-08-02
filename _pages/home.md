@@ -1,15 +1,12 @@
 ---
-layout: casebook-cover
+layout: home
 permalink: /
 title: home
 
 ---
 
-# Professional Responsibility An Open Source Casebook
+# Professional Responsibility
 
-## Brian L. Frye & Elizabeth Schiller 
+## Forked from Brian L. Frye & Elizabeth Schiller, [_Professional Responsibility: An Open Source Casebook_](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3367936) (2019) [CC0/No Rights Reserved](https://creativecommons.org/publicdomain/zero/1.0)
 
-### Edited & Revised by Eric M. Fink 
-
-
-![Hablot Knight Brown or "Phiz", Attorney and Client, Fortitute and Impatience (1853)](../PRcasebook/assets/images/cover-FRYE.png)
+## Edited and revised by Eric M. Fink

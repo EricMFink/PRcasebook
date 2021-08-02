@@ -1,8 +1,13 @@
+---
+layout: casebook
 
-# Section 5: Confidentiality 5.1: The Duty of Confidentiality 
+title: Professional Responsibility
+chapter: '5: Confidentiality & Privileges'
+permalink: "Part5"
+  
+---
 
-I don't know where you heard it. Don't know who's spreading it round. All I know is, I'm clean as a whistle, baby. I didn't utter a sound. I never said nothing.
-63 
+# 5.1: The Duty of Confidentiality 
 
 Attorneys have a fiduciary duty of confidentiality to their clients. The duty of confidentiality provides that attorneys may not disclose confidential information provided to them by their clients, unless their clients consent to disclosure, or an exception to the duty of confidentiality permits disclosure. The duty of confidentiality applies to both current and former clients. Clients disclose confidential information to their attorneys in order to obtain legal advice. Generally, clients are entitled to assume that their attorney has a duty to maintain the confidentiality of any information disclosed in private. However, the duty of confidentiality does not apply to information that is "generally known" to the public. 
 
