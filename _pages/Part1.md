@@ -2,8 +2,8 @@
 layout: casebook
 
 title: Professional Responsibility
-chapter: 'Introduction'
-number: "1"
+chapter: '1: Introduction'
+permalink: "Part1"
     
 ---
 
