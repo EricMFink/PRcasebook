@@ -1,6 +1,6 @@
 ---
 layout: casebook
-permalink: /contents
+permalink: /contents/
 title: Table of Contents
 
 ---
