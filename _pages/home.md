@@ -5,8 +5,10 @@ title: home
 
 ---
 
-# Professional Responsibility
+# Professional Responsibility: An Open-Source Casebook
 
-## Forked from Brian L. Frye & Elizabeth Schiller, [_Professional Responsibility: An Open Source Casebook_](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3367936) (2019) [CC0/No Rights Reserved](https://creativecommons.org/publicdomain/zero/1.0)
+### Brian L. Frye & Elizabeth Schiller
 
-## Edited and revised by Eric M. Fink
+### Edited and revised by Eric M. Fink
+
+[CC0/No Rights Reserved](https://creativecommons.org/publicdomain/zero/1.0)
