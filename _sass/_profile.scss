@@ -22,6 +22,14 @@
 	color: white;
 }
 
+.profile a {
+  color: $light-grey;
+  text-decoration: none;
+  &:hover {
+		color:darken($light-grey, 20%);
+  }
+}
+
 .profile ul, ol {
 	width: 90%;
 	margin-left: auto;
@@ -45,15 +53,14 @@
     font-size: $huge-size;
     line-height: 1;
     font-weight: $bold-weight !important;
-    color: white;
+    color: $theme-color;
     margin: 0 0 0 0;
     text-shadow: 2px 2px 3px rgba(0, 0, 0, 1);
 }
 
 .profile h2 {
-    font-size: $h1;
     line-height: $line-height;
-    color: white;
+    color: $off-white;
     font-weight: $bold-weight !important;
     margin: 1rem 0 0 0;
     text-shadow: 2px 2px 3px rgba(0, 0, 0, 1);
@@ -64,9 +71,8 @@
 }
 
 .profile h3 {
-    font-size: $h2;
     line-height: $line-height;
-    color: white;
+    color: $off-white;
     font-weight: $bold-weight !important;
     margin: 0 0 0 0;
     text-shadow: 2px 2px 3px rgba(0, 0, 0, 1);
@@ -77,10 +83,9 @@
 }
 
 .profile h4 {
-    font-size: $h3;
     font-weight: $bold-weight !important;
 	font-style: normal;
-    color: white;
+    color: $medium-grey;
     line-height: $line-height;
     margin: 0 0 0 0;
     text-shadow: 2px 2px 3px rgba(0, 0, 0, 1);
