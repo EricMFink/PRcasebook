@@ -242,6 +242,8 @@ Under the Rules of Professional Conduct and the cases, there is no legal basis o
 
 4. What should Clark have done differently?
 
+--- 
+
 ## Prospective Clients
 
 People and organizations do not always choose to form an attorney-client relationship immediately. Sometimes, they consider forming an attorney-client relationship with multiple attorneys or firms before choosing one.
