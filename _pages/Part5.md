@@ -1,9 +1,9 @@
 ---
 layout: casebook
 
-title: Professional Responsibility
+title: PR Casebook
 chapter: '5: Confidentiality & Privileges'
-permalink: /Part5/
+permalink: /Casebook/Part5/
   
 ---
 

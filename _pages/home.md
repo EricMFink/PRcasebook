@@ -1,7 +1,7 @@
 ---
-layout: home
-permalink: /
-title: home
+layout: casebook-cover
+permalink: /Casebook/
+title: Casebook
 
 ---
 
@@ -9,8 +9,8 @@ title: home
 
 # An Open-Source Casebook
 
-### Brian L. Frye & Elizabeth Schiller
+## Brian L. Frye & Elizabeth Schiller
 
-### Edited and revised by Eric M. Fink
+## Edited and revised by Eric M. Fink
 
-#### [CC0/No Rights Reserved](https://creativecommons.org/publicdomain/zero/1.0)
+#### <a rel="license" href="https://creativecommons.org/publicdomain/zero/1.0/">![CC0 Public Domain]({{ site.baseurl}}/assets/casebook/CC0.png)</a>

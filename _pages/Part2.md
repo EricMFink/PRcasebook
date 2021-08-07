@@ -1,9 +1,9 @@
 ---
 layout: casebook
 
-title: Professional Responsibility
+title: PR Casebook
 chapter: '2: The Attorney-Client Relationship'
-permalink: /Part2/
+permalink: /Casebook/Part2/
   
 ---
 

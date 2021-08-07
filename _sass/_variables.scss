@@ -1,5 +1,5 @@
 $serif-font: portada, serif;
-$sans-font: adelle-sans, sans-serif;
+$sans-font:  adelle-sans, sans-serif;
 $body-font: $serif-font;
 $heading-font: $sans-font;
 $serif-heading-font: portada, serif;
@@ -9,14 +9,14 @@ $code-font: lft-etica-mono,Inconsolata,Consolas,Courier, monospace;
 
 // Font Sizes 
 $base-size: 16px !default;
-$small-size: .8rem !default;
-$smaller-size: .7rem !default;
-$smallest-size: .6rem !default;
+$small-size:  .8rem !default;
+$smaller-size:  .7rem !default;
+$smallest-size:  .6rem !default;
 $tiny-size: .5rem !default; 
-$medium-size: 1rem !default;
-$large-size: 1.125rem !default;
-$larger-size: 1.25rem !default;
-$largest-size: 1.4rem !default;
+$medium-size:  1rem !default;
+$large-size:  1.125rem !default;
+$larger-size:  1.25rem !default;
+$largest-size:  1.4rem !default;
 $huge-size: 3.053rem !default;
 $huger-size: 3.815rem !default;
 $hugest-size: 4.768rem !default;
@@ -49,12 +49,12 @@ $thin-weight: 			100 !default;
 
 // line heights
 $line-height: 1.5 !default;
-$short-line-height: 1.3 !default;
-$shorter-line-height: 1.2 !default;
-$shortest-line-height: 1.1 !default;
-$tall-line-height: 1.6 !default;
-$taller-line-height: 1.7 !default;
-$tallest-line-height: 1.8 !default;
+$short-line-height:  1.3 !default;
+$shorter-line-height:  1.2 !default;
+$shortest-line-height:  1.1 !default;
+$tall-line-height:  1.6 !default;
+$taller-line-height:  1.7 !default;
+$tallest-line-height:  1.8 !default;
 $single-line-height: 1 !default;
 $double-line-height: 2 !default;
 $doublehalf-line-height: 2.5 !default;
@@ -64,54 +64,54 @@ $footer-height: 40px;
 // COLORS
 
 // reds 
-$red:        #FF3636 !default;
-$dull-red:     #b03a2e !default;
+$red:               #FF3636 !default;
+$dull-red:          #b03a2e !default;
 
 // oranges
-$orange:      #F29105 !default;
-$deep-orange:    #973A05 !default;
+$orange:            #F29105 !default;
+$deep-orange:       #973A05 !default;
 $dull-orange: 		#B16032 !default;
 
 // yellows 
-$yellow:      #efcc00 !default;
+$yellow:            #efcc00 !default;
 
 // greens
-$green:       #00ab37 !default;
-$dark-green:    #009f06 !default;
-$light-green:    #ddffdd !default;
+$green:             #00ab37 !default;
+$dark-green:        #009f06 !default;
+$light-green:       #ddffdd !default;
 
 // blues
-$blue:       #2698BA !default;
-$dark-blue:     #00369f !default;
-$bright-blue:    #3498db !default;
-$bright-cyan:    #2EA4B0 !default;
-$bright-navy:    #2E55B0 !default;
+$blue:              #2698BA !default;
+$dark-blue:         #00369f !default;
+$bright-blue:       #3498db !default;
+$bright-cyan:       #2EA4B0 !default;
+$bright-navy:       #2E55B0 !default;
 
 // whites
-$white:       #ffffff !default;
+$white:             #ffffff !default;
 $off-white: 		#fffff8 !default;
 
 // greys
 $grey: 				#828282 !default;
-$dark-grey:     #17202a !default;
-$medium-grey:    #2c3e50 !default;
-$light-grey:    #d5d8dc !default;
-$lighter-grey:   #eeeeee !default;
-$grey-green:    #424949 !default;
+$dark-grey:         #17202a !default;
+$medium-grey:       #2c3e50 !default;
+$light-grey:        #d5d8dc !default;
+$lighter-grey:      #eeeeee !default;
+$grey-green:        #424949 !default;
 
 // blacks 
 $black: 			#000000 !default;
 $off-black: 		#191919 !default;
 
 // Theme Colors 
-$theme-color:    $dull-red;
-$background-color: $off-white;
-$text-color:    $off_black;
-$contrast-color:  $dull-red;
+$theme-color:       $dull-red;
+$background-color:  $off-white;
+$text-color:        $off_black;
+$contrast-color:    $dull-red;
 $heading-color: 	$dull-red;
-$code-color:    $bright-cyan;
+$code-color:        $bright-cyan;
 $link-color:		$deep-orange;
-$link-hover-color: $dull-orange;
+$link-hover-color:  $dull-orange;
 
 // Button Colors 
 $primary:			$theme-color;
@@ -153,4 +153,4 @@ $form-field-padding-y: .5rem !default;
 $form-field-padding-x: .5rem !default;
 
 // add on-palm to be consistent with other jekyll theme media queries 
-$on-palm: 768px !default;
+$on-palm:  768px !default;
