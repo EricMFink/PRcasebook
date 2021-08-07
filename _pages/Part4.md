@@ -3,7 +3,7 @@ layout: casebook
 
 title: PR Casebook
 chapter: '4: Conflicts of Interest'
-permalink: /Casebook/Part4/
+permalink: /Part4/
   
 ---
 

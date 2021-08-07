@@ -3,7 +3,7 @@ layout: casebook
 
 title: PR Casebook
 chapter: '1: Introduction'
-permalink: /Casebook/Part1/
+permalink: /Part1/
     
 ---
 

@@ -3,7 +3,7 @@ layout: casebook
 
 title: PR Casebook
 chapter: '5: Confidentiality & Privileges'
-permalink: /Casebook/Part5/
+permalink: /Part5/
   
 ---
 

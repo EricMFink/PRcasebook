@@ -3,7 +3,7 @@ layout: casebook
 
 title: PR Casebook
 chapter: 'Section 6: Advocacy & Conduct in Litigation'
-permalink: /Casebook/Part6/
+permalink: /Part6/
   
 ---
 

@@ -3,7 +3,7 @@ layout: casebook
 
 title: PR Casebook
 chapter: '3: The Legal Duties of an Attorney'
-permalink: /Casebook/Part3/
+permalink: /Part3/
   
 ---
 

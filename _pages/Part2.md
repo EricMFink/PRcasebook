@@ -3,7 +3,7 @@ layout: casebook
 
 title: PR Casebook
 chapter: '2: The Attorney-Client Relationship'
-permalink: /Casebook/Part2/
+permalink: /Part2/
   
 ---
 
