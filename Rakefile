@@ -5,7 +5,7 @@ require 'date'
 require 'yaml'
 require 'tmpdir'
 require 'jekyll'
-require 'jekyll-commonmark'
+gem 'jekyll-commonmark-ghpages'
 
 desc "Generate blog files"
 task :generate do
