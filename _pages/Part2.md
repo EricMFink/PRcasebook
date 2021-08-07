@@ -31,7 +31,6 @@ A relationship of client and lawyer arises when:
 
 </div>
 
-
 ## The Duties of an Attorney
 
 Attorneys owe certain legal duties to their clients and quasi-clients, whether they have an express attorney-client relationship or an implied attorney-client relationship. Those duties are reflected in the Model Rules of Professional Conduct.
@@ -58,7 +57,7 @@ Attorneys must maintain in confidence all information obtained while representin
 
 ## 291 N.W.2d 686 (Minn. 1980)
 
-<div markdown="1" class="case=summary">
+<div markdown="1" class="case-summary">
 
 _Summary:_ John Togstad was paralyzed after surgery. His wife Joan Togstad met with attorney Jere Miller and asked him whether they had a viable medical malpractice action. Miller stated that he did not think his firm was interested, but he would consult with his partners. He did not charge Togstad or agree to represent her. He also did not inform her that he lacked experience in the area, encourage her to consult with another attorney, or warn her about the statute of limitations on medical malpractice actions.
 
