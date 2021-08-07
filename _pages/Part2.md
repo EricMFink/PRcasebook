@@ -9,6 +9,14 @@ permalink: /Part2/
 
 # 2.1: Creating an Attorney-Client Relationship
 
+<div markdown="1" class="casebook-epigraph">
+
+> The rest of life pales in significance, I'm looking for somebody with whom to dance. With whom to dance? With whom to dance? I'm looking for somebody with whom to dance
+
+— Stephin Merritt, The Magnetic Fields, With Whom to Dance?, Get Lost (1995).
+
+</div>
+
 ## Clients & "Quasi-Clients"
 
 Ideally, the formation of an attorney-client relationship involves formalities like an engagement letter, a retainer agreement, and the payment of attorney's fees. But none of those formalities are necessary. An attorney-client relationship may be formed whenever a person asks an attorney for legal advice and the attorney provides it, so long as a reasonable person could believe that an attorney-client relationship existed.
@@ -81,9 +89,7 @@ About 14 months after her husband's hospitalization began, plaintiff Joan Togsta
 
 Mrs. Togstad had become suspicious of the circumstances surrounding her husband's tragic condition due to the conduct and statements of the hospital nurses shortly after the paralysis occurred. One nurse told Mrs. Togstad that she had checked Mr. Togstad at 2 a. m. and he was fine; that when she returned at 3 a. m., by mistake, to give him someone else's medication, he was unable to move or speak; and that if she hadn't accidentally entered the room no one would have discovered his condition until morning. Mrs. Togstad also noticed that the other nurses were upset and crying, and that Mr. Togstad's condition was a topic of conversation.
 
-Mrs. Togstad testified that she told Miller "everything that happened at the hospital," including the nurses' statements and conduct which had raised a question in her mind. She stated that she "believed" she had told Miller "about the procedure and what was undertaken, what was done, and what happened." She brought no records with her. Miller took notes and asked questions during the meeting, which lasted 45 minutes to an hour. At its conclusion, according to Mrs. Togstad, Miller said that "he did not think we had a legal case, however, he was going to discuss this with his partner." She understood that if Miller changed his mind after talking to his partner, he would call her. Mrs. Togstad "gave it" a few days and, since she did not hear from Miller, decided "that they had come to the conclusion that there wasn't a case." No fee arrangements were discussed, no medical authorizations were requested, nor was Mrs.
-
-Togstad billed for the interview.
+Mrs. Togstad testified that she told Miller "everything that happened at the hospital," including the nurses' statements and conduct which had raised a question in her mind. She stated that she "believed" she had told Miller "about the procedure and what was undertaken, what was done, and what happened." She brought no records with her. Miller took notes and asked questions during the meeting, which lasted 45 minutes to an hour. At its conclusion, according to Mrs. Togstad, Miller said that "he did not think we had a legal case, however, he was going to discuss this with his partner." She understood that if Miller changed his mind after talking to his partner, he would call her. Mrs. Togstad "gave it" a few days and, since she did not hear from Miller, decided "that they had come to the conclusion that there wasn't a case." No fee arrangements were discussed, no medical authorizations were requested, nor was Mrs. Togstad billed for the interview.
 
 Mrs. Togstad denied that Miller had told her his firm did not have expertise in the medical malpractice field, urged her to see another attorney, or related to her that the statute of limitations for medical malpractice actions was two years. She did not consult another attorney until one year after she talked to Miller. Mrs. Togstad indicated that she did not confer with another attorney earlier because of her reliance on Miller's "legal advice" that they "did not have a case."
 
