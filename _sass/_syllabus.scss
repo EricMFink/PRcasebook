@@ -1,5 +1,5 @@
 .syllabus {
-  padding-top: .5rem;
+    padding-top: .5rem;
 }
 
 .syllabus {
@@ -31,15 +31,15 @@
 .syllabus h5 {
 	font-family: $serif-font;
 	font-weight: normal;
-  font-size: $h4;
+    font-size: $h4;
 	font-weight: $normal-weight;
-  margin-bottom: 3rem;
+    margin-bottom: 3rem;
 }
 
 .syllabus h6 {
 	font-family: $sans-font;
-  font-weight: $light-weight;
-  margin-top: .2em;
+    font-weight: $light-weight;
+    margin-top: .2em;
 }
 
 .syllabus h2:first-child {
@@ -47,27 +47,27 @@
 }
 
 .syllabus h1 + h3 {
-  margin-top: 0;
+    margin-top: 0;
 }
 
 .syllabus h2 + h3 {
-  margin-top: 0;
+    margin-top: 0;
 }
 
 .syllabus h4 + h2 {
-  margin-top: 0rem;
+    margin-top: 0rem;
 }
 
 .syllabus h4 + h3 {
-  margin-top: 1.5rem;
+    margin-top: 1.5rem;
 }
 
 .syllabus h4 + h5 {
-  margin-top: 1.5rem;
+    margin-top: 1.5rem;
 }
 
 
-/* -— For Site Link --*/
+/* --- For Site Link --*/
 
 .syllabus pre {
 	width: 100%;

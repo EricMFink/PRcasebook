@@ -1,7 +1,7 @@
 @mixin media-query($device) {
-  @media screen and (max-width: $device) {
-    @content;
-  }
+    @media screen and (max-width: $device) {
+        @content;
+    }
 }
 
 @media screen and (min-width: 300px){ 
@@ -40,7 +40,7 @@
 		margin-right:0%;
 		max-width: none; 
 	}
-	blockquote p, blockquote footer, div.epigraph > blockquote > footer,.MJXc-display { 
+	blockquote p, blockquote footer, div.epigraph > blockquote > footer,.MJXc-display {  
 		width: 80%;
 		padding-left: 5%;
 		padding-right: 5%;
@@ -48,12 +48,12 @@
 }
 
 @media screen and (min-width: 768px){
-  .wrapper {
-    max-width: -webkit-calc(900px—(#{50px} * 2));
-    max-width:     calc(900px—(#{50px} * 2));
-    margin-right: auto;
-    margin-left: auto;
-    padding-right: 50px;
-    padding-left: 50px;
-  }
+    .wrapper {
+        max-width: -webkit-calc(900px - (#{50px} * 2));
+        max-width:         calc(900px - (#{50px} * 2));
+        margin-right: auto;
+        margin-left: auto;
+        padding-right: 50px;
+        padding-left: 50px;
+    }
 }
