@@ -9,7 +9,7 @@ permalink: /Part2/
 
 # 2.1: Creating an Attorney-Client Relationship
 
-<div markdown="1" class="casebook-epigraph">
+<div markdown="block" class="casebook-epigraph">
 
 > The rest of life pales in significance, I'm looking for somebody with whom to dance. With whom to dance? With whom to dance? I'm looking for somebody with whom to dance
 
@@ -23,7 +23,7 @@ Ideally, the formation of an attorney-client relationship involves formalities l
 
 I will refer to people an attorney intends to represent as "clients," and people an attorney does not intend to represent as "quasi-clients." An attorney has an "express attorney-client relationship" with clients and an "implied attorney-client relationship" with quasi-clients. But express and implied attorney-client relationships impose many of the same duties on an attorney.
 
-<div markdown="1" class="statute">
+<div markdown="block" class="statute">
 
 # Restatement (Third) of the Law Governing Lawyers § 14 (2000)
 
@@ -59,13 +59,13 @@ Attorneys must provide their clients with all of the information their clients n
 
 Attorneys must maintain in confidence all information obtained while representing their clients, and may not use any confidential client information in a way that could harm that client. Model Rule 1.6.
 
-<div markdown="1" class="case">
+<div markdown="block" class="case">
 
 # Togstad v. Vesely, Otto, Miller & Keefe
 
 ## 291 N.W.2d 686 (Minn. 1980)
 
-<div markdown="1" class="case-summary">
+<div markdown="block" class="case-summary">
 
 _Summary:_ John Togstad was paralyzed after surgery. His wife Joan Togstad met with attorney Jere Miller and asked him whether they had a viable medical malpractice action. Miller stated that he did not think his firm was interested, but he would consult with his partners. He did not charge Togstad or agree to represent her. He also did not inform her that he lacked experience in the area, encourage her to consult with another attorney, or warn her about the statute of limitations on medical malpractice actions.
 
@@ -117,7 +117,7 @@ On cross-examination, Miller testified as follows:
 > 
 > Q That she was seeking legal advice from a professional attorney licensed to practice in this state and in this community?
 > 
-A I think you and I did have another interpretation or use of the term "Advice." She was there to see whether or not she had a case and whether the firm would accept it.
+> A I think you and I did have another interpretation or use of the term "Advice." She was there to see whether or not she had a case and whether the firm would accept it.
 > 
 > Q We have two aspects; number one, your legal opinion concerning liability of a case for malpractice; number two, whether there was or wasn't liability, whether you would accept it, your firm, two separate elements, right?
 > 
@@ -127,7 +127,7 @@ A I think you and I did have another interpretation or use of the term "Advice."
 > 
 > MR. COLLINS: Objection to this, Your Honor. It is not impeachment.
 > 
-THE COURT: Overruled.
+> THE COURT: Overruled.
 > 
 > THE WITNESS: Yes, I gave those answers. Certainly, she was seeking my opinion as an attorney in the sense of whether or not there was a case that the firm would be interested in undertaking.
 
@@ -165,16 +165,17 @@ Based on the foregoing, we hold that the jury's findings are adequately supporte
 
 5. How should Miller have responded in order to avoid liability for negligence?
 
+--- 
+
 ## Representation of an Organization
 
 When an attorney represents an entity, the attorney's client is the entity, not the entity's agents. In other words, when an attorney represents a corporation, limited liability company, partnership, or unincorporated association, the attorney's client is the organization, not the employees of the organization. Or to put it another way, the attorney has an attorney-client relationship with the organization, but does not necessarily have an attorney-client relationship with the employees of the organization. Specifically, the attorney has a duty to represent the organization, even when its interests diverge from the interests of its employees.
 
 However, an attorney representing an organization must ensure that the employees of the organization understand that the attorney only represents the organization, and not its employees. In other words, the employees must understand that the organization's attorney is not their attorney, and that the organization's attorney has professional duties only to the organization. This can be difficult to explain, especially when employees identify their interests with those of the organization. But attorneys for organizations must clarify their legal relationship to the employees of those organizations, in order to avoid creating an attorney-client relationship.
 
-<div markdown="1" class="statute">
+<div markdown="block" class="statute">
 
 # Model Rule 1.13: Organization as Client
-
 
 a. A lawyer employed or retained by an organization represents the organization acting through its duly authorized constituents.
 
@@ -198,7 +199,7 @@ the consent shall be given by an appropriate official of the organization other 
 
 </div>
 
-<div markdown="1" class="case">
+<div markdown="block" class="case">
 
 # Ferranti Intern. PLC v. Clark
 
