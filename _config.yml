@@ -35,7 +35,7 @@ collections:
 host: localhost
 port: 4000
 
-markdown: GFM
+markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 permalink: /articles/:title
 timezone: America/New_York
