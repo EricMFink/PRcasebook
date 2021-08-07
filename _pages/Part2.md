@@ -15,7 +15,7 @@ Ideally, the formation of an attorney-client relationship involves formalities l
 
 I will refer to people an attorney intends to represent as "clients," and people an attorney does not intend to represent as "quasi-clients." An attorney has an "express attorney-client relationship" with clients and an "implied attorney-client relationship" with quasi-clients. But express and implied attorney-client relationships impose many of the same duties on an attorney.
 
-<div class="statute">
+<span style="display:block" class="statute">
 
 # Restatement (Third) of the Law Governing Lawyers § 14 (2000)
 
@@ -30,7 +30,7 @@ A relationship of client and lawyer arises when:
 
 (2) a tribunal with power to do so appoints the lawyer to provide the services.
 
-</div>
+</span>
 
 
 ## The Duties of an Attorney
@@ -53,19 +53,19 @@ Attorneys must provide their clients with all of the information their clients n
 
 Attorneys must maintain in confidence all information obtained while representing their clients, and may not use any confidential client information in a way that could harm that client. Model Rule 1.6.
 
-<div class="case">
+<span style="display:block" class="case">
 
 # Togstad v. Vesely, Otto, Miller & Keefe
 
 ## 291 N.W.2d 686 (Minn. 1980)
 
-<div class="case=summary">
+<span style="display:block" class="case=summary">
 
 _Summary:_ John Togstad was paralyzed after surgery. His wife Joan Togstad met with attorney Jere Miller and asked him whether they had a viable medical malpractice action. Miller stated that he did not think his firm was interested, but he would consult with his partners. He did not charge Togstad or agree to represent her. He also did not inform her that he lacked experience in the area, encourage her to consult with another attorney, or warn her about the statute of limitations on medical malpractice actions.
 
 After the statute of limitations expired, the Togstads filed a legal malpractice action. The jury found that an attorney-client relationship existed and that Miller was negligent, and awarded damages to the Togstads. The Minnesota Supreme Court affirmed, holding that an attorney-client relationship existed because Miller provided legal advice and his advice was negligent.
 
-</div>
+</span>
 
 This is an appeal by the defendants from a judgment of the Hennepin County District Court involving an action for legal malpractice. The jury found that the defendant attorney Jerre Miller was negligent and that, as a direct result of such negligence, plaintiff John Togstad sustained damages in the amount of $610,500 and his wife, plaintiff Joan Togstad, in the amount of $39,000. Defendants (Miller and his law firm) appeal to this court from the denial of their motion for judgment notwithstanding the verdict or, alternatively, for a new trial. We affirm.
 
@@ -147,7 +147,7 @@ There is also sufficient evidence in the record establishing that, but for Mille
 
 Based on the foregoing, we hold that the jury's findings are adequately supported by the record. Accordingly we uphold the trial court's denial of defendants' motion for judgment notwithstanding the jury verdict.
 
-</div>
+</span>
 
 ##### Questions
 
@@ -167,7 +167,7 @@ When an attorney represents an entity, the attorney's client is the entity, not 
 
 However, an attorney representing an organization must ensure that the employees of the organization understand that the attorney only represents the organization, and not its employees. In other words, the employees must understand that the organization's attorney is not their attorney, and that the organization's attorney has professional duties only to the organization. This can be difficult to explain, especially when employees identify their interests with those of the organization. But attorneys for organizations must clarify their legal relationship to the employees of those organizations, in order to avoid creating an attorney-client relationship.
 
-<div class="statute">
+<span style="display:block" class="statute">
 
 # Model Rule 1.13: Organization as Client
 
@@ -192,19 +192,19 @@ g. A lawyer representing an organization may also represent any of its directors
 
 the consent shall be given by an appropriate official of the organization other than the individual who is to be represented, or by the shareholders.
 
-</div>
+</span>
 
-<div class="case">
+<span style="display:block" class="case">
 
 # Ferranti Intern. PLC v. Clark
 
 ## 767 F. Supp. 670 (E.D. Pa. 1991)
 
-<div class="case summary">
+<span style="display:block" class="case summary">
 
 Summary: William Clark was general counsel of Ferranti and hired Hogan & Hartson to represent the company in relation to a federal investigation. Hogan & Hartson informed Ferranti's employees that they should consider retaining an attorney. During the investigation, Clark provided confidential information to Hogan & Hartson. Eventually, Ferranti filed an action against Clark for breach of fiduciary duty and legal malpractice. Clark objected to Hogan & Hartson's representation of Ferranti. The court dismissed Clark's objections, on the ground that he knew Hogan & Hartson never represented him personally.
 
-</div>
+</span>
 
 LUDWIG, District Judge.
 
@@ -230,7 +230,7 @@ Although it became a Hogan & Hartson client through defendant, plaintiff has a c
 
 Under the Rules of Professional Conduct and the cases, there is no legal basis on which to disqualify Hogan & Hartson. An evidentiary hearing is unnecessary.
 
-</div> 
+</span> 
 
 ##### Questions:
 
