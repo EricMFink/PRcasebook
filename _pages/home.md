@@ -1,7 +1,7 @@
 ---
 layout: casebook-cover
-permalink: /Casebook/
-title: Casebook
+permalink: /
+title: Professional Responsibility Casebook
 
 ---
 
