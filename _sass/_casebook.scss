@@ -82,9 +82,6 @@
 	padding-bottom: 2px;
 }
 
-.casebook-epigraph {
-	font-size: $small-size
-}
 
 
 /* Casebook Chapter Pages */
@@ -180,6 +177,23 @@
 	line-height: $line-height; 
 }
 
+.casebook-epigraph {
+	font-size: $small-size
+}
+
+.casebook-epigraph p {
+	font-size: $small-size
+}
+
+.casebook-epigraph blockquote {
+	font-size: $small-size
+	border: none; 
+	padding: 0 0 0 0; 
+}
+
+.casebook-epigraph blockquote p {
+	font-size: $small-size
+}
 
 .illustration {
     padding-top: 2rem;
