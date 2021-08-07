@@ -35,7 +35,8 @@ collections:
 host: localhost
 port: 4000
 
-markdown: kramdown
+# markdown: kramdown
+markdown: CommonMark
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 permalink: /articles/:title
 timezone: America/New_York
