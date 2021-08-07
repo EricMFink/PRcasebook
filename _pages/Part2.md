@@ -149,7 +149,6 @@ Based on the foregoing, we hold that the jury's findings are adequately supporte
 
 </div>
 
-
 ##### Questions
 
 1. What was the basis for the Togstads' claim that Miller's actions formed an attorney-client relationship? How did Miller respond?
@@ -168,13 +167,70 @@ When an attorney represents an entity, the attorney's client is the entity, not 
 
 However, an attorney representing an organization must ensure that the employees of the organization understand that the attorney only represents the organization, and not its employees. In other words, the employees must understand that the organization's attorney is not their attorney, and that the organization's attorney has professional duties only to the organization. This can be difficult to explain, especially when employees identify their interests with those of the organization. But attorneys for organizations must clarify their legal relationship to the employees of those organizations, in order to avoid creating an attorney-client relationship.
 
+<div class="statute">
 
-### Model Rule 1.13: Organization as Client
-
-
-## Ferranti Intern. PLC v. Clark, 767 F. Supp. 670 (E.D. Pa. 1991)
+# Model Rule 1.13: Organization as Client
 
 
+a. A lawyer employed or retained by an organization represents the organization acting through its duly authorized constituents.
+
+b. If a lawyer for an organization knows that an officer, employee or other person associated with the organization is engaged in action, intends to act or refuses to act in a matter related to the representation that is a violation of a legal obligation to the organization, or a violation of law that reasonably might be imputed to the organization, and that is likely to result in substantial injury to the organization, then the lawyer shall proceed as is reasonably necessary in the best interest of the organization. Unless the lawyer reasonably believes that it is not necessary in the best interest of the organization to do so, the lawyer shall refer the matter to higher authority in the organization, including, if warranted by the circumstances to the highest authority that can act on behalf of the organization as determined by applicable law.
+
+c. Except as provided in paragraph (d), if
+
+	1. despite the lawyer's efforts in accordance with paragraph (b) the highest authority that can act on behalf of the organization insists upon or fails to address in a timely and appropriate manner an action, or a refusal to act, that is clearly a violation of law, and
+ 
+	2. the lawyer reasonably believes that the violation is reasonably certain to result in substantial injury to the organization, then the lawyer may reveal information relating to the representation whether or not Rule 1.6 permits such disclosure, but only if and to the extent the lawyer reasonably believes necessary to prevent substantial injury to the organization.
+
+d. Paragraph (c) shall not apply with respect to information relating to a lawyer's representation of an organization to investigate an alleged violation of law, or to defend the organization or an officer, employee or other constituent associated with the organization against a claim arising out of an alleged violation of law.
+
+e. A lawyer who reasonably believes that he or she has been discharged because of the lawyer's actions taken pursuant to paragraphs (b) or (c), or who withdraws under circumstances that require or permit the lawyer to take action under either of those paragraphs, shall proceed as the lawyer reasonably believes necessary to assure that the organization's highest authority is informed of the lawyer's discharge or withdrawal.
+
+f. In dealing with an organization's directors, officers, employees, members, shareholders or other constituents, a lawyer shall explain the identity of the client when the lawyer knows or reasonably should know that the organization's interests are adverse to those of the constituents with whom the lawyer is dealing.
+
+g. A lawyer representing an organization may also represent any of its directors, officers, employees, members, shareholders or other constituents, subject to the provisions of Rule 1.7. If the organization's consent to the dual representation is required by Rule 1.7, 
+
+the consent shall be given by an appropriate official of the organization other than the individual who is to be represented, or by the shareholders.
+
+</div>
+
+<div class="case">
+
+# Ferranti Intern. PLC v. Clark
+
+## 767 F. Supp. 670 (E.D. Pa. 1991)
+
+<div class="case summary">
+
+Summary: William Clark was general counsel of Ferranti and hired Hogan & Hartson to represent the company in relation to a federal investigation. Hogan & Hartson informed Ferranti's employees that they should consider retaining an attorney. During the investigation, Clark provided confidential information to Hogan & Hartson. Eventually, Ferranti filed an action against Clark for breach of fiduciary duty and legal malpractice. Clark objected to Hogan & Hartson's representation of Ferranti. The court dismissed Clark's objections, on the ground that he knew Hogan & Hartson never represented him personally.
+
+</div>
+
+LUDWIG, District Judge.
+
+Plaintiff sues for breach of fiduciary duty and professional malpractice and to rescind a $2.75 million employee "settlement and release" agreement, which the complaint alleges was obtained by extortion. Defendant William A. Clark's motion to disqualify the firm of Hogan & Hartson from representing plaintiff Ferranti International PLC in this action will be denied for the following reasons:
+
+An attorney-client relationship, express or implied, did not exist between Hogan & Hartson and William A. Clark when he was Ferranti International, Inc.'s vice president and general counsel.
+
+In July, 1986 defendant Clark, himself an attorney, retained Hogan & Hartson to represent plaintiff Ferranti International pic and its subsidiaries in regard to a government investigation of alleged wrongdoing on the part of their employees. He did so in his capacity as Ferranti International, Inc.'s vice president and general counsel. The need for representation was triggered by a federal grand jury subpoena served on plaintiff's subsidiary, the Marquardt Company. Thereafter, the investigation was widened with target letters and follow-up subpoenas to corporate employees of plaintiff and plaintiff's other subsidiaries.
+
+Hogan & Hartson did not represent the corporations' employees. Hogan & Hartson attorneys repeatedly stated to the corporations' employees in defendant's presence that they should obtain separate counsel because of the potential conflict of interest between employer and employee. Defendant helped arrange for employees to be separately represented.
+
+Any perception by defendant that he became a client or was a prospective client of Hogan & Hartson as to his personal legal matters was unreasonable and without foundation. Defendant's position as general counsel and corporate officer excluded this law firm from acting as his personal attorney because of the self-evident interest conflict. Given the circumstances, the personal matters discussed did not involve an attorney-client relationship. 
+
+The information given Hogan & Hartson by defendant regarding plaintiff, its subsidiaries and employees was communicated by him in his capacity as Ferranti International, Inc.'s vice president and general counsel. Proof of defendant's knowledge of such information does not appear to require that a Hogan & Hartson attorney testify as a witness.
+
+Until shortly before the present disqualification motion was filed, February 28, 1991, defendant's sole objection to Hogan & Hartson's representation of plaintiff in this action involved the possible calling of Hogan & Hartson attorneys as plaintiff's witnesses. That was first noted by defendant's counsel as a potential problem in September, 1990. If either party intends to call a Hogan & Hartson attorney as a witness, the court should be notified at least 60 days in advance of trial, and any issue thereby raised can be considered at that time.
+
+Defendant's status as an attorney has contradictory facets. He selected Hogan & Hartson to be plaintiff's counsel and subsequently worked with several of its attorneys in a confidential and apparently close relationship on behalf of plaintiff, the parent of his then employer. Having done so and formed such associations, he may understandably resent and find objectionable the turn of events in which he is now being sued not only by the same law firm but also on behalf of the client that he brought to that firm. However, these personal and business considerations do not necessitate disqualification on legal-ethical grounds.
+
+This is not a case in which a layperson might have perceived or reasonably misperceived that his corporate employer's attorney was also representing him. As a general counsel, defendant must have keenly appreciated the distinction between the corporation and its employees as well as the employees' need for separate counsel. Defendant's assertion that the personal comments and observations exchanged between him and Hogan & Hartson attorneys were in contemplation of, or resulted in, a personal attorney-client relationship is factitious and unconvincing.
+
+Although it became a Hogan & Hartson client through defendant, plaintiff has a cognizable interest in being permitted to continue to be represented by this firm. Moreover, disqualification—which is an increasingly frequent issue in the courts— may be the subject of tactical abuse. A party's choice of counsel should be set aside only where the circumstances legally require doing so.
+
+Under the Rules of Professional Conduct and the cases, there is no legal basis on which to disqualify Hogan & Hartson. An evidentiary hearing is unnecessary.
+
+</div> 
 
 ##### Questions:
 
