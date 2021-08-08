@@ -232,22 +232,6 @@ h6 {
 	padding: 20px;
 }
 
-.case-summary {
-	font-family: $sans-font;
-	font-size: $small;
-	border-top: 2px solid $theme-color;
-	border-bottom: 2px solid $theme-color;
-	padding-top: 5px;
-	padding-bottom: 5px;
-	margin-top: 3rem;
-	margin-bottom: 10px;
-}
-
-.case-summary {
-	font-family: $sans-font;
-	font-size: $small;
-}
-
 .case p {
 	font-family: $serif-font;
 	margin-top: 0;
@@ -312,4 +296,21 @@ blockquote p {
 	line-height: 1.5;
 	margin-right: 0.5rem;
 	padding: 0;
+}
+
+
+.case-summary {
+	font-family: $sans-font;
+	font-size: $small;
+	border-top: 2px solid $theme-color;
+	border-bottom: 2px solid $theme-color;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin-top: 3rem;
+	margin-bottom: 3rem;
+}
+
+.case-summary p {
+	font-family: $sans-font;
+	font-size: $small;
 }
