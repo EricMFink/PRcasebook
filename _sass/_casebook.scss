@@ -108,6 +108,16 @@ ol {
 	margin-bottom: 0;
 }
 
+body {counter-reset: h2}
+  h2 {counter-reset: h3}
+  h3 {counter-reset: h4}
+  h4 {counter-reset: h5}
+  h5 {counter-reset: h6}
+
+  .casebook h2:before {counter-increment: h2; content: counter(h2) ". "}
+  .casebook h3:before {counter-increment: h3; content: counter(h2) "." counter(h3) ". "}
+  h2.nocount:before, h3.nocount:before, h4.nocount:before, h5.nocount:before, h6.nocount:before { content: ""; counter-increment: none } 
+
 .casebook h3 {
 	font-style: italic;
 }
@@ -132,6 +142,15 @@ ol {
 	font-size: $small;
 	margin: 0;
 	padding: 0;
+}
+
+.casebook hr {
+    border: none;
+    border-top: 2px solid $theme-color;
+    color: $theme-color;
+    overflow: visible;
+    text-align: center;
+    height: 5px;
 }
 
 .illustration {

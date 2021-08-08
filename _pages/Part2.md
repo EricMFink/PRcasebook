@@ -7,7 +7,7 @@ permalink: /Part2/
   
 ---
 
-# 2.1: Creating an Attorney-Client Relationship
+# 2.1 Creating an Attorney-Client Relationship
 
 <div markdown="block" class="casebook-epigraph">
 
