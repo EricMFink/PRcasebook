@@ -113,7 +113,7 @@ ol {
 .casebook-header h2 {
 	color: $theme-color;
 	font-family: $sans-font;
-	font-size: $chapter;
+	font-size: $subtitle;
 	line-height: $line-height;
 	font-weight: $normal-weight;
 	font-style: normal;
@@ -132,18 +132,17 @@ ol {
 
 .casebook-epigraph {
 	font-size: $small;
+	margin: 2rem 0 0 2rem;
 }
 
 .casebook-epigraph p {
 	font-size: $small;
-	padding-left: 2rem;
 }
 
 .casebook-epigraph blockquote {
 	font-size: $small;
 	border: none;
-	padding: 0;
-	margin: 2rem 0 0 0;
+	margin: 0;
 }
 
 .casebook-epigraph blockquote p {
@@ -161,19 +160,17 @@ ol {
 .center {
 	text-align: center;
 }
+
 /* Casebook Primary Legal Authorities (Cases, Statutes, MRPC, Restatement) */
 .statute {
 	background-color: $light-grey;
 	padding: 20px;
-	font-family: $serif-font;
-}
-
-.statute p {
-	font-family: $serif-font;
 }
 
 .statute h1 {
 	font-family: $sans-font;
+	font-size: $h2;
+	margin-top: 4rem;
 }
 
 .statute h2,
@@ -184,36 +181,31 @@ h6 {
 	font-family: $serif-font;
 }
 
+.statute h2 {
+	font-size: $h3;
+	margin-top: 3rem;
+}
+
 .statute h3,
 h4,
 h5 {
 	margin-bottom: 1rem;
 }
 
-.statute h1 {
-	font-size: 1.5rem;
-	margin-top: 4rem;
-}
-
-.statute h2 {
-	font-size: 1.25rem;
-	margin-top: 3rem;
-}
-
 .statute h3 {
-	font-size: 1.125rem;
+	font-size: $h4;
 }
 
 /* heading for comments */
 .statute h4 {
-	font-size: 0.8rem;
+	font-size: $body;
 	font-style: italic;
 	font-weight: $normal-weight;
 }
 
 /* body of comments */
 .statute h5 {
-	font-size: $smaller;
+	font-size: $small;
 	margin-top: 0.5rem;
 	margin-bottom: 0.5rem;
 }
@@ -226,8 +218,12 @@ h5 {
 	margin-left: 1rem;
 }
 
+.statute p {
+	font-size: $body;
+}
+
 .statute blockquote {
-	font-size: 1rem;
+	font-size: $body;
 	font-style: normal;
 	line-height: $line-height;
 	border: none;
@@ -238,7 +234,7 @@ h5 {
 }
 
 .statute blockquote p {
-	font-size: 1rem;
+	font-size: $body;
 	line-height: $line-height;
 	font-style: normal;
 	margin-top: 1rem;
@@ -250,21 +246,21 @@ h5 {
 .case {
 	background-color: $light-grey;
 	padding: 20px;
-	font-family: $sans-font;
 }
 
 .case-summary {
 	font-family: $sans-font;
 	font-size: $small;
-	border-top: 2px solid $off-black;
-	border-bottom: 2px solid $off-black;
+	border-top: 2px solid $theme-color;
+	border-bottom: 2px solid $theme-color;
 	padding-top: 5px;
 	padding-bottom: 5px;
-	margin-bottom: 5px;
+	margin-top: 10px;
+	margin-bottom: 10px;
 }
 
 .case p {
-	font-family: $sans-font;
+	font-family: $serif-font;
 }
 
 .case h1 {
