@@ -44,7 +44,6 @@ ol {
 	color: $theme-color;
 	line-height: 1;
 	font-weight: $bold-weight !important;
-	color: white;
 	margin: 0;
 	text-shadow: 2px 2px 3px rgba(0, 0, 0, 1);
 }
@@ -54,6 +53,7 @@ ol {
 }
 
 .cover h2 {
+	font-size: $h1;
 	line-height: $line-height;
 	color: white;
 	font-weight: $bold-weight !important;
@@ -62,10 +62,11 @@ ol {
 }
 
 .cover h3 {
+	font-size: $h2;
 	line-height: $line-height;
 	color: white;
 	font-weight: $bold-weight !important;
-	margin: 0;
+	margin: 1rem 0 0 0;
 	text-shadow: 2px 2px 3px rgba(0, 0, 0, 1);
 }
 

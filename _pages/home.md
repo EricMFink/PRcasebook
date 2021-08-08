@@ -11,6 +11,6 @@ title: Professional Responsibility Casebook
 
 ## Brian L. Frye & Elizabeth Schiller
 
-## Edited and revised by Eric M. Fink
+### Edited by Eric M. Fink
 
 #### <a rel="license" href="https://creativecommons.org/publicdomain/zero/1.0/">![CC0 Public Domain]({{ site.baseurl}}/assets/CC0.png)</a>
