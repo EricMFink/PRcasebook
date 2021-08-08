@@ -7,7 +7,7 @@ permalink: /Part2/
   
 ---
 
-# 2.1 Creating an Attorney-Client Relationship
+# 2.1 Creating an Attorney-Client Relationship
 
 <div markdown="block" class="casebook-epigraph">
 
@@ -288,7 +288,7 @@ Accordingly, attorneys should try to prevent prospective clients from disclosing
 
 --- 
 
-# 2.2: Ending an Attorney-Client Relationship
+# 2.2 Ending an Attorney-Client Relationship
 
 It is surprisingly easy to create an attorney-client relationship, and it can be surprisingly hard for an attorney to end one. In general, a client can end an attorney-client relationship at any time, for any reason, or for no reason at all. But attorneys cannot end an attorney-client relationship without good reason. Sometimes, attorneys must end an attorney-client relationship, and other times the rules of professional conduct prevent attorneys from ending an attorney-client relationship. In any case, attorneys may have duties to their clients that survive the attorneyclient relationship, especially the duty of confidentiality.
 
@@ -405,7 +405,7 @@ Under Model Rule 1.16(d), an attorney who withdraws from representing a client h
 
 However, the attorney also has a permanent duty of confidentiality to former clients.
 
-# 2.3: Attorney & Client as Agent & Principal 
+# 2.3 Attorney & Client as Agent & Principal 
 
 The attorney-client relationship is a principal-agent relationship. The client is the principal and the attorney is the client's agent. But it is a unique form of principal-agent relationship, because the client's ability to control the attorney's exercise of agency is limited, and because the attorney has duties not only to the client, but also to the court and the public.
 
@@ -524,7 +524,7 @@ As fiduciaries, attorneys have a legal duty to act only in the interests of thei
 
 --- 
 
-# 2.4: Client as Principal
+# 2.4 Client as Principal
 
 ## Decisions Reserved to Clients
 
@@ -592,7 +592,7 @@ But if the attorney can represent the client directly, then the attorney must ac
 
 
 
-## 2.5: Ex Parte Communications
+## 2.5 Ex Parte Communications
 
 Model Rule 4.2 prohibits attorneys from engaging in "ex parte" communications, or communications with a represented person without the consent of that person's attorney or the permission of the court.
 
@@ -663,7 +663,7 @@ In addition, Model Rule 4.2 only applies to attorneys. Nothing prevents represen
 </div>
 
 
-# 2.6 Attorney's Fees
+# 2.6 Attorney's Fees
 
 ## Reasonable Fees 
 
@@ -761,7 +761,7 @@ Under Model Rule 1.5(c), contingency fee agreements cannot be unreasonable and m
 
 --- 
 
-# 2.7: Financial Relationships with Clients
+# 2.7 Financial Relationships with Clients
 
 ## Client Trust Accounts
 
@@ -883,7 +883,7 @@ Rule 1.8(e), (i)
 
 --- 
 
-# 2.8: Organizations as Clients
+# 2.8 Organizations as Clients
 
 When an attorney represents an organization, the attorney's client is typically the organization, and only the organization. An attorney may represent any kind of organization, irrespective of its form. Obviously, an attorney may represent an organization that is a legal entity, like a corporation or a limited liability company. But an attorney may also represent an organization that is not a legal entity, like a partnership or an unincorporated association. In all of these cases, the attorney may represent the organization without representing the constituents of the organization.
 
@@ -976,7 +976,7 @@ Specifically, an attorney representing an organizational client must ensure that
 
 --- 
 
-# 2.9: Agents as Clients
+# 2.9 Agents as Clients
 
 In theory, an attorney who represents an organization represents only the organization, and does not represent the organization's agents. However, organizations can act only through their agents, and when attorneys represent organizations, they do so by providing legal advice to the organization's agents, who made decisions on behalf of the organization. Attorneys must convince the organization's agents to hire them. Attorneys must convince the organization's agents to follow their advice. And attorneys must obey the decisions of the organization's agents. It is easy for attorneys representing an organization to see its agents as their clients, rather than the organization itself.
 
