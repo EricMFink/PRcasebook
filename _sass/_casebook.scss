@@ -41,6 +41,7 @@ ol {
 
 .cover h1 {
 	font-size: $huge;
+	color: $theme-color;
 	line-height: 1;
 	font-weight: $bold-weight !important;
 	color: white;
@@ -100,7 +101,7 @@ ol {
 
 .casebook-header h1 {
 	color: $theme-color;
-	font-family: $heading-font;
+	font-family: $sans-font;
 	font-size: $title;
 	line-height: $line-height;
 	font-weight: $medium-weight;
@@ -111,7 +112,7 @@ ol {
 
 .casebook-header h2 {
 	color: $theme-color;
-	font-family: $heading-font;
+	font-family: $sans-font;
 	font-size: $chapter;
 	line-height: $line-height;
 	font-weight: $normal-weight;
@@ -121,53 +122,12 @@ ol {
 	margin-bottom: 0;
 }
 
-.casebook h1 {
-	font-size: 2rem;
-}
-
 .casebook h2 {
-	font-size: 1.5rem;
 	font-style: italic;
 }
 
 .casebook h3 {
-	font-size: 1.125rem;
 	font-style: italic;
-}
-
-.casebook h4 {
-	font-size: 1rem;
-}
-
-.casebook h5 {
-	font-size: 1.5rem;
-}
-
-.casebook blockquote {
-	font-size: $small;
-	font-weight: $normal-weight;
-	display: block;
-	border-left: 4px solid #b03a2e;
-	padding: 0 0 0 1rem;
-	margin: 2rem 0 2rem 1rem;
-	position: relative;
-}
-
-.casebook blockquote blockquote {
-	border: none;
-	margin-top: 0.5rem;
-	margin-bottom: 0.5rem;
-	margin-left: 0.5rem;
-}
-
-.casebook blockquote p {
-	font-size: $body;
-	font-weight: $normal-weight;
-	font-style: italic;
-	margin-top: 0.5rem;
-	margin-bottom: 0.8rem;
-	max-width: 35rem;
-	line-height: $line-height;
 }
 
 .casebook-epigraph {
@@ -176,16 +136,19 @@ ol {
 
 .casebook-epigraph p {
 	font-size: $small;
+	padding-left: 2rem;
 }
 
 .casebook-epigraph blockquote {
 	font-size: $small;
 	border: none;
 	padding: 0;
+	margin: 2rem 0 0 0;
 }
 
 .casebook-epigraph blockquote p {
 	font-size: $small;
+	margin: 0;
 }
 
 .illustration {
