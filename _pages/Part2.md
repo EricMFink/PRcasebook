@@ -65,7 +65,7 @@ Attorneys must maintain in confidence all information obtained while representin
 
 # Togstad v. Vesely, Otto, Miller & Keefe
 
-## 291 N.W.2d 686 (Minn. 1980)
+###### 291 N.W.2d 686 (Minn. 1980)
 
 <div markdown="block" class="case-summary">
 
@@ -185,9 +185,9 @@ b. If a lawyer for an organization knows that an officer, employee or other pers
 
 c. Except as provided in paragraph (d), if
 
-	1. despite the lawyer's efforts in accordance with paragraph (b) the highest authority that can act on behalf of the organization insists upon or fails to address in a timely and appropriate manner an action, or a refusal to act, that is clearly a violation of law, and
- 
-	2. the lawyer reasonably believes that the violation is reasonably certain to result in substantial injury to the organization, then the lawyer may reveal information relating to the representation whether or not Rule 1.6 permits such disclosure, but only if and to the extent the lawyer reasonably believes necessary to prevent substantial injury to the organization.
+> 1. despite the lawyer's efforts in accordance with paragraph (b) the highest authority that can act on behalf of the organization insists upon or fails to address in a timely and appropriate manner an action, or a refusal to act, that is clearly a violation of law, and
+> 
+> 2. the lawyer reasonably believes that the violation is reasonably certain to result in substantial injury to the organization, then the lawyer may reveal information relating to the representation whether or not Rule 1.6 permits such disclosure, but only if and to the extent the lawyer reasonably believes necessary to prevent substantial injury to the organization.
 
 d. Paragraph (c) shall not apply with respect to information relating to a lawyer's representation of an organization to investigate an alleged violation of law, or to defend the organization or an officer, employee or other constituent associated with the organization against a claim arising out of an alleged violation of law.
 
@@ -205,9 +205,9 @@ the consent shall be given by an appropriate official of the organization other 
 
 # Ferranti Intern. PLC v. Clark
 
-## 767 F. Supp. 670 (E.D. Pa. 1991)
+###### 767 F. Supp. 670 (E.D. Pa. 1991)
 
-<div markdown="1" class="case summary">
+<div markdown="block" class="case summary">
 
 Summary: William Clark was general counsel of Ferranti and hired Hogan & Hartson to represent the company in relation to a federal investigation. Hogan & Hartson informed Ferranti's employees that they should consider retaining an attorney. During the investigation, Clark provided confidential information to Hogan & Hartson. Eventually, Ferranti filed an action against Clark for breach of fiduciary duty and legal malpractice. Clark objected to Hogan & Hartson's representation of Ferranti. The court dismissed Clark's objections, on the ground that he knew Hogan & Hartson never represented him personally.
 
@@ -266,11 +266,17 @@ Accordingly, attorneys should try to prevent prospective clients from disclosing
 ### Restatement (Third) of the Law Governing Lawyers § 15 (2000)
 
 
+<div markdown="block" class="case">
 
+# Clark Capital Management Group, Inc, v. Annuity Investors Life Ins. Co.
 
-## Clark Capital Management Group, Inc, v. Annuity Investors Life Ins. Co., 149 F.Supp.2d 193 (E.D. Pa. 2001)
+###### 149 F.Supp.2d 193 (E.D. Pa. 2001)
 
+<div markdown="block" class="case-summary">
 
+</div>
+
+</div>
 
 ##### Questions
 
@@ -279,6 +285,8 @@ Accordingly, attorneys should try to prevent prospective clients from disclosing
 2. If Frechette provided confidential information to Biemer, is screening him from the action a sufficient remedy?
 
 3. Why shouldn't the court disqualify Dilworth from representing Clark in this action?
+
+--- 
 
 # 2.2: Ending an Attorney-Client Relationship
 
@@ -312,9 +320,19 @@ Criminal defendants have a limited right to fire appointed counsel and receive a
 
 When a client fires an attorney and hires a new attorney, the former attorney may have a claim against the former client. In a civil claim, the former attorney may recover the value of the services rendered.
 
-## Demov, Morris, Levine & Shein v. Glantz, 53 N.Y.2d 553 (N.Y. 1981)
+<div markdown="block" class="case">
+
+# Demov, Morris, Levine & Shein v. Glantz
+
+###### 53 N.Y.2d 553 (N.Y. 1981)
+
+<div markdown="block" class="case-summary">
+
+</div>
 
 
+
+</div>
 
 
 ##### Questions
@@ -345,8 +363,17 @@ Attorneys also cannot represent a client if it would create a conflict of intere
 
 Attorneys must also withdraw from representation if their physical or mental state will materially impair their ability to represent their client. Obviously, attorneys who incur serious physical or mental injuries may not be able to continue representing their clients. However, in some cases, they may be subject to discipline.
 
+<div markdown="block" class="case">
 
-## Whiting v. Lacara, 187 F. 3d 317 (2d Cir. 1999)
+# Whiting v. Lacara
+
+###### 187 F. 3d 317 (2d Cir. 1999)
+
+<div markdown="block" class="case">
+
+</div>
+
+</div>
 
 
 
@@ -359,6 +386,8 @@ Attorneys must also withdraw from representation if their physical or mental sta
 3. How serious is the risk of Rule 11 sanctions? Is there a real conflict of interest?
 
 4. Will Whiting be able to retain new counsel? If not, will he have to proceed pro se?
+
+--- 
 
 ## Effective Withdrawal
 
@@ -392,15 +421,15 @@ Moreover, in an attorney-client relationship, the attorney not only has a duty t
 
 As agents of their clients, attorneys often have the authority to act on behalf of their clients, but it may take the form of express, implied, or apparent authority.
 
-- Express Authority
+### Express Authority
 
 When an attorney acts pursuant to authority explicitly granted by the client. For example, clients can grant express authority to an attorney in an engagement letter or later instructions.
 
-- Implied Authority: 
+### Implied Authority
 
 When an attorney acts pursuant to authority necessarily granted by the attorney-client relationship. For example, attorneys have implied authority to exercise discretion in implementing the instructions of their clients. 
  
-- Apparent Authority
+### Apparent Authority
 
 When an attorney acts pursuant to authority delegated by the client and an opposing party relies on the delegation, especially when the authority is normally reserved to the client. For example, if a client delegates the authority to approve a final settlement, and an opposing party relies on the delegation, the attorney may have apparent authority, even though the decision to approve a final settlement is normally reserved to the client.
 
@@ -427,8 +456,17 @@ As fiduciaries, attorneys have a legal duty to act only in the interests of thei
 ### Restatement (Third) of the Law Governing Lawyers § 21 (2000)
 
 
+<div markdown="block" class="case">
 
-## L.F.S. Corp. v. Kennedy, 337 S.E.2d 209 (S.C. 1985)
+# L.F.S. Corp. v. Kennedy
+
+###### 337 S.E.2d 209 (S.C. 1985)
+
+<div markdown="block" class="case-summary">
+
+</div>
+
+</div>
 
 
 ##### Questions
@@ -437,7 +475,19 @@ As fiduciaries, attorneys have a legal duty to act only in the interests of thei
 
 2. If not, why did the court affirm the settlement?
 
-## Morris v. Ohio Cas. Ins. Co., 35 Ohio St. 3d 45 (Ohio 1988)
+--- 
+
+<div markdown="block" class="case">
+
+# Morris v. Ohio Cas. Ins. Co.
+
+###### 35 Ohio St. 3d 45 (Ohio 1988)
+
+<div markdown="block" class="case-summary">
+
+</div>
+
+</div>
 
 
 
@@ -449,7 +499,19 @@ As fiduciaries, attorneys have a legal duty to act only in the interests of thei
 
 - What should the insurance company have done?
 
-## Makins v. District of Columbia, 861 A. 2d 590 (D.C. 2004)
+--- 
+
+<div markdown="block" class="case">
+
+# Makins v. District of Columbia
+
+###### 861 A. 2d 590 (D.C. 2004)
+
+<div markdown="block" class="case-summary">
+
+</div>
+
+</div>
 
 
 ##### Question:
@@ -459,6 +521,8 @@ As fiduciaries, attorneys have a legal duty to act only in the interests of thei
 - What if Makins actually agreed to the settlement, but then had second thoughts
 
 - What is the purpose of "apparent authority"? Under the standard adopted by the court, is it possible for an attorney to exercise apparent authority?
+
+--- 
 
 # 2.4: Client as Principal
 
@@ -478,9 +542,17 @@ However, attorneys retain considerable discretion to make decisions about how to
 
 ### Restatement (Third) of the Law Governing Lawyers § 23 (2000)
 
+<div markdown="block" class="case">
 
+# Bronson v. Borst
 
-## Bronson v. Borst, 404 A. 2d 960 (D.C. App. 1979)
+###### 404 A. 2d 960 (D.C. App. 1979)
+
+<div markdown="block" class="case-summary">
+
+</div>
+
+</div>
 
 
 ## Clients With Diminished Capacity 
@@ -506,9 +578,17 @@ But if the attorney can represent the client directly, then the attorney must ac
 ### Restatement (Third) of the Law Governing Lawyers § 24 (2000): A Client with Diminished Capacity
 
 
+<div markdown="block" class="case">
 
+# People v. Bolden
 
-## People v. Bolden, 99 Cal. App. 3d 375 (Cal. Ct. App. 1979)
+###### 99 Cal. App. 3d 375 (Cal. Ct. App. 1979)
+
+<div markdown="block" class="case-summary">
+
+</div>
+
+</div>
 
 
 
@@ -546,8 +626,17 @@ In addition, Model Rule 4.2 only applies to attorneys. Nothing prevents represen
 ### Restatement (Third) of the Law Governing Lawyers § 101: A Represented Governmental Agency or Officer
 
 
+<div markdown="block" class="case">
 
-## In re Disciplinary Proceeding Against Haley, (CITE)
+# In re Disciplinary Proceeding Against Haley
+
+###### CITE 
+
+<div markdown="block" class="case-summary">
+
+</div>
+
+</div>
 
 
 
@@ -559,7 +648,19 @@ In addition, Model Rule 4.2 only applies to attorneys. Nothing prevents represen
 
 3. Haley retained counsel when the action at issue went to trial. If he had engaged in ex parte communications with Highland while represented by an attorney, would it have violated Model Rule 4.2? Should attorneys who are parties to an action and represented by counsel be permitted to engage in ex parte communications with represented persons? What if both parties are attorneys represented by counsel?
 
-## Niesig v. Team
+--- 
+
+<div markdown="block" class="case">
+
+# Niesig v. Team
+
+###### CITE 
+
+<div markdown="block" class="case-summary">
+
+</div>
+
+</div>
 
 
 # 2.6 Attorney's Fees
@@ -581,9 +682,17 @@ In theory, state bar associations are supposed to ensure that attorneys charge r
 # Restatement (Third) of the Law Governing Lawyers § 35: Contingent-Fee Arrangements
 
 
+<div markdown="block" class="case">
 
+# Matter of Cooperman
 
-## Matter of Cooperman, 633 N.E.2d 1069 (N.Y. 1994)
+###### 633 N.E.2d 1069 (N.Y. 1994)
+
+<div markdown="block" class="case-summary">
+
+</div>
+
+</div>
 
 
 ##### Questions:
@@ -594,7 +703,19 @@ In theory, state bar associations are supposed to ensure that attorneys charge r
 
 3. Should attorneys be able to charge a flat fee for a service? What if the flat fee is the average fee for that service? What if it is less than the average fee? 
 
-## In the Matter of Fordham, 423 Mass. 481 (Mass. 1996)
+--- 
+
+<div markdown="block" class="case">
+
+# In the Matter of Fordham
+
+###### 423 Mass. 481 (Mass. 1996)
+
+<div markdown="block" class="case-summary">
+
+</div>
+
+</div>
 
 
 
@@ -608,6 +729,8 @@ In theory, state bar associations are supposed to ensure that attorneys charge r
 
 4. What if Fordham estimated a fee of $50,000 in advance, and billed only for work actually completed?
 
+--- 
+
 ## Contingent Fees 
 
 Typically, attorneys charge an hourly fee for their services, often billed in some fraction of an hour. But some attorneys charge a fixed fee for their services. Historically, the most prestigious law firms charged a fixed fee for their services, often refusing to provide an itemized list of the services they had provided. Today, detailed billing is the norm, with the exception of attorneys providing retail representation in routine matters, and appointed counsel for indigent defendants.
@@ -618,9 +741,17 @@ But contingent fee agreements can also make sense when a client wants to control
 
 Under Model Rule 1.5(c), contingency fee agreements cannot be unreasonable and must be in writing. In addition, contingent fees are prohibited in criminal law and family law actions. Attorneys cannot form a contingent fee agreement to be paid only if a criminal defendant is acquitted or receives some other favorable outcome. And attorneys typically cannot form a contingent fee agreement to receive compensation from the resolution of a domestic dispute.
 
-## Culpepper & Carroll, PLLC v. Cole, 929 So. 2d 1224 (La. 2006)
+<div markdown="block" class="case">
 
+# Culpepper & Carroll, PLLC v. Cole
 
+###### 929 So. 2d 1224 (La. 2006)
+
+<div markdown="block" class="case-summary">
+
+</div>
+
+</div>
 
 ##### Questions:
 
@@ -628,6 +759,7 @@ Under Model Rule 1.5(c), contingency fee agreements cannot be unreasonable and m
 
 2. Could the contingent fee agreement between Cole and Culpepper have included a clause requiring Cole to obtain Culpepper's consent before accepting or rejecting a settlement offer?
 
+--- 
 
 # 2.7: Financial Relationships with Clients
 
@@ -642,7 +774,17 @@ Attorneys may withdraw funds from a client's trust account in order to pay the c
 ### Rule 1.15: Safekeeping Property
 
 
-## Neb. State Bar Ass'n v. Statmore, 352 N.W.2d 875 (Neb. 1984).
+<div markdown="block" class="case">
+
+# Neb. State Bar Ass'n v. Statmore
+
+###### 352 N.W.2d 875 (Neb. 1984)
+
+<div markdown="block" class="case-summary">
+
+</div>
+
+</div>
 
 
 
@@ -657,6 +799,8 @@ Attorneys may withdraw funds from a client's trust account in order to pay the c
 
 - ABA Model Rules for Client Trust Account Records (2010).
 
+--- 
+
 ## Equity as Compensation
 
 Sometimes, attorneys agree to accept an equity interest in their client's property, in lieu of attorney fees. For example, an attorney representing a corporation may accept shares of the company rather than cash. This kind of agreement can benefit both the client and the attorney, especially if the client is cash-poor, but is a promising investment. The client receives legal advice with no upfront expense, and the attorney receives an investment potentially worth much more than the hourly fees. Moreover, the attorney has an incentive to provide the best possible advice, because it will increase the value of their investment.
@@ -670,7 +814,17 @@ The concern is that the attorney's financial interest in the client's property c
 ### Model Rule 1.8: Current Clients: Specific Rules
 
 
-## Committee on Prof. Ethics v. Mershon, 316 N.W.2d 895 (Iowa 1982)
+<div markdown="block" class="case">
+
+# Committee on Prof. Ethics v. Mershon
+
+###### 316 N.W.2d 895 (Iowa 1982)
+
+<div markdown="block" class="case-summary">
+
+</div>
+
+</div>
 
 
 
@@ -681,6 +835,8 @@ The concern is that the attorney's financial interest in the client's property c
 2. Why was Miller reprimanded? What should he have done to avoid a reprimand? Would it have changed the outcome?
 
 3. Was Mershon's punishment sufficient under the circumstances?
+
+--- 
 
 ## Litigation Finance
 
@@ -706,7 +862,17 @@ Rule 1.8(e), (i)
 ### Restatement (Third) of the Law Governing Lawyers § 36: Forbidden Client-Lawyer Financial Arrangements
 
 
-## Saladini v. Righellis, 426 Mass. 231 (1997)
+<div markdown="block" class="case">
+
+# Saladini v. Righellis
+
+###### 426 Mass. 231 (1997)
+
+<div markdown="block" class="case-summary">
+
+</div>
+
+</div>
 
 
 ##### Questions:
@@ -715,6 +881,7 @@ Rule 1.8(e), (i)
 
 2. In 2003, residents of Lago Agrio, Ecuador filed a class action against Chevron in an Ecuadorian court, alleging that its Lago Agrio oil field had polluted the environment. The plaintiffs were represented by the Ecuadorian lawyer Pablo Fajardo Mendoza and the American lawyer Steven Donziger, who obtained more than $32 million in litigation funding. The American documentary filmmaker Joe Berlinger documented the litigation and released the film Crude in 2009. In 2011, the Ecuadorian court ruled for the plaintiffs and ordered Chevron to pay $18 billion in damages. Chevron's lawyers at Gibson, Dunn & Crutcher LLP noticed that an early version of Crude had featured an ostensibly impartial environmental expert meeting with Donziger before the trial, and subpoenaed Berlinger's outtakes, which provided additional evidence of fraud and corruption. In 2014, the United States District Court for the Southern District of New York found that Donziger had used "corrupt means" in the Ecuadorian court and refused to enforce the verdict, and the Second Circuit affirmed. Both New York and the District of Columbia suspended Donziger from the practice of law. Was it improper for Donziger to obtain third-party litigation funding? Did the availability of funding create improper incentives? Are third-party litigation funders in a position to evaluate the legitimacy of the litigation they fund? Should they be?
 
+--- 
 
 # 2.8: Organizations as Clients
 
@@ -734,8 +901,18 @@ Specifically, an attorney representing an organizational client must ensure that
 
 # Restatement (Third) of the Law Governing Lawyers § 96: Representing an Organization as Client
 
+<div markdown="block" class="case">
 
-# In the Matter of Silva, 636 A.2d 316 (R.l. 1994)
+# In the Matter of Silva
+
+###### 636 A.2d 316 (R.I. 1994)
+
+<div markdown="block" class="case-summary">
+
+</div>
+
+</div>
+
 
 
 ##### Questions:
@@ -746,9 +923,21 @@ Specifically, an attorney representing an organizational client must ensure that
 
 3. Did the court impose an appropriate punishment?
 
+--- 
+
 ## Representing a Corporation
 
-## Brennan v. Ruffner, 640 So. 2d 143 (Fla. 1994)
+<div markdown="block" class="case">
+
+# Brennan v. Ruffner
+
+###### 640 So. 2d 143 (Fla. 1994)
+
+<div markdown="block" class="case-summary">
+
+</div>
+
+</div>
 
 
 ##### Questions:
@@ -761,9 +950,21 @@ Specifically, an attorney representing an organizational client must ensure that
 
 4. Did Ruffner represent anyone?
 
+---
+
 ## Representing a Partnership
 
-## Mursau Corp. v. Florida Penn Oil & Gas, Inc., 638 F. Supp. 259 (W.D. Pa. 1986)
+<div markdown="block" class="case">
+
+# Mursau Corp. v. Florida Penn Oil & Gas, Inc.
+
+###### 638 F. Supp. 259 (W.D. Pa. 1986)
+
+<div markdown="block" class="case-summary">
+
+</div>
+
+</div>
 
 ##### Questions: 
 
@@ -772,6 +973,8 @@ Specifically, an attorney representing an organizational client must ensure that
 2. Did Mursau pay G & S for legal services?
 
 3. Why did the court conclude that Mursau had no attorney-client relationship with G & S relation to this matter? 
+
+--- 
 
 # 2.9: Agents as Clients
 
@@ -815,7 +1018,19 @@ Are you willing to proceed?
 
 3. If you received this warning, would you answer any questions? Would you give candid answers? Would you obtain outside counsel? What if you were unaware of the subject matter of the inquiry?
 
-## In re Grand Jury Subpoena: Under Seal, 415 F. 3d 334 (4th Cir. 2005)
+--- 
+
+<div markdown="block" class="case"> 
+
+# In re Grand Jury Subpoena: Under Seal
+
+###### 415 F. 3d 334 (4th Cir. 2005)
+
+<div markdown="block" class="case-summary">
+
+</div>
+
+</div>
 
 
 ##### Questions:
@@ -826,7 +1041,19 @@ Are you willing to proceed?
 
 3. Does it make sense for attorneys representing an organization to say they can represent an agent of the organization unless there is a conflict?
 
-## United States v. Stein, 463 F. Supp. 2d 459 (S.D.N.Y. 2006)
+--- 
+
+<div markdown="block" class="case"> 
+
+# United States v. Stein
+
+###### 463 F. Supp. 2d 459 (S.D.N.Y. 2006)
+
+<div markdown="block" class="case-summary">
+
+</div>
+
+</div>
 
 
 ##### Questions
@@ -836,3 +1063,5 @@ Are you willing to proceed?
 2. Why does Warley want to claim that the documents at issue are protected by the attorney-client privilege? Why can't she make a privilege claims? Could KPMG have made a privilege claim over the same information? 
 
 3. Should Warley have a malpractice claim against KPMG's attorneys?
+
+--- 
