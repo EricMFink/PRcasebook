@@ -17,7 +17,7 @@ permalink: /Part2/
 
 </div>
 
-## Clients & "Quasi-Clients"
+## 2.1.1 Clients & "Quasi-Clients"
 
 Ideally, the formation of an attorney-client relationship involves formalities like an engagement letter, a retainer agreement, and the payment of attorney's fees. But none of those formalities are necessary. An attorney-client relationship may be formed whenever a person asks an attorney for legal advice and the attorney provides it, so long as a reasonable person could believe that an attorney-client relationship existed.
 
