@@ -1,5 +1,5 @@
 ---
-layout: casebook-cover
+layout: home
 permalink: /
 title: Professional Responsibility Casebook
 
