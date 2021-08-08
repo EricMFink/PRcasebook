@@ -1,8 +1,7 @@
 ---
 layout: casebook
 
-title: PR Casebook
-chapter: '4: Conflicts of Interest'
+title: 'Part 4. Conflicts of Interest'
 permalink: /Part4/
   
 ---

@@ -9,7 +9,7 @@
 
 .sidenote { 
 	font-family: $sidenotes-font;
-	font-size: $smallest-size;
+	font-size: $smallest;
 	font-weight: $light-weight;
 	line-height: 1.2; 
 	vertical-align: baseline;
@@ -18,7 +18,7 @@
 
 .marginnote { 
 	font-family: $marginnotes-font;
-	font-size: $smallest-size;
+	font-size: $smallest;
 	font-weight: $light-weight;
 	line-height: 1.2; 
 	vertical-align: baseline;
@@ -64,7 +64,7 @@ blockquote .sidenote, blockquote .marginnote {
 
 label.sidenote-number { 
 	display: inline; 
-	font-size: $smallest-size; 
+	font-size: $smallest; 
 }
 
 label.margin-toggle:not(.sidenote-number) { 

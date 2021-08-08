@@ -9,26 +9,25 @@ $code-font: lft-etica-mono,Inconsolata,Consolas,Courier, monospace;
 
 // Font Sizes 
 $base-size: 16px !default;
-$small-size:  .8rem !default;
-$smaller-size:  .7rem !default;
-$smallest-size:  .6rem !default;
-$tiny-size: .5rem !default; 
-$medium-size:  1rem !default;
-$large-size:  1.125rem !default;
-$larger-size:  1.25rem !default;
-$largest-size:  1.4rem !default;
-$huge-size: 3.053rem !default;
-$huger-size: 3.815rem !default;
-$hugest-size: 4.768rem !default;
-$title-size: 1.563rem !default;
-$subtitle-size: 1.25rem !default;
-$body-size: 1rem !default;
-$h1: 2.441rem !default;
-$h2: 1.953rem !default;
-$h3: 1.563rem !default;
+$small:  .8rem !default;
+$smaller:  .7rem !default;
+$smallest:  .6rem !default;
+$tiny: .5rem !default; 
+$large:  1.125rem !default;
+$larger:  1.25rem !default;
+$largest:  1.5rem !default;
+$huge: 2rem !default;
+$huger: 2.5rem !default;
+$hugest: 3rem !default;
+$title: 1.5rem !default;
+$subtitle: 1.25rem !default;
+$body: 1rem !default;
+$h1: 2.5rem !default;
+$h2: 2rem !default;
+$h3: 1.5rem !default;
 $h4: 1.25rem !default;
-$h5: 1rem !default;
-$h6: .8rem !default;
+$h5: 1.125rem !default;
+$h6: 1rem !default;
 $social-icons-large: 1.5rem;
 $social-icons-medium: 1.25rem;
 $social-icons-small: 1rem;
@@ -135,7 +134,7 @@ $breakpoint-xl: '(min-width: 96em)';
 // Portfolio 
 $img_spacing: 5px;
 $img-height: 275px;
-$caption-font-size: $small-size;
+$caption-font-size: $small;
 $caption-color: $off-black;
 
 // Buttons

@@ -1,8 +1,7 @@
 ---
 layout: casebook
 
-title: PR Casebook
-chapter: '1: Introduction'
+title: 'Part 1. Introduction'
 permalink: /Part1/
     
 ---

@@ -52,7 +52,7 @@ blockquote p {
 	margin-top: 2rem;
     margin-bottom: 0rem;
 	font-family: $sans-font;
-	font-size: $small-size;
+	font-size: $small;
 	font-weight: $light-weight;
 	font-style: normal;
 }
@@ -60,7 +60,7 @@ blockquote p {
 .case-footer p {
 	font-family: $sans-font;
 	border: none;
-	font-size: $smaller-size;
+	font-size: $smaller;
 	font-weight: $light-weight;
 	font-style: normal;
 	margin-top: 0;
@@ -70,7 +70,7 @@ blockquote p {
 .case-footer h1 {
 	font-family: $sans-font;
 	border: none;
-	font-size: $smaller-size;
+	font-size: $smaller;
 	font-weight: $normal-weight;
 	font-style: normal;
 	margin-top: 1rem; 
@@ -115,7 +115,7 @@ blockquote p {
 /* body of comments */
 .statute h5 {
 	font-family: $sans-font;
-	font-size: $smaller-size; 
+	font-size: $smaller; 
 	font-weight: $light-weight;
 	margin-top: 0.5rem;
 	margin-bottom: 0.5rem;
@@ -124,7 +124,7 @@ blockquote p {
 /* body of illustrations */
 .statute h6 {  
 	font-family: $sans-font;
-	font-size: $smaller-size;
+	font-size: $smaller;
 	font-weight: $light-weight;
 	margin-top: 0.5rem;
 	margin-bottom: 0.5rem;

@@ -5,20 +5,22 @@
 <body class="sidenotes">
 	{% include header.html %}
 
-<div class="casebook-container">
-<article class="group">
+	<div class="casebook-container">
+		<article class="group">
 
 			<div class="casebook-header group">
 				<h1 class="casebook-header">{{ page.title }}</h1>
-				<h2 class="casebook-header">{{ page.chapter }}</h2>
+				{% if page.subtitle %}
+				<h2 class="page-subtitle">{{ page.subtitle }}</h2>
+				{% endif %}
 			</div>
 
-<div class="casebook">
-{{ content }}
-</div>
+			<div class="casebook">
+				{{ content }}
+			</div>
 
-<article>
-</div>
+			<article>
+	</div>
 
 
 	{% include footer.html %}

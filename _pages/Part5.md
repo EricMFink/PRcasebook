@@ -1,8 +1,7 @@
 ---
 layout: casebook
 
-title: PR Casebook
-chapter: '5: Confidentiality & Privileges'
+title: 'Part 5. Confidentiality & Privileges'
 permalink: /Part5/
   
 ---

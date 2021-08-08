@@ -8,21 +8,21 @@ $container-width: 1000px;
 	cursor:pointer;
 	&.smaller{
 		padding:7px 10px;
-		font-size: $smaller-size;
+		font-size: $smaller;
 		font-weight: $medium-weight;
 	}
 	&.small{
 		padding:7px 20px;
-		font-size: $small-size;
+		font-size: $small;
 		font-weight: $medium-weight;
 	}
 	&.large{
 		padding:15px 45px;
-		font-size: $large-size;
+		font-size: $large;
 	}
 	&.large2{
 		padding:15px 45px;
-		font-size: $larger-size;
+		font-size: $larger;
 	}
 	&.primary{
 		color:#FFF;
@@ -41,7 +41,7 @@ $container-width: 1000px;
 	}
 	&.casebook-cover{
 		padding:15px 45px;
-		font-size: $larger-size;
+		font-size: $larger;
 		font-weight: $medium-weight;
 		margin-top: 1rem;
 		color: $off-white;

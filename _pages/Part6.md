@@ -1,8 +1,7 @@
 ---
 layout: casebook
 
-title: PR Casebook
-chapter: 'Section 6: Advocacy & Conduct in Litigation'
+title: 'Part 6. Advocacy & Conduct in Litigation'
 permalink: /Part6/
   
 ---

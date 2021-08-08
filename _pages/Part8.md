@@ -1,10 +1,8 @@
 ---
 layout: casebook
 
-title: Professional Responsibility
-chapter: 'Part 8: Justifying the Rules of Professional Responsibility'
-
-permalink: "Part8"
+title: 'Part 8: Justifying the Rules of Professional Responsibility'
+permalink: /Part8/
  
 ---
 

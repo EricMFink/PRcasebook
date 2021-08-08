@@ -1,8 +1,7 @@
 ---
 layout: casebook
 
-title: PR Casebook
-chapter: '2: The Attorney-Client Relationship'
+title: 'Part 2. The Attorney-Client Relationship'
 permalink: /Part2/
   
 ---

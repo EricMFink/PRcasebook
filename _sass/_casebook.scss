@@ -1,5 +1,4 @@
 /* Casebook Cover Page */
-
 .cover-image {
 	background-color: #cccccc;
 	height: 100%;
@@ -25,56 +24,57 @@
 }
 
 .cover a {
-    color: $medium-grey;
-    text-decoration: none;
-    &:hover {
-		color:darken($medium-grey, 20%);
-    }
+	color: $medium-grey;
+	text-decoration: none;
+
+	&:hover {
+		color: darken($medium-grey, 20%);
+	}
 }
 
-.cover ul, ol {
+.cover ul,
+ol {
 	width: 90%;
 	margin-left: auto;
 	margin-right: auto;
 }
 
-
 .cover h1 {
-    font-size: $huge-size;
-    line-height: 1;
-    font-weight: $bold-weight !important;
-    color: white;
-    margin: 0 0 0 0;
-    text-shadow: 2px 2px 3px rgba(0, 0, 0, 1);
+	font-size: $huge;
+	line-height: 1;
+	font-weight: $bold-weight !important;
+	color: white;
+	margin: 0;
+	text-shadow: 2px 2px 3px rgba(0, 0, 0, 1);
 }
 
 .cover h1 + h2 {
-    margin-top: 3rem;
+	margin-top: 3rem;
 }
 
 .cover h2 {
-    line-height: $line-height;
-    color: white;
-    font-weight: $bold-weight !important;
-    margin: 1rem 0 0 0;
-    text-shadow: 2px 2px 3px rgba(0, 0, 0, 1);
+	line-height: $line-height;
+	color: white;
+	font-weight: $bold-weight !important;
+	margin: 1rem 0 0;
+	text-shadow: 2px 2px 3px rgba(0, 0, 0, 1);
 }
 
 .cover h3 {
-    line-height: $line-height;
-    color: white;
-    font-weight: $bold-weight !important;
-    margin: 0 0 0 0;
-    text-shadow: 2px 2px 3px rgba(0, 0, 0, 1);
+	line-height: $line-height;
+	color: white;
+	font-weight: $bold-weight !important;
+	margin: 0;
+	text-shadow: 2px 2px 3px rgba(0, 0, 0, 1);
 }
 
 .cover h4 {
-    font-weight: $bold-weight !important;
+	font-weight: $bold-weight !important;
 	font-style: normal;
-    color: white;
-    line-height: $line-height;
-    margin: 3rem 0 0 0;
-    text-shadow: 2px 2px 3px rgba(0, 0, 0, 1);
+	color: white;
+	line-height: $line-height;
+	margin: 3rem 0 0;
+	text-shadow: 2px 2px 3px rgba(0, 0, 0, 1);
 }
 
 .toc-button {
@@ -82,19 +82,16 @@
 	padding-bottom: 2px;
 }
 
-
-
 /* Casebook Chapter Pages */
-
-
 .casebook-container {
-    padding: 100px 0; /* VERTICAL PADDING FOR TITLE ON EVERY.casebook */
+	padding: 100px 0;
+	/* VERTICAL PADDING FOR TITLE */
 }
 
 .center-screen {
-    position: relative;
-    margin-left: auto;
-    margin-right: auto;
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .casebook-header {
@@ -102,24 +99,24 @@
 }
 
 .casebook-header h1 {
-	    color: $theme-color;
-	    font-family: $heading-font; 
-	    font-size: 1.5rem;
-	    line-height: $line-height;
-	    font-weight: $medium-weight;
-	    font-style: normal;
-		margin-top: 0;
-		margin-bottom: 0;
+	color: $theme-color;
+	font-family: $heading-font;
+	font-size: $title;
+	line-height: $line-height;
+	font-weight: $medium-weight;
+	font-style: normal;
+	margin-top: 0;
+	margin-bottom: 0;
 }
 
 .casebook-header h2 {
-    color: $theme-color;
-    font-family: $heading-font; 
-    font-size: 2.25rem;
-    line-height: $line-height;
-    font-weight: $normal-weight;
-    font-style: normal;
-    line-height: 1;
+	color: $theme-color;
+	font-family: $heading-font;
+	font-size: $chapter;
+	line-height: $line-height;
+	font-weight: $normal-weight;
+	font-style: normal;
+	line-height: 1;
 	margin-top: 1rem;
 	margin-bottom: 0;
 }
@@ -146,143 +143,146 @@
 	font-size: 1.5rem;
 }
 
-
-.casebook blockquote { 
-	font-size: $small-size; 
+.casebook blockquote {
+	font-size: $small;
 	font-weight: $normal-weight;
-	display: block; 
-	border-left: 4px solid #b03a2e; 
-	padding: 0 0 0 1rem; 
-	margin-top: 2rem; 
-	margin-bottom: 2rem; 
-	margin-left: 1rem; 
-	margin-right: 0; 
-	position: relative; 
+	display: block;
+	border-left: 4px solid #b03a2e;
+	padding: 0 0 0 1rem;
+	margin: 2rem 0 2rem 1rem;
+	position: relative;
 }
 
-.casebook blockquote blockquote { 
-	border: none; 
-	margin-top: .5rem; 
-	margin-bottom: .5rem; 
-	margin-left: .5rem; 
+.casebook blockquote blockquote {
+	border: none;
+	margin-top: 0.5rem;
+	margin-bottom: 0.5rem;
+	margin-left: 0.5rem;
 }
 
-.casebook blockquote p { 
-	font-size: $medium-size; 
+.casebook blockquote p {
+	font-size: $body;
 	font-weight: $normal-weight;
-	font-style: italic; 
-	margin-top: .5rem; 
-	margin-bottom: .8rem; 
-	max-width: 35rem; 
-	line-height: $line-height; 
+	font-style: italic;
+	margin-top: 0.5rem;
+	margin-bottom: 0.8rem;
+	max-width: 35rem;
+	line-height: $line-height;
 }
 
 .casebook-epigraph {
-	font-size: $small-size;
+	font-size: $small;
 }
 
 .casebook-epigraph p {
-	font-size: $small-size;
+	font-size: $small;
 }
 
 .casebook-epigraph blockquote {
-	font-size: $small-size;
-	border: none; 
-	padding: 0 0 0 0; 
+	font-size: $small;
+	border: none;
+	padding: 0;
 }
 
 .casebook-epigraph blockquote p {
-	font-size: $small-size;
+	font-size: $small;
 }
 
 .illustration {
-    padding-top: 2rem;
-    padding-top: 2rem;
-    height: auto;
-    width: 100%;
+	padding-top: 2rem;
+	padding-top: 2rem;
+	height: auto;
+	width: 100%;
 }
 
-.center{
-    text-align: center;
+.center {
+	text-align: center;
 }
-
 /* Casebook Primary Legal Authorities (Cases, Statutes, MRPC, Restatement) */
-
 .statute {
 	background-color: $light-grey;
 	padding: 20px;
-	font-family: $sans-font;
+	font-family: $serif-font;
 }
 
 .statute p {
+	font-family: $serif-font;
+}
+
+.statute h1 {
 	font-family: $sans-font;
 }
 
-.statute h1, h2, h3, h4, h5, h6 {
-	font-family: $sans-font;
+.statute h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: $serif-font;
 }
 
-.statute h3, h4, h5 { 
-	margin-bottom: 1rem; 
+.statute h3,
+h4,
+h5 {
+	margin-bottom: 1rem;
 }
 
-.statute h1 { 
-	font-size: 1.5rem; 
-	margin-top: 4rem; 
+.statute h1 {
+	font-size: 1.5rem;
+	margin-top: 4rem;
 }
 
-.statute h2 {  
-	font-size: 1.25rem; 
-	margin-top: 3rem; 
+.statute h2 {
+	font-size: 1.25rem;
+	margin-top: 3rem;
 }
 
-.statute h3 {  
-	font-size: 1.125rem; 
+.statute h3 {
+	font-size: 1.125rem;
 }
 
 /* heading for comments */
-.statute h4 {  
-	font-size: 0.8rem; 
+.statute h4 {
+	font-size: 0.8rem;
 	font-style: italic;
 	font-weight: $normal-weight;
 }
 
 /* body of comments */
 .statute h5 {
-	font-size: $smaller-size; 
+	font-size: $smaller;
 	margin-top: 0.5rem;
 	margin-bottom: 0.5rem;
 }
 
 /* body of illustrations */
 .statute h6 {
-	font-size: $smaller-size;
+	font-size: $smaller;
 	margin-top: 0.5rem;
 	margin-bottom: 0.5rem;
 	margin-left: 1rem;
 }
 
-.statute blockquote { 
-    font-size: 1rem;
+.statute blockquote {
+	font-size: 1rem;
 	font-style: normal;
 	line-height: $line-height;
-	border: none; 
-    margin-left: 1.5rem;
-	margin-top: 1rem; 
-	margin-bottom: 1rem; 
+	border: none;
+	margin-left: 1.5rem;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
 	padding: 0;
 }
 
 .statute blockquote p {
-    font-size: 1rem;
+	font-size: 1rem;
 	line-height: $line-height;
 	font-style: normal;
-	margin-top: 1rem; 
-	margin-bottom: 1rem; 
-    padding: 0;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+	padding: 0;
 	max-width: 50rem;
 }
-
 
 .case {
 	background-color: $light-grey;
@@ -292,7 +292,7 @@
 
 .case-summary {
 	font-family: $sans-font;
-	font-size: $small-size;
+	font-size: $small;
 	border-top: 2px solid $off-black;
 	border-bottom: 2px solid $off-black;
 	padding-top: 5px;
@@ -304,17 +304,27 @@
 	font-family: $sans-font;
 }
 
-.case h1, h2, h3, h4, h5 {
+.case h1 {
 	font-family: $sans-font;
 }
 
-.case h3, h4, h5 {
+
+.case h2,
+h3,
+h4,
+h5 {
+	font-family: $serif-font;
+}
+
+.case h3,
+h4,
+h5 {
 	margin-bottom: 1rem;
 }
 
 .case h1 {
 	font-size: 1.5rem;
-    margin-top: 2rem;
+	margin-top: 2rem;
 }
 
 .case h2 {
@@ -335,16 +345,16 @@
 }
 
 .case blockquote {
-    border: none;
+	border: none;
 }
 
-.case blockquote, 
+.case blockquote,
 blockquote p {
-    font-style: normal;
-    margin-top: 0;
-    margin-bottom: 0.5rem;
+	font-style: normal;
+	margin-top: 0;
+	margin-bottom: 0.5rem;
 	margin-left: 1rem;
 	line-height: 1.5;
-	margin-right: .5rem;
-    padding: 0;
+	margin-right: 0.5rem;
+	padding: 0;
 }

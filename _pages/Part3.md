@@ -1,8 +1,7 @@
 ---
 layout: casebook
 
-title: PR Casebook
-chapter: '3: The Legal Duties of an Attorney'
+title: 'Part 3. The Legal Duties of an Attorney'
 permalink: /Part3/
   
 ---

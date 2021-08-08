@@ -1,8 +1,7 @@
 ---
 layout: casebook
 
-title: PR Casebook
-chapter: '7: The Regulation of the Legal Profession'
+title: 'Part 7. The Regulation of the Legal Profession'
 permalink: /Part7/
   
 ---
