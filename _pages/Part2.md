@@ -24,7 +24,9 @@ I will refer to people an attorney intends to represent as "clients," and people
 
 <div markdown="block" class="statute">
 
-# Restatement (Third) of the Law Governing Lawyers § 14 (2000)
+# Restatement (Third) of the Law Governing Lawyers (2000)
+
+## § 14
 
 A relationship of client and lawyer arises when:
 

@@ -103,9 +103,6 @@ ol {
 	color: $theme-color;
 	font-family: $sans-font;
 	font-size: $title;
-	line-height: $line-height;
-	font-weight: $medium-weight;
-	font-style: normal;
 	margin-top: 0;
 	margin-bottom: 0;
 }
@@ -132,11 +129,12 @@ ol {
 
 .casebook-epigraph {
 	font-size: $small;
-	margin: 2rem 0 0 2rem;
+	font-family: $sans-font;
 }
 
 .casebook-epigraph p {
 	font-size: $small;
+	font-weight: $normal-weight;
 }
 
 .casebook-epigraph blockquote {
@@ -168,9 +166,7 @@ ol {
 }
 
 .statute h1 {
-	font-family: $sans-font;
-	font-size: $h2;
-	margin-top: 4rem;
+	margin-top: 0;
 }
 
 .statute h2,
@@ -179,11 +175,11 @@ h4,
 h5,
 h6 {
 	font-family: $serif-font;
+	font-weight: $normal-weight;
 }
 
-.statute h2 {
-	font-size: $h3;
-	margin-top: 3rem;
+.statute h2, h3 {
+	font-style: normal;
 }
 
 .statute h3,
@@ -192,9 +188,6 @@ h5 {
 	margin-bottom: 1rem;
 }
 
-.statute h3 {
-	font-size: $h4;
-}
 
 /* heading for comments */
 .statute h4 {
@@ -255,16 +248,23 @@ h5 {
 	border-bottom: 2px solid $theme-color;
 	padding-top: 5px;
 	padding-bottom: 5px;
-	margin-top: 10px;
+	margin-top: 3rem;
 	margin-bottom: 10px;
+}
+
+.case-summary {
+	font-family: $sans-font;
+	font-size: $small;
 }
 
 .case p {
 	font-family: $serif-font;
+	margin-top: 0;
 }
 
-.case h1 {
+.case h1, h6 {
 	font-family: $sans-font;
+	margin: 0 0 1rem 0;
 }
 
 
@@ -281,27 +281,27 @@ h5 {
 	margin-bottom: 1rem;
 }
 
-.case h1 {
-	font-size: 1.5rem;
-	margin-top: 2rem;
-}
-
 .case h2 {
-	font-size: 1.25rem;
 	font-style: normal;
 }
 
 .case h3 {
-	font-size: 1.25rem;
 	font-weight: normal;
 	font-style: italic;
 }
 
 .case h4 {
-	font-size: $h5;
 	font-weight: bold;
 	font-style: normal;
 }
+
+/* case cite */
+.case h6{
+	font-size: $h4;
+	font-weight: $normal-weight;
+	font-style: normal;
+}
+
 
 .case blockquote {
 	border: none;
