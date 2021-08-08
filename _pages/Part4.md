@@ -1,7 +1,8 @@
 ---
 layout: casebook
 
-title: 'Part 4. Conflicts of Interest'
+title: 'Part 4'
+subtitle: 'Conflicts of Interest'
 permalink: /Part4/
   
 ---

@@ -1,7 +1,8 @@
 ---
 layout: casebook
 
-title: 'Part 1. Introduction'
+title: 'Part 1'
+subtitle: 'Introduction'
 permalink: /Part1/
     
 ---

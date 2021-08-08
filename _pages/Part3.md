@@ -1,7 +1,8 @@
 ---
 layout: casebook
 
-title: 'Part 3. The Legal Duties of an Attorney'
+title: 'Part 3'
+subtitle: 'The Legal Duties of an Attorney'
 permalink: /Part3/
   
 ---

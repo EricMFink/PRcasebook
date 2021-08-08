@@ -1,7 +1,8 @@
 ---
 layout: casebook
 
-title: 'Part 5. Confidentiality & Privileges'
+title: 'Part 5'
+subtitle: 'Confidentiality & Privileges'
 permalink: /Part5/
   
 ---

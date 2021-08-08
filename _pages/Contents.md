@@ -1,8 +1,7 @@
 ---
 layout: casebook
 
-title: PR Casebook
-chapter: 'Table of Contents'
+title: 'Table of Contents'
 permalink: /Contents/
 
 ---
