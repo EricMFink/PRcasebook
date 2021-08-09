@@ -108,8 +108,17 @@ ol {
 	margin-bottom: 0;
 }
 
+.casebook h2 {
+	font-size: $h3;
+}
+
 .casebook h3 {
+	font-size: $h4;
 	font-style: italic;
+}
+
+.casebook h4 {
+	font-size: $h4;
 }
 
 .casebook-epigraph {

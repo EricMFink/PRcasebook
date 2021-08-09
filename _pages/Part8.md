@@ -105,7 +105,7 @@ Another possibility for dealing with the alarms and torments brought upon others
 
 -— 
 
-##### Questions
+#### Questions
 
 1. Luban and Wendel describe different theories of legal ethics that arose at different points in time. Which of those theories do you find most convincing and why? 
 
@@ -167,7 +167,7 @@ Our profession carries public and ethical burdens with its privileges. Daniel We
 
 -— 
 
-##### Questions
+#### Questions
 
 1. How do Brandeis, Wilson, Clark, and Burger define legal ethics? Do they provide a basis for determining whether an action is ethical? 
 
@@ -323,7 +323,7 @@ For Fried the issues are different, and relate to the problem of the maladaptive
 
 -— 
 
-##### Questions
+#### Questions
 
 1. How do these different theories of legal ethics conceptualize the attorney "role morality" differently? 
 

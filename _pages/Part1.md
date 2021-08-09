@@ -100,7 +100,7 @@ SCOPE
 
 </div>
 
-##### Questions 
+#### Questions 
 
 1. What are these two sections of the Model Rules intended to accomplish? 
 
@@ -126,7 +126,7 @@ The lawyer's duty to act with reasonable diligence does not require the use of o
 
 Today, courts and scholars continue to refer to an attorney's "duty of zealous representation." What is the scope of that duty? What should it be? How should attorneys and courts balance the duty of zealous representation against an attorney's duties to the court and to society as a whole?  
 
-##### Questions
+#### Questions
 
 1. After the terrorist attacks of September 11, 2001, President Bush asked the Office of Legal Counsel for its opinion on the legality of certain interrogation techniques. OLC produced several memoranda arguing that the techniques were legal under domestic and international law, which ultimately became known as the "torture memos." The torture memos were almost universally condemned by policymakers and legal scholars as both immoral and incorrect statements of the governing law. Should OLC have produced the memos? Was it a violation of the rules of professional conduct for OLC to make arguments based on inaccurate interpretations of the law. Was it a violation of legal ethics for OLC to make arguments in favor of the interrogation techniques? Would it have been a violation of legal ethics if those techniques were in fact legal? Would it have been a violation of the rules of professional conduct for OLC to produce memos presenting arguments both for and against the legality of the interrogation techniques?  
 
@@ -134,7 +134,7 @@ Today, courts and scholars continue to refer to an attorney's "duty of zealous r
 ## Torres v. Donnelly, 554 F. 3d 322 (2d Cir. 2009) 
 
 
-##### Questions
+#### Questions
 
 1. Could Keefe have relied on Rodriguez's testimony without violating his duty of candor to the court? What if the prosecutor did not notice the mistake? Would Keefe have a duty to disclose? Would it be a violation of the Model Rules if he did not disclose? 
 
@@ -208,7 +208,7 @@ No code or set of rules can be framed, which will particularize all the duties o
 31. Responsibility for Litigation. 
 32. The Lawyer's Duty in Its Last Analysis.  
 
-##### Questions: 
+#### Questions 
 
 - Do you see evidence of dual-role model of lawyers' responsibilities in the Canons? Where? 
 - What does the adoption of the Canons tell us about the state of the profession in 1908? 
@@ -221,7 +221,7 @@ _Canon 17- III Feeling and Personalities Between Advocates._ Clients, not lawyer
 
 _Canon 29—Upholding the Honor of the Profession._ Lawyers should expose without fear or favor before the proper tribunals corrupt or dishonest conduct in the profession, and should accept without hesitation employment against a member of the Bar who has wronged his client. The counsel upon the trial of a cause in which perjury has been committed owe it to the profession and citing authorities. The lawyer should aid in guarding the Bar against admission to the profession of candidates unfit or unqualified because deficient in either moral character or education. He should strive at all times to uphold the honor and to maintain the dignity of the profession and to improve not only the law but the administration of justice.  
 
-##### Questions: 
+#### Questions 
 
 - Are the Canons useful for navigating professional ethical dilemmas? 
 - How helpful is the explanatory content? Does it answer all your questions about how to apply the Canons? Can you think of a situation in which lawyers might reasonably disagree about what conforming professional conduct might look like? 
@@ -276,7 +276,7 @@ _DR 6-102-Limiting Liability to Client._
 
 A. A lawyer shall not attempt to exonerate himself from or limit his liability to his client for his personal malpractice.  
 
-##### Questions: 
+#### Questions 
 
 - How useful is the Model Code for making decisions about professional conduct? Is the clarification between canons, ethical considerations, and disciplinary rules an improvement on the 1908 Canons? 
 - Is it necessary to have canons, ethical considerations, and disciplinary rules? Consider each statement's or rule's usefulness in lawyers' various roles and practice settings. 
@@ -294,7 +294,7 @@ The shift from idealistic Canons to boundary rules in the Model Code created the
 
 States adopted the structure of the model rules fairly quickly. Today, almost all states' disciplinary rules follow the numbering system of the Model Rules. The content of state rules varies, so it's important to follow the law of your jurisdiction. Since the Model Rules of Professional Conduct have been so influential, lawyers can look to these Model Rules just like they might look to other uniform laws or model acts.  
 
-##### Questions: 
+#### Questions 
 
 - In Rule 1.1 above, do the comments change your understanding of the rule? How? Do you have remaining questions about what the rule means or how it might work in application? 
 - Compare the usefulness of the Model Rules to the Model Code and the Canons. Consider the regulatory structure of the Model Rules, the distinction between ideals and boundaries, and the content in the examples above. 

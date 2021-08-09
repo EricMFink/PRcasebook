@@ -1646,7 +1646,7 @@ Finally, we are reluctant to approve any action in the matter of professional et
 
 We conclude that it was error for the trial court to refuse to vacate its assignment of an NLSP attorney to represent appellee in the trial of appellant's divorce action which was being presented by another NLSP attorney and that this case must be remanded for appointment of new counsel for appellee. 
 
-##### Questions
+#### Questions
 
 1. What was the conflict of interest? 
 
@@ -1660,7 +1660,7 @@ We conclude that it was error for the trial court to refuse to vacate its assign
  20 Cal. 4th 1135 (Cal. 1999) 
 
 
-##### Questions
+#### Questions
 
 1. Why did the Supreme Court hold that the Shapiro firm was disqualified from representing SpeeDee? 
 
