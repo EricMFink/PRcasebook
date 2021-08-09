@@ -1,8 +1,8 @@
 ---
 layout: casebook
 
-title: 'Part 6'
-subtitle: 'Advocacy & Conduct in Litigation'
+chapter: 'Part 6'
+title: 'Advocacy & Conduct in Litigation'
 permalink: /Part6/
   
 ---

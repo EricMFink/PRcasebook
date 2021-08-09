@@ -1,8 +1,8 @@
 ---
 layout: casebook
 
-title: 'Part 2'
-subtitle: 'The Attorney-Client Relationship'
+chapter: 'Part 2'
+title: 'The Attorney-Client Relationship'
 permalink: /Part2/
   
 ---

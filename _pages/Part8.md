@@ -1,8 +1,8 @@
 ---
 layout: casebook
 
-title: 'Part 8'
-subtitle: 'Justifying the Rules of Professional Responsibility'
+chapter: 'Part 8'
+title: 'Justifying the Rules of Professional Responsibility'
 permalink: /Part8/
  
 ---
