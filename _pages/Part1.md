@@ -70,51 +70,53 @@ Of course, studying an area of law inevitably provokes reflections on its purpos
 
 # Model Rules of Professional Conduct
 
-## Preamble & Scope ### Preamble: A Lawyer’s Responsibilities
+## Preamble & Scope 
 
-1. A lawyer, as a member of the legal profession, is a representative of clients, an officer of the legal system and a public citizen having special responsibility for the quality of justice.
+### Preamble: A Lawyer’s Responsibilities
 
-1. As a representative of clients, a lawyer performs various functions. As advisor, a lawyer provides a client with an informed understanding of the client’s legal rights and obligations and explains their practical implications. As advocate, a lawyer zealously asserts the client’s position under the rules of the adversary system. As negotiator, a lawyer seeks a result advantageous to the client but consistent with requirements of honest dealings with others. As an evaluator, a lawyer acts by examining a client’s legal affairs and reporting about them to the client or to others.
+[1] A lawyer, as a member of the legal profession, is a representative of clients, an officer of the legal system and a public citizen having special responsibility for the quality of justice.
 
-1. In addition to these representational functions, a lawyer may serve as a third-party neutral, a nonrepresentational role helping the parties to resolve a dispute or other matter. Some of these Rules apply directly to lawyers who are or have served as third-party neutrals. In addition, there are Rules that apply to lawyers who are not active in the practice of law or to practicing lawyers even when they are acting in a nonprofessional capacity. For example, a lawyer who commits fraud in the conduct of a business is subject to discipline for engaging in conduct involving dishonesty, fraud, deceit or misrepresentation.
+[2] As a representative of clients, a lawyer performs various functions. As advisor, a lawyer provides a client with an informed understanding of the client's legal rights and obligations and explains their practical implications. As advocate, a lawyer zealously asserts the client's position under the rules of the adversary system. As negotiator, a lawyer seeks a result advantageous to the client but consistent with requirements of honest dealings with others. As an evaluator, a lawyer acts by examining a client's legal affairs and reporting about them to the client or to others.
 
-1. In all professional functions a lawyer should be competent, prompt and diligent. A lawyer should maintain communication with a client concerning the representation. A lawyer should keep in confidence information relating to representation of a client except so far as disclosure is required or permitted by the Rules of Professional Conduct or other law.
+[3] In addition to these representational functions, a lawyer may serve as a third-party neutral, a nonrepresentational role helping the parties to resolve a dispute or other matter. Some of these Rules apply directly to lawyers who are or have served as third-party neutrals. See, e.g., Rules 1.12 and 2.4. In addition, there are Rules that apply to lawyers who are not active in the practice of law or to practicing lawyers even when they are acting in a nonprofessional capacity. For example, a lawyer who commits fraud in the conduct of a business is subject to discipline for engaging in conduct involving dishonesty, fraud, deceit or misrepresentation. See Rule 8.4.
 
-1. A lawyer’s conduct should conform to the requirements of the law, both in professional service to clients and in the lawyer's business and personal affairs. A lawyer should use the law’s procedures only for legitimate purposes and not to harass or intimidate others. A lawyer should demonstrate respect for the legal system and for those who serve it, including judges, other lawyers and public officials. While it is a lawyer’s duty, when necessary, to challenge the rectitude of official action, it is also a lawyer's duty to uphold legal process.
+[4] In all professional functions a lawyer should be competent, prompt and diligent. A lawyer should maintain communication with a client concerning the representation. A lawyer should keep in confidence information relating to representation of a client except so far as disclosure is required or permitted by the Rules of Professional Conduct or other law.
 
-1. As a public citizen, a lawyer should seek improvement of the law, access to the legal system, the administration of justice and the quality of service rendered by the legal profession. As a member of a learned profession, a lawyer should cultivate knowledge of the law beyond its use for clients, employ that knowledge in reform of the law and work to strengthen legal education. In addition, a lawyer should further the public’s understanding of and confidence in the rule of law and the justice system because legal institutions in a constitutional democracy depend on popular participation and support to maintain their authority. A lawyer should be mindful of deficiencies in the administration of justice and of the fact that the poor, and sometimes persons who are not poor, cannot afford adequate legal assistance. Therefore, all lawyers should devote professional time and resources and use civic influence to ensure equal access to our system of justice for all those who because of economic or social barriers cannot afford or secure adequate legal counsel. A lawyer should aid the legal profession in pursuing these objectives and should help the bar regulate itself in the public interest.
+[5] A lawyer's conduct should conform to the requirements of the law, both in professional service to clients and in the lawyer's business and personal affairs. A lawyer should use the law's procedures only for legitimate purposes and not to harass or intimidate others. A lawyer should demonstrate respect for the legal system and for those who serve it, including judges, other lawyers and public officials. While it is a lawyer's duty, when necessary, to challenge the rectitude of official action, it is also a lawyer's duty to uphold legal process.
 
-1. Many of a lawyer’s professional responsibilities are prescribed in the Rules of Professional Conduct, as well as substantive and procedural law. However, a lawyer is also guided by personal conscience and the approbation of professional peers. A lawyer should strive to attain the highest level of skill, to improve the law and the legal profession and to exemplify the legal profession’s ideals of public service.
+[6] As a public citizen, a lawyer should seek improvement of the law, access to the legal system, the administration of justice and the quality of service rendered by the legal profession. As a member of a learned profession, a lawyer should cultivate knowledge of the law beyond its use for clients, employ that knowledge in reform of the law and work to strengthen legal education. In addition, a lawyer should further the public's understanding of and confidence in the rule of law and the justice system because legal institutions in a constitutional democracy depend on popular participation and support to maintain their authority. A lawyer should be mindful of deficiencies in the administration of justice and of the fact that the poor, and sometimes persons who are not poor, cannot afford adequate legal assistance. Therefore, all lawyers should devote professional time and resources and use civic influence to ensure equal access to our system of justice for all those who because of economic or social barriers cannot afford or secure adequate legal counsel. A lawyer should aid the legal profession in pursuing these objectives and should help the bar regulate itself in the public interest.
 
-1. A lawyer’s responsibilities as a representative of clients, an officer of the legal system and a public citizen are usually harmonious. Thus, when an opposing party is well represented, a lawyer can be a zealous advocate on behalf of a client and at the same time assume that justice is being done. So also, a lawyer can be sure that preserving client confidences ordinarily serves the public interest because people are more likely to seek legal advice, and thereby heed their legal obligations, when they know their communications will be private.
+[7] Many of a lawyer's professional responsibilities are prescribed in the Rules of Professional Conduct, as well as substantive and procedural law. However, a lawyer is also guided by personal conscience and the approbation of professional peers. A lawyer should strive to attain the highest level of skill, to improve the law and the legal profession and to exemplify the legal profession's ideals of public service.
 
-1. In the nature of law practice, however, conflicting responsibilities are encountered. Virtually all difficult ethical problems arise from conflict between a lawyer’s responsibilities to clients, to the legal system and to the lawyer’s own interest in remaining an ethical person while earning a satisfactory living. The Rules of Professional Conduct often prescribe terms for resolving such conflicts. Within the framework of these Rules, however, many difficult issues of professional discretion can arise. Such issues must be resolved through the exercise of sensitive professional and moral judgment guided by the basic principles underlying the Rules. These principles include the lawyer’s obligation zealously to protect and pursue a client's legitimate interests, within the bounds of the law, while maintaining a professional, courteous and civil attitude toward all persons involved in the legal system.
+[8] A lawyer's responsibilities as a representative of clients, an officer of the legal system and a public citizen are usually harmonious. Thus, when an opposing party is well represented, a lawyer can be a zealous advocate on behalf of a client and at the same time assume that justice is being done. So also, a lawyer can be sure that preserving client confidences ordinarily serves the public interest because people are more likely to seek legal advice, and thereby heed their legal obligations, when they know their communications will be private.
 
-1. The legal profession is largely self-governing. Although other professions also have been granted powers of self-government, the legal profession is unique in this respect because of the close relationship between the profession and the processes of government and law enforcement. This connection is manifested in the fact that ultimate authority over the legal profession is vested largely in the courts.
+[9] In the nature of law practice, however, conflicting responsibilities are encountered. Virtually all difficult ethical problems arise from conflict between a lawyer's responsibilities to clients, to the legal system and to the lawyer's own interest in remaining an ethical person while earning a satisfactory living. The Rules of Professional Conduct often prescribe terms for resolving such conflicts. Within the framework of these Rules, however, many difficult issues of professional discretion can arise. Such issues must be resolved through the exercise of sensitive professional and moral judgment guided by the basic principles underlying the Rules. These principles include the lawyer's obligation zealously to protect and pursue a client's legitimate interests, within the bounds of the law, while maintaining a professional, courteous and civil attitude toward all persons involved in the legal system.
 
-1. To the extent that lawyers meet the obligations of their professional calling, the occasion for government regulation is obviated. Self-regulation also helps maintain the legal profession's independence from government domination. An independent legal profession is an important force in preserving government under law, for abuse of legal authority is more readily challenged by a profession whose members are not dependent on government for the right to practice.
+[10] The legal profession is largely self-governing. Although other professions also have been granted powers of self-government, the legal profession is unique in this respect because of the close relationship between the profession and the processes of government and law enforcement. This connection is manifested in the fact that ultimate authority over the legal profession is vested largely in the courts.
 
-1. The legal profession's relative autonomy carries with it special responsibilities of self-government. The profession has a responsibility to assure that its regulations are conceived in the public interest and not in furtherance of parochial or self-interested concerns of the bar. Every lawyer is responsible for observance of the Rules of Professional Conduct. A lawyer should also aid in securing their observance by other lawyers. Neglect of these responsibilities compromises the independence of the profession and the public interest which it serves.
+[11] To the extent that lawyers meet the obligations of their professional calling, the occasion for government regulation is obviated. Self-regulation also helps maintain the legal profession's independence from government domination. An independent legal profession is an important force in preserving government under law, for abuse of legal authority is more readily challenged by a profession whose members are not dependent on government for the right to practice.
 
-1. Lawyers play a vital role in the preservation of society. The fulfillment of this role requires an understanding by lawyers of their relationship to our legal system. The Rules of Professional Conduct, when properly applied, serve to define that relationship.
+[12] The legal profession's relative autonomy carries with it special responsibilities of self-government. The profession has a responsibility to assure that its regulations are conceived in the public interest and not in furtherance of parochial or self-interested concerns of the bar. Every lawyer is responsible for observance of the Rules of Professional Conduct. A lawyer should also aid in securing their observance by other lawyers. Neglect of these responsibilities compromises the independence of the profession and the public interest which it serves.
+
+[13] Lawyers play a vital role in the preservation of society. The fulfillment of this role requires an understanding by lawyers of their relationship to our legal system. The Rules of Professional Conduct, when properly applied, serve to define that relationship.
 
 ### Scope
 
-1. The Rules of Professional Conduct are rules of reason. They should be interpreted with reference to the purposes of legal representation and of the law itself. Some of the Rules are imperatives, cast in the terms “shall” or “shall not.” These define proper conduct for purposes of professional discipline. Others, generally cast in the term “may,” are permissive and define areas under the Rules in which the lawyer has discretion to exercise professional judgment. No disciplinary action should be taken when the lawyer chooses not to act or acts within the bounds of such discretion. Other Rules define the nature of relationships between the lawyer and others. The Rules are thus partly obligatory and disciplinary and partly constitutive and descriptive in that they define a lawyer's professional role. Many of the Comments use the term “should.” Comments do not add obligations to the Rules but provide guidance for practicing in compliance with the Rules.
+[14] The Rules of Professional Conduct are rules of reason. They should be interpreted with reference to the purposes of legal representation and of the law itself. Some of the Rules are imperatives, cast in the terms "shall" or "shall not." These define proper conduct for purposes of professional discipline. Others, generally cast in the term "may," are permissive and define areas under the Rules in which the lawyer has discretion to exercise professional judgment. No disciplinary action should be taken when the lawyer chooses not to act or acts within the bounds of such discretion. Other Rules define the nature of relationships between the lawyer and others. The Rules are thus partly obligatory and disciplinary and partly constitutive and descriptive in that they define a lawyer's professional role. Many of the Comments use the term "should." Comments do not add obligations to the Rules but provide guidance for practicing in compliance with the Rules.
 
-1. The Rules presuppose a larger legal context shaping the lawyer’s role. That context includes court rules and statutes relating to matters of licensure, laws defining specific obligations of lawyers and substantive and procedural law in general. The Comments are sometimes used to alert lawyers to their responsibilities under such other law.
+[15] The Rules presuppose a larger legal context shaping the lawyer's role. That context includes court rules and statutes relating to matters of licensure, laws defining specific obligations of lawyers and substantive and procedural law in general. The Comments are sometimes used to alert lawyers to their responsibilities under such other law.
 
-1. Compliance with the Rules, as with all law in an open society, depends primarily upon understanding and voluntary compliance, secondarily upon reinforcement by peer and public opinion and finally, when necessary, upon enforcement through disciplinary proceedings. The Rules do not, however, exhaust the moral and ethical considerations that should inform a lawyer, for no worthwhile human activity can be completely defined by legal rules. The Rules simply provide a framework for the ethical practice of law.
+[16] Compliance with the Rules, as with all law in an open society, depends primarily upon understanding and voluntary compliance, secondarily upon reinforcement by peer and public opinion and finally, when necessary, upon enforcement through disciplinary proceedings. The Rules do not, however, exhaust the moral and ethical considerations that should inform a lawyer, for no worthwhile human activity can be completely defined by legal rules. The Rules simply provide a framework for the ethical practice of law.
 
-1. Furthermore, for purposes of determining the lawyer’s authority and responsibility, principles of substantive law external to these Rules determine whether a client-lawyer relationship exists. Most of the duties flowing from the client-lawyer relationship attach only after the client has requested the lawyer to render legal services and the lawyer has agreed to do so. But there are some duties, such as that of confidentiality, that attach when the lawyer agrees to consider whether a client-lawyer relationship shall be established. Whether a client-lawyer relationship exists for any specific purpose can depend on the circumstances and may be a question of fact.
+[17] Furthermore, for purposes of determining the lawyer's authority and responsibility, principles of substantive law external to these Rules determine whether a client-lawyer relationship exists. Most of the duties flowing from the client-lawyer relationship attach only after the client has requested the lawyer to render legal services and the lawyer has agreed to do so. But there are some duties, such as that of confidentiality under Rule 1.6, that attach when the lawyer agrees to consider whether a client-lawyer relationship shall be established. See Rule 1.18. Whether a client-lawyer relationship exists for any specific purpose can depend on the circumstances and may be a question of fact.
 
-1. Under various legal provisions, including constitutional, statutory and common law, the responsibilities of government lawyers may include authority concerning legal matters that ordinarily reposes in the client in private client-lawyer relationships. For example, a lawyer for a government agency may have authority on behalf of the government to decide upon settlement or whether to appeal from an adverse judgment. Such authority in various respects is generally vested in the attorney general and the state's attorney in state government, and their federal counterparts, and the same may be true of other government law officers. Also, lawyers under the supervision of these officers may be authorized to represent several government agencies in intragovernmental legal controversies in circumstances where a private lawyer could not represent multiple private clients. These Rules do not abrogate any such authority.
+[18] Under various legal provisions, including constitutional, statutory and common law, the responsibilities of government lawyers may include authority concerning legal matters that ordinarily reposes in the client in private client-lawyer relationships. For example, a lawyer for a government agency may have authority on behalf of the government to decide upon settlement or whether to appeal from an adverse judgment. Such authority in various respects is generally vested in the attorney general and the state's attorney in state government, and their federal counterparts, and the same may be true of other government law officers. Also, lawyers under the supervision of these officers may be authorized to represent several government agencies in intragovernmental legal controversies in circumstances where a private lawyer could not represent multiple private clients. These Rules do not abrogate any such authority.
 
-1. Failure to comply with an obligation or prohibition imposed by a Rule is a basis for invoking the disciplinary process. The Rules presuppose that disciplinary assessment of a lawyer’s conduct will be made on the basis of the facts and circumstances as they existed at the time of the conduct in question and in recognition of the fact that a lawyer often has to act upon uncertain or incomplete evidence of the situation. Moreover, the Rules presuppose that whether or not discipline should be imposed for a violation, and the severity of a sanction, depend on all the circumstances, such as the willfulness and seriousness of the violation, extenuating factors and whether there have been previous violations.
+[19] Failure to comply with an obligation or prohibition imposed by a Rule is a basis for invoking the disciplinary process. The Rules presuppose that disciplinary assessment of a lawyer's conduct will be made on the basis of the facts and circumstances as they existed at the time of the conduct in question and in recognition of the fact that a lawyer often has to act upon uncertain or incomplete evidence of the situation. Moreover, the Rules presuppose that whether or not discipline should be imposed for a violation, and the severity of a sanction, depend on all the circumstances, such as the willfulness and seriousness of the violation, extenuating factors and whether there have been previous violations.
 
-1. Violation of a Rule should not itself give rise to a cause of action against a lawyer nor should it create any presumption in such a case that a legal duty has been breached. In addition, violation of a Rule does not necessarily warrant any other nondisciplinary remedy, such as disqualification of a lawyer in pending litigation. The Rules are designed to provide guidance to lawyers and to provide a structure for regulating conduct through disciplinary agencies. They are not designed to be a basis for civil liability. Furthermore, the purpose of the Rules can be subverted when they are invoked by opposing parties as procedural weapons. The fact that a Rule is a just basis for a lawyer’s self-assessment, or for sanctioning a lawyer under the administration of a disciplinary authority, does not imply that an antagonist in a collateral proceeding or transaction has standing to seek enforcement of the Rule. Nevertheless, since the Rules do establish standards of conduct by lawyers, a lawyer’s violation of a Rule may be evidence of breach of the applicable standard of conduct.
+[20] Violation of a Rule should not itself give rise to a cause of action against a lawyer nor should it create any presumption in such a case that a legal duty has been breached. In addition, violation of a Rule does not necessarily warrant any other nondisciplinary remedy, such as disqualification of a lawyer in pending litigation. The Rules are designed to provide guidance to lawyers and to provide a structure for regulating conduct through disciplinary agencies. They are not designed to be a basis for civil liability. Furthermore, the purpose of the Rules can be subverted when they are invoked by opposing parties as procedural weapons. The fact that a Rule is a just basis for a lawyer's self-assessment, or for sanctioning a lawyer under the administration of a disciplinary authority, does not imply that an antagonist in a collateral proceeding or transaction has standing to seek enforcement of the Rule. Nevertheless, since the Rules do establish standards of conduct by lawyers, a lawyer's violation of a Rule may be evidence of breach of the applicable standard of conduct.
 
-1. The Comment accompanying each Rule explains and illustrates the meaning and purpose of the Rule. The Preamble and this note on Scope provide general orientation. The Comments are intended as guides to interpretation, but the text of each Rule is authoritative.
+[21] The Comment accompanying each Rule explains and illustrates the meaning and purpose of the Rule. The Preamble and this note on Scope provide general orientation. The Comments are intended as guides to interpretation, but the text of each Rule is authoritative.
 
 </div>
 
@@ -304,67 +306,66 @@ No code or set of rules can be framed, which will particularize all the duties o
 
 1. The Duty of the Lawyer to the Courts.
 
-1. The Selection of Judges
+2. The Selection of Judges
 
-1. Attempts to Exert Personal Influence on the Courts
+3. Attempts to Exert Personal Influence on the Courts
 
-1. When Counsel for an Indigent Prisoner.
+4. When Counsel for an Indigent Prisoner.
 
-1. The Defense or Prosecution of Those Accused of Crime.
+5. The Defense or Prosecution of Those Accused of Crime.
 
-1. Adverse Influences and Conflicting Interests.
+6. Adverse Influences and Conflicting Interests.
 
-1. Professional Colleagues and Conflicts of Opinion.
+7. Professional Colleagues and Conflicts of Opinion.
 
-1. Advising Upon the Merits of a Client’s Cause.
+8. Advising Upon the Merits of a Client’s Cause.
 
-1. Negotiations with Opposite Party.
+9. Negotiations with Opposite Party.
 
-1. Acquiring Interest in Litigation.
+10. Acquiring Interest in Litigation.
 
-1. Dealing with Trust Property.
+11. Dealing with Trust Property.
 
-1. Fixing the Amount of the Fee.
+12. Fixing the Amount of the Fee.
 
-1. Contingent Fees.
+13. Contingent Fees.
 
-1. Suing a Client for a Fee.
+14. Suing a Client for a Fee.
 
-1. How Far a Lawyer May Go in Supporting a Client’s Cause.
+15. How Far a Lawyer May Go in Supporting a Client’s Cause.
 
-1. Restraining Clients from Improprieties.
+16. Restraining Clients from Improprieties.
 
-1. Ill Feeling and Personalities Between Advocates.
+17. Ill Feeling and Personalities Between Advocates.
 
-1. Treatment of Witnesses and Litigants.
+18. Treatment of Witnesses and Litigants.
 
-1. Appearance of Lawyer as Witness for His Client.
+19. Appearance of Lawyer as Witness for His Client.
+20. Newspaper Discussion of Pending Litigation.
 
-1. Newspaper Discussion of Pending Litigation.
+21. Punctuality and Expedition.
 
-1. Punctuality and Expedition.
+22. Candor and Fairness.
 
-1. Candor and Fairness.
+23. Attitude Toward Jury.
 
-1. Attitude Toward Jury.
+24. Right of Lawyers to Control the Incidents of the Trial.
 
-1. Right of Lawyers to Control the Incidents of the Trial.
+25. Taking Technical Advantage of Opposite Counsel; Agreements with Him.
 
-1. Taking Technical Advantage of Opposite Counsel; Agreements with Him.
+26. Professional Advocacy Other Than Before Courts.
 
-1. Professional Advocacy Other Than Before Courts.
+27. Advertising, Direct or Indirect.
 
-1. Advertising, Direct or Indirect.
+28. Stirring Up Litigation, Directly or Through Agents.
 
-1. Stirring Up Litigation, Directly or Through Agents.
+29. Upholding the Honor of the Profession.
 
-1. Upholding the Honor of the Profession.
+30. Justifiable and Unjustifiable Litigations.
 
-1. Justifiable and Unjustifiable Litigations.
+31. Responsibility for Litigation.
 
-1. Responsibility for Litigation.
-
-1. The Lawyer’s Duty in Its Last Analysis.
+32. The Lawyer’s Duty in Its Last Analysis.
 
 </div> 
 
