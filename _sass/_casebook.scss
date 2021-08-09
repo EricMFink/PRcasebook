@@ -332,3 +332,20 @@ blockquote p {
 	font-family: $sans-font;
 	font-size: $small;
 }
+
+.casebook-questions {
+	background-color: $light-grey;
+	padding: 20px;
+}
+
+.casebook-questions h1 {
+	font-family: $sans-font;
+	font-size: $h3;
+	margin: 0 0 1rem 0;
+}
+
+.casebook-questions p {
+	font-family: $serif-font;
+	font-size: $body;
+}
+

@@ -155,7 +155,7 @@ Based on the foregoing, we hold that the jury's findings are adequately supporte
 
 </div>
 
-#### Questions
+# 
 
 1. What was the basis for the Togstads' claim that Miller's actions formed an attorney-client relationship? How did Miller respond?
 
@@ -239,7 +239,7 @@ Under the Rules of Professional Conduct and the cases, there is no legal basis o
 
 </div> 
 
-#### Questions
+# 
 
 1. Why did Clark object to Hogan & Hartson representing Ferranti in its action action against him? Why did the court dismiss Clark's objections?
 
@@ -287,7 +287,7 @@ Accordingly, attorneys should try to prevent prospective clients from disclosing
 
 </div>
 
-#### Questions
+# 
 
 1. What was the basis for Annuity's objection to Dilworth's representation of Clark?
 
@@ -351,7 +351,7 @@ When a client fires an attorney and hires a new attorney, the former attorney ma
 </div>
 
 
-#### Questions
+# 
 
 1. If a client fires an attorney for actual or perceived incompetence, should the attorney be able to recover in quantum meruit?
 
@@ -395,7 +395,7 @@ Attorneys must also withdraw from representation if their physical or mental sta
 
 
 
-#### Questions
+# 
 
 1. Why did Lacara claim permissive withdrawal, rather than mandatory withdrawal?
 
@@ -494,7 +494,7 @@ As fiduciaries, attorneys have a legal duty to act only in the interests of thei
 </div>
 
 
-#### Questions
+# 
 
 1. Did Kennedy have authority to agree to the settlement? 
 
@@ -516,7 +516,7 @@ As fiduciaries, attorneys have a legal duty to act only in the interests of thei
 
 
 
-#### Questions 
+#  
 
 - Why did the insurance company pay the checks?
 
@@ -683,7 +683,7 @@ In addition, Model Rule 4.2 only applies to attorneys. Nothing prevents represen
 
 
 
-#### Questions
+# 
 
 1. What is the purpose of Model Rule 4.2 and its prohibition on attorneys engaging in ex parte communications with represented persons? Is it intended to protect clients or their attorneys?
 
@@ -747,7 +747,7 @@ In theory, state bar associations are supposed to ensure that attorneys charge r
 </div>
 
 
-#### Questions
+# 
 
 1. Was the problem with Cooperman's fees that they were non-refundable, too high, or both? What if Cooperman had charged a non-refundable fee of $1000 or $100? What if Cooperman required a $10,000 refundable retainer and a $5000 engagement fee, paid at the end of representation?
 
@@ -771,7 +771,7 @@ In theory, state bar associations are supposed to ensure that attorneys charge r
 
 
 
-#### Questions
+# 
 
 1. Was the problem with Fordham's fee the rate he charged, the number of hours he billed, or both?
 
@@ -805,7 +805,7 @@ Under Model Rule 1.5(c), contingency fee agreements cannot be unreasonable and m
 
 </div>
 
-#### Questions
+# 
 
 1. Why wasn't Culpepper entitled to compensation for the work he actually did for Cole?
 
@@ -844,7 +844,7 @@ Attorneys may withdraw funds from a client's trust account in order to pay the c
 
 
 
-#### Questions
+# 
 
 1. Was Statmore's commingling of Kuzara's funds with his own intentional? Was it reckless? Was Kuzara harmed, and if so, how? 
 
@@ -886,7 +886,7 @@ The concern is that the attorney's financial interest in the client's property c
 
 </div>
 
-#### Questions
+# 
 
 1. Did Mershon benefit at Miller's expense?
 
@@ -943,7 +943,7 @@ Rule 1.8(e), (i)
 </div>
 
 
-#### Questions
+# 
 
 1. On October 4, 2012, the website Gawker published a 2 minute excerpt from a 30 minute video of Terry Gene Bollea, better known as "Hulk Hogan," having sex with Heather Clem, the wife of Bollea's friend Bubba the Love Sponge Clem. Bollea claimed the video was made without his knowledge or consent, and filed an action against Gawker in Florida state court, alleging an assortment of tort claims. The jury ruled in favor of Bollea, awarding him $115 million in compensatory damages and $25 million in punitive damages. Gawker could not pay the judgment and filed for bankruptcy. After the trial, Peter Thiel disclosed that he had paid millions of dollars to finance Bollea's action, which he described as "one of my greater philanthropic things that I've done." Many people objected to Thiel's role in Bollea's action. Was it maintenance, champerty, or barratry? Should it have been prohibited?
 
@@ -987,7 +987,7 @@ Specifically, an attorney representing an organizational client must ensure that
 
 
 
-#### Questions
+# 
 
 1. Medeiros owned Medcon. How could Silva have reported to Medcon?
 
@@ -1012,7 +1012,7 @@ Specifically, an attorney representing an organizational client must ensure that
 </div>
 
 
-#### Questions
+# 
 
 1. Why did the court hold that Ruffner represented the corporation, rather than Brennan? What if Brennan were a majority shareholder of the corporation?
 
@@ -1038,7 +1038,7 @@ Specifically, an attorney representing an organizational client must ensure that
 
 </div>
 
-#### Questions 
+#  
 
 1. Did Mursau have any attorney-client relationship with G & S?
 
@@ -1082,7 +1082,7 @@ Do you have any questions?
 
 Are you willing to proceed?
 
-#### Questions 
+#  
 
 1. Does this model warning adequately explain that the attorney represents the organization and not its agents?
 
@@ -1105,7 +1105,7 @@ Are you willing to proceed?
 </div>
 
 
-#### Questions
+# 
 
 1. Why did the court hold that no attorney-client relationship existed? Do you agree with its conclusion?
 
@@ -1128,7 +1128,7 @@ Are you willing to proceed?
 </div>
 
 
-#### Questions
+# 
 
 1. Did Warley believe KPMG's attorneys represented her personally? If so, why was she wrong. Did anyone tell her that KPMG's attorneys were not representing her personally?
 

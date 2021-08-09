@@ -173,7 +173,7 @@ Accordingly, we reverse Opinion No. 544.
  
 
 
-# Questions: 
+<div markdown="block" class="casebook-questions"> &&&& # Check Your Knowledge  
 
 1. Why did the court hold that the Law Project could not produce identifying information? 
 
@@ -727,7 +727,7 @@ Therefore, the district court did not err in denying the motion to dismiss the i
  
 
 
-# Questions: 
+<div markdown="block" class="casebook-questions"> &&&& # Check Your Knowledge  
 
 1. Why did Franklin think he was entitled to relief? 
 
@@ -816,7 +816,7 @@ Today's opinion will likely have two unfortunate results. First, overzealous pro
  
 
 
-# Questions: 
+<div markdown="block" class="casebook-questions"> &&&& # Check Your Knowledge  
 
 1. Why did the appellate court and the Ohio Supreme Court disagree about whether the letter was "confidential information" for the purpose of the duty of confidentiality? 
 
@@ -1127,7 +1127,7 @@ There must always be a conflict between the obstruction of the administration of
 It is the decision of this court that Francis R. Beige conducted himself as an officer of the court with all the zeal at his command to protect the constitutional rights of his client. Both on the grounds of a privileged communication and in the interests of justice the indictment is dismissed. 
 
 
-# Questions: 
+<div markdown="block" class="casebook-questions"> &&&& # Check Your Knowledge  
 
 1. You may find this 
 video
@@ -1223,7 +1223,7 @@ communications from an attorney to a third party are privileged. Question 65 inq
  
 
 
-# Questions: 
+<div markdown="block" class="casebook-questions"> &&&& # Check Your Knowledge  
 
 1. Why did the court find information relating to the date and general nature of the legal services provided by Colton to the Matters was not privileged? Do you agree? 
 
@@ -1446,7 +1446,7 @@ Defendant's inculpatory statements to Jenkins were not subject to any privilege.
  
 
 
-# Questions: 
+<div markdown="block" class="casebook-questions"> &&&& # Check Your Knowledge  
 
 1. What if Jenkins had been an imprisoned attorney? 
 
@@ -1533,7 +1533,7 @@ While such concerns about "bad facts" might fall within the privilege if they we
  
 
 
-# Questions: 
+<div markdown="block" class="casebook-questions"> &&&& # Check Your Knowledge  
 
 1. Why did the court hold that the communications at issue were not protected by the attorney-client privilege? 
 
@@ -2019,7 +2019,7 @@ Needless to say, we decide only the case before us, and do not undertake to draf
  
 
 
-# Questions: 
+<div markdown="block" class="casebook-questions"> &&&& # Check Your Knowledge  
 
 
 1. Which agents of an organization can be parties to privileged communications? 
@@ -2130,7 +2130,7 @@ In light of the foregoing analysis, we find that that the district court's order
  
 
 
-# Questions: 
+<div markdown="block" class="casebook-questions"> &&&& # Check Your Knowledge  
 
 1. Under the commonly used 
 Bevill
@@ -2203,7 +2203,7 @@ Our conclusion that the documents are protected by the attorney-client privilege
  
 
 
-# Questions: 
+<div markdown="block" class="casebook-questions"> &&&& # Check Your Knowledge  
 
 1. Why does it matter for the attorney-client privilege whether an agent of an organization "needed to know" about a communication? 
 
@@ -2370,7 +2370,7 @@ Peralta
 As a result of the foregoing—and because it is apparent that the communications between Ms. Elliott and Medco Defendants' may have influenced her testimony—Plaintiffs' motion is granted. However, Plaintiffs may obtain additional testimony from Ms. Elliott only regarding the four specific avenues of inquiry previously discussed, and in a manner consistent with the limitations set forth above. 
  
 
-# Questions: <span type="pagebreak" title="474" id="calibre_link-853"></span>
+<div markdown="block" class="casebook-questions"> &&&& # Check Your Knowledge  <span type="pagebreak" title="474" id="calibre_link-853"></span>
 
 5.6: The Work Product Doctrine 
 
@@ -2856,7 +2856,7 @@ Hickman
 avoid. For example, it might discourage companies from seeking legal advice and candidly disclosing that information to independent auditors. Moreover, the government has not proffered any good reason for wanting the Dow Documents other than its desire to know what Dow's counsel thought about the Chemtech partnerships. Granting discovery under these circumstances would undercut the adversary process and let the government litigate "on wits borrowed from the adversary," We conclude that the district court applied the correct legal standard and acted within its discretion in determining that Dow had not waived work-product protection. Consequently, we affirm the district court's decision denying the government's motion to compel with respect to the Dow Documents. 
 
 
-# Questions: 
+<div markdown="block" class="casebook-questions"> &&&& # Check Your Knowledge  
 
 1. Why did the court hold that a document disclosed to a third-party can be protected by the work product doctrine? Do you agree with its conclusion? 
 
@@ -3487,7 +3487,7 @@ The ruling today should not be taken as an indictment of counsel's ethics or pro
 Additionally, it should be noted that this ruling may be interpreted by some as punishment for Haigh's retention of counsel. Indeed, if Haigh were proceeding pro se, the privilege would not be vitiated. However, an attorney's clients may not reap the benefits of the attorney's expertise in a vacuum-like state. Rather, the client must realize that the attorney is bound by a Code of Professional Responsibility, and, when he retains the attorney, he also retains the responsibilities imposed on that attorney. <span type="pagebreak" title="534" id="calibre_link-913"></span>
 
 
-# Questions: 
+<div markdown="block" class="casebook-questions"> &&&& # Check Your Knowledge  
  
 
 

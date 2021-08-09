@@ -44,77 +44,142 @@ _The sad thing about lawyers is not that so many of them are stupid, but that so
 
 --- 
 
-Thank you for your interest in Professional Responsibility: An Open-Source Casebook. We hope that you find it useful and informative. 
+**Preface**
 
-This is a free casebook. We believe that law students and others interested in the law should not have to pay the high prices that commercial publishers charge for casebooks. Many others agree, and have created free or low-cost casebooks covering many different areas of the law. Here are some examples: 
+Thank you for your interest in *Professional Responsibility: An
+Open-Access Casebook*. We hope that you find it useful and informative.
 
-- Barton Beebe, Trademark Law: An Open-Source Casebook 
+This is a free casebook. We believe that law students and others
+interested in the law should not have to pay the high prices that
+commercial publishers charge for casebooks. Many others agree, and have
+created free or low-cost casebooks covering many different areas of the
+law. Here are some examples:
 
-- James Boyle & Jennifer Jenkins, Open Intellectual Property Casebook 
+<table>
+<thead>
+<tr class="header">
+<th><strong>Practice Area</strong></th>
+<th><strong>Casebook</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Advertising and Marketing</td>
+<td><a href="https://www.ericgoldman.org/"><u>Eric Goldman</u></a> & <a href="https://hls.harvard.edu/faculty/directory/11412/Tushnet"><u>Rebecca Tushnet</u></a>, <a href="https://blog.ericgoldman.org/archives/2019/01/announcing-the-fourth-edition-of-advertising-marketing-law-cases-materials-by-tushnet-goldman-2.htm"><em><u>Advertising & Marketing Law: Cases & Materials</u></em></a></td>
+</tr>
+<tr class="even">
+<td>Civil Rights</td>
+<td><a href="https://law.lclark.edu/live/profiles/269-john-parry"><u>John T. Parry</u></a>, <a href="https://www.semaphorepress.com/CivilRightsLitigationOverview.html"><em><u>Cases and Problems in Civil Rights Litigation: State, Federal and International Perspectives</u></em></a></td>
+</tr>
+<tr class="odd">
+<td>Intellectual Property</td>
+<td><a href="https://law.duke.edu/fac/boyle/"><u>James Boyle</u></a> & <a href="https://law.duke.edu/fac/jenkins/"><u>Jennifer Jenkins</u></a>, <a href="https://law.duke.edu/cspd/openip/"><em><u>Open Intellectual Property Casebook</u></em></a></td>
+</tr>
+<tr class="even">
+<td>Intellectual Property</td>
+<td><a href="https://james.grimmelmann.net/ipbook/"><u>James Grimmelmann</u></a>, <a href="https://james.grimmelmann.net/ipbook/"><em><u>Patterns of Information Law: Intellectual Property Done Right</u></em></a></td>
+</tr>
+<tr class="odd">
+<td>Intellectual Property</td>
+<td><a href="https://law.lclark.edu/live/profiles/293-lydia-loren"><u>Lydia Pallas Loren</u></a> & <a href="http://www.law.uga.edu/profile/joseph-s-miller"><u>Joseph Scott Miller</u></a>, <a href="https://www.semaphorepress.com/IntellectualPropertyLaw_overview.html"><em><u>Intellectual Property Law: Cases & Materials</u></em></a></td>
+</tr>
+<tr class="even">
+<td>Internet Law</td>
+<td><a href="http://james.grimmelmann.net/"><u>James Grimmelmann</u></a>, <a href="http://internetcasebook.com/"><em><u>Internet Law: Cases and Problems</u></em></a></td>
+</tr>
+<tr class="odd">
+<td>Interstate Law</td>
+<td><a href="https://law.lclark.edu/live/profiles/2860-jeff-litwak"><u>Jeffrey Litwak</u></a>, <a href="https://www.semaphorepress.com/InterstateCompactLaw_overview.html"><em><u>Interstate Compact Law: Cases & Materials</u></em></a></td>
+</tr>
+<tr class="even">
+<td>Property</td>
+<td><a href="https://law.uark.edu/directory/directory-faculty/uid/sclowney/name/Steve+Clowney/"><u>Stephen Clowney</u></a>, <a href="https://james.grimmelmann.net/"><u>James Grimmelmann</u></a>, <a href="https://law.depaul.edu/faculty-and-staff/faculty-a-z/Pages/michael-grynberg.aspx"><u>Michael Grynberg</u></a>, <a href="https://www.stjohns.edu/academics/bio/jeremy-sheff"><u>Jeremy Sheff</u></a> & <a href="https://hls.harvard.edu/faculty/directory/11412/Tushnet"><u>Rebecca Tushnet</u></a>, <a href="https://opensourceproperty.org/"><em><u>Open Source Property: A Free Casebook</u></em></a></td>
+</tr>
+<tr class="odd">
+<td>Property</td>
+<td><a href="https://www.tjsl.edu/directory/steven-semeraro"><u>Steve Semeraro</u></a>, <a href="https://www.semaphorepress.com/PropertyLaw_overview.html"><em><u>An Introduction to Property Law in the U.S.</u></em></a></td>
+</tr>
+<tr class="even">
+<td>Trademark</td>
+<td><a href="https://its.law.nyu.edu/facultyprofiles/index.cfm?fuseaction=profile.overview&personid=30077"><u>Barton Beebe</u></a>, <a href="http://tmcasebook.org/"><em><u>Trademark Law: An Open-Source Casebook</u></em></a></td>
+</tr>
+</tbody>
+</table>
 
-- Stephen Clowney, James Grimmelmann, Michael Grynberg, Jeremy Sheff & Rebecca Tushnet, Open Source Property: A Free Casebook 
+In addition, the [Center for Computer-Assisted Legal Instruction
+(CALI)](https://www.cali.org/) offers [free
+casebooks](https://www.cali.org/collections/casebook) in many
+different subjects, including:
 
-- James Grimmelmann, Internet Law: Cases and Problems 
+- Bankruptcy Law and Practice
 
-- James Grimmelmann, Patterns of Information Law: Intellectual Property Done Right 
+- Basic Income Tax
 
-- Steve Semeraro, An Introduction to Property Law in the U.S. 
+- Contract Doctrine, Theory & Practice
 
-- Jeffrey Litwak, Interstate Compact Law: Cases & Materials 
+- Corporate Income Tax
 
-- Lydia Pallas Loren & Joseph Scott Miller, Intellectual Property Law: Cases & Materials 
+- The Ethics of Tax Lawyering
 
-- John T. Parry, Cases and Problems in Civil Rights Litipation: State, Federal and International Perspectives 
+- First Amendment: Cases, Controversies, and Contexts
 
-- Eric Goldman & Rebecca Tushnet, Advertising & Marketing Law: Cases & Materials 
+- Land Use
 
-In addition, the Center for Computer-Assisted Legal Instruction (CALI) offers free casebooks in many different subjects, including: 
+- The Law of Trusts
 
-- Bankruptcy Law and Practice 
+- Law of Wills
 
-- Basic Income Tax 
+- Property
 
-- Contract Doctrine, Theory & Practice 
+- Sales and Leases: A Problem-based Approach
 
-- Corporate Income Tax 
+- Selected Materials on the Law of Evidence
 
-- The Ethics of Tax Lawyering 
+- Sources of American Law: An Introduction to Legal Research
 
-- First Amendment: Cases, Controversies, and Contexts 
+- The Story of Contract Law
 
-- Land Use 
+- Torts: Cases and Contexts
 
-- The Law of Trusts 
+- U.S. Federal Income Taxation of Individuals
 
-- Law of Wills 
+- Wetlands Law: A Course Source
 
-- Property 
+We noticed that there was no free and open-source casebook available for
+a professional responsibility class, so we decided to create one.
 
-- Sales and Leases: A Problem-based Approach 
+<img src="/assets/images/image1.png" style="width:5.23438in;height:3.91026in" />
 
-- Selected Materials on the Law of Evidence 
+This casebook covers a wide range of different subjects related to the
+professional responsibility of attorneys. While it is possible to cover
+all of this material in a three credit-hour course, you may wish to omit
+some subjects. You may also wish to supplement the materials in this
+casebook with additional materials. We encourage you to use this
+casebook in any way that you like.
 
-- Sources of American Law: An Introduction to Legal Research 
+This casebook is licensed “Creative Commons 0 / No Rights Reserved.”
+That means that we explicitly disclaim any copyright claim in all of the
+original elements that we created in writing this casebook and have
+intentionally placed the casebook in the public domain. Because this
+casebook is in the public domain, you can use the materials in it in any
+way that you like, with or without attribution. Of course, the casebook
+contains many copyrighted elements that belong to other people and that
+we used pursuant to fair use. Those elements are still protected by
+copyright.
 
-- The Story of Contract Law 
+We hope that this free casebook helps show that it is possible to create
+teaching materials for legal education in an open-source format. And we
+hope it makes access to the law governing legal practice more accessible
+to law students, attorneys, and anyone interested in the regulation of
+the legal profession.
 
-- Torts: Cases and Contexts 
+In closing, we would like to thank our research assistants Nicole
+Pottinger, Justin Cloyd, Mark Blankenship, Barrett Block, and Renee
+Wilson. We would also like to thank Cornelius Kearns, Brandon Magner,
+and Guy Hamilton-Smith for helpful comments.
 
-- U.S. Federal Income Taxation of Individuals 
+[Brian L. Frye](http://law.uky.edu/directory/brian-l-frye)  
 
-- Wetlands Law: A Course Source 
+[Elizabeth Schiller](https://law.richmond.edu/faculty/eschille/)  
 
-We noticed that there was no free and open-source casebook available for a professional responsibility class, so we decided to create one. 
-
-We wanted this casebook to be as easy to use and understand as possible. Accordingly, we included not only cases, but also the text of the rules and restatements, as well as concise explanations of the relevant law. Each chapter of the book addresses a different issue, in the following format. First, it clearly and concisely explains the relevant law governing that issue. Then provides the relevant text of any statutes, Model Rules, sections of the Restatement of the Law Governing Lawyers, or other sources, with a link to an open-source versions of the full text, when available. It provides one or more heavily edited cases intended to illustrate the application of the law at issue, with a link to an open-source version of the full text of the case. Each case is preceded by a brief summary of its facts, reasoning, and holding, and followed by questions intended to indicate subjects for further investigation or discussion. And finally, it includes citations to law review articles and other materials relevant to the law at issue, with links to open-source versions of those materials, when available. 
-
-This casebook covers a wide range of different subjects related to the professional responsibility of attorneys. While it is possible to cover all of this material in a three credit-hour course, you may wish to omit some subjects. You may also wish to supplement the materials in this casebook with additional materials. We encourage you to use this casebook in any way that you like. 
-
-This casebook is licensed "Creative Commons 0 / No Rights Reserved." That means that we explicitly disclaim any copyright claim in all of the original elements that we created in writing this casebook and have intentionally placed the casebook in the public domain. Because this casebook is in the public domain, you can use the materials in it in any way that you like, with or without attribution. Of course, the casebook contains many copyrighted elements that belong to other people and that we used pursuant to fair use. Those elements are still protected by copyright. 
-
-We hope that this free casebook helps show that it is possible to create teaching materials for legal education in an open-source format. And we hope it makes access to the law governing legal practice more accessible to law students, attorneys, and anyone interested in the regulation of the legal profession. 
-
-In closing, we would like to thank our research assistants Nicole Pottinger, Justin Cloyd, Mark Blankenship, Barrett Block, and Renee Wilson. We would also like to thank Cornelius Kearns, Brandon Magner, and Guy Hamilton-Smith for helpful comments.
-
-Brian L. Frye & Elizabeth Schiller 
-
+S.J. Morrison
