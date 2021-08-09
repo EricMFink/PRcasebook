@@ -120,13 +120,17 @@ Of course, studying an area of law inevitably provokes reflections on its purpos
 
 </div>
 
- #### Check Your Knowledge 
+<div markdown="block" class="casebook-questions">
+
+# Check Your Knowledge 
 
 1. What are these two sections of the Model Rules intended to accomplish?
 
 2. Does the Preamble seem to describe regulations, ethical rules, or both? What about the section on the scope of the Model Rules?
 
 3. Does the Preamble suggest that the Model Rules provide ethical guidance for attorneys? What about the section on scope?
+
+</div>
 
 ## The Duty of Zealous Representation
 
@@ -162,11 +166,13 @@ When the ABA adopted the Model Rules of Professional Conduct in 1983, it did not
 
 > A lawyer should pursue a matter on behalf of a client despite opposition, obstruction or personal inconvenience to the lawyer, and take whatever lawful and ethical measures are required to vindicate a client’s cause or endeavor. A lawyer must also act with commitment and dedication to the interests of the client and with zeal in advocacy upon the client's behalf. A lawyer is not bound, however, to press for every advantage that might be realized for a client. For example, a lawyer may have authority to exercise professional discretion in determining the means by which a matter should be pursued. The lawyer’s duty to act with reasonable diligence does not require the use of offensive tactics or preclude the treating of all persons involved in the legal process with courtesy and respect.
 
-#### Check Your Knowledge 
+<div markdown="block" class="casebook-questions">
+
+# Check Your Knowledge 
 
 After the terrorist attacks of September 11, 2001, President Bush asked the Office of Legal Counsel (“OLC”) for its opinion on the legality of certain interrogation techniques. OLC produced several memoranda arguing that the techniques were legal under domestic and international law, which ultimately became known as the “torture memos.” The torture memos were almost universally condemned by policymakers and legal scholars as both immoral and incorrect statements of the governing law. Should OLC have produced the memos? Was it a violation of the rules of professional conduct for OLC to make arguments based on inaccurate interpretations of the law? Was it a violation of legal ethics for OLC to make arguments in favor of the interrogation techniques? Would it have been a violation of legal ethics if those techniques were in fact legal? Would it have been a violation of the rules of professional conduct for OLC to produce memos presenting arguments both for and against the legality of the interrogation techniques?
 
---- 
+</div>
 
 <div markdown="block" class="case">
 
