@@ -209,7 +209,7 @@ the consent shall be given by an appropriate official of the organization other 
 
 <div markdown="block" class="case summary">
 
-Summary: William Clark was general counsel of Ferranti and hired Hogan & Hartson to represent the company in relation to a federal investigation. Hogan & Hartson informed Ferranti's employees that they should consider retaining an attorney. During the investigation, Clark provided confidential information to Hogan & Hartson. Eventually, Ferranti filed an action against Clark for breach of fiduciary duty and legal malpractice. Clark objected to Hogan & Hartson's representation of Ferranti. The court dismissed Clark's objections, on the ground that he knew Hogan & Hartson never represented him personally.
+_Summary:_ William Clark was general counsel of Ferranti and hired Hogan & Hartson to represent the company in relation to a federal investigation. Hogan & Hartson informed Ferranti's employees that they should consider retaining an attorney. During the investigation, Clark provided confidential information to Hogan & Hartson. Eventually, Ferranti filed an action against Clark for breach of fiduciary duty and legal malpractice. Clark objected to Hogan & Hartson's representation of Ferranti. The court dismissed Clark's objections, on the ground that he knew Hogan & Hartson never represented him personally.
 
 </div>
 
@@ -259,11 +259,20 @@ A "prospective client" is a person or organization that discusses the possibilit
 
 Accordingly, attorneys should try to prevent prospective clients from disclosing confidential information, in order to avoid disqualification from representing adverse parties. And attorneys must determine whether potential clients have disclosed any confidential information, because it creates a duty of confidentiality.
 
-### Model Rule 1.18: Client-Lawyer Relationship
+<div markdown="block" class="statute">
+
+# Model Rule 1.18: Client-Lawyer Relationship
+
+</div>
 
 
+<div markdown="block" class="statute">
 
-### Restatement (Third) of the Law Governing Lawyers § 15 (2000)
+# Restatement (Third) of the Law Governing Lawyers (2000)
+
+## § 15 
+
+</div>
 
 
 <div markdown="block" class="case">
@@ -298,19 +307,24 @@ Under certain circumstances, attorneys may choose to end an attorney-client rela
 
 Before ending an attorney-client relationship, an attorney should determine whether good cause exists to end the relationship. If an attorney ends an attorney-client relationship without good cause, the attorney may be subject to discipline and liable to the client for malpractice or breach of fiduciary duty.
 
-### Model Rule 1.16: Declining or Terminating Representation
+<div markdown="block" class="statute">
+
+# Model Rule 1.16: Declining or Terminating Representation
+
+</div>
+
+<div markdown="block" class="statute">
+
+# Restatement (Third) of the Law Governing Lawyers (2000)
+
+## § 31: Termination of a Lawyer's Authority
 
 
 
-### Restatement (Third) of the Law Governing Lawyers § 31 (2000): Termination of a Lawyer's Authority
+## § 32: Discharge by a Client and Withdrawal by a Lawyer
 
 
-
-
-### Restatement (Third) of the Law Governing Lawyers § 32 (2000): Discharge by a Client and Withdrawal by a Lawyer
-
-
-## Discharge by the Client 
+### Discharge by the Client 
 
 Typically, clients can end the attorney-client relationship simply by firing their attorney. Under Model Rule 1.16(a)(3), "a lawyer shall not represent a client or … shall withdraw from the representation of a client if … the lawyer is discharged." And as Section 32(1) of the Restatement observes, "a client may discharge a lawyer at any time."
 
@@ -319,6 +333,8 @@ However, a client's ability to fire an attorney and end the attorney-client rela
 Criminal defendants have a limited right to fire appointed counsel and receive alternative counsel. Criminal defendants also have a limited right to fire appointed counsel and represent themselves. Among other things, criminal defendant must express an "unequivocal" desire to represent themselves. In theory, this means that criminal defendants cannot fire appointed counsel only because they believe appointed counsel is bad.
 
 When a client fires an attorney and hires a new attorney, the former attorney may have a claim against the former client. In a civil claim, the former attorney may recover the value of the services rendered.
+
+</div>
 
 <div markdown="block" class="case">
 
@@ -340,6 +356,8 @@ When a client fires an attorney and hires a new attorney, the former attorney ma
 1. If a client fires an attorney for actual or perceived incompetence, should the attorney be able to recover in quantum meruit?
 
 2. Many courts have held that a fired attorney may also recover a percentage of a contingent fee. "The outgoing attorney may elect to take compensation on the basis of a presently fixed dollar amount based upon quantum meruit for the reasonable value of services or, in lieu thereof, the outgoing attorney has the right to elect a contingent percentage fee based on the proportionate share of the work performed on the whole case." Lai Ling Cheng v. Modansky, 73 N.Y.2d 454 (1989). Do you agree with this conclusion?
+
+--- 
 
 ## Withdrawal by the Attorney 
 
@@ -441,19 +459,26 @@ The attorney-client relationship is unusual because attorneys are fiduciaries of
 
 As fiduciaries, attorneys have a legal duty to act only in the interests of their clients, and to put the interests of their clients above their own interests. Accordingly, attorneys may never form a relationship that would create a conflict of interest with a current or former client, without the client's informed consent.
 
+<div markdown="block" class="statute">
 
-### Model Rule 1.2: Scope of Representation & Allocation of Authority Between Client & Lawyer
+# Model Rule 1.2: Scope of Representation & Allocation of Authority Between Client & Lawyer
+
+</div>
+
+<div markdown="block" class="statute">
+
+# Restatement (Third) of the Law Governing Lawyers (2000)
+
+## Introductory Note 
 
 
 
-### Restatement (Third) of the Law Governing Lawyers, Introductory Note (2000)
+## § 20 
 
 
+## § 21
 
-### Restatement (Third) of the Law Governing Lawyers § 20 (2000)
-
-
-### Restatement (Third) of the Law Governing Lawyers § 21 (2000)
+</div>
 
 
 <div markdown="block" class="case">
@@ -532,15 +557,23 @@ As the principal, the client has the sole authority to make certain important de
 
 However, attorneys retain considerable discretion to make decisions about how to pursue representation, so long as those decisions are consistent with the client's decisions, and implicitly authorized by the client as necessary to representation. In other words, the client is entitled to specify the goals of representation, but not to control the attorney's every decision in pursuit of those goals.
 
-### Rule 1.2: Scope of Representation & Allocation of Authority Between Client & Lawyer
+<div markdown="block" class="statute">
+
+# Rule 1.2: Scope of Representation & Allocation of Authority Between Client & Lawyer
+
+</div>
+
+<div markdown="block" class="statute">
+
+# Restatement (Third) of the Law Governing Lawyers (2000)
+
+## § 22 
 
 
 
-### Restatement (Third) of the Law Governing Lawyers § 22 (2000)
+## § 23
 
-
-
-### Restatement (Third) of the Law Governing Lawyers § 23 (2000)
+</div>
 
 <div markdown="block" class="case">
 
@@ -571,11 +604,19 @@ Sometimes, it is unclear whether a client is impaired. The client may be unable 
 
 But if the attorney can represent the client directly, then the attorney must act in the client's best interests. This can create a conflict, if the attorney believes that the client's instructions are inconsistent with the client's best interests. Should the attorney obey the client?
 
-### Rule 1.14: Client with Diminished Capacity
+<div markdown="block" class="statute">
 
+# Rule 1.14: Client with Diminished Capacity
 
+</div>
 
-### Restatement (Third) of the Law Governing Lawyers § 24 (2000): A Client with Diminished Capacity
+<div markdown="block" class="statute">
+
+# Restatement (Third) of the Law Governing Lawyers (2000)
+
+## § 24 (2000): A Client with Diminished Capacity
+
+</div>
 
 
 <div markdown="block" class="case">
@@ -613,17 +654,19 @@ In addition, Model Rule 4.2 only applies to attorneys. Nothing prevents represen
 
 ### Rule 4.2: Communication with Person Represented by Counsel
 
+<div markdown="block" class="statute">
+
+# Restatement (Third) of the Law Governing Lawyers 
+
+## § 99: A Represented Nonclient—The General Anti-Contact Rule
 
 
-### Restatement (Third) of the Law Governing Lawyers § 99: A Represented Nonclient—The General Anti-Contact Rule
+## § 100: Definition of a Represented Nonclient
 
 
+## § 101: A Represented Governmental Agency or Officer
 
-### Restatement (Third) of the Law Governing Lawyers § 100: Definition of a Represented Nonclient
-
-
-
-### Restatement (Third) of the Law Governing Lawyers § 101: A Represented Governmental Agency or Officer
+</div>
 
 
 <div markdown="block" class="case">
@@ -671,15 +714,24 @@ Attorneys can only charge a reasonable fee for their services. But the reasonabl
 
 In theory, state bar associations are supposed to ensure that attorneys charge reasonable fees. But in practice, they are reluctant to question attorney's fee agreements. In fact, contract law may protect clients from excessive fees more effectively than the rules of professional responsibility.
 
-### Model Rule 1.5: Fees
+<div markdown="block" class="statute">
+
+# Model Rule 1.5: Fees
+
+</div>
+
+
+<div markdown="block" class="statute">
+
+# Restatement (Third) of the Law Governing Lawyers 
+
+## § 34: Reasonable and Lawful Fees
 
 
 
-# Restatement (Third) of the Law Governing Lawyers § 34: Reasonable and Lawful Fees
+## § 35: Contingent-Fee Arrangements
 
-
-
-# Restatement (Third) of the Law Governing Lawyers § 35: Contingent-Fee Arrangements
+</div>
 
 
 <div markdown="block" class="case">
@@ -771,7 +823,11 @@ State bar associations carefully monitor attorney trust accounts and punish any 
 
 Attorneys may withdraw funds from a client's trust account in order to pay the client's attorney fees, as they are earned. The rule against commingling prohibits attorneys from using funds from a client trust account to pay business or personal expenses, and the attorney must return any funds remaining in a client's trust account to the client when the representation ends. When a client receives a settlement or award, the attorney must deposit the funds in the client's trust account, and then withdraw funds to pay the client's attorney fees and disburse to the client. Specifically, if the attorney and the client have a contingent fee agreement, the attorney must pay the client's contingent fee from the client trust account.
 
-### Rule 1.15: Safekeeping Property
+<div markdown="block" class="statute">
+
+# Rule 1.15: Safekeeping Property
+
+</div>
 
 
 <div markdown="block" class="case">
@@ -811,7 +867,11 @@ In any case, the Model Rules of Professional Conduct permits equity compensation
 
 The concern is that the attorney's financial interest in the client's property could create a conflict of interest. In theory, both the client and the attorney want the property to increase in value. But in some cases, the attorney's interest in the property could compromise the impartiality of the attorney's advice, if a potential transaction would benefit the client, but harm the attorney's property interest.
 
-### Model Rule 1.8: Current Clients: Specific Rules
+<div markdown="block" class="statute">
+
+# Model Rule 1.8: Current Clients: Specific Rules
+
+</div>
 
 
 <div markdown="block" class="case">
@@ -825,8 +885,6 @@ The concern is that the attorney's financial interest in the client's property c
 </div>
 
 </div>
-
-
 
 #### Questions
 
@@ -854,12 +912,22 @@ Contingent fee agreements are literally champerty, because an attorney agrees to
 
 WHERE DOES THIS GO? third-party supported litigation may not assert the champerty as a defense, but a court may refuse to enforce a champertous agreement even where the defense of champerty has not been asserted. 
 
-### Model Rule 1.8: Current Clients: Specific Rules
+<div markdown="block" class="statute">
+
+# Model Rule 1.8: Current Clients: Specific Rules
 
 
 Rule 1.8(e), (i) 
 
-### Restatement (Third) of the Law Governing Lawyers § 36: Forbidden Client-Lawyer Financial Arrangements
+</div>
+
+<div markdown="block" class="statute">
+
+# Restatement (Third) of the Law Governing Lawyers 
+
+## § 36: Forbidden Client-Lawyer Financial Arrangements
+
+</div>
 
 
 <div markdown="block" class="case">
@@ -897,9 +965,13 @@ Specifically, an attorney representing an organizational client must ensure that
 
 ### Model Rule 1.13: Organization as Client
 
+<div markdown="block" class="statute">
 
+# Restatement (Third) of the Law Governing Lawyers 
 
-# Restatement (Third) of the Law Governing Lawyers § 96: Representing an Organization as Client
+## § 96: Representing an Organization as Client
+
+</div>
 
 <div markdown="block" class="case">
 
