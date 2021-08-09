@@ -110,16 +110,13 @@ ol {
 }
 
 .casebook-header h2 {
+	font-size: $h3;
+	font-weight: $medium-weight;
 	color: $theme-color;
 	font-family: $sans-font;
 	font-size: $subtitle;
 	margin-top: 0;
 	margin-bottom: 0;
-}
-
-
-.casebook h2 {
-	font-size: $h3;
 }
 
 .casebook h3 {

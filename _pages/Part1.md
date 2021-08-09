@@ -170,7 +170,17 @@ When the ABA adopted the Model Rules of Professional Conduct in 1983, it did not
 
 # Check Your Knowledge 
 
-After the terrorist attacks of September 11, 2001, President Bush asked the Office of Legal Counsel (“OLC”) for its opinion on the legality of certain interrogation techniques. OLC produced several memoranda arguing that the techniques were legal under domestic and international law, which ultimately became known as the “torture memos.” The torture memos were almost universally condemned by policymakers and legal scholars as both immoral and incorrect statements of the governing law. Should OLC have produced the memos? Was it a violation of the rules of professional conduct for OLC to make arguments based on inaccurate interpretations of the law? Was it a violation of legal ethics for OLC to make arguments in favor of the interrogation techniques? Would it have been a violation of legal ethics if those techniques were in fact legal? Would it have been a violation of the rules of professional conduct for OLC to produce memos presenting arguments both for and against the legality of the interrogation techniques?
+After the terrorist attacks of September 11, 2001, President Bush asked the Office of Legal Counsel (“OLC”) for its opinion on the legality of certain interrogation techniques. OLC produced several memoranda arguing that the techniques were legal under domestic and international law, which ultimately became known as the “torture memos.” The torture memos were almost universally condemned by policymakers and legal scholars as both immoral and incorrect statements of the governing law. 
+
+1. Should OLC have produced the memos? 
+
+2. Was it a violation of the rules of professional conduct for OLC to make arguments based on inaccurate interpretations of the law? 
+
+3. Was it a violation of legal ethics for OLC to make arguments in favor of the interrogation techniques? 
+
+4. Would it have been a violation of legal ethics if those techniques were in fact legal? 
+
+5. Would it have been a violation of the rules of professional conduct for OLC to produce memos presenting arguments both for and against the legality of the interrogation techniques?
 
 </div>
 
