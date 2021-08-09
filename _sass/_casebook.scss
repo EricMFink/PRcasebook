@@ -108,6 +108,15 @@ ol {
 	margin-bottom: 0;
 }
 
+.casebook-header h2 {
+	color: $theme-color;
+	font-family: $sans-font;
+	font-size: $subtitle;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+
 .casebook h2 {
 	font-size: $h3;
 }
@@ -128,7 +137,6 @@ ol {
 	margin-top: 3rem;
 	margin-bottom: 3rem;
 }
-
 
 .casebook hr {
     border: none;
@@ -154,6 +162,7 @@ ol {
 .statute {
 	background-color: $light-grey;
 	padding: 20px;
+	margin-bottom: 2rem;
 }
 
 .statute h1 {
@@ -235,6 +244,7 @@ h6 {
 .case {
 	background-color: $light-grey;
 	padding: 20px;
+	margin-bottom: 3rem;
 }
 
 .case p {
@@ -255,7 +265,8 @@ h5 {
 	font-family: $serif-font;
 }
 
-.case h3,
+.case h2,
+h3,
 h4,
 h5 {
 	margin-bottom: 1rem;
@@ -279,7 +290,7 @@ h5 {
 }
 
 /* case cite */
-.case h6{
+.case h6 {
 	font-family: $sans-font;
 	margin: 0 0 1rem 0;
 	font-size: $h4;
@@ -306,7 +317,7 @@ blockquote p {
 
 .case-summary {
 	font-family: $sans-font;
-	font-size: $small;
+	font-size: $smaller;
 	border-top: 2px solid $theme-color;
 	border-bottom: 2px solid $theme-color;
 	padding-top: 10px;
@@ -323,6 +334,7 @@ blockquote p {
 .casebook-questions {
 	background-color: $light-grey;
 	padding: 20px;
+	margin-bottom: 3rem; 
 }
 
 .casebook-questions h1 {

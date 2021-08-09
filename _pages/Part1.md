@@ -2,8 +2,8 @@
 
 layout: casebook
 
-title: 'Part 1' 
-subtitle: 'Introduction' 
+chapter: 'Part 1' 
+title: 'Introduction' 
 permalink: /Part1/ 
 
 ---
@@ -182,7 +182,7 @@ After the terrorist attacks of September 11, 2001, President Bush asked the Offi
 
 <div markdown="block" class="case-summary">
 
- Jesus Torres was charged with armed robbery. Anna Rodriguez identified Torres when the police showed her a photo array and again when Torres’s attorney, Thomas Keefe, showed her a photo array. In her trial testimony, Rodriguez stated that she did not identify Torres the “second time” the police showed her a photo array. Keefe realized that she was referring to the photo array he showed her, and informed the court that she had identified Torres. Torres was convicted, and filed a habeas petition, alleging ineffective assistance of counsel for failure to provide zealous representation. The court denied the petition, holding that Keefe’s duty to correct false testimony did not conflict with his duty to provide zealous representation.
+_Summary:_ Jesus Torres was charged with armed robbery. Anna Rodriguez identified Torres when the police showed her a photo array and again when Torres’s attorney, Thomas Keefe, showed her a photo array. In her trial testimony, Rodriguez stated that she did not identify Torres the “second time” the police showed her a photo array. Keefe realized that she was referring to the photo array he showed her, and informed the court that she had identified Torres. Torres was convicted, and filed a habeas petition, alleging ineffective assistance of counsel for failure to provide zealous representation. The court denied the petition, holding that Keefe’s duty to correct false testimony did not conflict with his duty to provide zealous representation.
 
 </div>
 
@@ -219,6 +219,8 @@ Torres argues that the limited presumption is applicable to his case such that h
 Accordingly, we hold that the tension between Keefe’s parallel duties of (1) zealous representation and (2) candor to the court, which gives rise to his obligation to correct the record, did not create a conflict of interest of the sort identified in _Sullivan_. This holding “is consistent with the governance of trial conduct in what we have long called ‘a search for truth.’” Indeed, “an attorney’s ethical duty to advance the interests of his client is limited by an equally solemn duty to comply with the law and standards of professional conduct; it specifically ensures that the client may not use false evidence.”
 
 We further find no actual conflict of interest inherent in counsel’s decision to enter into the stipulation to correct the record. It is clear that several methods, such as calling as a witness the interpreter who was present when Attorney Keefe showed Anna the photo array, were available to accomplish this necessary task. Each of them, in order to correct the misstatement, would have yielded the same result.
+
+</div>
 
 <div markdown="block" class="casebook-questions">
 
