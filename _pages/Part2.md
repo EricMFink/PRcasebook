@@ -11,7 +11,7 @@ permalink: /Part2/
 
 <div markdown="block" class="casebook-epigraph">
 
-> The rest of life pales in significance, I'm looking for somebody with whom to dance. With whom to dance? With whom to dance? I'm looking for somebody with whom to dance
+_The rest of life pales in significance, I'm looking for somebody with whom to dance. With whom to dance? With whom to dance? I'm looking for somebody with whom to dance_
 
 — Stephin Merritt, The Magnetic Fields, With Whom to Dance?, Get Lost (1995).
 

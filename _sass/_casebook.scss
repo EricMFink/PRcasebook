@@ -122,26 +122,13 @@ ol {
 }
 
 .casebook-epigraph {
-	font-size: $small;
 	font-family: $sans-font;
+	border-bottom: 2px solid $dull-red;
+	border-bottom: 2px solid $dull-red;
+	margin-top: 3rem;
+	margin-bottom: 3rem;
 }
 
-.casebook-epigraph p {
-	font-size: $small;
-	font-weight: $normal-weight;
-}
-
-.casebook-epigraph blockquote {
-	font-size: $small;
-	border: none;
-	margin: 0;
-}
-
-.casebook-epigraph blockquote p {
-	font-size: $small;
-	margin: 0;
-	padding: 0;
-}
 
 .casebook hr {
     border: none;
