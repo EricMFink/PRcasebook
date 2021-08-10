@@ -982,11 +982,13 @@ Attorneys may withdraw funds from a client's trust account in order to pay the c
 
 </div>
 
-##### Further Reading:
+<div markdown="block" class="casebook-questions">
+
+# Further Reading:
 
 - ABA Model Rules for Client Trust Account Records (2010).
 
---- 
+</div>
 
 ## Equity as Compensation
 
