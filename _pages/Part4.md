@@ -144,7 +144,7 @@ Nyquist.
 
  
 
-<div markdown="block" class="casebook-questions"> &&&& # Check Your Knowledge  
+<div markdown="block" class="casebook-questions"> &&&& # Questions  
 
 1. Why did Phillips Nizer have a conflict of interest? 
 
@@ -230,7 +230,7 @@ We do not mean to imply disapproval of the district court's use of discovery san
 We reverse the judgment of the district court and remand for further proceedings with directions that the district court set a reasonable time period in which to allow Gutting to file answers to the request for admissions. 
 
 
-<div markdown="block" class="casebook-questions"> &&&& # Check Your Knowledge  
+<div markdown="block" class="casebook-questions"> &&&& # Questions  
 
 1. What is the purpose of the conflict of interest rules? Who are they intended to protect? Who do they actually protect? 
 
@@ -513,7 +513,7 @@ We find that the district court did not abuse its discretion in concluding that 
  
 
 
-<div markdown="block" class="casebook-questions"> &&&& # Check Your Knowledge  
+<div markdown="block" class="casebook-questions"> &&&& # Questions  
 
 1. Why did the court hold that a conflict of interest prevented Stoller from representing NuStar in this action? Do you think that a substantial conflict of interest existed? 
 
@@ -630,7 +630,7 @@ asserted. This, however, is not such a case. And, the trial court properly recog
  
 
 
-<div markdown="block" class="casebook-questions"> &&&& # Check Your Knowledge  
+<div markdown="block" class="casebook-questions"> &&&& # Questions  
 
 1. Why did Moguls of Aspen fail to state a claim for breach of the duty of loyalty? What additional allegations would have stated a claim for breach of the duty of loyalty? 
 
@@ -788,7 +788,7 @@ vet non
  
 
 
-<div markdown="block" class="casebook-questions"> &&&& # Check Your Knowledge  
+<div markdown="block" class="casebook-questions"> &&&& # Questions  
 
 1. Why did the court find that Maxwell & Bear violated its duty of loyalty? How could Maxwell & Bear have avoided violating its duty of loyalty? 
 
@@ -857,7 +857,7 @@ We take this occasion to note that the court erred in holding that the "but for"
  
 
 
-<div markdown="block" class="casebook-questions"> &&&& # Check Your Knowledge  
+<div markdown="block" class="casebook-questions"> &&&& # Questions  
 
 1. Why did Fashion Boutique think Weil committed malpractice? Why did Fashion Boutique think Weil breached its fiduciary duty? 
 
@@ -996,7 +996,7 @@ Rather, Heller instituted the ethical wall to protect Heller's duty of confident
  
 
 
-<div markdown="block" class="casebook-questions"> &&&& # Check Your Knowledge  
+<div markdown="block" class="casebook-questions"> &&&& # Questions  
 
 1. Why did First Data think that Heller had a conflict of interest? Why did the court disagree? 
 
@@ -1149,7 +1149,7 @@ We find, therefore, that Dresser's right to the grant of its motion to disqualif
  
 
 
-<div markdown="block" class="casebook-questions"> &&&& # Check Your Knowledge  
+<div markdown="block" class="casebook-questions"> &&&& # Questions  
 
 1. Why did the circuit court think a conflict of interest existed? Why did the court think Dresser did not or could not provide consent? 
 
@@ -1594,7 +1594,7 @@ Under the circumstances, Judge Brieant's order of disqualification cannot be con
  
 
 
-<div markdown="block" class="casebook-questions"> &&&& # Check Your Knowledge  
+<div markdown="block" class="casebook-questions"> &&&& # Questions  
 
 1. Why did the court grant Cinerama's motion to disqualify Fleischmann? Did it identify a conflict of interest? Was Fleischmann working on the action against Cinerama? 
 

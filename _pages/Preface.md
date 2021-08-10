@@ -46,14 +46,9 @@ _The sad thing about lawyers is not that so many of them are stupid, but that so
 
 **Preface**
 
-Thank you for your interest in *Professional Responsibility: An
-Open-Access Casebook*. We hope that you find it useful and informative.
+Thank you for your interest in *Professional Responsibility: An Open-Access Casebook*. We hope that you find it useful and informative.
 
-This is a free casebook. We believe that law students and others
-interested in the law should not have to pay the high prices that
-commercial publishers charge for casebooks. Many others agree, and have
-created free or low-cost casebooks covering many different areas of the
-law. Here are some examples:
+This is a free casebook. We believe that law students and others interested in the law should not have to pay the high prices that commercial publishers charge for casebooks. Many others agree, and have created free or low-cost casebooks covering many different areas of the law. Here are some examples:
 
 <table>
 <thead>
@@ -106,10 +101,7 @@ law. Here are some examples:
 </tbody>
 </table>
 
-In addition, the [Center for Computer-Assisted Legal Instruction
-(CALI)](https://www.cali.org/) offers [free
-casebooks](https://www.cali.org/collections/casebook) in many
-different subjects, including:
+In addition, the [Center for Computer-Assisted Legal Instruction (CALI)](https://www.cali.org/) offers [free casebooks](https://www.cali.org/collections/casebook) in many different subjects, including:
 
 - Bankruptcy Law and Practice
 
@@ -145,38 +137,17 @@ different subjects, including:
 
 - Wetlands Law: A Course Source
 
-We noticed that there was no free and open-source casebook available for
-a professional responsibility class, so we decided to create one.
+We noticed that there was no free and open-source casebook available for a professional responsibility class, so we decided to create one.
 
 <img src="/assets/images/image1.png" style="width:5.23438in;height:3.91026in" />
 
-This casebook covers a wide range of different subjects related to the
-professional responsibility of attorneys. While it is possible to cover
-all of this material in a three credit-hour course, you may wish to omit
-some subjects. You may also wish to supplement the materials in this
-casebook with additional materials. We encourage you to use this
-casebook in any way that you like.
+This casebook covers a wide range of different subjects related to the professional responsibility of attorneys. While it is possible to cover all of this material in a three credit-hour course, you may wish to omit some subjects. You may also wish to supplement the materials in this casebook with additional materials. We encourage you to use this casebook in any way that you like.
 
-This casebook is licensed “Creative Commons 0 / No Rights Reserved.”
-That means that we explicitly disclaim any copyright claim in all of the
-original elements that we created in writing this casebook and have
-intentionally placed the casebook in the public domain. Because this
-casebook is in the public domain, you can use the materials in it in any
-way that you like, with or without attribution. Of course, the casebook
-contains many copyrighted elements that belong to other people and that
-we used pursuant to fair use. Those elements are still protected by
-copyright.
+This casebook is licensed “Creative Commons 0 / No Rights Reserved.” That means that we explicitly disclaim any copyright claim in all of the original elements that we created in writing this casebook and have intentionally placed the casebook in the public domain. Because this casebook is in the public domain, you can use the materials in it in any way that you like, with or without attribution. Of course, the casebook contains many copyrighted elements that belong to other people and that we used pursuant to fair use. Those elements are still protected by copyright.
 
-We hope that this free casebook helps show that it is possible to create
-teaching materials for legal education in an open-source format. And we
-hope it makes access to the law governing legal practice more accessible
-to law students, attorneys, and anyone interested in the regulation of
-the legal profession.
+We hope that this free casebook helps show that it is possible to create teaching materials for legal education in an open-source format. And we hope it makes access to the law governing legal practice more accessible to law students, attorneys, and anyone interested in the regulation of the legal profession.
 
-In closing, we would like to thank our research assistants Nicole
-Pottinger, Justin Cloyd, Mark Blankenship, Barrett Block, and Renee
-Wilson. We would also like to thank Cornelius Kearns, Brandon Magner,
-and Guy Hamilton-Smith for helpful comments.
+In closing, we would like to thank our research assistants Nicole Pottinger, Justin Cloyd, Mark Blankenship, Barrett Block, and Renee Wilson. We would also like to thank Cornelius Kearns, Brandon Magner, and Guy Hamilton-Smith for helpful comments.
 
 [Brian L. Frye](http://law.uky.edu/directory/brian-l-frye)  
 

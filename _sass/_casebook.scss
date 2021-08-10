@@ -250,52 +250,46 @@ h6 {
 	margin-top: 0;
 }
 
+/* case name */
 .case h1 {
 	font-family: $sans-font;
 	font-size: $h2;
 	margin: 0 0 1rem 0;
 }
 
-.case h2,
-h3,
-h4,
-h5 {
+/* case cite */
+.case h2 {
 	font-family: $serif-font;
-}
-
-.case h2,
-h3,
-h4,
-h5 {
+	font-style: normal;
+	font-size: $h3;
 	margin-bottom: 1rem;
 }
 
-.case h2 {
-	font-style: normal;
-	font-size: $h3;
+
+.case h3,
+h4,
+h5 {
+	font-family: $serif-font;
+	margin-bottom: 1rem;
 }
 
 .case h3 {
-	font-weight: normal;
-	font-style: italic;
+	font-weight: $medium-weight;
+	font-style: normal;
 	font-size: $h4;
 }
 
 .case h4 {
-	font-weight: bold;
-	font-style: normal;
+	font-weight: $normal-weight;
+	font-style: italic;
 	font-size: $h5;
 }
 
-/* case cite */
-.case h6 {
-	font-family: $sans-font;
-	margin: 0 0 1rem 0;
-	font-size: $h4;
+.case h5 {
 	font-weight: $normal-weight;
 	font-style: normal;
+	font-size: $h6;
 }
-
 
 .case blockquote {
 	border: none;

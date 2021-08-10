@@ -65,7 +65,7 @@ Attorneys must maintain in confidence all information obtained while representin
 
 # Togstad v. Vesely, Otto, Miller & Keefe
 
-###### 291 N.W.2d 686 (Minn. 1980)
+## 291 N.W.2d 686 (Minn. 1980)
 
 <div markdown="block" class="case-summary">
 
@@ -155,7 +155,9 @@ Based on the foregoing, we hold that the jury's findings are adequately supporte
 
 </div>
 
-# 
+<div markdown="block" class="casebook-questions">
+
+# Questions
 
 1. What was the basis for the Togstads' claim that Miller's actions formed an attorney-client relationship? How did Miller respond?
 
@@ -167,7 +169,7 @@ Based on the foregoing, we hold that the jury's findings are adequately supporte
 
 5. How should Miller have responded in order to avoid liability for negligence?
 
---- 
+</div>
 
 ## Representation of an Organization
 
@@ -177,27 +179,22 @@ However, an attorney representing an organization must ensure that the employees
 
 <div markdown="block" class="statute">
 
-# Model Rule 1.13: Organization as Client
+# NC Rule 1.13: Organization as Client
 
-a. A lawyer employed or retained by an organization represents the organization acting through its duly authorized constituents.
+(a) A lawyer employed or retained by an organization represents the organization acting through its duly authorized constituents.
 
-b. If a lawyer for an organization knows that an officer, employee or other person associated with the organization is engaged in action, intends to act or refuses to act in a matter related to the representation that is a violation of a legal obligation to the organization, or a violation of law that reasonably might be imputed to the organization, and that is likely to result in substantial injury to the organization, then the lawyer shall proceed as is reasonably necessary in the best interest of the organization. Unless the lawyer reasonably believes that it is not necessary in the best interest of the organization to do so, the lawyer shall refer the matter to higher authority in the organization, including, if warranted by the circumstances to the highest authority that can act on behalf of the organization as determined by applicable law.
+(b) If a lawyer for an organization knows that an officer, employee. or other person associated with the organization is engaged in action, intends to act or refuses to act in a matter related to the representation that is a violation of a legal obligation to the organization, or a violation of law which reasonably might be imputed to the organization, and is likely to result in substantial injury to the organization, then the lawyer shall proceed as is reasonably necessary in the best interest of the organization. Unless the lawyer reasonably believes that it is not necessary in the best interest of the organization to do so, the lawyer shall refer the matter to higher authority in the organization, including, if warranted by the circumstances, to the highest authority that can act on behalf of the organization as determined by applicable law. 
 
-c. Except as provided in paragraph (d), if
+(c) If, despite the lawyer's efforts in accordance with paragraph (b), the highest authority that can act on behalf of the organization insists upon action, or a refusal to act, that is clearly a violation of law and is likely to result in substantial injury to the organization, the lawyer may reveal such information outside the organization to the extent permitted by Rule 1.6 and may resign in accordance with Rule 1.16.
 
-> 1. despite the lawyer's efforts in accordance with paragraph (b) the highest authority that can act on behalf of the organization insists upon or fails to address in a timely and appropriate manner an action, or a refusal to act, that is clearly a violation of law, and
-> 
-> 2. the lawyer reasonably believes that the violation is reasonably certain to result in substantial injury to the organization, then the lawyer may reveal information relating to the representation whether or not Rule 1.6 permits such disclosure, but only if and to the extent the lawyer reasonably believes necessary to prevent substantial injury to the organization.
+(d) Paragraph (c) shall not apply with respect to information relating to a lawyer's representation of an organization to investigate an alleged violation of law, or to defend the organization or an officer, employee, or other constituent associated with the organization against a claim arising out of an alleged violation of law.
 
-d. Paragraph (c) shall not apply with respect to information relating to a lawyer's representation of an organization to investigate an alleged violation of law, or to defend the organization or an officer, employee or other constituent associated with the organization against a claim arising out of an alleged violation of law.
+(e) A lawyer who reasonably believes that he or she has been discharged because of the lawyer's actions taken pursuant to paragraphs (b) or (c), or who withdraws under circumstances that require or permit the lawyer to take action under these Rules, shall proceed as the lawyer reasonably believes necessary to assure that the organization's highest authority is informed of the lawyer's discharge or withdrawal. 
 
-e. A lawyer who reasonably believes that he or she has been discharged because of the lawyer's actions taken pursuant to paragraphs (b) or (c), or who withdraws under circumstances that require or permit the lawyer to take action under either of those paragraphs, shall proceed as the lawyer reasonably believes necessary to assure that the organization's highest authority is informed of the lawyer's discharge or withdrawal.
+(f) In dealing with an organization’s directors, officers, employees, members, shareholders or other constituents, a lawyer shall explain the identity of the client when the lawyer knows or reasonably should know that the organization's interests are adverse to those of the constituents with whom the lawyer is dealing.
 
-f. In dealing with an organization's directors, officers, employees, members, shareholders or other constituents, a lawyer shall explain the identity of the client when the lawyer knows or reasonably should know that the organization's interests are adverse to those of the constituents with whom the lawyer is dealing.
+(g) A lawyer representing an organization may also represent any of its directors, officers, employees, members, shareholders or other constituents, subject to the provisions of Rule 1.7. If the organization's consent to the dual representation is required by Rule 1.7, the consent shall be given by an appropriate official of the organization other than the individual who is to be represented, or by the shareholders.
 
-g. A lawyer representing an organization may also represent any of its directors, officers, employees, members, shareholders or other constituents, subject to the provisions of Rule 1.7. If the organization's consent to the dual representation is required by Rule 1.7, 
-
-the consent shall be given by an appropriate official of the organization other than the individual who is to be represented, or by the shareholders.
 
 </div>
 
@@ -205,7 +202,7 @@ the consent shall be given by an appropriate official of the organization other 
 
 # Ferranti Intern. PLC v. Clark
 
-###### 767 F. Supp. 670 (E.D. Pa. 1991)
+## 767 F. Supp. 670 (E.D. Pa. 1991)
 
 <div markdown="block" class="case summary">
 
@@ -239,7 +236,9 @@ Under the Rules of Professional Conduct and the cases, there is no legal basis o
 
 </div> 
 
-# 
+<div markdown="block" class="casebook-questions">
+
+# Questions
 
 1. Why did Clark object to Hogan & Hartson representing Ferranti in its action action against him? Why did the court dismiss Clark's objections?
 
@@ -249,7 +248,7 @@ Under the Rules of Professional Conduct and the cases, there is no legal basis o
 
 4. What should Clark have done differently?
 
---- 
+</div>
 
 ## Prospective Clients
 
@@ -261,7 +260,19 @@ Accordingly, attorneys should try to prevent prospective clients from disclosing
 
 <div markdown="block" class="statute">
 
-# Model Rule 1.18: Client-Lawyer Relationship
+# NC Rule 1.18 — Duties to Prospective Client
+
+(a) A person who consults with a lawyer about the possibility of forming a client-lawyer relationship with respect to a matter is a prospective client.
+
+(b) Even when no client-lawyer relationship ensues, a lawyer who has learned information from a prospective client shall not use or reveal that information, except as Rule 1.9 would permit with respect to information of a former client.
+
+(c) A lawyer subject to paragraph (b) shall not represent a client with interests materially adverse to those of a prospective client in the same or a substantially related matter if the lawyer received information from the prospective client that could be significantly harmful to that person in the matter, except as provided in paragraph (d). If a lawyer is disqualified from representation under this paragraph, no lawyer in a firm with which that lawyer is associated may knowingly undertake or continue representation in such a matter, except as provided in paragraph (d).
+
+(d) Representation is permissible if both the affected client and the prospective client have given informed consent, confirmed in writing, or:
+
+> (1) the disqualified lawyer is timely screened from any participation in the matter; and
+
+> (2) written notice is promptly given to the prospective client.
 
 </div>
 
@@ -279,7 +290,7 @@ Accordingly, attorneys should try to prevent prospective clients from disclosing
 
 # Clark Capital Management Group, Inc, v. Annuity Investors Life Ins. Co.
 
-###### 149 F.Supp.2d 193 (E.D. Pa. 2001)
+## 149 F.Supp.2d 193 (E.D. Pa. 2001)
 
 <div markdown="block" class="case-summary">
 
@@ -287,7 +298,9 @@ Accordingly, attorneys should try to prevent prospective clients from disclosing
 
 </div>
 
-# 
+<div markdown="block" class="casebook-questions">
+
+# Questions
 
 1. What was the basis for Annuity's objection to Dilworth's representation of Clark?
 
@@ -295,7 +308,7 @@ Accordingly, attorneys should try to prevent prospective clients from disclosing
 
 3. Why shouldn't the court disqualify Dilworth from representing Clark in this action?
 
---- 
+</div>
 
 # 2.2 Ending an Attorney-Client Relationship
 
@@ -309,7 +322,39 @@ Before ending an attorney-client relationship, an attorney should determine whet
 
 <div markdown="block" class="statute">
 
-# Model Rule 1.16: Declining or Terminating Representation
+# NC Rule 1.16 — Declining or Terminating Representation
+
+(a) Except as stated in paragraph (c), a lawyer shall not represent a client or, where representation has commenced, shall withdraw from the representation of a client if:
+
+> (1) the representation will result in violation of law or the Rules of Professional Conduct;
+
+> (2) the lawyer's physical or mental condition materially impairs the lawyer's ability to represent the client; or
+
+> (3) the lawyer is discharged.
+
+(b) Except as stated in paragraph (c), a lawyer may withdraw from representing a client if: 
+
+> (1) withdrawal can be accomplished without material adverse effect on the interests of the client; or
+
+> (2) the client knowingly and freely assents to the termination of the representation; or
+
+> (3) the client persists in a course of action involving the lawyer's services that the lawyer reasonably believes is criminal or fraudulent; or
+
+> (4) the client insists upon taking action that the lawyer considers repugnant, imprudent, or contrary to the advice and judgment of the lawyer, or with which the lawyer has a fundamental disagreement; or
+
+> (5) the client has used the lawyer's services to perpetrate a crime or fraud; or
+
+> (6) the client fails substantially to fulfill an obligation to the lawyer regarding the lawyer's services and has been given reasonable warning that the lawyer will withdraw unless the obligation is fulfilled; or
+
+> (7) the representation will result in an unreasonable financial burden on the lawyer or has been rendered unreasonably difficult by the client; or 
+
+> (8) the client insists upon presenting a claim or defense that is not warranted under existing law and cannot be supported by good faith argument for an extension, modification, or reversal of existing law; or
+
+> (9) other good cause for withdrawal exists.
+
+(c) A lawyer must comply with applicable law requiring notice to or permission of a tribunal when terminating a representation. When ordered to do so by a tribunal, a lawyer shall continue representation notwithstanding good cause for terminating the representation.
+
+(d) Upon termination of representation, a lawyer shall take steps to the extent reasonably practicable to protect a client's interests, such as giving reasonable notice to the client, allowing time for employment of other counsel, surrendering papers and property to which the client is entitled and refunding any advance payment of fee or expense that has not been earned or incurred. The lawyer may retain papers relating to the client to the extent permitted by other law.
 
 </div>
 
@@ -340,7 +385,7 @@ When a client fires an attorney and hires a new attorney, the former attorney ma
 
 # Demov, Morris, Levine & Shein v. Glantz
 
-###### 53 N.Y.2d 553 (N.Y. 1981)
+## 53 N.Y.2d 553 (N.Y. 1981)
 
 <div markdown="block" class="case-summary">
 
@@ -350,14 +395,15 @@ When a client fires an attorney and hires a new attorney, the former attorney ma
 
 </div>
 
+<div markdown="block" class="casebook-questions">
 
-# 
+# Questions
 
 1. If a client fires an attorney for actual or perceived incompetence, should the attorney be able to recover in quantum meruit?
 
 2. Many courts have held that a fired attorney may also recover a percentage of a contingent fee. "The outgoing attorney may elect to take compensation on the basis of a presently fixed dollar amount based upon quantum meruit for the reasonable value of services or, in lieu thereof, the outgoing attorney has the right to elect a contingent percentage fee based on the proportionate share of the work performed on the whole case." Lai Ling Cheng v. Modansky, 73 N.Y.2d 454 (1989). Do you agree with this conclusion?
 
---- 
+</div>
 
 ## Withdrawal by the Attorney 
 
@@ -385,7 +431,7 @@ Attorneys must also withdraw from representation if their physical or mental sta
 
 # Whiting v. Lacara
 
-###### 187 F. 3d 317 (2d Cir. 1999)
+## 187 F. 3d 317 (2d Cir. 1999)
 
 <div markdown="block" class="case">
 
@@ -393,9 +439,9 @@ Attorneys must also withdraw from representation if their physical or mental sta
 
 </div>
 
+<div markdown="block" class="casebook-questions">
 
-
-# 
+# Questions
 
 1. Why did Lacara claim permissive withdrawal, rather than mandatory withdrawal?
 
@@ -405,7 +451,7 @@ Attorneys must also withdraw from representation if their physical or mental sta
 
 4. Will Whiting be able to retain new counsel? If not, will he have to proceed pro se?
 
---- 
+</div>
 
 ## Effective Withdrawal
 
@@ -461,7 +507,21 @@ As fiduciaries, attorneys have a legal duty to act only in the interests of thei
 
 <div markdown="block" class="statute">
 
-# Model Rule 1.2: Scope of Representation & Allocation of Authority Between Client & Lawyer
+# NC Rule 1.2 — Scope of Representation and Allocation of Authority Between Client and Lawyer 
+
+(a) Subject to paragraphs (c) and (d), a lawyer shall abide by a client's decisions concerning the objectives of representation and, as required by Rule 1.4, shall consult with the client as to the means by which they are to be pursued. A lawyer may take such action on behalf of the client as is impliedly authorized to carry out the representation. 
+
+> (1) A lawyer shall abide by a client's decision whether to settle a matter. In a criminal case, the lawyer shall abide by the client's decision, after consultation with the lawyer, as to a plea to be entered, whether to waive jury trial and whether the client will testify.
+> 
+> (2) A lawyer does not violate this rule by acceding to reasonable requests of opposing counsel that do not prejudice the rights of a client, by being punctual in fulfilling all professional commitments, by avoiding offensive tactics, or by treating with courtesy and consideration all persons involved in the legal process.
+> 
+> (3) In the representation of a client, a lawyer may exercise his or her professional judgment to waive or fail to assert a right or position of the client.
+
+(b) A lawyer's representation of a client, including representation by appointment, does not constitute an endorsement of the client's political, economic, social or moral views or activities.
+
+(c) A lawyer may limit the scope of the representation if the limitation is reasonable under the circumstances.
+
+(d) A lawyer shall not counsel a client to engage, or assist a client, in conduct that the lawyer knows is criminal or fraudulent, but a lawyer may discuss the legal consequences of any proposed course of conduct with a client and may counsel or assist a client to make a good faith effort to determine the validity, scope, meaning or application of the law.
 
 </div>
 
@@ -485,7 +545,7 @@ As fiduciaries, attorneys have a legal duty to act only in the interests of thei
 
 # L.F.S. Corp. v. Kennedy
 
-###### 337 S.E.2d 209 (S.C. 1985)
+## 337 S.E.2d 209 (S.C. 1985)
 
 <div markdown="block" class="case-summary">
 
@@ -493,8 +553,9 @@ As fiduciaries, attorneys have a legal duty to act only in the interests of thei
 
 </div>
 
+<div markdown="block" class="casebook-questions">
 
-# 
+# Questions
 
 1. Did Kennedy have authority to agree to the settlement? 
 
@@ -506,7 +567,7 @@ As fiduciaries, attorneys have a legal duty to act only in the interests of thei
 
 # Morris v. Ohio Cas. Ins. Co.
 
-###### 35 Ohio St. 3d 45 (Ohio 1988)
+## 35 Ohio St. 3d 45 (Ohio 1988)
 
 <div markdown="block" class="case-summary">
 
@@ -514,9 +575,9 @@ As fiduciaries, attorneys have a legal duty to act only in the interests of thei
 
 </div>
 
+<div markdown="block" class="casebook-questions">
 
-
-#  
+# Questions
 
 - Why did the insurance company pay the checks?
 
@@ -524,13 +585,13 @@ As fiduciaries, attorneys have a legal duty to act only in the interests of thei
 
 - What should the insurance company have done?
 
---- 
+</div>
 
 <div markdown="block" class="case">
 
 # Makins v. District of Columbia
 
-###### 861 A. 2d 590 (D.C. 2004)
+## 861 A. 2d 590 (D.C. 2004)
 
 <div markdown="block" class="case-summary">
 
@@ -538,16 +599,17 @@ As fiduciaries, attorneys have a legal duty to act only in the interests of thei
 
 </div>
 
+<div markdown="block" class="casebook-questions">
 
-##### Question:
+# Questions
 
-- What kind of authority did the District of Columbia claim the attorney had? Why was it insufficient?
+1. What kind of authority did the District of Columbia claim the attorney had? Why was it insufficient?
 
-- What if Makins actually agreed to the settlement, but then had second thoughts
+2. What if Makins actually agreed to the settlement, but then had second thoughts
 
-- What is the purpose of "apparent authority"? Under the standard adopted by the court, is it possible for an attorney to exercise apparent authority?
+3. What is the purpose of "apparent authority"? Under the standard adopted by the court, is it possible for an attorney to exercise apparent authority?
 
---- 
+</div> 
 
 # 2.4 Client as Principal
 
@@ -579,7 +641,7 @@ However, attorneys retain considerable discretion to make decisions about how to
 
 # Bronson v. Borst
 
-###### 404 A. 2d 960 (D.C. App. 1979)
+## 404 A. 2d 960 (D.C. App. 1979)
 
 <div markdown="block" class="case-summary">
 
@@ -606,7 +668,14 @@ But if the attorney can represent the client directly, then the attorney must ac
 
 <div markdown="block" class="statute">
 
-# Rule 1.14: Client with Diminished Capacity
+# NC Rule 1.14 — Client with Diminished Capacity
+
+
+(a) When a client's capacity to make adequately considered decisions in connection with a representation is diminished, whether because of minority, mental impairment or for some other reason, the lawyer shall, as far as reasonably possible, maintain a normal client-lawyer relationship with the client.
+
+(b) When the lawyer reasonably believes that the client has diminished capacity, is at risk of substantial physical, financial or other harm unless action is taken and cannot adequately act in the client's own interest, the lawyer may take reasonably necessary protective action, including consulting with individuals or entities that have the ability to take action to protect the client and, in appropriate cases, seeking the appointment of a guardian ad litem or guardian.
+
+(c) Information relating to the representation of a client with diminished capacity is protected by Rule 1.6. When taking protective action pursuant to paragraph (b), the lawyer is impliedly authorized under Rule 1.6(a) to reveal information about the client, but only to the extent reasonably necessary to protect the client's interests.
 
 </div>
 
@@ -623,15 +692,13 @@ But if the attorney can represent the client directly, then the attorney must ac
 
 # People v. Bolden
 
-###### 99 Cal. App. 3d 375 (Cal. Ct. App. 1979)
+## 99 Cal. App. 3d 375 (Cal. Ct. App. 1979)
 
 <div markdown="block" class="case-summary">
 
 </div>
 
 </div>
-
-
 
 ## 2.5 Ex Parte Communications
 
@@ -651,8 +718,21 @@ And Model Rule 4.2 does not prohibit all ex parte communications. Nothing preven
 
 In addition, Model Rule 4.2 only applies to attorneys. Nothing prevents represented persons from engaging in ex parte communications with each other. And if represented persons choose to communicate with each other, their attorneys may provide them with advice. "Parties to a matter may communicate directly with each other, and a lawyer is not prohibited from advising a client concerning a communication that the client is legally entitled to make." Model Rule 4.2, Comment [4], Indeed, attorneys can probably even advise their clients to engage in ex parte communications with represented parties.
 
+<div markdown="block" class="statute">
 
-### Rule 4.2: Communication with Person Represented by Counsel
+# NC Rule 4.2 — Communication With Persons Represented By Counsel
+
+(a) During the representation of a client, a lawyer shall not communicate about the subject of the representation with a person the lawyer knows to be represented by another lawyer in the matter, unless the lawyer has the consent of the other lawyer or is authorized to do so by law or a court order. It is not a violation of this rule for a lawyer to encourage his or her client to discuss the subject of the representation with the opposing party in a good-faith attempt to resolve the controversy.
+
+(b) Notwithstanding section (a) above, in representing a client who has a dispute with a government agency or body, a lawyer may communicate about the subject of the representation with the elected officials who have authority over such government agency or body even if the lawyer knows that the government agency or body is represented by another lawyer in the matter, but such communications may only occur under the following circumstances:
+
+> (1) in writing, if a copy of the writing is promptly delivered to opposing counsel;
+> 
+> (2) orally, upon adequate notice to opposing counsel; or
+> 
+> (3) in the course of official proceedings.
+
+</div>
 
 <div markdown="block" class="statute">
 
@@ -673,7 +753,7 @@ In addition, Model Rule 4.2 only applies to attorneys. Nothing prevents represen
 
 # In re Disciplinary Proceeding Against Haley
 
-###### CITE 
+## CITE 
 
 <div markdown="block" class="case-summary">
 
@@ -681,9 +761,9 @@ In addition, Model Rule 4.2 only applies to attorneys. Nothing prevents represen
 
 </div>
 
+<div markdown="block" class="casebook-questions">
 
-
-# 
+# Questions
 
 1. What is the purpose of Model Rule 4.2 and its prohibition on attorneys engaging in ex parte communications with represented persons? Is it intended to protect clients or their attorneys?
 
@@ -691,13 +771,13 @@ In addition, Model Rule 4.2 only applies to attorneys. Nothing prevents represen
 
 3. Haley retained counsel when the action at issue went to trial. If he had engaged in ex parte communications with Highland while represented by an attorney, would it have violated Model Rule 4.2? Should attorneys who are parties to an action and represented by counsel be permitted to engage in ex parte communications with represented persons? What if both parties are attorneys represented by counsel?
 
---- 
+</div>
 
 <div markdown="block" class="case">
 
 # Niesig v. Team
 
-###### CITE 
+## CITE 
 
 <div markdown="block" class="case-summary">
 
@@ -716,7 +796,43 @@ In theory, state bar associations are supposed to ensure that attorneys charge r
 
 <div markdown="block" class="statute">
 
-# Model Rule 1.5: Fees
+# NC Rule 1.5 — Fees
+
+(a) A lawyer shall not make an agreement for, charge, or collect an illegal or clearly excessive fee or charge or collect a clearly excessive amount for expenses. The factors to be considered in determining whether a fee is clearly excessive include the following:
+
+> (1) the time and labor required, the novelty and difficulty of the questions involved, and the skill requisite to perform the legal service properly;
+
+> (2) the likelihood, if apparent to the client, that the acceptance of the particular employment will preclude other employment by the lawyer;
+
+> (3) the fee customarily charged in the locality for similar legal services;
+
+> (4) the amount involved and the results obtained;
+
+> (5) the time limitations imposed by the client or by the circumstances;
+
+> (6) the nature and length of the professional relationship with the client;
+
+> (7) the experience, reputation, and ability of the lawyer or lawyers performing the services; and
+
+> (8) whether the fee is fixed or contingent.
+
+(b) When the lawyer has not regularly represented the client, the scope of the representation and the basis or rate of the fee and expenses for which the client will be responsible shall be communicated to the client, preferably in writing, before or within a reasonable time after commencing the representation.
+
+(c) A fee may be contingent on the outcome of the matter for which the service is rendered, except in a matter in which a contingent fee is prohibited by paragraph (d) or other law. A contingent fee agreement shall be in a writing signed by the client and shall state the method by which the fee is to be determined, including the percentage or percentages that shall accrue to the lawyer in the event of settlement, trial or appeal; litigation and other expenses to be deducted from the recovery; and whether such expenses are to be deducted before or after the contingent fee is calculated. The agreement must clearly notify the client of any expenses for which the client will be liable whether or not the client is the prevailing party. Upon conclusion of a contingent fee matter, the lawyer shall provide the client with a written statement stating the outcome of the matter and, if there is a recovery, showing the remittance to the client and the method of its determination. 
+
+(d) A lawyer shall not enter into an arrangement for, charge, or collect:
+
+> (1) a contingent fee for representing a defendant in a criminal case; however, a lawyer may charge and collect a contingent fee for representation in a criminal or civil asset forfeiture proceeding if not otherwise prohibited by law; or
+
+> (2) a contingent fee in a civil case in which such a fee is prohibited by law.
+
+(e) A division of a fee between lawyers who are not in the same firm may be made only if:
+
+> (1) the division is in proportion to the services performed by each lawyer or each lawyer assumes joint responsibility for the representation; 
+
+> (2) the client agrees to the arrangement, including the share each lawyer will receive, and the agreement is confirmed in writing; and
+
+> (3) the total fee is reasonable.
 
 </div>
 
@@ -738,7 +854,7 @@ In theory, state bar associations are supposed to ensure that attorneys charge r
 
 # Matter of Cooperman
 
-###### 633 N.E.2d 1069 (N.Y. 1994)
+## 633 N.E.2d 1069 (N.Y. 1994)
 
 <div markdown="block" class="case-summary">
 
@@ -746,8 +862,9 @@ In theory, state bar associations are supposed to ensure that attorneys charge r
 
 </div>
 
+<div markdown="block" class="casebook-questions">
 
-# 
+# Questions
 
 1. Was the problem with Cooperman's fees that they were non-refundable, too high, or both? What if Cooperman had charged a non-refundable fee of $1000 or $100? What if Cooperman required a $10,000 refundable retainer and a $5000 engagement fee, paid at the end of representation?
 
@@ -755,13 +872,13 @@ In theory, state bar associations are supposed to ensure that attorneys charge r
 
 3. Should attorneys be able to charge a flat fee for a service? What if the flat fee is the average fee for that service? What if it is less than the average fee? 
 
---- 
+</div>
 
 <div markdown="block" class="case">
 
 # In the Matter of Fordham
 
-###### 423 Mass. 481 (Mass. 1996)
+## 423 Mass. 481 (Mass. 1996)
 
 <div markdown="block" class="case-summary">
 
@@ -769,9 +886,9 @@ In theory, state bar associations are supposed to ensure that attorneys charge r
 
 </div>
 
+<div markdown="block" class="casebook-questions">
 
-
-# 
+# Questions
 
 1. Was the problem with Fordham's fee the rate he charged, the number of hours he billed, or both?
 
@@ -781,7 +898,7 @@ In theory, state bar associations are supposed to ensure that attorneys charge r
 
 4. What if Fordham estimated a fee of $50,000 in advance, and billed only for work actually completed?
 
---- 
+</div>
 
 ## Contingent Fees 
 
@@ -797,7 +914,7 @@ Under Model Rule 1.5(c), contingency fee agreements cannot be unreasonable and m
 
 # Culpepper & Carroll, PLLC v. Cole
 
-###### 929 So. 2d 1224 (La. 2006)
+## 929 So. 2d 1224 (La. 2006)
 
 <div markdown="block" class="case-summary">
 
@@ -805,13 +922,15 @@ Under Model Rule 1.5(c), contingency fee agreements cannot be unreasonable and m
 
 </div>
 
-# 
+<div markdown="block" class="casebook-questions">
+
+# Questions
 
 1. Why wasn't Culpepper entitled to compensation for the work he actually did for Cole?
 
 2. Could the contingent fee agreement between Cole and Culpepper have included a clause requiring Cole to obtain Culpepper's consent before accepting or rejecting a settlement offer?
 
---- 
+</div> 
 
 # 2.7 Financial Relationships with Clients
 
@@ -825,7 +944,17 @@ Attorneys may withdraw funds from a client's trust account in order to pay the c
 
 <div markdown="block" class="statute">
 
-# Rule 1.15: Safekeeping Property
+# ABA Model Rule 1.15: Safekeeping Property {% marginnote "margin-note-id" "The NC Rules on safekeeping client propery and funds (1.15-1 through 1.15-4) are far more detailed than ABA Model Rule 1.15." %}
+
+(a) A lawyer shall hold property of clients or third persons that is in a lawyer's possession in connection with a representation separate from the lawyer's own property. Funds shall be kept in a separate account maintained in the state where the lawyer's office is situated, or elsewhere with the consent of the client or third person. Other property shall be identified as such and appropriately safeguarded. Complete records of such account funds and other property shall be kept by the lawyer and shall be preserved for a period of [five years] after termination of the representation.
+
+(b) A lawyer may deposit the lawyer's own funds in a client trust account for the sole purpose of paying bank service charges on that account, but only in an amount necessary for that purpose.
+
+(c) A lawyer shall deposit into a client trust account legal fees and expenses that have been paid in advance, to be withdrawn by the lawyer only as fees are earned or expenses incurred.
+
+(d) Upon receiving funds or other property in which a client or third person has an interest, a lawyer shall promptly notify the client or third person. Except as stated in this rule or otherwise permitted by law or by agreement with the client, a lawyer shall promptly deliver to the client or third person any funds or other property that the client or third person is entitled to receive and, upon request by the client or third person, shall promptly render a full accounting regarding such property.
+
+(e) When in the course of representation a lawyer is in possession of property in which two or more persons (one of whom may be the lawyer) claim interests, the property shall be kept separate by the lawyer until the dispute is resolved. The lawyer shall promptly distribute all portions of the property as to which the interests are not in dispute.
 
 </div>
 
@@ -834,7 +963,7 @@ Attorneys may withdraw funds from a client's trust account in order to pay the c
 
 # Neb. State Bar Ass'n v. Statmore
 
-###### 352 N.W.2d 875 (Neb. 1984)
+## 352 N.W.2d 875 (Neb. 1984)
 
 <div markdown="block" class="case-summary">
 
@@ -842,14 +971,16 @@ Attorneys may withdraw funds from a client's trust account in order to pay the c
 
 </div>
 
+<div markdown="block" class="casebook-questions">
 
-
-# 
+# Questions
 
 1. Was Statmore's commingling of Kuzara's funds with his own intentional? Was it reckless? Was Kuzara harmed, and if so, how? 
 
 
 2. Was a 6 month suspension an appropriate sanction under the circumstances? How does it compare to the sanctions for other violations of the duty of care?
+
+</div>
 
 ##### Further Reading:
 
@@ -869,16 +1000,65 @@ The concern is that the attorney's financial interest in the client's property c
 
 <div markdown="block" class="statute">
 
-# Model Rule 1.8: Current Clients: Specific Rules
+# NC Rule 1.8 — Conflict of Interest: Current Clients: Specific Rules
+
+(a) A lawyer shall not enter into a business transaction with a client or knowingly acquire an ownership, possessory, security or other pecuniary interest directly adverse to a client unless:
+
+> (1) the transaction and terms on which the lawyer acquires the interest are fair and reasonable to the client and are fully disclosed and transmitted in writing in a manner that can be reasonably understood by the client;
+
+> (2) the client is advised in writing of the desirability of seeking and is given a reasonable opportunity to seek the advice of independent legal counsel on the transaction; and
+
+> (3) the client gives informed consent, in a writing signed by the client, to the essential terms of the transaction and the lawyer's role in the transaction, including whether the lawyer is representing the client in the transaction.
+
+(b) A lawyer shall not use information relating to representation of a client to the disadvantage of the client unless the client gives informed consent, except as permitted or required by these Rules.
+
+(c) A lawyer shall not solicit any substantial gift from a client, including a testamentary gift, or prepare on behalf of a client an instrument giving the lawyer or a person related to the lawyer any substantial gift unless the lawyer or other recipient of the gift is related to the client. For purposes of this paragraph, related persons include a spouse, child, grandchild, parent, grandparent or other relative or individual with whom the lawyer or the client maintains a close, familial relationship.
+
+(d) Prior to the conclusion of representation of a client, a lawyer shall not make or negotiate an agreement giving the lawyer literary or media rights to a portrayal or account based in substantial part on information relating to the representation.
+
+(e) A lawyer shall not provide financial assistance to a client in connection with pending or contemplated litigation, except that:
+
+> (1) a lawyer may advance court costs and expenses of litigation, the repayment of which may be contingent on the outcome of the matter; and
+
+> (2) a lawyer representing an indigent client may pay court costs and expenses of litigation on behalf of the client.
+
+(f) A lawyer shall not accept compensation for representing a client from one other than the client unless:
+
+> (1) the client gives informed consent;
+
+> (2) there is no interference with the lawyer's independence of professional judgment or with the client-lawyer relationship; and
+
+> (3) information relating to representation of a client is protected as required by Rule 1.6.
+
+(g) A lawyer who represents two or more clients shall not participate in making an aggregate settlement of the claims of or against the clients, or in a criminal case an aggregated agreement as to guilty or nolo contendere pleas, unless each client gives informed consent, in a writing signed by the client. The lawyer's disclosure shall include the existence and nature of all the claims or pleas involved and of the participation of each person in the settlement.
+
+(h) A lawyer shall not:
+
+> (1) make an agreement prospectively limiting the lawyer's liability to a client for malpractice unless the client is independently represented in making the agreement; or
+
+> (2) settle a claim or potential claim for such liability with an unrepresented client or former client unless that person is advised in writing of the desirability of seeking and is given a reasonable opportunity to seek the advice of independent legal counsel in connection therewith.
+
+(i) A lawyer shall not acquire a proprietary interest in the cause of action or subject matter of litigation the lawyer is conducting for a client, except that the lawyer may:
+
+> (1) acquire a lien authorized by law to secure the lawyer's fee or expenses, provided the requirements of Rule 1.8(a) are satisfied; and
+
+> (2) contract with a client for a reasonable contingent fee in a civil case, except as prohibited by Rule 1.5.
+
+While lawyers are associated in a firm, a prohibition in the foregoing paragraphs (a) through (i), that applies to any one of them shall apply to all of them. 
 
 </div>
 
+ABA Model Rule 1.8 contains this additional prohibition: {% marginnote "marginnote-id" "A similar prohibition appears in [NC Rule 1.19](https://www.ncbar.gov/for-lawyers/ethics/rules-of-professional-conduct/rule-119-sexual-relations-with-clients-prohibited/), which further provides that, 'A lawyer shall not require or demand sexual relations with a client incident to or as a condition of any professional representation,' and includes a definition of 'sexual relations'." %}
+
+> (j) A lawyer shall not have sexual relations with a client unless a consensual sexual relationship existed between them when the client-lawyer relationship commenced. 
+
+Unlike the prohibitions under Rule 1.8(a)-(i), the rule concerning sexual relations with a client does not apply to other lawyers practicing in the same firm.{% marginnote "marginnote-id" "NC Rule 1.19 explains that 'For purposes of this rule, 'lawyer' means any lawyer who assists in the representation of the client but does not include other lawyers in a firm who provide no such assistance.'" %}
 
 <div markdown="block" class="case">
 
 # Committee on Prof. Ethics v. Mershon
 
-###### 316 N.W.2d 895 (Iowa 1982)
+## 316 N.W.2d 895 (Iowa 1982)
 
 <div markdown="block" class="case-summary">
 
@@ -886,7 +1066,9 @@ The concern is that the attorney's financial interest in the client's property c
 
 </div>
 
-# 
+<div markdown="block" class="casebook-questions">
+
+# Questions
 
 1. Did Mershon benefit at Miller's expense?
 
@@ -894,7 +1076,7 @@ The concern is that the attorney's financial interest in the client's property c
 
 3. Was Mershon's punishment sufficient under the circumstances?
 
---- 
+</div>
 
 ## Litigation Finance
 
@@ -914,10 +1096,21 @@ WHERE DOES THIS GO? third-party supported litigation may not assert the champert
 
 <div markdown="block" class="statute">
 
-# Model Rule 1.8: Current Clients: Specific Rules
+# NC Rule 1.8: Current Clients: Specific Rules
 
+(e) A lawyer shall not provide financial assistance to a client in connection with pending or contemplated litigation, except that:
 
-Rule 1.8(e), (i) 
+> (1) a lawyer may advance court costs and expenses of litigation, the repayment of which may be contingent on the outcome of the matter; and
+
+> (2) a lawyer representing an indigent client may pay court costs and expenses of litigation on behalf of the client.
+
+... 
+
+(i) A lawyer shall not acquire a proprietary interest in the cause of action or subject matter of litigation the lawyer is conducting for a client, except that the lawyer may:
+
+> (1) acquire a lien authorized by law to secure the lawyer's fee or expenses, provided the requirements of Rule 1.8(a) are satisfied; and
+
+> (2) contract with a client for a reasonable contingent fee in a civil case, except as prohibited by Rule 1.5.
 
 </div>
 
@@ -934,7 +1127,7 @@ Rule 1.8(e), (i)
 
 # Saladini v. Righellis
 
-###### 426 Mass. 231 (1997)
+## 426 Mass. 231 (1997)
 
 <div markdown="block" class="case-summary">
 
@@ -942,14 +1135,15 @@ Rule 1.8(e), (i)
 
 </div>
 
+<div markdown="block" class="casebook-questions">
 
-# 
+# Questions
 
 1. On October 4, 2012, the website Gawker published a 2 minute excerpt from a 30 minute video of Terry Gene Bollea, better known as "Hulk Hogan," having sex with Heather Clem, the wife of Bollea's friend Bubba the Love Sponge Clem. Bollea claimed the video was made without his knowledge or consent, and filed an action against Gawker in Florida state court, alleging an assortment of tort claims. The jury ruled in favor of Bollea, awarding him $115 million in compensatory damages and $25 million in punitive damages. Gawker could not pay the judgment and filed for bankruptcy. After the trial, Peter Thiel disclosed that he had paid millions of dollars to finance Bollea's action, which he described as "one of my greater philanthropic things that I've done." Many people objected to Thiel's role in Bollea's action. Was it maintenance, champerty, or barratry? Should it have been prohibited?
 
 2. In 2003, residents of Lago Agrio, Ecuador filed a class action against Chevron in an Ecuadorian court, alleging that its Lago Agrio oil field had polluted the environment. The plaintiffs were represented by the Ecuadorian lawyer Pablo Fajardo Mendoza and the American lawyer Steven Donziger, who obtained more than $32 million in litigation funding. The American documentary filmmaker Joe Berlinger documented the litigation and released the film Crude in 2009. In 2011, the Ecuadorian court ruled for the plaintiffs and ordered Chevron to pay $18 billion in damages. Chevron's lawyers at Gibson, Dunn & Crutcher LLP noticed that an early version of Crude had featured an ostensibly impartial environmental expert meeting with Donziger before the trial, and subpoenaed Berlinger's outtakes, which provided additional evidence of fraud and corruption. In 2014, the United States District Court for the Southern District of New York found that Donziger had used "corrupt means" in the Ecuadorian court and refused to enforce the verdict, and the Second Circuit affirmed. Both New York and the District of Columbia suspended Donziger from the practice of law. Was it improper for Donziger to obtain third-party litigation funding? Did the availability of funding create improper incentives? Are third-party litigation funders in a position to evaluate the legitimacy of the litigation they fund? Should they be?
 
---- 
+</div>
 
 # 2.8 Organizations as Clients
 
@@ -963,7 +1157,25 @@ The attorney must provide legal advice to the agents of an organizational client
 
 Specifically, an attorney representing an organizational client must ensure that its agents act consistently with the interests of the organization, rather than their own interests. If an agent of an organizational client acts or refuses to act in a way that violates a legal obligation to the organization, then the attorney must act to protect the interests of the organization. The attorney should generally report the concern to the management of the organization. In some cases, the attorney may even report confidential information or withdraw from representation, if it is necessary to protect the interests of the organization.
 
-### Model Rule 1.13: Organization as Client
+<div markdown="block" class="statute">
+
+# NC Rule 1.13 — Organization as Client
+
+(a) A lawyer employed or retained by an organization represents the organization acting through its duly authorized constituents.
+
+(b) If a lawyer for an organization knows that an officer, employee. or other person associated with the organization is engaged in action, intends to act or refuses to act in a matter related to the representation that is a violation of a legal obligation to the organization, or a violation of law which reasonably might be imputed to the organization, and is likely to result in substantial injury to the organization, then the lawyer shall proceed as is reasonably necessary in the best interest of the organization. Unless the lawyer reasonably believes that it is not necessary in the best interest of the organization to do so, the lawyer shall refer the matter to higher authority in the organization, including, if warranted by the circumstances, to the highest authority that can act on behalf of the organization as determined by applicable law. 
+
+(c) If, despite the lawyer's efforts in accordance with paragraph (b), the highest authority that can act on behalf of the organization insists upon action, or a refusal to act, that is clearly a violation of law and is likely to result in substantial injury to the organization, the lawyer may reveal such information outside the organization to the extent permitted by Rule 1.6 and may resign in accordance with Rule 1.16.
+
+(d) Paragraph (c) shall not apply with respect to information relating to a lawyer's representation of an organization to investigate an alleged violation of law, or to defend the organization or an officer, employee, or other constituent associated with the organization against a claim arising out of an alleged violation of law.
+
+(e) A lawyer who reasonably believes that he or she has been discharged because of the lawyer's actions taken pursuant to paragraphs (b) or (c), or who withdraws under circumstances that require or permit the lawyer to take action under these Rules, shall proceed as the lawyer reasonably believes necessary to assure that the organization's highest authority is informed of the lawyer's discharge or withdrawal. 
+
+(f) In dealing with an organization’s directors, officers, employees, members, shareholders or other constituents, a lawyer shall explain the identity of the client when the lawyer knows or reasonably should know that the organization's interests are adverse to those of the constituents with whom the lawyer is dealing.
+
+(g) A lawyer representing an organization may also represent any of its directors, officers, employees, members, shareholders or other constituents, subject to the provisions of Rule 1.7. If the organization's consent to the dual representation is required by Rule 1.7, the consent shall be given by an appropriate official of the organization other than the individual who is to be represented, or by the shareholders.
+
+</div>
 
 <div markdown="block" class="statute">
 
@@ -977,7 +1189,7 @@ Specifically, an attorney representing an organizational client must ensure that
 
 # In the Matter of Silva
 
-###### 636 A.2d 316 (R.I. 1994)
+## 636 A.2d 316 (R.I. 1994)
 
 <div markdown="block" class="case-summary">
 
@@ -985,9 +1197,9 @@ Specifically, an attorney representing an organizational client must ensure that
 
 </div>
 
+<div markdown="block" class="casebook-questions">
 
-
-# 
+# Questions
 
 1. Medeiros owned Medcon. How could Silva have reported to Medcon?
 
@@ -995,7 +1207,7 @@ Specifically, an attorney representing an organizational client must ensure that
 
 3. Did the court impose an appropriate punishment?
 
---- 
+</div>
 
 ## Representing a Corporation
 
@@ -1003,7 +1215,7 @@ Specifically, an attorney representing an organizational client must ensure that
 
 # Brennan v. Ruffner
 
-###### 640 So. 2d 143 (Fla. 1994)
+## 640 So. 2d 143 (Fla. 1994)
 
 <div markdown="block" class="case-summary">
 
@@ -1011,8 +1223,9 @@ Specifically, an attorney representing an organizational client must ensure that
 
 </div>
 
+<div markdown="block" class="casebook-questions">
 
-# 
+# Questions
 
 1. Why did the court hold that Ruffner represented the corporation, rather than Brennan? What if Brennan were a majority shareholder of the corporation?
 
@@ -1022,7 +1235,7 @@ Specifically, an attorney representing an organizational client must ensure that
 
 4. Did Ruffner represent anyone?
 
----
+</div>
 
 ## Representing a Partnership
 
@@ -1030,7 +1243,7 @@ Specifically, an attorney representing an organizational client must ensure that
 
 # Mursau Corp. v. Florida Penn Oil & Gas, Inc.
 
-###### 638 F. Supp. 259 (W.D. Pa. 1986)
+## 638 F. Supp. 259 (W.D. Pa. 1986)
 
 <div markdown="block" class="case-summary">
 
@@ -1038,7 +1251,9 @@ Specifically, an attorney representing an organizational client must ensure that
 
 </div>
 
-#  
+<div markdown="block" class="casebook-questions">
+
+# Questions
 
 1. Did Mursau have any attorney-client relationship with G & S?
 
@@ -1046,7 +1261,7 @@ Specifically, an attorney representing an organizational client must ensure that
 
 3. Why did the court conclude that Mursau had no attorney-client relationship with G & S relation to this matter? 
 
---- 
+</div>
 
 # 2.9 Agents as Clients
 
@@ -1082,7 +1297,9 @@ Do you have any questions?
 
 Are you willing to proceed?
 
-#  
+<div markdown="block" class="casebook-questions">
+
+# Questions
 
 1. Does this model warning adequately explain that the attorney represents the organization and not its agents?
 
@@ -1090,13 +1307,13 @@ Are you willing to proceed?
 
 3. If you received this warning, would you answer any questions? Would you give candid answers? Would you obtain outside counsel? What if you were unaware of the subject matter of the inquiry?
 
---- 
+</div>
 
 <div markdown="block" class="case"> 
 
 # In re Grand Jury Subpoena: Under Seal
 
-###### 415 F. 3d 334 (4th Cir. 2005)
+## 415 F. 3d 334 (4th Cir. 2005)
 
 <div markdown="block" class="case-summary">
 
@@ -1104,8 +1321,9 @@ Are you willing to proceed?
 
 </div>
 
+<div markdown="block" class="casebook-questions">
 
-# 
+# Questions
 
 1. Why did the court hold that no attorney-client relationship existed? Do you agree with its conclusion?
 
@@ -1113,13 +1331,13 @@ Are you willing to proceed?
 
 3. Does it make sense for attorneys representing an organization to say they can represent an agent of the organization unless there is a conflict?
 
---- 
+</div>
 
 <div markdown="block" class="case"> 
 
 # United States v. Stein
 
-###### 463 F. Supp. 2d 459 (S.D.N.Y. 2006)
+## 463 F. Supp. 2d 459 (S.D.N.Y. 2006)
 
 <div markdown="block" class="case-summary">
 
@@ -1127,8 +1345,9 @@ Are you willing to proceed?
 
 </div>
 
+<div markdown="block" class="casebook-questions">
 
-# 
+# Questions
 
 1. Did Warley believe KPMG's attorneys represented her personally? If so, why was she wrong. Did anyone tell her that KPMG's attorneys were not representing her personally?
 
@@ -1136,4 +1355,4 @@ Are you willing to proceed?
 
 3. Should Warley have a malpractice claim against KPMG's attorneys?
 
---- 
+</div>

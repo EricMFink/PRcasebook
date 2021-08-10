@@ -158,7 +158,7 @@ The district court properly dismissed appellant's complaint for failure to state
  
 
 
-<div markdown="block" class="casebook-questions"> &&&& # Check Your Knowledge  
+<div markdown="block" class="casebook-questions"> &&&& # Questions  
 
 1. Should the circuit court have read Rule 11 this narrowly? 
 
@@ -217,7 +217,7 @@ abused its discretion in choosing a sanction to impose upon Sargent even if her 
  
 
 
-<div markdown="block" class="casebook-questions"> &&&& # Check Your Knowledge  
+<div markdown="block" class="casebook-questions"> &&&& # Questions  
 
 1. When should an argument in a pleading be sanctionable under Rule 11? 
 
@@ -3288,7 +3288,7 @@ The district court did not err in sanctioning Mr. Harris and Mr. Pettinato. Rega
  
 
 
-<div markdown="block" class="casebook-questions"> &&&& # Check Your Knowledge  
+<div markdown="block" class="casebook-questions"> &&&& # Questions  
 
 1. Why was it improper for Harris and Pettinato not to disclose their previous relationship with Keys? 
 
@@ -3598,7 +3598,7 @@ For the foregoing reasons, it is hereby ORDERED AND ADJUDGED that Plaintiff's Am
 Furthermore, because of the misconduct of counsel which occurred in this case, a copy of this order shall be sent to the Florida Bar and the Peer Review Committee for the Southern District of Florida for any action deemed appropriate. 
 
 
-<div markdown="block" class="casebook-questions"> &&&& # Check Your Knowledge  
+<div markdown="block" class="casebook-questions"> &&&& # Questions  
 
 1. 
 This article
@@ -3709,7 +3709,7 @@ If inherent authority were expanded to cover Camina's conduct, there would be no
  and REMAND for any further proceedings that may be needed. 
 
 
-<div markdown="block" class="casebook-questions"> &&&& # Check Your Knowledge  
+<div markdown="block" class="casebook-questions"> &&&& # Questions  
 
 1. Why did the circuit court hold that Camina's conduct was outside the scope of the district court's inherent authority? Why didn't it matter that the district court had sent the action to arbitration? 
 
@@ -4417,7 +4417,7 @@ Nevertheless, beneath the surface of this case there are areas of uncertainty th
 Because JUSTICE BLACKMUN has preserved such questions for another day, and because I do not understand him to imply any adverse criticism of this lawyer's representation of his client, I join his opinion concurring in the judgment. 
 
 
-<div markdown="block" class="casebook-questions"> &&&& # Check Your Knowledge  
+<div markdown="block" class="casebook-questions"> &&&& # Questions  
 
 1. Why did the majority conclude that Whiteside was planning to commit perjury? Is it possible that he recollected something new about the incident? Is it appropriate to rely on the trial court's finding of fact about what Whiteside saw? 
 
@@ -4487,7 +4487,7 @@ Accordingly, the order of the Appellate Division should be affirmed.
  
 
 
-<div markdown="block" class="casebook-questions"> &&&& # Check Your Knowledge  
+<div markdown="block" class="casebook-questions"> &&&& # Questions  
 
 
 1. The 
@@ -4607,7 +4607,7 @@ Counsel who reach the conclusion that a client is about to testify falsely shoul
  
 
 
-<div markdown="block" class="casebook-questions"> &&&& # Check Your Knowledge  
+<div markdown="block" class="casebook-questions"> &&&& # Questions  
 
 1. Is it possible that Hischke's proposed testimony was truthful? Did his attorney actually know it was false? 
 
@@ -4737,7 +4737,7 @@ JOHNSTONE, J., dissents and would concur with the recommendation of the Board of
  
 
 
-<div markdown="block" class="casebook-questions"> &&&& # Check Your Knowledge  
+<div markdown="block" class="casebook-questions"> &&&& # Questions  
 
 1. Why would it be material to Ford and Ford's client whether McNealy was alive at the time of the settlement? Is it possible that it could have affected their decision whether to settle or the amount of the settlement? 
 

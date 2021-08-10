@@ -118,7 +118,7 @@ Thus, notwithstanding the lack of conflict in the evidence, the summary judgment
  
 
 
-<div markdown="block" class="casebook-questions"> &&&& # Check Your Knowledge  
+<div markdown="block" class="casebook-questions"> &&&& # Questions  
 
 1. Did Anders assert a violation of the duty of care, the duty of loyalty, or both? 
 
@@ -227,7 +227,7 @@ We therefore reverse the order of the district court disqualifying counsel, and 
  
 
 
-<div markdown="block" class="casebook-questions"> &&&& # Check Your Knowledge  
+<div markdown="block" class="casebook-questions"> &&&& # Questions  
 
 1. Who does Sandner represent? Does he represent the female members of the teachers union? Does he have any duties to the plaintiffs in this action? 
 
@@ -298,7 +298,7 @@ Here, it was clear that there was a substantial basis and expectation that Justi
  
 
 
-<div markdown="block" class="casebook-questions"> &&&& # Check Your Knowledge  
+<div markdown="block" class="casebook-questions"> &&&& # Questions  
 
 1. Why did the court hold that visiting the Special Commitment Facility did not create an appearance of impropriety, but speaking to a resident of the facility did? 
 
@@ -432,7 +432,7 @@ In the case before us, the objective of the deed was to transfer ownership of th
  
 
 
-<div markdown="block" class="casebook-questions"> &&&& # Check Your Knowledge  
+<div markdown="block" class="casebook-questions"> &&&& # Questions  
 
 1. Why didn't Marker have an attorney-client relationship with Greenberg? 
 
@@ -511,7 +511,7 @@ Consequently, under the circumstances regarding the instructions, this matter is
  
 
 
-<div markdown="block" class="casebook-questions"> &&&& # Check Your Knowledge  
+<div markdown="block" class="casebook-questions"> &&&& # Questions  
 
 1. Why was Garrett's advice unsound? What was her defense? 
 
@@ -652,7 +652,7 @@ To that, we would simply repeat that all the evidence in this case was submitted
  
 
 
-<div markdown="block" class="casebook-questions"> &&&& # Check Your Knowledge  
+<div markdown="block" class="casebook-questions"> &&&& # Questions  
 
 1. What was the harm to Roach's estate? Could Runner have prevented that harm? Could anyone else have prevented the harm? 
 
@@ -742,7 +742,7 @@ What is foreseeable as a result of a failure to produce documents is the reasona
  
 
 
-<div markdown="block" class="casebook-questions"> &&&& # Check Your Knowledge  
+<div markdown="block" class="casebook-questions"> &&&& # Questions  
 
 1. What was TIG's injury? Did Giffin Winning's negligence cause that injury? 
 
@@ -809,7 +809,7 @@ Accordingly, for the reasons expressed above, we find that the Superior Court co
  
 
 
-<div markdown="block" class="casebook-questions"> &&&& # Check Your Knowledge  
+<div markdown="block" class="casebook-questions"> &&&& # Questions  
 
 1. Why did the court hold that Kituskie could only recover collectable damages? Why couldn't he recover all of his damages? 
 
@@ -952,7 +952,7 @@ Mirzayance has not shown that the state court's conclusion that there was no ine
  
 
 
-<div markdown="block" class="casebook-questions"> &&&& # Check Your Knowledge  
+<div markdown="block" class="casebook-questions"> &&&& # Questions  
 
 1. Did Mirzayance's insanity plea have any chance of success? Was there any reason to withdraw it? 
 
@@ -1196,7 +1196,7 @@ In addition to undermining finality, the Court's rule will impose significant co
  
 
 
-<div markdown="block" class="casebook-questions"> &&&& # Check Your Knowledge  
+<div markdown="block" class="casebook-questions"> &&&& # Questions  
 
 1. Does an ineffective assistance of counsel claim more closely resemble a breach of the duty of care or a breach of the duty of loyalty? 
 
@@ -1356,7 +1356,7 @@ Second, while it may be true that a majority of courts that have reached the iss
 This court should protect the public from lawyers' misdeeds, not the other way around. A plaintiff who is not categorically innocent seeking compensation under ordinary principles of tort law faces no light burden. Such a guilty plaintiff must prove a duty, a breach of that duty, injuries proximately caused by the breach, and the amount of his damages. I see no reason to provide additional protections for lawyers. 
  
 
-<div markdown="block" class="casebook-questions"> &&&& # Check Your Knowledge  
+<div markdown="block" class="casebook-questions"> &&&& # Questions  
 
 1. Is the "actual innocence" requirement imposed by the court similar to the "case within a case" doctrine? Does it requirement a criminal defendant to prove more? 
 

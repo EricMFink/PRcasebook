@@ -146,7 +146,7 @@ Piper's
  view of the Privileges and Immunities Clause, I think the unique circumstances of legal practice in the Virgin Islands, as compared to the mainland States, could justify upholding this simple residency requirement even under that view. Because the record reveals the existence of genuine factual disputes about the nature of these circumstances and their relationship to the challenged residency requirement, I would reverse the judgment below and remand for trial on those issues. 
  
 
-<div markdown="block" class="casebook-questions"> &&&& # Check Your Knowledge  
+<div markdown="block" class="casebook-questions"> &&&& # Questions  
 
 1. The majority held that the District Court Bar's residency requirement was unconstitutional because it demonstrated neither a substantial reason for discriminating against nonresidents, nor a substantial relationship to any legitimate purpose. The dissent argued that the might be a legitimate purpose for the restriction. Do any of the reasons provided by the District Court Bar seem legitimate to you? 
 
@@ -226,7 +226,7 @@ legal fellow
  
 at the Mitchell-Hamline School of Law Sex Offense Litigation and Policy Resource Center. 
 
-<div markdown="block" class="casebook-questions"> &&&& # Check Your Knowledge  
+<div markdown="block" class="casebook-questions"> &&&& # Questions  
 
 1. When should state bar associations be permitted to refuse admission based on an applicant's moral character? What factors should they be permitted to consider in evaluating an applicant's moral character? 
 
@@ -2368,7 +2368,7 @@ ultra vires
 However, as a policy matter, I am dubious that a remedy limited to prospective equitable relief is strong enough to deter the egregious conduct alleged here. To be effective, the remedy must be proportional to the wrong. To my mind, the threat of other consequences, including monetary relief, would provide the external pressure required to motivate vigilance and self-policing. The Legislature is better suited, and constitutionally constituted, to weigh the policy interests that bear on whether to waive immunity (and to what extent), but as to that matter, this case makes painfully clear that what's past is prologue. 
 
 
-<div markdown="block" class="casebook-questions"> &&&& # Check Your Knowledge  
+<div markdown="block" class="casebook-questions"> &&&& # Questions  
 
 1. Hillman was the first prosecutor represented by the 
 Innocence Project
