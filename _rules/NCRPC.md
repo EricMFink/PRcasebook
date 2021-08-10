@@ -1,13 +1,12 @@
-﻿---
-layout: statute
-title: ﻿Rules of Professional Conduct of the North Carolina State Bar
+﻿--- 
 
-output: 
- pdf_document:
- latex_engine: xelatex
- template: default.tex
- 
+layout: casebook
+
+title: 'NC Rules of Professional Conduct' 
+permalink: /NCRPC/ 
+
 ---
+
 
 ## Rule 0.1 Preamble: A Lawyer's Professional Responsibilities
 

@@ -88,7 +88,7 @@ A conflict of interest is involved if there is a substantial risk that the lawye
 Glueck v. Jonathan Logan, Inc.,
  653 F. 2d 746 (2d Cir. 1981) 
 
-Summary: 
+_Summary:_ 
 Jonathan Logan, Inc. fired Charles Glueck, who hired Phillips Nizerto represent him in a wrongful termination action. Logan filed a motion to disqualify Phillips Nizer because the firm represented the Apparel Manufacturers Association, Inc., a membership organization that includes one of Logan's divisions. The district court granted the motion, because the relationship between Phillips Nizer and Logan resembled an attorney-client relationship, and the subject matter of Glueck's action was "substantially related" to Phillips Nizer's representation of the Association. The circuit court affirmed, because representing both Glueck and the Association would create a "realistic risk" of Phillips Nizer breaching its duty of loyalty. 
 
 NEWMAN, Circuit Judge: 
@@ -171,7 +171,7 @@ Board of Education v. Nyquist.
 Gutting v. Falstaff Brewing Corp.,
  710 F. 2d 1309 (8th Cir. 1983) 
 
-Summary: Ferdinand Gutting was the president of Falstaff Brewing, which gave him a life insurance policy, payable unless he was discharged for proper cause. Paul Kalmanovitz bought Falstaff and fired Gutting, and when Gutting died, Falstaff refused to pay his life insurance benefits. Virginia Gutting filed a breach of contract claim, and hired attorney James S. McClellan to represent her. Falstaff filed a motion to disqualify McClellan, on the ground that he had previously represented Falstaff. McClellan withdrew, and Gutting hired Harry B. Wilson. But Wilson also withdrew after identifying a conflict of interest, and Gutting hired David G. Dempsey. In the meantime. Falstaff filed a motion for summary judgment, arguing that Gutting had admitted all of the facts alleged in its complaint by failing to timely answer its request for admissions. The district court granted the motion, but the circuit court reversed, holding that the district court should have considered the disqualification of Gutting's counsel. 
+_Summary:_ Ferdinand Gutting was the president of Falstaff Brewing, which gave him a life insurance policy, payable unless he was discharged for proper cause. Paul Kalmanovitz bought Falstaff and fired Gutting, and when Gutting died, Falstaff refused to pay his life insurance benefits. Virginia Gutting filed a breach of contract claim, and hired attorney James S. McClellan to represent her. Falstaff filed a motion to disqualify McClellan, on the ground that he had previously represented Falstaff. McClellan withdrew, and Gutting hired Harry B. Wilson. But Wilson also withdrew after identifying a conflict of interest, and Gutting hired David G. Dempsey. In the meantime. Falstaff filed a motion for summary judgment, arguing that Gutting had admitted all of the facts alleged in its complaint by failing to timely answer its request for admissions. The district court granted the motion, but the circuit court reversed, holding that the district court should have considered the disqualification of Gutting's counsel. 
 
 LAY, Chief Judge. 
 
@@ -391,7 +391,7 @@ Effective client consent to one conflict is not necessarily effective with respe
 # NuStar Farms, LLC v. Zylstra
 , 880 N.W.2d 478 (Iowa 2016) 
 
-Summary: 
+_Summary:_ 
 Between 2002 and 2014, attorney Larry Stoller represented Robert and Marcia Zylstra in several different matters. In 2007, Stoller and the Zylstras discussed a manure easement agreement with NuStar Farms. In 2014, Stoller began representing NuStar, which had a dispute with the Zylstras over a deed. Soon afterward, Stoller ended his representation of the Zylstras and filed an action against them for NuStar. The Zylstras retained attorney John Sandy, who filed a motion to disqualify Stoller. The trial court denied the motion, but the Iowa Supreme Court reversed, holding that Stoller had a conflict of interest and the Zylstras did not consent. 
 
 ZAGER, Justice. 
@@ -541,7 +541,7 @@ While attorneys owe their clients both a duty of care and a duty of loyalty, the
 Moguls of Aspen, Inc, v. Faegre & Benson,
  956 P. 2d 618 (Colo. App. 1997) 
 
-Summary: 
+_Summary:_ 
 While representing Moguls of Aspen in a dispute with its landlord, Faegre & Benson provided inaccurate legal advice, which caused Moguls of Aspen to lose its lease and go out of business. Moguls of Aspen sued Faegre & Benson for malpractice, but the trial court refused to instruct the jury on its claim for breach of the duty of loyalty, finding that the facts did not support the claim. The court of appeals affirmed, finding that Moguls of Aspen presented evidence of negligence, but did not present evidence of a conflict of interest. 
 
 Opinion by Judge CRISWELL. 
@@ -645,7 +645,7 @@ asserted. This, however, is not such a case. And, the trial court properly recog
 # David Welch Co. v. Erskine & Tulley,
  203 Cal. App. 3d 884 (Cal. App. 1988) 
 
-Summary: 
+_Summary:_ 
 David Welch Company was a collection agency. In 1972, Erksine & Tulley and Michael Carroll began providing legal representation to Welch. Among other things, they assisted Welch in collecting debts for employee-benefit trust funds from delinquent employers. In 1980, E & T and Welch ended their attorney-client relationship. Soon afterward, E & T began submitting proposals to collect debts for Welch's clients, without Welch's consent. Welch filed an action for breach of fiduciary duty and the trial court found for Welch. The appeals court affirmed, holding that E & T's duty of loyalty to Welch required it to obtain informed consent before submitting proposals to Welch's clients. 
 
 CHANNELL, J. 
@@ -716,7 +716,7 @@ Maxwell v. Gallagher,
  
 709 A. 2d 100 (DC App. 1998) 
 
-Summary: 
+_Summary:_ 
 Gallagher & Co., Real Estate, Inc. was a closely-held corporation. In 1987, Maxwell & Bear provided legal advice to Gallagher and its owners in connection with the division of ownership shares in the corporation. In the transaction, 11 of the 100 shares in the corporation were transferred to Maxwell & Bear, which filed a declaratory judgment action to claim its shares. The corporation and its owners counterclaimed, seeking recission of the transfer for breach of fiduciary duty. The trial court found that the transaction created a conflict of interest that Maxwell & Bear did not resolve, causing a breach of the duty of loyalty, and ordered recission. The trial court found no actual damages, but awarded $75,000 in punitive damages to the plaintiffs. The appellate court affirmed the recission, but reversed the punitive damages award, because the trial court found no actual damages. 
 
 FARRELL, Associate Judge: 
@@ -825,7 +825,7 @@ Weil, Gotshal & Manges, LLP v. Fashion Boutique of Short Hills, Inc.,
 
 App. Div. 2004) 
 
-Summary: 
+_Summary:_ 
 Weil, Gotshal & Manges represented Fashion Boutique in an action against Fendi, but also represented Prada, which acquired Fendi. When Weil filed an action against Fashion Boutique for unpaid legal fees, Fashion Boutique counterclaimed against Weil for malpractice and breach of fiduciary duty, because it failed to investigate or introduce relevant testimony. The trial court dismissed the malpractice claims, but not the fiduciary duty claims. The appellate court reversed, reinstating the malpractice claim and dismissing the fiduciary duty claim as redundant. 
 
 This action for $2.7 million in unpaid legal fees arose out of the representation, commencing in 1993, of counterclaim plaintiff Fashion Boutique of Short Hills, Inc. and its principals by counterclaim defendant law firm and two of its partners. Fashion Boutique alleges that, while representing it against Fendi in an action in federal court, Prada, which had acquired a controlling interest in Fendi in October 1999, retained the law firm. The federal action was based on alleged disparaging remarks by Fendi, a competing Fifth Avenue boutique, and its parent Fendi, which led to the destruction of Fashion Boutique's retail business, thereby violating the Lanham Act and New York State law prohibiting product disparagement. The law firm represented Fashion Boutique through extensive pretrial discovery, a summary judgment motion resulting in the dismissal of the Lanham Act claim and a July 2000 jury trial, which resulted in the award of $35,000 in compensatory damages and $75,000 in punitive damages in favor of Fashion Boutique. Earlier, in March 2000, the Fendi defendants had made a settlement 
@@ -883,7 +883,7 @@ Whether a lawyer may properly request a client to waive conflicts that might ari
 Visa USA, Inc, v. First Data Corp.,
  241 F. Supp. 2d 1100 (N.D. Ca. 2003) 
 
-Summary: 
+_Summary:_ 
 Heller Ehrman White & McAuliffe represented Visa. First Data asked Heller to represent it in a patent infringement action, and Heller agreed, if First Data consented to Heller's representation of Visa in any future disputes. Soon afterward, Visa sued First Data, represented by Heller. First Data filed a motion to disqualify Heller. The court denied the motion because First Data knowingly consented to the conflict and Heller protected First Data's confidentiality. 
 
 HAMILTON, District Judge. 
@@ -1018,7 +1018,7 @@ Accordingly, federal courts must decide whether to apply state or national law i
 In re Dresser Industries, Inc.,
  972 F. 2d 540 (5th Cir. 1992) 
 
-Summary: 
+_Summary:_ 
 Susman Godfrey represented Dresser Industries in several actions, but also represented the plaintiffs in the 
 Drill Bits
  
@@ -1208,7 +1208,7 @@ Matters are "substantially related" for purposes of this Rule if they involve th
 Wilson P. Abraham Const, v. Armco Steel Corp.,
  559 F. 2d 250 (5th Cir. 1977) 
 
-Summary: 
+_Summary:_ 
 Stephen D. Susman represented Whitlow Steel in a Texas federal antitrust conspiracy action. Armco, Ceco, and Laclede were Whitlow's co-defendants in that action, and were also the defendants in a Louisiana federal antitrust conspiracy action. Ultimately, they pleaded to all of the charges. William E. Wright filed a civil action against Whitlow, Armco, Ceco, and Laclede in Texas, on behalf of Wilson P. Abraham Construction. And then Wright filed an action against Armco, Ceco, and Laclede in Louisiana, and hired Susman as co-counsel. Defendant's in the Louisiana action filed a motion to disqualify Susman because he represented Whitlow in the antitrust conspiracy action. The district court denied the motion, and the circuit court vacated and remanded for the district court to determine whether Susman received confidential information. <span type="pagebreak" title="273" id="calibre_link-652"></span>
 
 This is an appeal from an order of the district court denying the defendants' motion to disqualify counsel for plaintiff. Though the appeal is not from a final judgment in the traditional sense, we take jurisdiction of it as a collateral matter severable from the underlying suit, and too important to be denied review at this time. 
@@ -1243,7 +1243,7 @@ Under these circumstances it is impossible for us to resolve this matter without
 Doe v. A Corporation,
  709 F. 2d 1043 (5th Cir. 1983) 
 
-Summary: 
+_Summary:_ 
 Attorney John Doe was in-house counsel to A Corporation. Among other things, Doe advised A on its employee benefits. In 1980, Doe quit and filed an ERISA class action against A, alleging multiple claims, and seeking to represent a class of plaintiffs with similar claims. A filed a motion to dismiss Doe's action, and Doe withdrew as class counsel. The district court granted summary judgment to A, because Doe had received confidential information about A. The circuit court held that Doe could not represent the class or serve as class representative, because it would violate his duty of confidentiality to A. But it held that Doe could pursue his own claim against A. 
 
 ALVIN B. RUBIN, Circuit Judge: 
@@ -1339,7 +1339,7 @@ Brennan's, Inc, v. Brennan's Restaurants, Inc.,
 F. 
 2d 168 (5th Cir. 1979) 
 
-Summary: The Brennan family owned Brennan's, Inc. in New Orleans and Brennan's Restaurants, Inc., which operated other restaurants. Edward F. Wegmann was general counsel for all of the family businesses, and helped them register trademarks. After a dispute, the family divided the enterprise, but did not determine rights to the trademarks. Brennan's Restaurants filed a trademark infringement action against Brennan's, which hired Wegmann to represent it. Wegmann hired Arnold Sprung, a trademark specialist, as co-counsel. Brennan's Restaurants filed a motion to disqualify Wegmann and Sprung, <span type="pagebreak" title="283" id="calibre_link-662"></span>
+_Summary:_ The Brennan family owned Brennan's, Inc. in New Orleans and Brennan's Restaurants, Inc., which operated other restaurants. Edward F. Wegmann was general counsel for all of the family businesses, and helped them register trademarks. After a dispute, the family divided the enterprise, but did not determine rights to the trademarks. Brennan's Restaurants filed a trademark infringement action against Brennan's, which hired Wegmann to represent it. Wegmann hired Arnold Sprung, a trademark specialist, as co-counsel. Brennan's Restaurants filed a motion to disqualify Wegmann and Sprung, <span type="pagebreak" title="283" id="calibre_link-662"></span>
 
 which the district court grant. The circuit court affirmed the disqualification of Wegmann, based on the appearance of impropriety, but vacated and remanded the disqualification of Sprung, to determine whether he actually learned any confidential information from Wegmann. 
 
@@ -1390,7 +1390,7 @@ If the district court finds that Mr. Wegmann did not previously represent these 
 Marcum v. Scorsone
 , 457 S.W.3d 710 (Ky. 2015) 
 
-Summary: Appellants Marcum, Conway, Foster Northrop, and Cheney sought a writ of prohibition in the Court of Appeals to bar enforcement of an order disqualifying their <span type="pagebreak" title="287" id="calibre_link-666"></span>
+_Summary:_ Appellants Marcum, Conway, Foster Northrop, and Cheney sought a writ of prohibition in the Court of Appeals to bar enforcement of an order disqualifying their <span type="pagebreak" title="287" id="calibre_link-666"></span>
 
 lawyers, the firm Miller, Griffin & Marks, PSC (MGM), in a shareholder-derivative suit brought by Paul R. Plante, Jr., where the order was granted based on a finding of an "appearance of impropriety." The court held that MGM's representation of two shareholders and officers of the company while advising the company's board of directors did not create an actual conflict of interest. Moreover, the mere appearance of any resulting impropriety was not sufficient to merit MGM's disqualification. 
 
@@ -1550,7 +1550,7 @@ Cinema 5, Ltd, v. Cinerama, Inc.,
 F. 
 2d 1384 (2d Cir. 1976) 
 
-Summary: Attorney Manly Fleischmann was a partner in Jaeckle, Fleischmann and Mugel of Buffalo and in Webster, Sheffield, Fleischmann, Hitchcock and Brookfield of New York City. Cinerama distributed movies and operated movie theaters. Cinerama hired Fleischmann and Jaeckle to defend it in an antitrust action in upstate New York. Then, Cinema 5 hired Webster to represent it in an antitrust action in New York City. Cinerama filed a motion to disqualify Webster because Fleischmann was a partner. Fleischmann responded that the actions were not substantially related. The district court granted the motion, and the circuit court affirmed. 
+_Summary:_ Attorney Manly Fleischmann was a partner in Jaeckle, Fleischmann and Mugel of Buffalo and in Webster, Sheffield, Fleischmann, Hitchcock and Brookfield of New York City. Cinerama distributed movies and operated movie theaters. Cinerama hired Fleischmann and Jaeckle to defend it in an antitrust action in upstate New York. Then, Cinema 5 hired Webster to represent it in an antitrust action in New York City. Cinerama filed a motion to disqualify Webster because Fleischmann was a partner. Fleischmann responded that the actions were not substantially related. The district court granted the motion, and the circuit court affirmed. 
 
 Before MOORE, FEINBERG and VAN GRAAFEILAND, Circuit Judges. 
 
@@ -1605,7 +1605,7 @@ Under the circumstances, Judge Brieant's order of disqualification cannot be con
 # Borden v. Borden
 , 277 A. 2d 89 (D.C. App. 1971) 
 
-Summary: 
+_Summary:_ 
 Helen Borden filed a complaint to divorce her husband, George, on the ground of adultery. Helen was represented by an attorney from the Neighborhood Legal Services Program (NLSP). Helen's attorney moved for assignment of counsel to represent George. The trial court ordered attorney David S. Raycroft, who works for NLSP, to represent George. Both attorneys from NLSP filed a motion to set aside the trial court's order since both attorneys were employed by NLSP and the order created a conflict of interest under the Code of Professional Responsibility. The trial court denied the motion because no economic conflict existed. The appellate court reversed, because the NLSP functions as a firm and there is an inherent conflict of interest that public policy concerns do not override. 
 
 KERN, Associate Judge: 

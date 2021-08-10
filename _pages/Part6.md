@@ -108,7 +108,7 @@ Modeling Frivolous Suits,
 # Simpson v. Welch
 , 900 F. 2d 33 (4th Cir. 1990) 
 
-Summary: 
+_Summary:_ 
 Simpson filed an employment discrimination action against the Chesapeake Health Department, but failed to respond to subsequent motions or to appear at the hearing, so the district court dismissed the complaint and granted the defendant's motion for fees and costs under Rule 11. The circuit court reversed, because Rule 11 only covers frivolous pleadings, not the failure to respond to motions or pleadings. 
 
 PER CURIAM: 
@@ -172,7 +172,7 @@ The district court properly dismissed appellant's complaint for failure to state
 # In re Sargent,
  136 F. 3d 349 (4th Cir. 1998) 
 
-Summary: 
+_Summary:_ 
 Cox filed a complaint alleging that Saunders and others violated his constitutional rights by subjecting him to harmful prison conditions. The district court dismissed all but one of Cox's claims, and informed him that the Prison Litigation Reform Act precluded prisoners who filed three frivolous complaints from filing any additional complaints, unless they were in danger of imminent harm. Assistant Attorney General Sargent filed a motion for summary judgment, arguing that Cox's complaint was frivolous. The district court dismissed and then reinstated Cox's complaint, at his request. The district court also imposed Rule 11 sanctions on Sargent for misrepresenting the PLRA and enjoined application of the PLRA to Cox. The circuit court reversed, holding that Sargent's motion for summary judgment did not violate Rule 11 and that precluding application of the PLRA to Cox was not an appropriate remedy for the alleged misconduct. 
 
 WILKINS, Circuit Judge: 
@@ -231,7 +231,7 @@ abused its discretion in choosing a sanction to impose upon Sargent even if her 
 Cleveland Demolition Co., Inc, v. Azcon Scrap Corp.,
  827 F. 2d 984 (4th Cir. 1987) 
 
-Summary: 
+_Summary:_ 
 Paul Haddad represented himself as the President of Cleveland Demolition and sold scrap material to Azcon Scrap. But when Azcon tried to collect the scrap, Cleveland refused to provide it, arguing that Haddad was not its President and that he was not authorized to sell the scrap. Azcon filed a breach of contract action against Cleveland. At trial, Azcon Vice-President Richard Spine testified that he had requested a verbal Dun & Bradstreet report on Cleveland that listed Haddad as President. A later, printed report listed Haddad as President, and the district court granted summary judgment to Azcon. Cleveland filed a motion to vacate, arguing that Spine perjured himself, because Dun & Bradstreet had no record of a verbal report. The district court dismissed the motion and imposed Rule 11 sanctions on Cleveland, finding that its claims lacked a factual basis, and the circuit court affirmed. 
 
 WILKINSON, Circuit Judge: 
@@ -333,7 +333,7 @@ Eddie Hatcher & Timothy Jacobs
 In re Kunstler,
  914 F. 2d 505 (4th Cir. 1990) 
 
-Summary: 
+_Summary:_ 
 Eddie Hatcher and Timothy Jacobs hijacked the offices of the Robeson, North Carolina newspaper The Robesonian and took its employees hostage. They eventually surrendered, in exchange for a promise that the governor would investigate their claims of government corruption. The federal government prosecuted Hatcher and 
     <div class="calibre27">
     <img src="../assets/images/000076.png" alt="Picture #19" class="calibre1" />
@@ -2681,7 +2681,7 @@ EC 7-5 A lawyer as adviser furthers the interest of his client by giving his pro
 In re Snyder,
  472 U.S. 634 (1985) 
 
-Summary: 
+_Summary:_ 
 Snyder objected to the United States District Court for the District of North Dakota's treatment of attorneys representing indigent criminal defendants, and refused to apologize for the tone of his objection. The Chief Judge of the district court suspended Snyder for one year for disrespecting the court and the circuit court affirmed. The Supreme Court reversed, holding that Snyder's conduct was not sanctionable. 
 
 CHIEF JUSTICE BURGER delivered the opinion of the Court. 
@@ -2880,7 +2880,7 @@ Gadda v. Ashcroft
     
   
 
-Summary: 
+_Summary:_ 
 The California Bar disbarred Gadda for incompetence, based on his failure to provide competent legal representation to clients in immigration court. The Ninth Circuit also disbarred Gadda, based on the California Bar's decision. Gadda objected to his disbarment by the 9th Circuit, arguing that the California Bar lacked authority to discipline him for incompetent representation in immigration court. The 9th Circuit disagreed, holding that both the California Bar and the 9th Circuit had the authority to discipline him. 
 
 BEEZER, Circuit Judge. 
@@ -3093,7 +3093,7 @@ Questions:
 Auto-Owners Ins. Co. v. Summit Park Townhome,
  886 F. 3d 863 (10th Cir. 2018) 
 
-Summary: 
+_Summary:_ 
 Harris and Pettinato represented Summit Park in an action against AutoOwners. Summit Park was damaged by hail, but the parties disagreed about the amount of damage. The district court ordered them both to obtain independent appraisals. Harris and Pettinato retained Keys as their appraiser, but did not disclose their previous relationship with him. When the district court learned that Keys was not impartial, it sanctioned Harris and Pettinato. They appealed, but the circuit court affirmed. 
 
 BACHARACH, Circuit Judge. 
@@ -3353,7 +3353,7 @@ Offender,
 
 MIDDLEBROOKS, District Judge. 
 
-Summary: 
+_Summary:_ 
 Marvin and Ira Kurzban represented Anthony Lee in an employment discrimination action against American Eagle Airlines, alleging racial discrimination. The found for Lee on his hostile work environment claim and awarded him $300,000 in compensatory damages and $650,000 in punitive damages, but denied Lee's claim for termination on account of his race. The Kurzbans filed motion seeking $1,611,910.50 in attorney's fees and costs. The district court criticized their conduct during the trial, and relied on its inherent authority to award only $312,324.63 in attorney's fees and costs. In addition, it reported their conduct to the Florida Bar. 
 
 This Cause came before the Court upon Plaintiff's Amended Verified Motion for Attorney's Fees and Costs. 
@@ -3631,7 +3631,7 @@ Ophelia F. Camina
 Positive Software Solutions v. New Century Mortg.,
  619 F. 3d 458 (5th Cir. 2010) 
 
-Summary: 
+_Summary:_ 
 Positive Software filed an infringement action against New Century, which was represented by Camina. The district court sent the action to arbitration, then vacated the award, because the arbitrator failed to disclose a previous relationship with Camina. The circuit court reversed and remanded, at which point New Century declared bankruptcy, and the parties settled. As part of the settlement, New Century assigned its attorney-client privilege and work product rights to Positive Software, which moved for sanctions against Camina, based on her actions in the arbitration. The district court exercised its inherent authority and imposed a $10,000 sanction for acting in bad faith, but the circuit court reversed, holding that actions in arbitration are outside the inherent authority of the court. 
 
 JERRY E. SMITH, Circuit Judge: 
@@ -3822,7 +3822,7 @@ Spectators, evenly divided, fill the county council chambers.
 The Orlando Sentinel (Orlando, Florida), Fri., Jan. 10, 1986, at 149 <h5 class="calibre44">Jorgenson v. Volusia County,
  846 F. 2d 1350 (11th Cir. 1988) </h5>
 
-Summary: 
+_Summary:_ 
 Porky's was a topless bar outside of DeLand, Florida. When Volusia County passed an ordinance prohibiting topless bars, Porky's challenged the constitutionality of the ordinance, represented by Latinsky and Fendt. The standard of review of the ordinance depended on whether Florida had delegated its powers under the 21st Amendment to counties and municipalities. In 
 City of Daytona Beach v. Del Percio,
  the Florida Supreme Court held that it had, but Latinsky and Fendt argued that it hadn't, and did not cite 
@@ -3908,7 +3908,7 @@ Section of Labor and Employment Law
 Board of Ethics & Conduct v. Lane,
  642 N.W.2d 296 (Iowa 2002) 
 
-Summary: 
+_Summary:_ 
 Lane represented Sicard in an employment discrimination action. Among other things he filed a post-trial brief, the entire contents of which were plagiarized from a treatise. Lane won the trial, and submitted a bill for attorney's fees, requesting $16,000 for 80 hours drafting the post-trial brief. When the court requested documentation of the drafting of the brief, Lane eventually submitted a list of 200 sources, from which the court discovered his plagiarism. The court sanctioned Lane's conduct and suspended his license for 6 months. 
 
 STREIT, Justice. 
@@ -4157,7 +4157,7 @@ Nix v. Whiteside
 , 
 475 U.S. 157 (1986) 
 
-Summary: 
+_Summary:_ 
 Emmanuel Charles Whiteside was charged with the murder of Calvin Love, and was represented by Gary L. Robinson and Donna Paulsen. Whiteside pleaded selfdefense. Initially, he told Robinson that he believed Love had a gun, but had not actually seen one. Later, he told Robinson that he had seen "something metallic." Robinson advised Whiteside that this testimony would be perjury, and that he would inform the court and withdraw from representation if Whiteside committed perjury. Whiteside did not testify that he had seen "something metallic," and was convicted of second-degree murder. The Supreme Court of Iowa affirmed the conviction. Whiteside filed a federal habeas petition alleging ineffective assistance of counsel. The district court denied the writ, but the circuit court reversed. The Supreme Court granted certiorari and reversed, 
     <div class="calibre49">
     <img src="../assets/images/000074.png" alt="Picture #41" class="calibre1" />
@@ -4428,7 +4428,7 @@ Because JUSTICE BLACKMUN has preserved such questions for another day, and becau
 # People v. DePallo,
  754 N.E.2d 751 (NY 2001) 
 
-Summary: 
+_Summary:_ 
 Michael DePallo was charged with the murder of an elderly man. Initially, DePallo told his attorney that he had participated in the murder, but then insisted on testifying that he had been at home the entire night. In an 
 ex parte
  meeting, DePallo's 
@@ -4522,7 +4522,7 @@ taught to never tell a lie, to look you in the eye and tell it like it is. Alway
 # State v. Hischke
 , 639 N.W.2d 6 (Iowa 2002) 
 
-Summary: 
+_Summary:_ 
 The police found marijuana in Hischke's jacket pocket and charged him with possession. Bishop represented Hischke. Initially, Hischke told Bishop the marijuana was his, but when he learned that a third possession offense would cause an enhanced 
 
 Hudson "Tampa Red" Whitaker, 
@@ -4669,7 +4669,7 @@ Statements of Fact
 Kentucky Bar Ass'n v. Geisler,
  938 S.W.2d 578 (Ky. 1997) 
 
-Summary: 
+_Summary:_ 
 Milton McNealy was injured by a car in Louisville, Kentucky. Maria Geisler represented McNealy in an action against the driver. Defendant's counsel Kevin Ford asked to depose McNealy, but Geisler postponed because he was too sick. When McNealy died, Geisler contacted Ford and told him her client wanted to settle, but didn't tell him McNealy was dead. Geisler and Ford agreed on a settlement, which McNealy's son signed, and Ford learned McNealy was dead. Ford paid the settlement, but filed a bar complaint against Geisler for failing to disclose McNealy's death. The Kentucky Supreme Court held that attorneys must notify opposing counsel if their client dies and reprimanded Geisler. 
 
 The Board of Governors of the Kentucky Bar Association, as a result of charges instigated against respondent, Maria T. Geisler of Louisville, found her guilty of violating SCR 3.130-4.1 by failing to divulge the fact of her client's death to opposing counsel prior to entering into and consummating settlement negotiations. Neither the KBA nor the respondent requested review of this case. However, this Court, on its own motion, elected to review the question of whether the respondent's actions were within the scope of SCR 3.130-4.1. 

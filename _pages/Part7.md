@@ -57,7 +57,7 @@ Barnard v. Thorstenn,
  
 489 U.S. 546 (1989) 
 
-Summary: 
+_Summary:_ 
 The Bar of the District Court of the Virgin Islands has a residency requirement for admission, providing that applicants must have resided in the Virgin Island for one year and intend to continue residing in the Virgin Islands. Thorstenn and DeVos of New York applied for the bar examination, but were rejected for failure to satisfy the residency requirement. The District Court allowed them to take the bar examination, which they passed, but upheld the residency requirement. The Third Circuit reversed, and the Supreme Court affirmed, holding that the District Court provided no substantial or legitimate reason for excluding nonresidents. 
 
 JUSTICE KENNEDY delivered the opinion of the Court. 
@@ -246,7 +246,7 @@ Stephen Randall Glass (2014)
 # In re Glass,
  316 P. 3d 1199 (Cal. 2014) 
 
-Summary: 
+_Summary:_ 
 Stephen Glass was a journalist for several national magazines, including the New Republic. Between 1996 and 1998, he wrote dozens of articles that consisted in part or whole of fabrications. He also fabricated evidence to substantiate his reporting. At the same time, he was a student at Georgetown University Law Center. After graduation, he applied for membership in the New York bar, but his application was rejected for poor moral character. In 2006, he applied for membership in the California bar. The State Bar Court ultimately recommended admission, but the California Supreme Court reversed, based on poor moral character. 
 
 Stephen Randall Glass made himself infamous as a dishonest journalist by fabricating material for more than 40 articles for The New Republic magazine and other publications. He also carefully fabricated supporting materials to delude The New Republic's fact checkers. The articles appeared between June 1996 and May 1998, and included falsehoods that reflected negatively on individuals, political groups, and ethnic minorities. During the same period, starting in September 1997, he was also an evening law student at Georgetown University's law school. Glass made every effort to avoid detection once suspicions were aroused, lobbied strenuously to keep his job at The New Republic, and, in the aftermath of his exposure, did not fully cooperate with the publications to identify his fabrications. 
@@ -696,7 +696,7 @@ Information regarding other types of cases furnished on request <h2 class="calib
 Bates v. State Bar ofAriz.,
  433 U.S. 350 (1977) 
 
-Summary: 
+_Summary:_ 
 Bates and O'Steen were members of the Arizona bar. In 1974, they opened a law office in Phoenix, and published a newspaper advertisement, offering basic legal services at fixed rates. The Arizona bar rules prohibited advertisements, and the Arizona Supreme Court ultimately censured Bates and O'Steen. The Supreme Court reversed, holding that the Arizona bar rule violated the 1st Amendment, because it unreasonably <span type="pagebreak" title="712" id="calibre_link-1093"></span>
 
 prohibited the dissemination of truthful information to the public. The dissent argued that the 1st Amendment should not prohibit the regulation of attorney advertising. 
@@ -878,7 +878,7 @@ The Motorcycle Injury Attorneys
     <h4 class="calibre41">The Florida Bar v. Pape,
  918 So.2d 240 (Fla. 2005) </h4>
 
-Summary: 
+_Summary:_ 
 Pape and Chandler advertised their law firm on television, using an image of a pitbull and the the telephone number 1-800-PIT-BULL. The Florida Bar filed a complaint against them, alleging that their advertisement improperly described the quality of their services and used irrelevant and misleading elements. The referee found no violation, concluding that the advertisement described qualities of the attorneys, not their services, and that the pitbull element was informational. The Florida Supreme Court disagreed, holding that the pitbull motif made claims about the quality of their services, was not informational, and was in poor taste, and therefore was not protected by the 1st Amendment. 
 
 PARIENTE, C.J. 
@@ -1115,7 +1115,7 @@ Sweet Cream Ladies Forward March,
 Shapero v. Kentucky Bar Assn.,
  486 U.S. 466 (1988) 
 
-Summary: 
+_Summary:_ 
 Shapero submitted wanted to send a letter advertising his legal services to people with foreclosure actions filed against them. The Kentucky Supreme Court held that Model Rule of Professional Conduct 7.3 prohibited direct mail solicitation. The <span type="pagebreak" title="733" id="calibre_link-1114"></span>
 
 Supreme Court reversed, holding that a direct mail solicitation was no different from an advertisement, and was protected by the 1st Amendment. The dissent argued that the court had gone too far in limiting regulation of attorney advertising and solicitation, and that advertising would harm the profession. 
@@ -1653,7 +1653,7 @@ The Evening Sun (Baltimore, Maryland), July 10, 1958, at 28
 Brady v. Maryland
 , 373 U.S. 83 (1963) 
 
-Summary: 
+_Summary:_ 
 John Leo Brady and Charles Donald Boblit were charged with the murder of William Brooks and tried separately. Brady confessed to participating in the murder, but claimed that Boblit actually killed Brooks. The prosecutor suppressed a confession in which Boblit admitted killing Brooks, and Brady was sentenced to death. The Supreme Court reversed Brady's sentence, holding that the Due Process Clause of the 14th Amendment requires prosecutors to disclose all exculpatory evidence. 
 
 Opinion of the Court by MR. JUSTICE DOUGLAS, announced by MR. JUSTICE BRENNAN. 
@@ -1744,7 +1744,7 @@ Taylor v. Kavanagh
     
   
 
-Summary: 
+_Summary:_ 
 In 1974, Rodney Taylor was arrested and indicted for burglary, and in 1975 he was arrested again for burglary. Assistant District Attorney Michael Kavanagh told Taylor the grand jury had returned an indictment on the 1975 charge, so Taylor pleaded guilty to both charges, in exchange for Kavanagh's promise not to recommend a sentence. But Taylor later tried to withdraw his plea, because he was never indicted on the 1975 charge and Kavanagh withdrew his promise. The trial court denied Taylor's motion, Kavanagh recommended the maximum sentence, and the court imposed a 6 year sentence. The appellate court reversed and remanded for resentencing because Kavanagh failed to honor his promise, but Taylor received the same sentence. Accordingly, Taylor filed a § 1983 action against Kavanagh. The district court granted Kavanagh's motion for judgment on the pleadings and the circuit court affirmed, holding that he was protected by absolute immunity. 
 
 IRVING R. KAUFMAN, Circuit Judge: 
@@ -1822,7 +1822,7 @@ Shareef Cousin (-1999)
 In re Jordan
 , 913 So. 2d 775 (La. 2005) 
 
-Summary: 
+_Summary:_ 
 Shareef Cousin was convicted of the murder of Michael Gerardi and sentenced to death, based on the eyewitness testimony of Connie Babin. However, prosecutor Roger Jordan suppressed Babin's testimony that she was not wearing contact lenses during the murder. Cousin was exonerated and the Office of Disciplinary Counsel pursued charges against Jordan. The Louisiana Supreme Court eventually concluded that Jordan had violated Rule 3.8(d) and imposed a three-month suspension, deferred. 
 
 TRAYLOR, J. 
@@ -2139,7 +2139,7 @@ Eric Hillman (2014)
 Hillman v. Nueces County
  (Tex. 2019) 
 
-Summary: 
+_Summary:_ 
 Eric Hillman was an assistant district attorney in Nueces County, Texas. In 2014, he prosecuted a defendant for intoxicated assault and leaving the scene of an accident. In the course of investigating the case, Hillman interviewed a witness who stated the defendant was not intoxicated. The police report did not identify the witness, so Hillman informed his supervisor that he needed to disclose the witness to the defense, but his supervisor told him not to disclose. Hillman consulted with the State Bar Ethics Hotline and the Texas Center for Legal Ethics. Both told him to disclose, so he did, and he was fired. Hillman filed a wrongful termination action against Nueces County, but the trial court granted the county's motion to dismiss and the appeals court affirmed. The Texas Supreme Court also affirmed, holding that sovereign immunity barred Hillman's action. 
 
 JEFFREY S. BOYD, Justice. 
@@ -2534,7 +2534,7 @@ The Philadelphia Inquirer, Jan. 11, 1972, at 1
 Mayberry v. Pennsylvania,
  400 U.S. 455 (1971) 
 
-Summary: 
+_Summary:_ 
 Mayberry and two co-defendants were tried in state court for an attempted prison break. They were appointed counsel, but represented by Mayberry. During the trial, Mayberry repeatedly insulted the judge and questioned his impartiality. The jury 
     <div class="calibre70">
     <img src="../assets/images/000037.png" alt="Picture #72" class="calibre1" />
@@ -2815,7 +2815,7 @@ Police Sci. 525 (1971)
 Caperton v. A.T. Massey Coal Co., Inc.,
  556 U.S. 868 (2009) 
 
-Summary: 
+_Summary:_ 
 In 2002, Caperton won a business tort action against Massey and Blankenship, and received a $50 million damages award, which Massey and Blankenship appealed. In the meantime, Benjamin ran for a seat on the Supreme Court of Appeals of West Virginia. Blankenship spent about $3 million campaigning for Benjamin. When Benjamin won, Caperton filed a motion to disqualify Benjamin from the appeal, which Benjamin denied. The Supreme Court of Appeals granted the appeal and reversed. Benjamin also declined to recuse on rehearing, and the court once again reversed. The Supreme Court granted certiorari and reversed, holding that due process requires recusal when the facts create an objective appearance of impropriety. The dissent argued that the standard adopted by the majority was arbitrary and unworkable. 
 
 Justice KENNEDY delivered the opinion of the Court. 
@@ -3345,7 +3345,7 @@ Judge Alvin D. Lichtenstein (1984)
 In re Inquiry Concerning Lichtenstein,
  685 P. 2d 204 (Colo. 1984) 
 
-Summary: 
+_Summary:_ 
 Burns shot and killed his wife when he learned she was planning to leave him, and pleaded guilty to second-degree murder. At the sentencing hearing, Judge Lichtenstein observed, among other things, that Burns's mental state was affected by "highly provoking acts on the part of the victim," and imposed a two-year work release sentence. The Commission on Judicial Discipline found misconduct and recommended a public reprimand. The Colorado Supreme Court rejected the recommendation and dismissed the complaint. 
 
 PER CURIAM. 

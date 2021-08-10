@@ -9,7 +9,9 @@
 		<article class="group">
 
 			<div class="casebook-header group">
+				{% if page.chapter %}
 				<h2 class="casebook-header">{{ page.chapter }}</h2>
+				{% endif %}
 				<h1 class="casebook-header">{{ page.title }}</h1>
 			</div>
 

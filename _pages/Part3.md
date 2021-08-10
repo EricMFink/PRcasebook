@@ -76,7 +76,7 @@ However, attorneys must always observe the duty of care. An attorney who fails t
 Ishmael v. Millington,
  241 Cal. App. 2d 520 (Cal. Ct. App. 1966) 
 
-Summary: 
+_Summary:_ 
 Earl F. Anders and Roberta Ishmael were married and owned a trucking company. Eventually, they decided to divorce. Under California law, Ishmael was entitled to 50% of the marital assets. Attorney Robert Millington had previously represented Anders and his company. Anders asked Millington to represent Ishmael. He agreed, and prepared a settlement agreement that Ishmael signed. Ishmael was entitled to $41,250, but under the agreement she received $8,807. Ishmael filed a malpractice action, and 
 
 
@@ -178,7 +178,7 @@ The test for appearance of impropriety is whether the conduct would create in re
 Bd. Of. Ed. Of. NY City v. Nyquist,
  590 F. 2d 1241 (2d Cir. 1979) 
 
-Summary: 
+_Summary:_ 
 The Board of Education of the City of New York used separate seniority lists when deciding layoffs of male and female Health and Physical Education teachers (HPETs). The Commissioner of Education held that using separate lists was illegal, but 
 
 
@@ -238,7 +238,7 @@ We therefore reverse the order of the district court disqualifying counsel, and 
 In re Disciplinary Proc. Against Sanders,
  145 P. 3d 1208 (Wa. 2006) 
 
-Summary: 
+_Summary:_ 
 Justice Sanders of the Washington Supreme Court visited the Special Commitment Center on McNeil Island, which houses people civilly committed as sexually violent predators. During the visit, Sanders accepted documents from inmates and asked them about volitional control, among other things. The Attorney General of Washington filed a complaint against Sanders with the Washington Commission on Judicial Conduct. After an investigation and a hearing, the Commission found that Sanders violated Canon 1 by failing to enforce high standards of judicial conduct and also violated Canon 2(A) by failing to promote public confidence in the integrity and impartiality of the judiciary. Sanders appealed and the court affirmed. 
 
 GROSSE, J. 
@@ -372,7 +372,7 @@ Accordingly, the threshold question in a malpractice action is whether the plain
 # Marker v. Greenberg,
  313 N.W.2d 4 (Minn. 1981) 
 
-Summary: 
+_Summary:_ 
 Theodore Marker hired attorney Robert Greenberg for estate planning services. Among other things, Greenberg prepared deeds conveying real estate to Marker and his son as joint tenants. When Marker died, the real estate was subject to estate tax. Marker's son sued Greenberg for malpractice, alleging that if the real estate had been conveyed as tenants in common, it would not have been subject to estate tax. The trial court granted Greenberg's motion for summary judgment and the appeals court 
 
 
@@ -451,7 +451,7 @@ In order to prevail in a malpractice action, the plaintiff must prove that the a
 Equitania Ins, v. Slone & Garrett,
  191 S.W.3d 552 (Ky. 2006) 
 
-Summary: 
+_Summary:_ 
 Attorney Laurel Garrett represented Vimont in an effort to prevent Pavenstedt from gaining control of Equitania Insurance. Vimont filed a malpractice claim against Garrett, alleging that she provided unsound advice. The trial court instructed the jury that attorneys are not liable for errors of judgment, and the jury found for Garrett. 
 
 The Supreme Court reversed, holding that attorneys must exercise ordinary care under the circumstances. 
@@ -557,7 +557,7 @@ In each of these circumstances, has the attorney caused a foreseeable harm?
 # Daugherty v. Runner,
  581 S.W.2d 12 (Ky. Ct. App. 1978) 
 
-Summary: 
+_Summary:_ 
 Lula Daugherty Roach died in the hospital after a car accident. Runner represented Roach's estate, and filed an action against the other driver, but not against the hospital. The estate eventually hired another attorney to file a medical malpractice 
 
 
@@ -661,7 +661,7 @@ To that, we would simply repeat that all the evidence in this case was submitted
 TIG Ins, v. Giffin Winning Cohen & Bodewes,
  444 F. 3d 587 (7th Cir. 2006) 
 
-Summary: 
+_Summary:_ 
 Giffin Winning represented Illinois State University in a gender discrimination action, and failed to produce three gender equity studies to Joel Bellows, attorney for the plaintiffs. Soon afterward, TIG and Latham & Watkins took over ISU's defense. Soon afterward, Gorrell gave Bellows the studies and claimed they were based on a nonexistent database. Bellows moved to sanction Giffin Winning and ISU for not producing the database, and TIG paid Latham & Watkins $1.2 million to defend ISU. The action ultimately settled, and TIG filed a malpractice action against Giffin Winning for failing to produce the studies. The district court dismissed the action, and the circuit court affirmed, holding that TIG failed to allege proximate cause because the injury was not foreseeable. 
 
 EVANS, Circuit Judge. 
@@ -760,7 +760,7 @@ The plaintiff in a legal malpractice action can only recover actual damages, and
 # Kituskie v. Corbman
 , 714 A. 2d 1027 (Pa. 1998) 
 
-Summary: Kituskie was injured by Trapp in a car accident while on vacation in California. He returned home to Pennsylvania and hired attorney Corbman to represent him in a tort action. Corbman negligently failed to file an action within California's two-year statute of limitations, and advised Kituskie to file a legal malpractice action. Trapp's insurance policy had a $25,000 maximum, but the jury awarded Kituskie $2.3 million in damages against Corbman. The appellate court vacated the judgment and remanded, holding that the jury must consider the collectability of damages, and that the defendant bears the burden of proof that damages are not collectable. The Supreme Court affirmed. 
+_Summary:_ Kituskie was injured by Trapp in a car accident while on vacation in California. He returned home to Pennsylvania and hired attorney Corbman to represent him in a tort action. Corbman negligently failed to file an action within California's two-year statute of limitations, and advised Kituskie to file a legal malpractice action. Trapp's insurance policy had a $25,000 maximum, but the jury awarded Kituskie $2.3 million in damages against Corbman. The appellate court vacated the judgment and remanded, holding that the jury must consider the collectability of damages, and that the defendant bears the burden of proof that damages are not collectable. The Supreme Court affirmed. 
 
 CASTILLE, Justice. 
 
@@ -855,7 +855,7 @@ In addition, the defendant must show that counsel's unreasonable conduct was pre
 Knowles v. Mirzayance
 , 556 U.S. Ill (2009) 
 
-Summary: 
+_Summary:_ 
 Mirzayance confessed to killing his cousin, and pleaded both not guilty and not guilty by reason of insanity. During the guilt phase of the trial, the jury rejected evidence of insanity and convicted Mirzayance of first-degree murder. On the advice of counsel, Mirzayance withdrew his insanity plea, because his parents effectively refused to testify, and there was no other new evidence. On state and federal habeas, Mirzayance argued that counsel's advice to withdraw his insanity plea was ineffective assistance of counsel, because he had no other defense. The district court granted habeas, because Mirzayance had "nothing to lose" by an insanity defense, and the circuit court affirmed. The Supreme Court reversed, holding that the insanity defense had no "reasonable probability" of success. 
 
 Justice THOMAS delivered the opinion of the Court. 
@@ -963,7 +963,7 @@ Mirzayance has not shown that the state court's conclusion that there was no ine
 # Lee v. United States,
  137 S. Ct. 1958 (2017) 
 
-Summary: Jae Lee was a lawful permanent resident of the United States, who was indicted for an "aggravated felony." Lee pleaded guilty on the advice of his attorney, who assured him that he would not be deported. In fact, Lee was subject to mandatory deportation. Lee filed a motion to vacate his conviction and sentence based on ineffective assistance of counsel, arguing that he would not have pleaded guilty if he had known it would mean mandatory deportation. The district court denied relief, because Lee would "almost certainly" have been found guilty and deported anyway, and the circuit court affirmed. The Supreme Court reversed, holding that the attorney's incompetence deprived Lee of a chance of avoiding deportation. 
+_Summary:_ Jae Lee was a lawful permanent resident of the United States, who was indicted for an "aggravated felony." Lee pleaded guilty on the advice of his attorney, who assured him that he would not be deported. In fact, Lee was subject to mandatory deportation. Lee filed a motion to vacate his conviction and sentence based on ineffective assistance of counsel, arguing that he would not have pleaded guilty if he had known it would mean mandatory deportation. The district court denied relief, because Lee would "almost certainly" have been found guilty and deported anyway, and the circuit court affirmed. The Supreme Court reversed, holding that the attorney's incompetence deprived Lee of a chance of avoiding deportation. 
 
 Chief Justice ROBERTS delivered the opinion of the Court. 
 
@@ -1218,7 +1218,7 @@ Criminal defense attorneys who provide negligent representation may also be liab
 # Ang v. Martin
 , 114 P. 3d 637 (Wash. 2005) 
 
-Summary: 
+_Summary:_ 
 Jessy and Editha Ang provided medical services to the State of Washington, and were indicted for social security fraud, among other things. The Angs hired attorneys Richard Hansen and Michael G. Martin, who advised them to accept a plea bargain. 
 
 After accepting the plea bargain, the Angs hired attorney Monte Hester, who advised them to withdraw it. Eventually, the Angs were acquitted. The Angs filed a legal malpractice action against Hansen and Martin. The trial court instructed the jury that the Angs could recover only if they proved "actual innocence," and the jury found they did not. The Angs appealed, arguing that acquittal is actual innocence, but the Court of Appeals and Supreme Court affirmed. 

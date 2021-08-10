@@ -91,7 +91,7 @@ In re Advisory Opinion No. 544 of NJ Sup. Court,
  511 A. 2d 609 (N.J. 1986) 
 
 
-Summary: 
+_Summary:_ 
 The Community Health Law Project represented indigent and disabled clients in New Jersey. Organizations providing funding requested client-identifying information, but the Law Project provided only anonymized information. Some of the funders objected, and the Advisory Committee on Professional Ethics found that disclosure would not violate client confidence. The Law Project appealed, and the court held that the attorney-client privilege and duty of confidentiality precluded the Law Project from disclosing identifying information about its clients without informed consent or a reasonable regulatory obligation. 
 
 We are called to consider in this case the application of attorney-client protections to the relationship between a public legal services organization and the individuals whom it assists. The issue posed is whether certain information relating to the clients of a legal services organization, which provides legal assistance to mentally impaired or disabled and indigent persons, may be disclosed to the private and governmental entities that provide funds to the organization, without violating the protections of confidentiality accorded attorney-client communications and relationships. 
@@ -203,7 +203,7 @@ The position taken in the Section and Comment—that "generally known" informati
 Dougherty v. Pepper Hamilton LLP,
  133 A. 3d 792 (Pa. Super. Ct. 2016) 
 
-Summary: 
+_Summary:_ 
 Pepper Hamilton LLP represented John J. Dougherty in a federal grand jury investigation, which included a search of his house. The search warrant affidavit was filed under seal, but the FBI later attached it to an unrelated public document by accident. When Dougherty ran for public office, the Philadelphia Inquirer published several articles stating that he had committed crimes. Daugherty filed a defamation action against the Inquirer, which hired Pepper Hamilton. When Pepper Hamilton threatened to submit the affidavit and other information, Daugherty filed a motion to disqualify, as well as a malpractice action. The trial court granted the Inquirer's motion for summary judgment, but the appellate court reversed, holding that the affidavit was still "confidential," despite being attached to a public document, because it was not "generally known." 
 
 OPINION BY SHOGAN, J.: 
@@ -320,7 +320,7 @@ Questions:
 Matter of Tennant,
  392 P. 3d 143 (Mont. 2017) 
 
-Summary: 
+_Summary:_ 
 Attorney David G. Tennant was the subject of a disciplinary complaint based on his representation of Richard and Debbie Harshman. When the Harshmans did not pay Tennant's bill, he filed an attorney's lien on their property and purchased it at the Sheriff's sale. The Harshmans filed a complaint against Tennant with the Office of Disciplinary Counsel, claiming that Tennant improperly used confidential client information to their detriment. The Commission on Practice found no violation of the duty of confidentiality, but the Montana Supreme Court reversed, because the information was not "generally known." 
 
 Justice Beth Baker delivered the Opinion and Order of the Court. 
@@ -691,7 +691,7 @@ The principle of client-lawyer confidentiality is given effect by related bodies
 United States v. Franklin,
  598 F. 2d 954 (5th Cir. 1979) 
 
-Summary: Attorney Robert Senor represented Morton Franklin in relation to various criminal charges. Senor offered confidential client information to the government in an unsuccessful attempt to obtain more lenient treatment. Franklin filed a motion to dismiss his indictment, on the ground that Senor improperly disclosed confidential information. The district court denied the motion, and the circuit court affirmed, because Senor disclosed the information in order to benefit Franklin, among other things. 
+_Summary:_ Attorney Robert Senor represented Morton Franklin in relation to various criminal charges. Senor offered confidential client information to the government in an unsuccessful attempt to obtain more lenient treatment. Franklin filed a motion to dismiss his indictment, on the ground that Senor improperly disclosed confidential information. The district court denied the motion, and the circuit court affirmed, because Senor disclosed the information in order to benefit Franklin, among other things. 
 
 PER CURIAM: 
 
@@ -738,7 +738,7 @@ Therefore, the district court did not err in denying the motion to dismiss the i
 In re Original Grand Jury Investigation,
  89 Ohio St. 3d 544 (Ohio 2000) 
 
-Summary: 
+_Summary:_ 
 An attorney represented a client in relation to grand jury investigation. The attorney received a letter written by the client that disclosed a possible crime. The attorney asked the court how to proceed, and ultimately orally disclosed the contents of the letter, without disclosing the letter itself. The Ohio Supreme Court held that the letter was a client "secret," but that disclosure was required in order to prevent a crime. 
 
 FRANCIS E. SWEENEY, SR., J. 
@@ -827,7 +827,7 @@ Today's opinion will likely have two unfortunate results. First, overzealous pro
 McClure v. Thompson,
  323 F.3d 1233 (9th Cir. 2003) 
 
-Summary: Robert McClure was arrested for the murder of Carol Jones and the disappearance of her two children. Attorney Christopher Mecca represented McClure. In the course of representation, McClure told Mecca the location of the children. Mecca disclosed that information to the police, who found their bodies. McClure was convicted for three murders. He filed a habeas petition, alleging that Mecca improperly disclosed confidential information. The district court denied the petition, and the Ninth Circuit affirmed, holding that McClure had not provided informed consent to disclosure, but Mecca reasonably believed disclosure could save the children. 
+_Summary:_ Robert McClure was arrested for the murder of Carol Jones and the disappearance of her two children. Attorney Christopher Mecca represented McClure. In the course of representation, McClure told Mecca the location of the children. Mecca disclosed that information to the police, who found their bodies. McClure was convicted for three murders. He filed a habeas petition, alleging that Mecca improperly disclosed confidential information. The district court denied the petition, and the Ninth Circuit affirmed, holding that McClure had not provided informed consent to disclosure, but Mecca reasonably believed disclosure could save the children. 
 
 WILLIAM W. FLETCHER, Circuit Judge: 
 
@@ -1077,7 +1077,7 @@ People v. Beige,
     
   
 
-Summary: 
+_Summary:_ 
 Robert F. Garrow, Jr. was charged with murder and represented by Frank 
 H. Armani and Francis R. Beige, who presented an insanity defense. In the course of representation, Garrow disclosed three other murders to his attorneys. Based on information provided by Garrow, Beige discovered the body of one of the victims, but did not disclose it to the police until the trial. 
 
@@ -1149,7 +1149,7 @@ People v. Beige
 Colton v. United States,
  306 F. 2d 633 (2d Cir. 1962) 
 
-Summary: 
+_Summary:_ 
 Attorney Edward E. Colton represented Herbert and Mercedes Matter in relation to their taxes. The IRS began an investigation of the Matters, and asked Colton to provide testimony and relevant documents. Colton refused, citing the attorney-client privilege. The district court ordered Colton to answer certain questions and produce certain documents, and the circuit court affirmed, holding that those questions and documents were not privileged. 
 
 LUMBARD, Chief Judge. 
@@ -1407,7 +1407,7 @@ A communication is made for the purpose of obtaining or providing legal assistan
 State v. Spell
 , 399 So. 2d 551 (La. 1981) 
 
-Summary: 
+_Summary:_ 
 Jenkins, an inmate of the prison, worked at the law library. Defendant argues that Jenkins was acting as an attorney when the inculpatory statements were made. Jenkins wasn't an attorney and didn't hold himself out as a lawyer. Defendant knew Jenkins was not an attorney and voluntarily gave information to Jenkins. The communication is not subject to the attorney-client privilege. 
 
 JASPER E. JONES, Justice Ad Hoc. 
@@ -1457,7 +1457,7 @@ Defendant's inculpatory statements to Jenkins were not subject to any privilege.
 # Jones v. US,
  828 A. 2d 169 (DC App. 2003) 
 
-Summary: 
+_Summary:_ 
 The police contacted Stacy Jones about the murder of Darcie Silver, and asked for a DNA sample. Jones called his girlfriend, Tina Ducharme, an attorney employed by the federal government, and asked her for advice. Later, Jones was arrested and charged with murder. Ducharme testified at the trial. Jones argued that 
 
 
@@ -1700,7 +1700,7 @@ In sum, we reaffirm that a client's communications to his lawyer threatening har
 Keating v. McCahill,
  Civil Action No. 11-518 (E.D. Pa. 2012) 
 
-Summary: 
+_Summary:_ 
 Equisoft hired Keating as a management consultant. Soon afterward, 
 
 Keating quit Equisoft and joined Capgemini. Equisoft hired Synnott, a Canadian lawyer, to provide legal advice. After consultation with Synnott, Equisoft sent a letter to Capgemini making certain demands. After receiving the letter, Capgemini fired Keating, who filed a tort action against Equisoft, asserting several claims. During discovery, Equisoft produced certain documents, as well as a privilege log listing relevant documents not produced. Keating filed a motion to compel those documents. The court found that some of the documents were protected by the attorney-client privilege or the work product doctrine, and others were not. 
@@ -1957,7 +1957,7 @@ Upjohn
 Upjohn Co. v. United States,
  449 U.S. 383 (1981) 
 
-Summary: 
+_Summary:_ 
 The Supreme Court held that the attorney-client privilege applies to an organization's attorney's communications with its agents: 1) when a communication is made to the organization's counsel that is acting in their capacity as counsel (and not as 
 
 
@@ -2036,7 +2036,7 @@ Matter of Bevill, Bresler & Schulman Asset Man act.,
  
 
 
-# Summary: 
+# _Summary:_ 
 
 SEITZ, Circuit Judge. 
 
@@ -2138,7 +2138,7 @@ Bevill
  
 
 
-# The "Need to Know" Standard Summary: 
+# The "Need to Know" Standard _Summary:_ 
  
 
 
@@ -2431,7 +2431,7 @@ Philadelphia, Pa. (-1940)
 Hickman v. Taylor
 ■ 329 U.S. 495 (1947) 
 
-Summary: 
+_Summary:_ 
 A tugboat sank and five crewmen died. The owners and insurers were represented by Fortenbaugh, who interviewed the surviving crewmen and memorialized the interviews. The estates of the dead crewmen filed wrongful death actions against the owners, all of which settled but one. Plaintiffs counsel asked Fortenbaugh to produce any information related to the interviews. Fortenbaugh refused, the district court ordered him to produce the information, and the circuit court reversed, under the work product doctrine. The Supreme Court affirmed, holding that work product is discoverable only with a sufficient showing of necessity. 
 
 MR. JUSTICE MURPHY delivered the opinion of the Court. 
@@ -2555,7 +2555,7 @@ Questions:
 Upjohn Co. v. United States,
  449 U.S. 383 (1981) 
 
-Summary: 
+_Summary:_ 
 The Supreme Court held that notes and memoranda generated by Upjohn's attorneys that were not protected by the attorney-client privilege could still be protected by the work product doctrine. Specifically, it found that necessity alone was not enough to require production of opinion work product. 
 
 Our decision that the communications by Upjohn employees to counsel are covered by the attorney-client privilege disposes of the case so far as the responses to the questionnaires and any notes reflecting responses to interview questions are concerned. The summons reaches further, however, and Thomas has testified that his notes and memoranda of interviews go beyond recording responses to his questions. To the extent that the material subject to the summons is not protected by the attorney-client privilege as disclosing communications between an employee and counsel, we must reach the ruling by the Court of Appeals that the work-product doctrine does not apply. 
@@ -2604,7 +2604,7 @@ National Semiconductor DM7432N Quad 2-Input OR Gates
 Sporck v. Peil,
  759 F. 2d 312 (3d Cir. 1985) 
 
-Summary: 
+_Summary:_ 
 Peil filed an action against Sporck and Sprague, alleging that they conspired to inflate the value of National Semiconductor stock. Among other things, defendants 
     <div class="calibre20">
     <img src="../assets/images/000018.png" alt="Picture #11" class="calibre1" />
@@ -2707,7 +2707,7 @@ Questions:
 United States v. Deloitte LLP,
  610 F. 3d 129 (D.C. Cir. 2010) 
 
-Summary: 
+_Summary:_ 
 Dow Chemicals filed an action disputing a tax adjustment. Among other things, the IRS subpoenaed documents from Deloitte & Touche, Dow's auditor. Deloitte refused to produce three documents, under the work product doctrine. The district court denied the IRS's motion to compel, finding that the documents were created in anticipation of litigation and reflected attorney thoughts, and therefore were protected by the work product doctrine. The circuit court vacated in part and affirmed in part, holding that the district court lacked sufficient information to determine whether some of the documents were work product, but did not abuse its discretion with respect to other documents. 
 
 SENTELLE, Chief Judge: 
@@ -2994,7 +2994,7 @@ g. Definitions. In this rule:
 # In re Sealed Case,
  877 F. 2d 976 (D.C. Cir. 1989) 
 
-Summary: The IRS investigated a company for tax evasion and subpoenaed documents relevant to the investigation. The company refused to produce certain documents, claiming attorney-client privilege. The government conceded that the attorney-client privilege applied to the documents, but argued that it had been waived. The district court found that the privilege was waived with respect to all of the documents, because they were disclosed to third-parties. The circuit court found that the privilege had been waived for some of the documents, but possibly not all of them. 
+_Summary:_ The IRS investigated a company for tax evasion and subpoenaed documents relevant to the investigation. The company refused to produce certain documents, claiming attorney-client privilege. The government conceded that the attorney-client privilege applied to the documents, but argued that it had been waived. The district court found that the privilege was waived with respect to all of the documents, because they were disclosed to third-parties. The circuit court found that the privilege had been waived for some of the documents, but possibly not all of them. 
 
 
 SILBERMAN, Circuit Judge: 
@@ -3094,7 +3094,7 @@ Mary Sue & L. Ron Hubbard (-1970)
 United States v. Zolin,
  491 U.S. 554 (1989) 
 
-Summary: 
+_Summary:_ 
 In a case against the Church of Scientology (Church), the IRS sought to introduce into evidence tape recordings of meetings between representatives of the Church and its attorney. The IRS claimed that the tapes fell within the crime-fraud exception to the attorneyclient privilege and asked the district court to listen to the tapes in camera to determine if the privilege applied. The IRS attempted to provide the court with partial transcripts of the tape recordings that it acquired from a confidential source so that the court could make its determination. The district court refused to listen to the tapes and the court of appeals affirmed by categorically refusing to listen to the tapes or read the transcripts. The IRS appealed. 
 
 JUSTICE BLACKMUN delivered the opinion of the Court. 
@@ -3301,7 +3301,7 @@ L. Ron Hubbard with audiotape recorders
 
 Blumenthal v. Kimber Mfg., 265 Conn. 1 (2003) 
 
-Summary: The Attorney General of Connecticut opened an antitrust investigation and sent Kimber a subpoena. While Kimber produced some documents, it refused to produce one email. Exceptions to the attorney-client privilege should be made only when the reason for disclosure outweighs the potential chilling of essential communications. The burden of proof is on the party seeking to pierce the privilege. 
+_Summary:_ The Attorney General of Connecticut opened an antitrust investigation and sent Kimber a subpoena. While Kimber produced some documents, it refused to produce one email. Exceptions to the attorney-client privilege should be made only when the reason for disclosure outweighs the potential chilling of essential communications. The burden of proof is on the party seeking to pierce the privilege. 
 
 The crime fraud exception applies only after a determination by the trial court "that there is probable cause to believe that a crime or fraud has been attempted or committed and that the communication was in furtherance thereof." Probable cause requires that a <span type="pagebreak" title="524" id="calibre_link-903"></span>
 
