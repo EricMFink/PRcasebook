@@ -2092,7 +2092,7 @@ Historically, "maintenance,” "champerty,” and "barratry” were illegal and 
 
 - Champerty is litigation funding in exchange for a percentage of any recovery, and 
 
-- Barratry is frivolous litigation. {% marginnote "margin-note-id" "The word 'champerty' derived from the Old French word _champart_, which referred to a feudal lord’s claim to a share of the produce of the land worked by a vassal. The word 'barratry' derived from the Old French word _barater_, which meant '"to deceive.'" %}
+- Barratry is frivolous litigation. {% marginnote "margin-note-id" "The word 'champerty' derived from the Old French word _champart_, which referred to a feudal lord’s claim to a share of the produce of the land worked by a vassal. The word 'barratry' derived from the Old French word _barater_, which meant 'to deceive.'" %}
 
 The prohibition was intended to prevent frivolous and abusive litigation. The concern was that nobles would abuse the courts to harass their enemies and extort settlements. {% marginnote "margin-note-id" "In practice, the law prohibited champerty, but may have permitted maintenance without champerty." %}
 

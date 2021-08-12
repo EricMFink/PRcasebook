@@ -4,14 +4,7 @@ subtitle: "ABA Model Rules of Professional Conduct for Final Exam"
 author: Prof. Fink
 affiliation: Elon Law School
 
-notes: true
-columns: 2
-fontsize: 10pt
 
-output: 
-  pdf_document:
-> latex_engine: xelatex
-> template: default.tex
  
 ---
 
