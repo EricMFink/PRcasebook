@@ -158,8 +158,6 @@ Based on the foregoing, we hold that the jury's findings are adequately supporte
 
 <div markdown="block" class="casebook-questions">
 
-<div markdown="block" class="casebook-questions">
-
 # Questions 
 
 What was the basis for the Togstads’ claim that Miller’s actions formed an attorney-client relationship? How did Miller respond? 
@@ -1964,7 +1962,9 @@ Therefore, under the circumstances we find that a suspension is appropriate disc
 
 </div>
 
-# Questions: 
+<div markdown="block" class="casebook-questions">
+
+# Questions
 
 Was Statmore’s commingling of Kuzara’s funds with his own intentional? Was it reckless? Was Kuzara harmed, and if so, how?
 
