@@ -13,7 +13,7 @@ permalink: /Part2/
 
 _The rest of life pales in significance, I'm looking for somebody with whom to dance. With whom to dance? With whom to dance? I'm looking for somebody with whom to dance._
 
-[1] The Magnetic Fields, _With Whom to Dance?_, Get Lost (1995).
+— The Magnetic Fields, _With Whom to Dance?_, Get Lost (1995).
 
 </div>
 
@@ -354,7 +354,7 @@ Why shouldn’t the court disqualify Dilworth from representing Clark in this ac
 
 </div>
 
---- 
+-— 
 
 # 2.2 Ending an Attorney-Client Relationship_ 
 
@@ -362,7 +362,7 @@ Why shouldn’t the court disqualify Dilworth from representing Clark in this ac
 
 _This is the end, beautiful friend. This is the end, my only friend, the end._[1] 
 
--- The Doors, _The End_ (1967). 
+— The Doors, _The End_ (1967). 
 
 </div>
 
@@ -372,7 +372,7 @@ _This is the end, beautiful friend. This is the end, my only friend, the end._[1
 
 _Happy families are all alike; every unhappy family is unhappy in its own way._
 
--- Leo Tolstoy, _Anna Karenina_ (1878). 
+— Leo Tolstoy, _Anna Karenina_ (1878). 
 
 </div>
 
@@ -494,11 +494,11 @@ Before ending an attorney-client relationship, an attorney should determine whet
 
 _It's a sad situation, I must say, when someone wants to leave as bad as you want them to stay._
 
--- Dolly Parton, _When Someone Wants to Leave_, Jolene (1974). 
+— Dolly Parton, _When Someone Wants to Leave_, Jolene (1974). 
 
 _I don't feel bad about letting you go, I just feel sad about letting you know._
 
--- Billy Bragg, _A New England_ (1983). 
+— Billy Bragg, _A New England_ (1983). 
 
 </div>
 
@@ -572,15 +572,15 @@ Many courts have held that a fired attorney may also recover a percentage of a c
 
 _I wish there was something you would do or say, to try and make me change my mind and stay. But we never did too much talking anyway. But don't think twice, it's all right._
 
--- Bob Dylan, _Don’t Think Twice, It’s Alright_ (1963). 
+— Bob Dylan, _Don’t Think Twice, It’s Alright_ (1963). 
 
 _You can't open your mouth without telling a lie, but baby, you know how to say goodbye._
 
--- Stephin Merritt, _How to Say Goodbye_, 69 Love Songs (1999). 
+— Stephin Merritt, _How to Say Goodbye_, 69 Love Songs (1999). 
 
 _On the morning when I woke up without you for the first time, I felt free and I felt lonely and I felt scared._
 
--- The Mountain Goats, _Woke Up New_, Get Lonely (2006). 
+— The Mountain Goats, _Woke Up New_, Get Lonely (2006). 
 
 </div>
 
@@ -616,7 +616,7 @@ If an attorney terminates an attorney-client relationship, and the client has al
 
 _Are you out of love with me? Are you longing to be free? Do I drive you up a tree? Yeah! Oh, yeah! Do I drive you up the wall? Do you dread every phone call? Can you not stand me at all? Yeah! Oh, yeah!_
 
--- Stephin Merritt, The Magnetic Fields, _Yeah! Oh Yeah!_, 69 Love Songs (1999). 
+— Stephin Merritt, The Magnetic Fields, _Yeah! Oh Yeah!_, 69 Love Songs (1999). 
 
 </div>
 
@@ -711,7 +711,7 @@ Will Whiting be able to retain new counsel? If not, will he have to proceed pro 
 
 _I've looked at life from both sides now, from win and lose and still somehow, It's life's illusions I recall I really don't know life at all._
 
--- Joni Mitchell, _Both Sides Now_, Clouds (1969).
+— Joni Mitchell, _Both Sides Now_, Clouds (1969).
 
 </div>
 
@@ -747,7 +747,7 @@ However, some attorney work product may belong to the attorney, and some states 
 
 The duties of confidentiality and loyalty also survive termination of the attorney-client relationship. You will learn about these ongoing duties to former clients in subsequent chapters. 
 
---- 
+-— 
 
 # 2.3: The Attorney as Agent
 
@@ -783,7 +783,7 @@ When attorneys act pursuant to express, implied, or apparent authority, their ac
 
 _A friendship founded on business is better than a business founded on friendship._
 
--- John D. Rockefeller.
+— John D. Rockefeller.
 
 </div>
 
@@ -992,7 +992,7 @@ What is the purpose of "apparent authority”? Under the standard adopted by the
 
 </div>
 
---- 
+-— 
 
 # 2.4: Client as Principal
 
@@ -1000,7 +1000,7 @@ What is the purpose of "apparent authority”? Under the standard adopted by the
 
 _I planned each charted course, each careful step along the byway. And more, much more than this, I did it my way._
 
--- Paul Anka, _My Way_ (1967).
+— Paul Anka, _My Way_ (1967).
 
 </div>
 
@@ -1195,7 +1195,7 @@ Would the holding differ if this had been a civil case?
 
 </div>
 
---- 
+-— 
 
 # 2.5: Ex Parte Communications
 
@@ -1203,7 +1203,7 @@ Would the holding differ if this had been a civil case?
 
 _I got something to say that might cause you pain. If I catch you talking to that boy again, I'm gonna let you down, and leave you flat, because I told you before, oh, you can't do that._
 
--- The Beatles, _You Can’t Do That_, A Hard Day’s Night (1964).
+— The Beatles, _You Can’t Do That_, A Hard Day’s Night (1964).
  
 </div>
 
@@ -1509,7 +1509,7 @@ Do you think the rule the court adopted clarified when an attorney may interview
 
 - [John Leubsdorf, _Communicating with Another Lawyer’s Client: The Lawyer’s Veto and the Client’s Interests_, 127 U. Pa. L. Rev. 683 (1979)](https://scholarship.law.upenn.edu/cgi/viewcontent.cgi?article=4843&context=penn_law_review) 
 
---- 
+-— 
 
 # 2.6 Attorney’s Fees
 
@@ -1519,7 +1519,7 @@ Do you think the rule the court adopted clarified when an attorney may interview
 
 _If you’ve got the money, I’ve got the time. We’ll go honky tonkin’ and we'll have a time … But if you run short of money, I’ll run short of time. ‘Cause you with no more money, honey, I’ve no more time._
 
--- Lefty Frizzell, _If You've Got The Money I've Got The Time_ (1950). 
+— Lefty Frizzell, _If You've Got The Money I've Got The Time_ (1950). 
 
 </div>
 
@@ -1783,7 +1783,7 @@ What if Fordham estimated a fee of $50,000 in advance, and billed only for work 
 
 _You never give me your money, you only give me your funny paper, and in the middle of negotiations, you break down._
 
--- The Beatles, _You Never Give Me Your Money_, Abbey Road (1969). 
+— The Beatles, _You Never Give Me Your Money_, Abbey Road (1969). 
 
 </div>
 
@@ -1860,11 +1860,11 @@ Why did Culpepper agree to work on a contingent fee contract? Would you have app
 
 _It’s a bad business to be in. You don’t get thanked and you don’t get paid. It’s a hard world to be in with, and to end with, and to think about leaving behind._
 
--- Liz Phair, _Elvis, Be True_, Girly-Sound (1991).
+— Liz Phair, _Elvis, Be True_, Girly-Sound (1991).
 
 </div>
 
---- 
+-— 
 
 # 2.7: Financial Relationships with Clients
 
@@ -1874,11 +1874,11 @@ _It’s a bad business to be in. You don’t get thanked and you don’t get pai
 
 _Business? It’s quite simple; it’s other people’s money._
 
--- Alexandre Dumas _fils_, _La Question d’argent_ (1857) 
+— Alexandre Dumas _fils_, _La Question d’argent_ (1857) 
 
 _Oh, can somebody explain why things go on this way? I thought they were my friends. I can't believe it's me, I can't believe that I'm so green. Eyes down, round and round, let’s all sit and watch the moneygoround. Everyone take a little bit here and a little bit there._
 
--- The Kinks, _Moneygoround_, Lola Versus Powerman and the Moneygoround (1970). 
+— The Kinks, _Moneygoround_, Lola Versus Powerman and the Moneygoround (1970). 
 
 </div>
 
@@ -1976,7 +1976,7 @@ Was a 6 month suspension an appropriate sanction under the circumstances?
 
 - [_ABA Model Rules for Client Trust Account Records_ (2010).](https://www.americanbar.org/content/dam/aba/administrative/professional_responsibility/aba_model_rules_on_client_trust_account_records.pdf) 
 
---- 
+-— 
 
 ## Equity as Compensation
 
@@ -1984,7 +1984,7 @@ Was a 6 month suspension an appropriate sanction under the circumstances?
 
 _I’ve got the brains you’ve got the looks. Let’s make lots of money. You’ve got the brawn I’ve got the brains. Let’s make lots of money._
 
--- Pet Shop Boys, _Opportunities (Let’s Make Lots of Money)_, Please (1986). 
+— Pet Shop Boys, _Opportunities (Let’s Make Lots of Money)_, Please (1986). 
 
 </div>
 
@@ -2218,7 +2218,7 @@ In 2003, residents of <a href="https://en.wikipedia.org/wiki/Lago_Agrio_oil_fiel
 
 - [Victoria Shannon Sahani, _Reshaping Third Party Funding_, 91 Tulane L. Rev. 405 (2017)](https://scholarlycommons.law.wlu.edu/wlufac/513/) 
 
---- 
+-— 
 
 # 2.8: Organizations as Clients
 
@@ -2226,11 +2226,11 @@ In 2003, residents of <a href="https://en.wikipedia.org/wiki/Lago_Agrio_oil_fiel
 
 _We live as we dream, alone. To crack the shell we mix with the others._
 
--- Gang of Four, _We Live as We Dream, Alone_, Songs of the Free (1984). 
+— Gang of Four, _We Live as We Dream, Alone_, Songs of the Free (1984). 
 
 _You pull down the future with the one you love (I see no evil)._
 
--- Television, _See No Evil_, Marquee Moon (1977).
+— Television, _See No Evil_, Marquee Moon (1977).
 
 </div>
 
@@ -2436,7 +2436,7 @@ Why did the court conclude that Mursau had no attorney-client relationship with 
 
 </div>
 
---- 
+-— 
 
 # 2.9: Agents as Clients
 
@@ -2444,7 +2444,7 @@ Why did the court conclude that Mursau had no attorney-client relationship with 
 
 _There's nothing wrong with having aspirations, nothing wrong with walking tall. But if misfortune deals the consequences, sooner or later, friend, you’ve got to fall._
 
--- Hüsker Dü, Friend, _You've Got to Fall_, Warehouse: Songs and Stories (1987).
+— Hüsker Dü, Friend, _You've Got to Fall_, Warehouse: Songs and Stories (1987).
 
 </div>
 
