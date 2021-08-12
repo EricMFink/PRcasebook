@@ -238,9 +238,7 @@ What are Keefe’s ethical obligations under the circumstances? How should he ba
 
 </div>
 
-<div markdown="block" class="casebook-questions">
-
-# Further Reading
+## Further Reading
 
 - [David Luban & W. Bradley Wendel, _Philosophical Legal Ethics: An Affectionate History_, 30 Geo. J.L. Ethics (2017).](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2913108)
 
@@ -268,7 +266,7 @@ What are Keefe’s ethical obligations under the circumstances? How should he ba
 
 - [Rebecca Roiphe, _The Decline of Professionalism_, 29 Geo. J. Legal Ethics 649 (2016).](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2806611)
 
-</div>
+--- 
 
 # 1.2: A Brief History of the American Legal Profession
 

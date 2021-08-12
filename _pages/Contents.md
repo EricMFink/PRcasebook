@@ -52,7 +52,7 @@ permalink: /Contents/
 - 5.6: The Work Product Doctrine 
 - 5.7: Exceptions to Privilege & Work Product 
 
-[Part 6: Advocacy & Conduct}({{ site.baseurl}}/Part6/)
+[Part 6: Advocacy & Conduct]({{ site.baseurl}}/Part6/)
 
 - 6.1: Frivolous Pleading 
 - 6.2: Improper Advocacy 

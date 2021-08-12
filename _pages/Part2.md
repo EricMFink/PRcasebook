@@ -350,6 +350,8 @@ Why shouldn’t the court disqualify Dilworth from representing Clark in this ac
 
 </div>
 
+--- 
+
 # 2.2 Ending an Attorney-Client Relationship_ 
 
 <div markdown="block" class="casebook-epigraph">
@@ -741,6 +743,8 @@ However, some attorney work product may belong to the attorney, and some states 
 
 The duties of confidentiality and loyalty also survive termination of the attorney-client relationship. You will learn about these ongoing duties to former clients in subsequent chapters. 
 
+--- 
+
 # 2.3: The Attorney as Agent
 
 The attorney-client relationship is a principal-agent relationship. The client is the principal and the attorney is the client’s agent. But it is a unique form of principal-agent relationship, because the client’s ability to control the attorney’s exercise of agency is limited, and because the attorney has duties not only to the client, but also to the court and the public. 
@@ -916,7 +920,7 @@ Why did the insurance company pay the checks?
 
 Why did the court hold that payment was improper?
 
-What should the insurance company have done? <ol start="4" type="1"> 
+What should the insurance company have done?
 
 Would the court have found the checks to be valid if the attorney had signed them rather than typing the client’s name on the endorsement line? 
 
@@ -983,6 +987,8 @@ What if Makins actually agreed to the settlement, but then had second thoughts?
 What is the purpose of "apparent authority”? Under the standard adopted by the court, is it possible for an attorney to exercise apparent authority? 
 
 </div>
+
+--- 
 
 # 2.4: Client as Principal
 
@@ -1182,6 +1188,8 @@ Given the severity of the client’s delusions, would the court have found that 
 Would the holding differ if this had been a civil case? 
 
 </div>
+
+--- 
 
 # 2.5: Ex Parte Communications
 
@@ -1409,9 +1417,9 @@ What is the purpose of Model Rule 4.2 and its prohibition on attorneys engaging 
 
 Why don’t the model rules prohibit clients from engaging in ex parte communications? Should ex parte communications between represented persons be encouraged, discouraged, or neither?
 
-Haley retained counsel when the action at issue went to trial. If he had engaged in ex parte communications with Highland while represented by an attorney, would it have violated Model Rule 4.2? Should attorneys who are parties to an action and represented by counsel be permitted to engage in ex parte communications with represented persons? What if both parties are attorneys represented by counsel? <ol start="4" type="1"> 
+Haley retained counsel when the action at issue went to trial. If he had engaged in ex parte communications with Highland while represented by an attorney, would it have violated Model Rule 4.2? Should attorneys who are parties to an action and represented by counsel be permitted to engage in ex parte communications with represented persons? What if both parties are attorneys represented by counsel?
 
-Do you agree with Justice Sanders’s concurrence that the rule exempts lawyers who proceed pro se? <ol start="5" type="1"> 
+Do you agree with Justice Sanders’s concurrence that the rule exempts lawyers who proceed pro se?
 
 Do you agree with the dissent that Haley should have been sanctioned because he studied the rule prior to contacting Highland? (Remember the mens rea requirement under Model Rule 4.2.)
 
@@ -1491,13 +1499,11 @@ Do you think the rule the court adopted clarified when an attorney may interview
 
 </div>
 
-<div markdown="block" class="casebook-questions">
-
 # Further Reading
 
 - [John Leubsdorf, _Communicating with Another Lawyer’s Client: The Lawyer’s Veto and the Client’s Interests_, 127 U. Pa. L. Rev. 683 (1979)](https://scholarship.law.upenn.edu/cgi/viewcontent.cgi?article=4843&context=penn_law_review) 
 
-</div>
+--- 
 
 # 2.6 Attorney’s Fees
 
@@ -1852,6 +1858,8 @@ _It’s a bad business to be in. You don’t get thanked and you don’t get pai
 
 </div>
 
+--- 
+
 # 2.7: Financial Relationships with Clients
 
 ## Client Trust Accounts
@@ -1958,13 +1966,11 @@ Was a 6 month suspension an appropriate sanction under the circumstances?
 
 </div>
 
-<div markdown="block" class="casebook-questions">
-
 # Further Reading
 
 - [_ABA Model Rules for Client Trust Account Records_ (2010).](https://www.americanbar.org/content/dam/aba/administrative/professional_responsibility/aba_model_rules_on_client_trust_account_records.pdf) 
 
-</div>
+--- 
 
 ## Equity as Compensation
 
@@ -2192,8 +2198,6 @@ In 2003, residents of <a href="https://en.wikipedia.org/wiki/Lago_Agrio_oil_fiel
 
 </div>
 
-<div markdown="block" class="casebook-questions">
-
 # Further Reading
 
 - [Max Radin, _Maintenance by Champerty_, 24 Calif. L. Rev. 48 (1935)](https://scholarship.law.berkeley.edu/californialawreview/vol24/iss1/6/) 
@@ -2208,7 +2212,7 @@ In 2003, residents of <a href="https://en.wikipedia.org/wiki/Lago_Agrio_oil_fiel
 
 - [Victoria Shannon Sahani, _Reshaping Third Party Funding_, 91 Tulane L. Rev. 405 (2017)](https://scholarlycommons.law.wlu.edu/wlufac/513/) 
 
-</div>
+--- 
 
 # 2.8: Organizations as Clients
 
@@ -2314,7 +2318,7 @@ Medeiros owned Medcon. How could Silva have reported to Medcon?
 
 Could Silva have reasonably believed that he represented Medeiros?
 
-Did the court impose an appropriate punishment? <ol start="4" type="1"> 
+Did the court impose an appropriate punishment?
 
 Compare this case with# <a href="https://scholar.google.com/scholar_case?case=4427546939148680262">Ferranti Intern. PLC v. Clark, 767 F. Supp. 670 (E.D. Pa. 1991)</a> (Section 2.1 Creating an Attorney-Client Relationship). Is it ever fair to assume that an attorney has created an attorney-client relationship with an individual in a company when he represents the company? 
 
@@ -2426,6 +2430,7 @@ Why did the court conclude that Mursau had no attorney-client relationship with 
 
 </div>
 
+--- 
 
 # 2.9: Agents as Clients
 
@@ -2641,12 +2646,8 @@ Should the attorney-client relationship have to be in writing in order for someo
 
 </div>
 
-<div markdown="block" class="casebook-questions">
-
 # Further Reading
 
 - [Grace M. Giesel, _Upjohn Warnings, the Attorney-Client Privilege, and Principles of Lawyer Ethics: Achieving Harmony_, 65 U. Miami L. Rev. 109 (2010)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1717975) 
 
 - [Ashish S. Joshi, _Corporate Miranda: Clarifying Lawyers' Loyalty During an Internal Investigation_, American Bar Association (2009)](https://www.americanbar.org/groups/business_law/publications/blt/2009/09/07_joshi/) 
-
-</div>

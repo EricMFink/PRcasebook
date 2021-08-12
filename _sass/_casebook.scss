@@ -157,9 +157,92 @@ ol {
 	text-align: center;
 }
 
-/* Casebook Primary Legal Authorities (Cases, Statutes, MRPC, Restatement) */
+/* Casebook Primary Legal Authorities (Cases, Rules, Statutes & Restatement) */
+
+.rule {
+	background-color: $rule-color;
+	padding: 20px;
+	margin-bottom: 2rem;
+}
+
+.rule h1 {
+	margin-top: 0;
+	font-size: $h2;
+}
+
+.rule h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: $serif-font;
+	font-weight: $normal-weight;
+}
+
+.rule h2, h3 {
+	font-style: normal;
+}
+
+.rule h2 {
+	font-size: $h3;
+}
+
+.rule h3 {
+	font-size: $h4;
+	margin-bottom: 1rem;
+}
+
+
+/* heading for comments */
+.rule h4 {
+	font-size: $h5;
+	font-style: italic;
+	font-weight: $normal-weight;
+	margin-bottom: 1rem;
+}
+
+/* body of comments */
+.rule h5 {
+	font-size: $small;
+	margin-top: 0.5rem;
+	margin-bottom: 0.5rem;
+}
+
+/* body of illustrations */
+.rule h6 {
+	font-size: $smaller;
+	margin-top: 0.5rem;
+	margin-bottom: 0.5rem;
+	margin-left: 1rem;
+}
+
+.rule p {
+	font-size: $body;
+}
+
+.rule blockquote {
+	font-size: $body;
+	font-style: normal;
+	line-height: $line-height;
+	border: none;
+	margin-left: 1.5rem;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+	padding: 0;
+}
+
+.rule blockquote p {
+	font-size: $body;
+	line-height: $line-height;
+	font-style: normal;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+	padding: 0;
+	max-width: 50rem;
+}
+
 .statute {
-	background-color: $light-grey;
+	background-color: $statute-color;
 	padding: 20px;
 	margin-bottom: 2rem;
 }
@@ -241,7 +324,7 @@ h6 {
 }
 
 .case {
-	background-color: $light-grey;
+	background-color: $case-color;
 	padding: 20px;
 	margin-bottom: 3rem;
 }
@@ -325,7 +408,7 @@ blockquote p {
 }
 
 .casebook-questions {
-	background-color: $light-grey;
+	background-color: $question-color;
 	padding: 20px;
 	margin-bottom: 3rem; 
 }

@@ -61,6 +61,7 @@ $footer-height: 40px;
 // reds 
 $red:               #FF3636 !default;
 $dull-red:          #b03a2e !default;
+$light-pink: 		#FF77FF !default;
 
 // oranges
 $orange:            #F29105 !default;
@@ -69,6 +70,7 @@ $dull-orange: 		#B16032 !default;
 
 // yellows 
 $yellow:            #efcc00 !default;
+$light-yellow: 		#FAF0B3 !default;
 
 // greens
 $green:             #00ab37 !default;
@@ -107,6 +109,10 @@ $heading-color: 	$dull-red;
 $code-color:        $bright-cyan;
 $link-color:		$deep-orange;
 $link-hover-color:  $dull-orange;
+$case-color:		$light-grey;
+$rule-color: 		$light-pink; 
+$statute-color: 	$light-yellow;
+$question-color: 	$light-green;
 
 // Button Colors 
 $primary:			$theme-color;
