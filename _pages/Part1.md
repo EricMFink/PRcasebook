@@ -34,7 +34,7 @@ However, law schools and law professors retain considerable discretion in how th
 
 - And still other classes focus on how attorneys actually comply with rules of professional conduct in practice.
 
-This casebook is designed for a class focused on the Model Rules of Professional Conduct](https://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/) and their practical application. Each chapter of the book addresses a different issue, in the following format.
+This casebook is designed for a class focused on the [Model Rules of Professional Conduct](https://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/) and their practical application. Each chapter of the book addresses a different issue, in the following format.
 
 ## Legal Ethics v. The Regulation of Legal Practice
 
