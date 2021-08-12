@@ -1,4 +1,4 @@
--— 
+---
 
 layout: casebook
 
@@ -266,7 +266,7 @@ What are Keefe’s ethical obligations under the circumstances? How should he ba
 
 - [Rebecca Roiphe, _The Decline of Professionalism_, 29 Geo. J. Legal Ethics 649 (2016).](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2806611)
 
--— 
+---
 
 # 1.2: A Brief History of the American Legal Profession
 

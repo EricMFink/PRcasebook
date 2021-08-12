@@ -352,7 +352,7 @@ Why shouldn’t the court disqualify Dilworth from representing Clark in this ac
 
 </div>
 
--— 
+---
 
 # 2.2 Ending an Attorney-Client Relationship_ 
 
@@ -745,7 +745,7 @@ However, some attorney work product may belong to the attorney, and some states 
 
 The duties of confidentiality and loyalty also survive termination of the attorney-client relationship. You will learn about these ongoing duties to former clients in subsequent chapters. 
 
--— 
+---
 
 # 2.3: The Attorney as Agent
 
@@ -990,7 +990,7 @@ What is the purpose of "apparent authority”? Under the standard adopted by the
 
 </div>
 
--— 
+---
 
 # 2.4: Client as Principal
 
@@ -1193,7 +1193,7 @@ Would the holding differ if this had been a civil case?
 
 </div>
 
--— 
+---
 
 # 2.5: Ex Parte Communications
 
@@ -1507,7 +1507,7 @@ Do you think the rule the court adopted clarified when an attorney may interview
 
 - [John Leubsdorf, _Communicating with Another Lawyer’s Client: The Lawyer’s Veto and the Client’s Interests_, 127 U. Pa. L. Rev. 683 (1979)](https://scholarship.law.upenn.edu/cgi/viewcontent.cgi?article=4843&context=penn_law_review) 
 
--— 
+---
 
 # 2.6 Attorney’s Fees
 
@@ -1862,7 +1862,7 @@ _It’s a bad business to be in. You don’t get thanked and you don’t get pai
 
 </div>
 
--— 
+---
 
 # 2.7: Financial Relationships with Clients
 
@@ -1976,7 +1976,7 @@ Was a 6 month suspension an appropriate sanction under the circumstances?
 
 - [_ABA Model Rules for Client Trust Account Records_ (2010).](https://www.americanbar.org/content/dam/aba/administrative/professional_responsibility/aba_model_rules_on_client_trust_account_records.pdf) 
 
--— 
+---
 
 ## Equity as Compensation
 
@@ -2218,7 +2218,7 @@ In 2003, residents of <a href="https://en.wikipedia.org/wiki/Lago_Agrio_oil_fiel
 
 - [Victoria Shannon Sahani, _Reshaping Third Party Funding_, 91 Tulane L. Rev. 405 (2017)](https://scholarlycommons.law.wlu.edu/wlufac/513/) 
 
--— 
+---
 
 # 2.8: Organizations as Clients
 
@@ -2436,7 +2436,7 @@ Why did the court conclude that Mursau had no attorney-client relationship with 
 
 </div>
 
--— 
+---
 
 # 2.9: Agents as Clients
 
