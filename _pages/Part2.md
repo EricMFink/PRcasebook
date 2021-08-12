@@ -183,6 +183,8 @@ Or to put it another way, the attorney has an attorney-client relationship with 
 
 However, an attorney representing an organization must ensure that the employees of the organization understand that the attorney only represents the organization, and not its employees. In other words, the employees must understand that the organization’s attorney is not their attorney, and that the organization’s attorney has professional duties only to the organization. This can be difficult to explain, especially when employees identify their interests with those of the organization. But attorneys for organizations must clarify their legal relationship to the employees of those organizations, in order to avoid creating an attorney-client relationship. 
 
+<div markdown="block" class="rule">
+
 # Model Rule 1.13: Organization as Client 
 
 (a) A lawyer employed or retained by an organization represents the organization acting through its duly authorized constituents.
@@ -202,6 +204,8 @@ However, an attorney representing an organization must ensure that the employees
 (f) In dealing with an organization's directors, officers, employees, members, shareholders or other constituents, a lawyer shall explain the identity of the client when the lawyer knows or reasonably should know that the organization's interests are adverse to those of the constituents with whom the lawyer is dealing.
 
 (g) A lawyer representing an organization may also represent any of its directors, officers, employees, members, shareholders or other constituents, subject to the provisions of Rule 1.7. If the organization's consent to the dual representation is required by Rule 1.7, the consent shall be given by an appropriate official of the organization other than the individual who is to be represented, or by the shareholders.
+
+</div>
 
 <div markdown="block" class="casebook-questions">
 
@@ -225,7 +229,7 @@ A "prospective client” is a person or organization that discusses the possibil
 
 Accordingly, attorneys should try to prevent prospective clients from disclosing confidential information, in order to avoid disqualification from representing adverse parties. And attorneys must determine whether potential clients have disclosed any confidential information, because it creates a duty of confidentiality. 
 
-<div markdown="block" class="statute">
+<div markdown="block" class="rule">
 
 # Model Rule 1.18: Client-Lawyer Relationship 
 
@@ -390,7 +394,7 @@ Furthermore, attorneys may be subject to discipline for ending an attorney-clien
 
 Before ending an attorney-client relationship, an attorney should determine whether _good cause_ exists to end the relationship. If an attorney ends an attorney-client relationship without good cause, the attorney may be subject to discipline and liable to the client for malpractice or breach of fiduciary duty. 
 
-<div markdown="block" class="statute">
+<div markdown="block" class="rule">
 
 # Model Rule 1.16: Declining or Terminating Representation
 
@@ -731,11 +735,11 @@ True or False: An attorney must explicitly convey to the client that the relatio
 
 The end of an attorney-client relationship does not mean the end of the attorney's duties to the client. Model Rule 1.16(d) requires an attorney who withdraws from representation to take certain steps to protect the client's interests:
 
-<div markdown="block" class="statute">
+<div markdown="block" class="rule">
 
-# Model Rule 1.16(d)
+# Model Rule 1.16: Declining or Terminating Representation 
 
-Upon termination of representation, a lawyer shall take steps to the extent reasonably practicable to protect a client's interests, such as giving reasonable notice to the client, allowing time for employment of other counsel, surrendering papers and property to which the client is entitled and refunding any advance payment of fee or expense that has not been earned or incurred. The lawyer may retain papers relating to the client to the extent permitted by other law.
+(d) Upon termination of representation, a lawyer shall take steps to the extent reasonably practicable to protect a client's interests, such as giving reasonable notice to the client, allowing time for employment of other counsel, surrendering papers and property to which the client is entitled and refunding any advance payment of fee or expense that has not been earned or incurred. The lawyer may retain papers relating to the client to the extent permitted by other law.
 
 </div>
 
@@ -790,7 +794,7 @@ As Cardozo famously explained, a fiduciary "is held to something stricter than t
 
 As fiduciaries, attorneys have a legal duty to act only in the interests of their clients, and to put the interests of their clients above their own interests. Accordingly, attorneys may never form a relationship that would create a conflict of interest with a current or former client, without the client’s informed consent. 
 
-<div markdown="block" class="statute">
+<div markdown="block" class="rule">
 
 # Model Rule 1.2: Scope of Representation & Allocation of Authority Between Client & Lawyer
 
@@ -1018,6 +1022,8 @@ As the principal, the client has the sole authority to make certain important de
 
 However, attorneys retain considerable discretion to make decisions about how to pursue representation, so long as those decisions are consistent with the client’s decisions, and implicitly authorized by the client as necessary to representation. In other words, the client is entitled to specify the goals of representation, but not to control the attorney’s every decision in pursuit of those goals.
 
+<div markdown="block" class="rule">
+
 # Model Rule 1.2: Scope of Representation & Allocation of Authority Between Client & Lawyer
 
 (a) Subject to paragraphs (c) and (d), a lawyer shall abide by a client's decisions concerning the objectives of representation and, as required by Rule 1.4, shall consult with the client as to the means by which they are to be pursued. A lawyer may take such action on behalf of the client as is impliedly authorized to carry out the representation. A lawyer shall abide by a client's decision whether to settle a matter. In a criminal case, the lawyer shall abide by the client's decision, after consultation with the lawyer, as to a plea to be entered, whether to waive jury trial and whether the client will testify.
@@ -1111,7 +1117,7 @@ Regardless, the attorney must always put the client’s interests first. If the 
 
 Sometimes, it is unclear whether a client is impaired. The client may be unable to communicate with the attorney, unable to make consistent decisions, unable to make good decisions, or unwilling to conform to social expectations. These are hard cases. If a direct attorney-client relationship is untenable, the attorney should seek the appointment of a legal representative. But if the attorney can represent the client directly, then the attorney must act in the client’s best interests. This can create a conflict, if the attorney believes that the client’s instructions are inconsistent with the client’s best interests. Should the attorney obey the client?
 
-<div markdown="block" class="statute">
+<div markdown="block" class="rule">
 
 # Model Rule 1.14: Client with Diminished Capacity
 
@@ -1521,7 +1527,7 @@ Attorneys can only charge a reasonable fee for their services. But the reasonabl
 
 In theory, state bar associations are supposed to ensure that attorneys charge reasonable fees. But in practice, they are reluctant to question attorney’s fee agreements. In fact, contract law may protect clients from excessive fees more effectively than the rules of professional responsibility. 
 
-<div markdown="block" class="statute">
+<div markdown="block" class="rule">
 
 # Model Rule 1.5: Fees
 
@@ -1882,7 +1888,7 @@ State bar associations carefully monitor attorney trust accounts and punish any 
 
 An attorney may withdraw funds from a client’s trust account in order to pay the client’s attorney fees, as they are earned. The rule against commingling prohibits attorneys from using funds from a client trust account to pay business or personal expenses, and the attorney must return any funds remaining in a client’s trust account to the client when the representation ends. When a client receives a settlement or award, the attorney must deposit the funds in the client’s trust account, and then withdraw funds to pay the client’s attorney fees and disburse to the client. Specifically, if the attorney and the client have a contingent fee agreement, the attorney must pay the client’s contingent fee from the client trust account. 
 
-<div markdown="block" class="statute">
+<div markdown="block" class="rule">
 
 # Model Rule 1.15: Safekeeping Property
 
@@ -1990,7 +1996,7 @@ In any case, the Model Rules of Professional Conduct permits equity compensation
 
 The concern is that the attorney’s financial interest in the client’s property could create a conflict of interest. In theory, both the client and the attorney want the property to increase in value. But in some cases, the attorney’s interest in the property could compromise the impartiality of the attorney’s advice, if a potential transaction would benefit the client, but harm the attorney’s property interest. 
 
-<div markdown="block" class="statute">
+<div markdown="block" class="rule">
 
 # Model Rule 1.8: Current Clients: Specific Rules
 
@@ -2100,7 +2106,7 @@ _Contingent Fee Litigation:_ Attorney Allen will fund the litigation out of his 
 
 _Finance Agreement:_ Attorney Alice will receive funding from Firm Fanny for the litigation costs. Firm Fanny will collect 10% of the final awarded judgment, Alice will collect 20%, and Client Cliff will receive 70%. 
 
-<div markdown="block" class="statute">
+<div markdown="block" class="rule">
 
 # Model Rule 1.8: Current Clients: Specific Rules
 
@@ -2238,7 +2244,7 @@ The attorney must provide legal advice to the agents of an organizational client
 
 Specifically, an attorney representing an organizational client must ensure that its agents act consistently with the interests of the organization, rather than their own interests. If an agent of an organizational client acts or refuses to act in a way that violates a legal obligation to the organization, then the attorney must act to protect the interests of the organization. The attorney should generally report the concern to the management of the organization. In some cases, the attorney may even report confidential information or withdraw from representation, if it is necessary to protect the interests of the organization. 
 
-<div markdown="block" class="statute">
+<div markdown="block" class="rule">
 
 # Model Rule 1.13: Organization as Client
 

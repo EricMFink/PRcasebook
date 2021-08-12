@@ -64,7 +64,7 @@ Accordingly, this casebook focuses on describing the law of professional respons
 
 Of course, studying an area of law inevitably provokes reflections on its purpose and justification. Even a casebook devoted to the study of the regulation of legal practice cannot avoid implicating questions of legal ethics. What values does the law of professional responsibility express? Are those values justified? What makes a rule of professional conduct justified or unjustified? What is the purpose of the law of professional responsibility? All of these ethical issues are implicit in the subject matter of this class. But they are not the subject matter of this casebook. Or at the very least, while this casebook may directly or indirectly raise those questions, it does not purport to answer them or take a position on how they should be answered.
 
-<div markdown="block" class="statute">
+<div markdown="block" class="rule">
 
 # Model Rules of Professional Conduct
 
@@ -507,7 +507,7 @@ The Model Rules are structured like regulations, with a statement of _minimum co
 
 Like other model rules, _the Model Rules of Professional Conduct_ are not themselves binding. They are designed to be examples a state may choose to adopt into law. For an example from the Model Rules, see the Rule 1:1 on Competence, below.
 
-<div markdown="block" class="statute">
+<div markdown="block" class="rule">
 
 # Model Rule 1.1: Competence
 
