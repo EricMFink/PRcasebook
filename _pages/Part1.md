@@ -128,7 +128,7 @@ Does the Preamble suggest that the Model Rules provide ethical guidance for atto
 
 </div>
 
-## The Duty of Zealous Representation
+## Zealous Representation
 
 <div markdown="block" class="casebook-epigraph">
 
