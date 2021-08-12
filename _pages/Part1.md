@@ -1,11 +1,10 @@
 ---
-
 layout: casebook
 
 chapter: 'Part 1' 
 title: 'Introduction' 
 permalink: /Part1/ 
-
+  
 ---
 
 # 1.1 Introduction to Professional Responsibility
