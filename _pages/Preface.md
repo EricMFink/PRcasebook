@@ -6,7 +6,7 @@ permalink: /Preface/
   
 ---
 
-<div markdown="block" class="casebook-epigraph">
+<div markdown="block" class="casebook-epigraph)
 
 _It would be idle to assert that there is nothing of selfishness in the pursuit of a profession. But its ideal is not one of individual success in competitive acquisitive activity. And because ideals operate powerfully to shape action, professional activity, even at its worst, is restrained and guided by something better than the desire for money rewards._
 
@@ -42,64 +42,23 @@ _The sad thing about lawyers is not that so many of them are stupid, but that so
 
 </div>
 
----
-
-**Preface**
-
 Thank you for your interest in *Professional Responsibility: An Open-Access Casebook*. We hope that you find it useful and informative.
 
 This is a free casebook. We believe that law students and others interested in the law should not have to pay the high prices that commercial publishers charge for casebooks. Many others agree, and have created free or low-cost casebooks covering many different areas of the law. Here are some examples:
 
-<table>
-<thead>
-<tr class="header">
-<th><strong>Practice Area</strong></th>
-<th><strong>Casebook</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Advertising and Marketing</td>
-<td><a href="https://www.ericgoldman.org/"><u>Eric Goldman</u></a> & <a href="https://hls.harvard.edu/faculty/directory/11412/Tushnet"><u>Rebecca Tushnet</u></a>, <a href="https://blog.ericgoldman.org/archives/2019/01/announcing-the-fourth-edition-of-advertising-marketing-law-cases-materials-by-tushnet-goldman-2.htm"><em><u>Advertising & Marketing Law: Cases & Materials</u></em></a></td>
-</tr>
-<tr class="even">
-<td>Civil Rights</td>
-<td><a href="https://law.lclark.edu/live/profiles/269-john-parry"><u>John T. Parry</u></a>, <a href="https://www.semaphorepress.com/CivilRightsLitigationOverview.html"><em><u>Cases and Problems in Civil Rights Litigation: State, Federal and International Perspectives</u></em></a></td>
-</tr>
-<tr class="odd">
-<td>Intellectual Property</td>
-<td><a href="https://law.duke.edu/fac/boyle/"><u>James Boyle</u></a> & <a href="https://law.duke.edu/fac/jenkins/"><u>Jennifer Jenkins</u></a>, <a href="https://law.duke.edu/cspd/openip/"><em><u>Open Intellectual Property Casebook</u></em></a></td>
-</tr>
-<tr class="even">
-<td>Intellectual Property</td>
-<td><a href="https://james.grimmelmann.net/ipbook/"><u>James Grimmelmann</u></a>, <a href="https://james.grimmelmann.net/ipbook/"><em><u>Patterns of Information Law: Intellectual Property Done Right</u></em></a></td>
-</tr>
-<tr class="odd">
-<td>Intellectual Property</td>
-<td><a href="https://law.lclark.edu/live/profiles/293-lydia-loren"><u>Lydia Pallas Loren</u></a> & <a href="http://www.law.uga.edu/profile/joseph-s-miller"><u>Joseph Scott Miller</u></a>, <a href="https://www.semaphorepress.com/IntellectualPropertyLaw_overview.html"><em><u>Intellectual Property Law: Cases & Materials</u></em></a></td>
-</tr>
-<tr class="even">
-<td>Internet Law</td>
-<td><a href="http://james.grimmelmann.net/"><u>James Grimmelmann</u></a>, <a href="http://internetcasebook.com/"><em><u>Internet Law: Cases and Problems</u></em></a></td>
-</tr>
-<tr class="odd">
-<td>Interstate Law</td>
-<td><a href="https://law.lclark.edu/live/profiles/2860-jeff-litwak"><u>Jeffrey Litwak</u></a>, <a href="https://www.semaphorepress.com/InterstateCompactLaw_overview.html"><em><u>Interstate Compact Law: Cases & Materials</u></em></a></td>
-</tr>
-<tr class="even">
-<td>Property</td>
-<td><a href="https://law.uark.edu/directory/directory-faculty/uid/sclowney/name/Steve+Clowney/"><u>Stephen Clowney</u></a>, <a href="https://james.grimmelmann.net/"><u>James Grimmelmann</u></a>, <a href="https://law.depaul.edu/faculty-and-staff/faculty-a-z/Pages/michael-grynberg.aspx"><u>Michael Grynberg</u></a>, <a href="https://www.stjohns.edu/academics/bio/jeremy-sheff"><u>Jeremy Sheff</u></a> & <a href="https://hls.harvard.edu/faculty/directory/11412/Tushnet"><u>Rebecca Tushnet</u></a>, <a href="https://opensourceproperty.org/"><em><u>Open Source Property: A Free Casebook</u></em></a></td>
-</tr>
-<tr class="odd">
-<td>Property</td>
-<td><a href="https://www.tjsl.edu/directory/steven-semeraro"><u>Steve Semeraro</u></a>, <a href="https://www.semaphorepress.com/PropertyLaw_overview.html"><em><u>An Introduction to Property Law in the U.S.</u></em></a></td>
-</tr>
-<tr class="even">
-<td>Trademark</td>
-<td><a href="https://its.law.nyu.edu/facultyprofiles/index.cfm?fuseaction=profile.overview&personid=30077"><u>Barton Beebe</u></a>, <a href="http://tmcasebook.org/"><em><u>Trademark Law: An Open-Source Casebook</u></em></a></td>
-</tr>
-</tbody>
-</table>
+ Subject | Casebook 
+--|--
+ Advertising and Marketing | Eric Goldman & Rebecca Tushnet, [Advertising & Marketing Law: Cases & Materials](https://blog.ericgoldman.org/archives/2019/01/announcing-the-fourth-edition-of-advertising-marketing-law-cases-materials-by-tushnet-goldman-2.htm)
+ Civil Rights | John T. Parry, [Cases and Problems in Civil Rights Litigation: State, Federal and International Perspectives](https://www.semaphorepress.com/CivilRightsLitigationOverview.html)
+ Intellectual Property | James Boyle & Jennifer Jenkins, [Open Intellectual Property Casebook](https://law.duke.edu/cspd/openip/)
+ Intellectual Property | James Grimmelmann, [Patterns of Information Law: Intellectual Property Done Right](https://james.grimmelmann.net/ipbook/)
+ Intellectual Property | Lydia Pallas Loren & Joseph Scott Miller, [Intellectual Property Law: Cases & Materials 
+ Internet Law](https://www.semaphorepress.com/IntellectualPropertyLaw_overview.html)
+ James Grimmelmann, [Internet Law: Cases and Problems](http://internetcasebook.com/)
+ Interstate Law | Jeffrey Litwak, [Interstate Compact Law: Cases & Materials](https://www.semaphorepress.com/InterstateCompactLaw_overview.html)
+ Property | Stephen Clowney, James Grimmelmann, Michael Grynberg, Jeremy Sheff & Rebecca Tushnet, [Open Source Property: A Free Casebook](https://opensourceproperty.org/)
+ Property | Steve Semeraro, [An Introduction to Property Law in the U.S.](https://www.semaphorepress.com/PropertyLaw_overview.html)
+ Trademark | Barton Beebe, [Trademark Law: An Open-Source Casebook](http://tmcasebook.org/)
 
 In addition, the [Center for Computer-Assisted Legal Instruction (CALI)](https://www.cali.org/) offers [free casebooks](https://www.cali.org/collections/casebook) in many different subjects, including:
 
