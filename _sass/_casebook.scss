@@ -131,11 +131,15 @@ ol {
 
 .casebook-epigraph {
 	font-family: $sans-font;
+	font-size: small;
 	border-top: 2px solid $dull-red;
 	border-bottom: 2px solid $dull-red;
 	margin-top: 3rem;
 	margin-bottom: 3rem;
 }
+
+.casebook-epigraph p {
+	color: $dull-red;
 
 .casebook hr {
     border: none;
