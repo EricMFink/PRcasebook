@@ -131,15 +131,18 @@ ol {
 
 .casebook-epigraph {
 	font-family: $sans-font;
-	font-size: small;
-	border-top: 2px solid $dull-red;
 	border-bottom: 2px solid $dull-red;
 	margin-top: 3rem;
 	margin-bottom: 3rem;
 }
 
 .casebook-epigraph p {
-	font-size: small;
+	font-size: $smaller;
+}
+
+.casebook-epigraph blockquote, blockquote p {
+	font-size: $smaller;
+	font-style: italic;
 	color: $dull-red;
 }
 

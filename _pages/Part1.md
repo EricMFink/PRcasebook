@@ -11,7 +11,7 @@ permalink: /Part1/
 
 <div markdown="block" class="casebook-epigraph">
 
-_Our band could be your life. Real names’d be proof._
+> Our band could be your life. Real names’d be proof.
 
 — Minutemen, _History Lesson – Part II_, Double Nickels on the Dime (1984).
 
@@ -131,11 +131,11 @@ Does the Preamble suggest that the Model Rules provide ethical guidance for atto
 
 <div markdown="block" class="casebook-epigraph">
 
-_The client never wants to be told he can’t do what he wants to do; he wants to be told how to do it, and it is the lawyer’s business to tell him how._
+> The client never wants to be told he can’t do what he wants to do; he wants to be told how to do it, and it is the lawyer’s business to tell him how.
 
 — Robert T. Swaine, _The Cravath Firm and Its Predecessors, 1819-1947_, at 667 (1946) (quoting Elihu Root).
 
-_If I had a million dollars, would you work for me? Well, I don't know my friend, I guess we'll have to wait and see. Would you do anything that I asked you to do? Yes, I would, if the money came through._
+> If I had a million dollars, would you work for me? Well, I don't know my friend, I guess we'll have to wait and see. Would you do anything that I asked you to do? Yes, I would, if the money came through.
 
 — Charles Manson, _If I Had a Million Dollars_, The Family Jams (1970/1997). 
 

@@ -11,7 +11,7 @@ permalink: /Part2/
 
 <div markdown="block" class="casebook-epigraph">
 
-_The rest of life pales in significance, I'm looking for somebody with whom to dance. With whom to dance? With whom to dance? I'm looking for somebody with whom to dance._
+> The rest of life pales in significance, I'm looking for somebody with whom to dance. With whom to dance? With whom to dance? I'm looking for somebody with whom to dance.
 
 — The Magnetic Fields, _With Whom to Dance?_, Get Lost (1995).
 
@@ -360,7 +360,7 @@ Why shouldn’t the court disqualify Dilworth from representing Clark in this ac
 
 <div markdown="block" class="casebook-epigraph">
 
-_This is the end, beautiful friend. This is the end, my only friend, the end._[1] 
+> This is the end, beautiful friend. This is the end, my only friend, the end.
 
 — The Doors, _The End_ (1967). 
 
@@ -370,7 +370,7 @@ _This is the end, beautiful friend. This is the end, my only friend, the end._[1
 
 <div markdown="block" class="casebook-epigraph">
 
-_Happy families are all alike; every unhappy family is unhappy in its own way._
+> Happy families are all alike; every unhappy family is unhappy in its own way.
 
 — Leo Tolstoy, _Anna Karenina_ (1878). 
 
@@ -492,11 +492,11 @@ Before ending an attorney-client relationship, an attorney should determine whet
 
 <div markdown="block" class="casebook-epigraph">
 
-_It's a sad situation, I must say, when someone wants to leave as bad as you want them to stay._
+> It's a sad situation, I must say, when someone wants to leave as bad as you want them to stay.
 
 — Dolly Parton, _When Someone Wants to Leave_, Jolene (1974). 
 
-_I don't feel bad about letting you go, I just feel sad about letting you know._
+> I don't feel bad about letting you go, I just feel sad about letting you know.
 
 — Billy Bragg, _A New England_ (1983). 
 
@@ -570,15 +570,15 @@ Many courts have held that a fired attorney may also recover a percentage of a c
 
 <div markdown="block" class="casebook-epigraph">
 
-_I wish there was something you would do or say, to try and make me change my mind and stay. But we never did too much talking anyway. But don't think twice, it's all right._
+> I wish there was something you would do or say, to try and make me change my mind and stay. But we never did too much talking anyway. But don't think twice, it's all right.
 
 — Bob Dylan, _Don’t Think Twice, It’s Alright_ (1963). 
 
-_You can't open your mouth without telling a lie, but baby, you know how to say goodbye._
+> You can't open your mouth without telling a lie, but baby, you know how to say goodbye.
 
 — Stephin Merritt, _How to Say Goodbye_, 69 Love Songs (1999). 
 
-_On the morning when I woke up without you for the first time, I felt free and I felt lonely and I felt scared._
+> On the morning when I woke up without you for the first time, I felt free and I felt lonely and I felt scared.
 
 — The Mountain Goats, _Woke Up New_, Get Lonely (2006). 
 
@@ -614,7 +614,7 @@ If an attorney terminates an attorney-client relationship, and the client has al
 
 <div markdown="block" class="casebook-epigraph">
 
-_Are you out of love with me? Are you longing to be free? Do I drive you up a tree? Yeah! Oh, yeah! Do I drive you up the wall? Do you dread every phone call? Can you not stand me at all? Yeah! Oh, yeah!_
+> Are you out of love with me? Are you longing to be free? Do I drive you up a tree? Yeah! Oh, yeah! Do I drive you up the wall? Do you dread every phone call? Can you not stand me at all? Yeah! Oh, yeah!
 
 — Stephin Merritt, The Magnetic Fields, _Yeah! Oh Yeah!_, 69 Love Songs (1999). 
 
@@ -709,7 +709,7 @@ Will Whiting be able to retain new counsel? If not, will he have to proceed pro 
 
 <div markdown="block" class="casebook-epigraph">
 
-_I've looked at life from both sides now, from win and lose and still somehow, It's life's illusions I recall I really don't know life at all._
+> I've looked at life from both sides now, from win and lose and still somehow, It's life's illusions I recall I really don't know life at all.
 
 — Joni Mitchell, _Both Sides Now_, Clouds (1969).
 
@@ -781,7 +781,7 @@ When attorneys act pursuant to express, implied, or apparent authority, their ac
 
 <div markdown="block" class="casebook-epigraph">
 
-_A friendship founded on business is better than a business founded on friendship._
+> A friendship founded on business is better than a business founded on friendship.
 
 — John D. Rockefeller.
 
@@ -998,7 +998,7 @@ What is the purpose of "apparent authority”? Under the standard adopted by the
 
 <div markdown="block" class="casebook-epigraph">
 
-_I planned each charted course, each careful step along the byway. And more, much more than this, I did it my way._
+> I planned each charted course, each careful step along the byway. And more, much more than this, I did it my way.
 
 — Paul Anka, _My Way_ (1967).
 
@@ -1201,7 +1201,7 @@ Would the holding differ if this had been a civil case?
 
 <div markdown="block" class="casebook-epigraph">
 
-_I got something to say that might cause you pain. If I catch you talking to that boy again, I'm gonna let you down, and leave you flat, because I told you before, oh, you can't do that._
+> I got something to say that might cause you pain. If I catch you talking to that boy again, I'm gonna let you down, and leave you flat, because I told you before, oh, you can't do that.
 
 — The Beatles, _You Can’t Do That_, A Hard Day’s Night (1964).
  
@@ -1517,7 +1517,7 @@ Do you think the rule the court adopted clarified when an attorney may interview
 
 <div markdown="block" class="casebook-epigraph">
 
-_If you’ve got the money, I’ve got the time. We’ll go honky tonkin’ and we'll have a time … But if you run short of money, I’ll run short of time. ‘Cause you with no more money, honey, I’ve no more time._
+> If you’ve got the money, I’ve got the time. We’ll go honky tonkin’ and we'll have a time … But if you run short of money, I’ll run short of time. ‘Cause you with no more money, honey, I’ve no more time.
 
 — Lefty Frizzell, _If You've Got The Money I've Got The Time_ (1950). 
 
@@ -1781,7 +1781,7 @@ What if Fordham estimated a fee of $50,000 in advance, and billed only for work 
 
 <div markdown="block" class="casebook-epigraph">
 
-_You never give me your money, you only give me your funny paper, and in the middle of negotiations, you break down._
+> You never give me your money, you only give me your funny paper, and in the middle of negotiations, you break down.
 
 — The Beatles, _You Never Give Me Your Money_, Abbey Road (1969). 
 
@@ -1858,7 +1858,7 @@ Why did Culpepper agree to work on a contingent fee contract? Would you have app
 
 <div markdown="block" class="casebook-epigraph">
 
-_It’s a bad business to be in. You don’t get thanked and you don’t get paid. It’s a hard world to be in with, and to end with, and to think about leaving behind._
+> It’s a bad business to be in. You don’t get thanked and you don’t get paid. It’s a hard world to be in with, and to end with, and to think about leaving behind.
 
 — Liz Phair, _Elvis, Be True_, Girly-Sound (1991).
 
@@ -1872,7 +1872,7 @@ _It’s a bad business to be in. You don’t get thanked and you don’t get pai
 
 <div markdown="block" class="casebook-epigraph">
 
-_Business? It’s quite simple; it’s other people’s money._
+> Business? It’s quite simple; it’s other people’s money.
 
 — Alexandre Dumas _fils_, _La Question d’argent_ (1857) 
 
@@ -1984,7 +1984,7 @@ Was a 6 month suspension an appropriate sanction under the circumstances?
 
 <div markdown="block" class="casebook-epigraph">
 
-_I’ve got the brains you’ve got the looks. Let’s make lots of money. You’ve got the brawn I’ve got the brains. Let’s make lots of money._
+> I’ve got the brains you’ve got the looks. Let’s make lots of money. You’ve got the brawn I’ve got the brains. Let’s make lots of money.
 
 — Pet Shop Boys, _Opportunities (Let’s Make Lots of Money)_, Please (1986). 
 
@@ -2226,11 +2226,11 @@ In 2003, residents of <a href="https://en.wikipedia.org/wiki/Lago_Agrio_oil_fiel
 
 <div markdown="block" class="casebook-epigraph">
 
-_We live as we dream, alone. To crack the shell we mix with the others._
+> We live as we dream, alone. To crack the shell we mix with the others.
 
 — Gang of Four, _We Live as We Dream, Alone_, Songs of the Free (1984). 
 
-_You pull down the future with the one you love (I see no evil)._
+> You pull down the future with the one you love (I see no evil).
 
 — Television, _See No Evil_, Marquee Moon (1977).
 
@@ -2444,7 +2444,7 @@ Why did the court conclude that Mursau had no attorney-client relationship with 
 
 <div markdown="block" class="casebook-epigraph">
 
-_There's nothing wrong with having aspirations, nothing wrong with walking tall. But if misfortune deals the consequences, sooner or later, friend, you’ve got to fall._
+> There's nothing wrong with having aspirations, nothing wrong with walking tall. But if misfortune deals the consequences, sooner or later, friend, you’ve got to fall.
 
 — Hüsker Dü, Friend, _You've Got to Fall_, Warehouse: Songs and Stories (1987).
 
@@ -2572,7 +2572,7 @@ The court stated: "An individual’s subjective belief that he is represented is
 
 ## 463 F. Supp. 2d 459 (S.D.N.Y. 2006)
 
-<div markdown="block" class="casebook-epigraph">
+<div markdown="block" class="case-summary">
 
 _Summary:_ Warley was a partner at KPMG. She was questioned in relation to an IRS investigation by attorneys hired by KPMG. The firm waived its attorney-client privilege and gave the government documents that described the attorneys’ communication with Warley. Warley says the attorneys were representing her and KPMG and her attorney-client privilege was compromised by the actions of KPMG and the evidence should be suppressed. Evidence suggests there was no Upjohn warning. Warley’s showing of her subjective belief that the attorneys represented her is insufficient to meet her burden of proving privilege. Thus, the court denied Warley’s motion for relief from the government’s alleged violation of her attorney-client privilege. 
 
