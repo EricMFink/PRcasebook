@@ -6,7 +6,7 @@ permalink: /Preface/
   
 ---
 
-<div markdown="block" class="casebook-epigraph)
+<div markdown="block" class="casebook-epigraph">
 
 _It would be idle to assert that there is nothing of selfishness in the pursuit of a profession. But its ideal is not one of individual success in competitive acquisitive activity. And because ideals operate powerfully to shape action, professional activity, even at its worst, is restrained and guided by something better than the desire for money rewards._
 
@@ -97,8 +97,6 @@ In addition, the [Center for Computer-Assisted Legal Instruction (CALI)](https:/
 - Wetlands Law: A Course Source
 
 We noticed that there was no free and open-source casebook available for a professional responsibility class, so we decided to create one.
-
-<img src="/assets/images/image1.png" style="width:5.23438in;height:3.91026in" />
 
 This casebook covers a wide range of different subjects related to the professional responsibility of attorneys. While it is possible to cover all of this material in a three credit-hour course, you may wish to omit some subjects. You may also wish to supplement the materials in this casebook with additional materials. We encourage you to use this casebook in any way that you like.
 
