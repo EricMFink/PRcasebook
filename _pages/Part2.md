@@ -340,6 +340,8 @@ In the event that confidential information was disclosed, I find that disqualifi
 
 I am not persuaded by Annuity's argument that disqualification of Dilworth is necessary to protect against the "mere appearance of an impropriety” and to maintain the integrity of the legal profession. While the ethical rules are designed, in part, to encourage attorney-client candor, attorneys that have already been retained in a matter and who are well versed in the perimeters of the attorney-client relationship, should be encouraged to take care with their client's confidences in the course of preliminary inquiries with potential co-counsel in another firm. Such inquiries should not form the basis for disqualification of an entire firm in situations, such as this, where it was clear to both parties that an attorney-client relationship was never established. Allowing Friedman to be retained by Clark Capital in this matter requires effective screening of only a single attorney out of approximately 100 attorneys at Dilworth. In light of this, the fact that Annuity is not a former client of Dilworth, and the minimal likelihood that Dilworth's involvement in this case would taint the pending litigation, I will deny Annuity's motion to disqualify Friedman and Dilworth. I will require that Dilworth continue to screen Biemer from any involvement in this case. 
 
+</div>
+
 <div markdown="block" class="casebook-questions">
 
 # Questions
@@ -398,27 +400,27 @@ Before ending an attorney-client relationship, an attorney should determine whet
 
 (a) Except as stated in paragraph (c), a lawyer shall not represent a client or, where representation has commenced, shall withdraw from the representation of a client if:
 
-    (1) the representation will result in violation of the rules of professional conduct or other law;
+> (1) the representation will result in violation of the rules of professional conduct or other law;
+>   
+> (2) the lawyer's physical or mental condition materially impairs the lawyer's ability to represent the client; or
     
-    (2) the lawyer's physical or mental condition materially impairs the lawyer's ability to represent the client; or
-    
-    (3) the lawyer is discharged.
+> (3) the lawyer is discharged.
 
 (b) Except as stated in paragraph (c), a lawyer may withdraw from representing a client if:
 
-    (1) withdrawal can be accomplished without material adverse effect on the interests of the client;
-    
-    (2) the client persists in a course of action involving the lawyer's services that the lawyer reasonably believes is criminal or fraudulent;
-    
-    (3) the client has used the lawyer's services to perpetrate a crime or fraud;
-    
-    (4) the client insists upon taking action that the lawyer considers repugnant or with which the lawyer has a fundamental disagreement;
-    
-    (5) the client fails substantially to fulfill an obligation to the lawyer regarding the lawyer's services and has been given reasonable warning that the lawyer will withdraw unless the obligation is fulfilled;
-    
-    (6) the representation will result in an unreasonable financial burden on the lawyer or has been rendered unreasonably difficult by the client; or
-    
-    (7) other good cause for withdrawal exists.
+> (1) withdrawal can be accomplished without material adverse effect on the interests of the client;
+> 
+> (2) the client persists in a course of action involving the lawyer's services that the lawyer reasonably believes is criminal or fraudulent;
+> 
+> (3) the client has used the lawyer's services to perpetrate a crime or fraud;
+> 
+> (4) the client insists upon taking action that the lawyer considers repugnant or with which the lawyer has a fundamental disagreement;
+> 
+> (5) the client fails substantially to fulfill an obligation to the lawyer regarding the lawyer's services and has been given reasonable warning that the lawyer will withdraw unless the obligation is fulfilled;
+> 
+> (6) the representation will result in an unreasonable financial burden on the lawyer or has been rendered unreasonably difficult by the client; or
+> 
+> (7) other good cause for withdrawal exists.
 
 (c) A lawyer must comply with applicable law requiring notice to or permission of a tribunal when terminating a representation. When ordered to do so by a tribunal, a lawyer shall continue representation notwithstanding good cause for terminating the representation.
 
