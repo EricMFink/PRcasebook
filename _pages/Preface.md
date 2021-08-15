@@ -46,19 +46,19 @@ Thank you for your interest in *Professional Responsibility: An Open-Access Case
 
 This is a free casebook. We believe that law students and others interested in the law should not have to pay the high prices that commercial publishers charge for casebooks. Many others agree, and have created free or low-cost casebooks covering many different areas of the law. Here are some examples:
 
- Subject | Casebook 
---|--
- Advertising and Marketing | Eric Goldman & Rebecca Tushnet, [Advertising & Marketing Law: Cases & Materials](https://blog.ericgoldman.org/archives/2019/01/announcing-the-fourth-edition-of-advertising-marketing-law-cases-materials-by-tushnet-goldman-2.htm)
- Civil Rights | John T. Parry, [Cases and Problems in Civil Rights Litigation: State, Federal and International Perspectives](https://www.semaphorepress.com/CivilRightsLitigationOverview.html)
- Intellectual Property | James Boyle & Jennifer Jenkins, [Open Intellectual Property Casebook](https://law.duke.edu/cspd/openip/)
- Intellectual Property | James Grimmelmann, [Patterns of Information Law: Intellectual Property Done Right](https://james.grimmelmann.net/ipbook/)
- Intellectual Property | Lydia Pallas Loren & Joseph Scott Miller, [Intellectual Property Law: Cases & Materials 
- Internet Law](https://www.semaphorepress.com/IntellectualPropertyLaw_overview.html)
- James Grimmelmann, [Internet Law: Cases and Problems](http://internetcasebook.com/)
- Interstate Law | Jeffrey Litwak, [Interstate Compact Law: Cases & Materials](https://www.semaphorepress.com/InterstateCompactLaw_overview.html)
- Property | Stephen Clowney, James Grimmelmann, Michael Grynberg, Jeremy Sheff & Rebecca Tushnet, [Open Source Property: A Free Casebook](https://opensourceproperty.org/)
- Property | Steve Semeraro, [An Introduction to Property Law in the U.S.](https://www.semaphorepress.com/PropertyLaw_overview.html)
- Trademark | Barton Beebe, [Trademark Law: An Open-Source Casebook](http://tmcasebook.org/)
+| Subject | Casebook |
+| ------- | -------- |
+| Advertising and Marketing | Eric Goldman & Rebecca Tushnet, [Advertising & Marketing Law: Cases & Materials](https://blog.ericgoldman.org/archives/2019/01/announcing-the-fourth-edition-of-advertising-marketing-law-cases-materials-by-tushnet-goldman-2.htm) |
+| Civil Rights | John T. Parry, [Cases and Problems in Civil Rights Litigation: State, Federal and International Perspectives](https://www.semaphorepress.com/CivilRightsLitigationOverview.html) |
+| Intellectual Property | James Boyle & Jennifer Jenkins, [Open Intellectual Property Casebook](https://law.duke.edu/cspd/openip/) |
+| Intellectual Property | James Grimmelmann, [Patterns of Information Law: Intellectual Property Done Right](https://james.grimmelmann.net/ipbook/) |
+| Intellectual Property | Lydia Pallas Loren & Joseph Scott Miller, [Intellectual Property Law: Cases & Materials](https://www.semaphorepress.com/IntellectualPropertyLaw_overview.html) |
+| Internet Law](https://www.semaphorepress.com/IntellectualPropertyLaw_overview.html) |
+| James Grimmelmann, [Internet Law: Cases and Problems](http://internetcasebook.com/) |
+| Interstate Law | Jeffrey Litwak, [Interstate Compact Law: Cases & Materials](https://www.semaphorepress.com/InterstateCompactLaw_overview.html) |
+| Property | Stephen Clowney, James Grimmelmann, Michael Grynberg, Jeremy Sheff & Rebecca Tushnet, [Open Source Property: A Free Casebook](https://opensourceproperty.org/) |
+| Property | Steve Semeraro, [An Introduction to Property Law in the U.S.](https://www.semaphorepress.com/PropertyLaw_overview.html) |
+| Trademark | Barton Beebe, [Trademark Law: An Open-Source Casebook](http://tmcasebook.org/) |
 
 In addition, the [Center for Computer-Assisted Legal Instruction (CALI)](https://www.cali.org/) offers [free casebooks](https://www.cali.org/collections/casebook) in many different subjects, including:
 
