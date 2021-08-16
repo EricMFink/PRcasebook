@@ -437,3 +437,12 @@ blockquote p {
 	font-size: $small;
 }
 
+.casebook td {
+	vertical-align: top;
+	padding-bottom: 10px;
+}
+
+.casebook th {
+	text-align: left;
+	padding-bottom: 15px;
+}
