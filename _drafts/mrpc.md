@@ -1,10 +1,6 @@
 ---
 title: Professional Responsibility
 subtitle: "ABA Model Rules of Professional Conduct for Final Exam"
-author: Prof. Fink
-affiliation: Elon Law School
-
-
  
 ---
 
