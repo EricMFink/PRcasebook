@@ -11,23 +11,23 @@ permalink: /Part1/
 
 <div markdown="block" class="casebook-epigraph">
 
-> Our band could be your life. Real names’d be proof.
+> Our band could be your life. Real names'd be proof.
 
 — Minutemen, _History Lesson – Part II_, Double Nickels on the Dime (1984).
 
 </div>
 
-Welcome to professional responsibility. Contrary to conventional wisdom among law students, this is one of the most important classes you will take in law school. It is not only the only class explicitly required by the [American Bar Association](https://www.americanbar.org/) ("ABA”), but also the subject of the [Multistate Professional Responsibility Examination](http://www.ncbex.org/exams/mpre/) ("MPRE”), a test that the overwhelming majority of law school graduates must pass in order to become a member of their state bar association.{% marginnote "marginnote-id" "Wisconsin and Puerto Rico currently do not require the MPRE for bar membership. Connecticut and New Jersey currently accept successful completion of a law school course on professional responsibility in lieu of the MPRE." %}
+Welcome to professional responsibility. Contrary to conventional wisdom among law students, this is one of the most important classes you will take in law school. It is not only the only class explicitly required by the [American Bar Association](https://www.americanbar.org/) ("ABA"), but also the subject of the [Multistate Professional Responsibility Examination](http://www.ncbex.org/exams/mpre/) ("MPRE"), a test that the overwhelming majority of law school graduates must pass in order to become a member of their state bar association.{% marginnote "marginnote-id" "Wisconsin and Puerto Rico currently do not require the MPRE for bar membership. Connecticut and New Jersey currently accept successful completion of a law school course on professional responsibility in lieu of the MPRE." %}
 
 But that is the least of it. This class on professional responsibility will enable you to practice law consistent with the law governing lawyers and other professional obligations. And it will help you ensure that you are never the subject of a disciplinary action or sanction from the bar or the courts. In other words, this class could be your life, or at least your livelihood. Take it seriously, because the rules, principles, and obligations you learn about in this class will govern everything you do as an attorney.
 
-## What is "Professional Responsibility”?
+## What is "Professional Responsibility"?
 
-Professional responsibility is the only class that the ABA explicitly requires law schools to provide in order to qualify for accreditation. Under the ABA’s [2018-2019 Standards and Rules of Procedure for Approval of Law Schools](https://www.americanbar.org/groups/legal_education/resources/standards/), "A law school shall maintain a rigorous program of legal education that prepares its students, upon graduation, for admission to the bar and for effective, ethical, and responsible participation as members of the legal profession.” Standard 301(a).
+Professional responsibility is the only class that the ABA explicitly requires law schools to provide in order to qualify for accreditation. Under the ABA's [2018-2019 Standards and Rules of Procedure for Approval of Law Schools](https://www.americanbar.org/groups/legal_education/resources/standards/), "A law school shall maintain a rigorous program of legal education that prepares its students, upon graduation, for admission to the bar and for effective, ethical, and responsible participation as members of the legal profession." Standard 301(a).
 
 However, law schools and law professors retain considerable discretion in how they teach professional responsibility. While the ABA accreditation standards provide that law schools must require a professional responsibility class, they do not specify what subjects the class must cover. Unsurprisingly, law schools typically delegate those decisions to law professors, who have adopted a wide range of different approaches:
 
-- Some classes focus on the ABA’s [Model Rules of Professional Conduct](https://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/) and how courts use them to regulate attorneys.
+- Some classes focus on the ABA's [Model Rules of Professional Conduct](https://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/) and how courts use them to regulate attorneys.
 
 - Other classes focus on the concept of legal ethics and the justification of the legal profession.
 
@@ -131,7 +131,7 @@ Does the Preamble suggest that the Model Rules provide ethical guidance for atto
 
 <div markdown="block" class="casebook-epigraph">
 
-> The client never wants to be told he can’t do what he wants to do; he wants to be told how to do it, and it is the lawyer’s business to tell him how.
+> The client never wants to be told he can't do what he wants to do; he wants to be told how to do it, and it is the lawyer's business to tell him how.
 
 — Robert T. Swaine, _The Cravath Firm and Its Predecessors, 1819-1947_, at 667 (1946) (quoting Elihu Root).
 
@@ -141,31 +141,31 @@ Does the Preamble suggest that the Model Rules provide ethical guidance for atto
 
 </div>
 
-Perhaps the most fundamental duty of an attorney is the duty of "zealous representation.” Attorneys must represent the interests of their clients to the best of their ability and to the extent permitted by the law.
+Perhaps the most fundamental duty of an attorney is the duty of "zealous representation." Attorneys must represent the interests of their clients to the best of their ability and to the extent permitted by the law.
 
-- Attorneys must always advocate for their client’s interests, to the exclusion of anyone else’s interests, including their own.
+- Attorneys must always advocate for their client's interests, to the exclusion of anyone else's interests, including their own.
 
-- Specifically, attorneys must zealously represent their client’s interests, even at their own expense.
+- Specifically, attorneys must zealously represent their client's interests, even at their own expense.
 
-But the duty of _zealous representation_ can conflict with an attorney’s other duties, especially an attorney’s duties to the court. As members of the bar, attorneys are also officers of the court. Among other things, they owe the court a _duty of candor_. But sometimes an attorney’s duty of zealous representation can conflict with the duty of candor.
+But the duty of _zealous representation_ can conflict with an attorney's other duties, especially an attorney's duties to the court. As members of the bar, attorneys are also officers of the court. Among other things, they owe the court a _duty of candor_. But sometimes an attorney's duty of zealous representation can conflict with the duty of candor.
 
-### A Brief History of "Zealous Representation”
+### A Brief History of "Zealous Representation"
 
-- Canon 7 of the [ABA Model Code of Professional Responsibility (1980)](https://www.americanbar.org/content/dam/aba/administrative/professional_responsibility/mrpc_migrated/mcpr.pdf) stated that "a lawyer should represent a client zealously within the bounds of the law.”
+- Canon 7 of the [ABA Model Code of Professional Responsibility (1980)](https://www.americanbar.org/content/dam/aba/administrative/professional_responsibility/mrpc_migrated/mcpr.pdf) stated that "a lawyer should represent a client zealously within the bounds of the law."
 
-- Ethical Consideration 7-1 provided, "The duty of a lawyer, both to his client and to the legal system, is to represent his client zealously within the bounds of the law, which includes Disciplinary Rules and enforceable professional regulations.”
+- Ethical Consideration 7-1 provided, "The duty of a lawyer, both to his client and to the legal system, is to represent his client zealously within the bounds of the law, which includes Disciplinary Rules and enforceable professional regulations."
 
-- Among other things, Disciplinary Rule 7-101(A) provided, "A lawyer shall not intentionally fail to seek the lawful objectives of his client through reasonably available means permitted by law and the Disciplinary Rules.”
+- Among other things, Disciplinary Rule 7-101(A) provided, "A lawyer shall not intentionally fail to seek the lawful objectives of his client through reasonably available means permitted by law and the Disciplinary Rules."
 
-When the ABA adopted the Model Rules of Professional Conduct in 1983, it did not use the term "zealous representation.” Instead, [Model Rule 1.3](https://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_1_3_diligence/) provided, "A lawyer shall act with reasonable diligence and promptness in representing a client.” However, [Comment \[1\]](https://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_1_3_diligence/comment_on_rule_1_3/) observed:
+When the ABA adopted the Model Rules of Professional Conduct in 1983, it did not use the term "zealous representation." Instead, [Model Rule 1.3](https://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_1_3_diligence/) provided, "A lawyer shall act with reasonable diligence and promptness in representing a client." However, [Comment \[1\]](https://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_1_3_diligence/comment_on_rule_1_3/) observed:
 
-> A lawyer should pursue a matter on behalf of a client despite opposition, obstruction or personal inconvenience to the lawyer, and take whatever lawful and ethical measures are required to vindicate a client’s cause or endeavor. A lawyer must also act with commitment and dedication to the interests of the client and with zeal in advocacy upon the client's behalf. A lawyer is not bound, however, to press for every advantage that might be realized for a client. For example, a lawyer may have authority to exercise professional discretion in determining the means by which a matter should be pursued. The lawyer’s duty to act with reasonable diligence does not require the use of offensive tactics or preclude the treating of all persons involved in the legal process with courtesy and respect.
+> A lawyer should pursue a matter on behalf of a client despite opposition, obstruction or personal inconvenience to the lawyer, and take whatever lawful and ethical measures are required to vindicate a client's cause or endeavor. A lawyer must also act with commitment and dedication to the interests of the client and with zeal in advocacy upon the client's behalf. A lawyer is not bound, however, to press for every advantage that might be realized for a client. For example, a lawyer may have authority to exercise professional discretion in determining the means by which a matter should be pursued. The lawyer's duty to act with reasonable diligence does not require the use of offensive tactics or preclude the treating of all persons involved in the legal process with courtesy and respect.
 
 <div markdown="block" class="casebook-questions">
 
 # Questions 
 
-After the terrorist attacks of September 11, 2001, President Bush asked the Office of Legal Counsel ("OLC”) for its opinion on the legality of certain interrogation techniques. OLC produced several memoranda arguing that the techniques were legal under domestic and international law, which ultimately became known as the "torture memos.” The torture memos were almost universally condemned by policymakers and legal scholars as both immoral and incorrect statements of the governing law. 
+After the terrorist attacks of September 11, 2001, President Bush asked the Office of Legal Counsel ("OLC") for its opinion on the legality of certain interrogation techniques. OLC produced several memoranda arguing that the techniques were legal under domestic and international law, which ultimately became known as the "torture memos." The torture memos were almost universally condemned by policymakers and legal scholars as both immoral and incorrect statements of the governing law. 
 
 Should OLC have produced the memos? 
 
@@ -187,43 +187,43 @@ Would it have been a violation of the rules of professional conduct for OLC to p
 
 <div markdown="block" class="case-summary">
 
-_Summary:_ Jesus Torres was charged with armed robbery. Anna Rodriguez identified Torres when the police showed her a photo array and again when Torres’s attorney, Thomas Keefe, showed her a photo array. In her trial testimony, Rodriguez stated that she did not identify Torres the "second time” the police showed her a photo array. Keefe realized that she was referring to the photo array he showed her, and informed the court that she had identified Torres. Torres was convicted, and filed a habeas petition, alleging ineffective assistance of counsel for failure to provide zealous representation. The court denied the petition, holding that Keefe’s duty to correct false testimony did not conflict with his duty to provide zealous representation.
+_Summary:_ Jesus Torres was charged with armed robbery. Anna Rodriguez identified Torres when the police showed her a photo array and again when Torres's attorney, Thomas Keefe, showed her a photo array. In her trial testimony, Rodriguez stated that she did not identify Torres the "second time" the police showed her a photo array. Keefe realized that she was referring to the photo array he showed her, and informed the court that she had identified Torres. Torres was convicted, and filed a habeas petition, alleging ineffective assistance of counsel for failure to provide zealous representation. The court denied the petition, holding that Keefe's duty to correct false testimony did not conflict with his duty to provide zealous representation.
 
 </div>
 
 Petitioner-Appellant Jesus Torres appeals from a judgment of the United States District Court for the Western District of New York denying his petition for a writ of habeas corpus. Following a jury trial, Torres was convicted of two counts of robbery in the first degree. On direct appeal, Torres raised an ineffective assistance of counsel claim. The Appellate Division dismissed his claim and unanimously affirmed his conviction. Here, Torres argues that he was denied effective assistance of counsel.
 
-The basis of Torres’s habeas claim stems from his defense counsel’s line of questioning during cross-examination of an identification witness, Anna Rodriguez, which inadvertently elicited testimony counsel personally knew to be inaccurate. Subsequently, to avoid becoming a witness himself and to comply with his ethical obligations to the court to correct false testimony, counsel agreed to stipulate that, contrary to Anna’s testimony during cross-examination, Anna had identified Torres when counsel had shown her a photographic array prior to trial. Torres asserts that defense counsel Thomas Keefe’s actions gave rise to an actual conflict of interest that so adversely affected his performance that it was unnecessary to demonstrate resulting prejudice. Torres also asserts that there is a reasonable possibility that, but for the errors of defense counsel, the outcome of his trial would have been different.
+The basis of Torres's habeas claim stems from his defense counsel's line of questioning during cross-examination of an identification witness, Anna Rodriguez, which inadvertently elicited testimony counsel personally knew to be inaccurate. Subsequently, to avoid becoming a witness himself and to comply with his ethical obligations to the court to correct false testimony, counsel agreed to stipulate that, contrary to Anna's testimony during cross-examination, Anna had identified Torres when counsel had shown her a photographic array prior to trial. Torres asserts that defense counsel Thomas Keefe's actions gave rise to an actual conflict of interest that so adversely affected his performance that it was unnecessary to demonstrate resulting prejudice. Torres also asserts that there is a reasonable possibility that, but for the errors of defense counsel, the outcome of his trial would have been different.
 
 ## Background
 
-Torres was tried for the November 6, 1997 robberies of two grocery stores in Buffalo, New York. Torres does not contest his conviction for the first robbery of a store on Vermont Street. His habeas claim extends only to his conviction on the second robbery, which occurred on Hampshire Avenue. The robbery on Hampshire Avenue was witnessed by Olga Rodriguez, who was behind the counter, Olga’s sister, Anna, and her niece, Lisalotte Rodriguez. Lisalotte was not called to testify as a trial witness.
+Torres was tried for the November 6, 1997 robberies of two grocery stores in Buffalo, New York. Torres does not contest his conviction for the first robbery of a store on Vermont Street. His habeas claim extends only to his conviction on the second robbery, which occurred on Hampshire Avenue. The robbery on Hampshire Avenue was witnessed by Olga Rodriguez, who was behind the counter, Olga's sister, Anna, and her niece, Lisalotte Rodriguez. Lisalotte was not called to testify as a trial witness.
 
-At trial, Olga identified Torres as the robber and testified that she saw him clearly during the robbery. Olga also testified that her sister Anna had been unable to identify the defendant when shown a photo array by detectives. Defense counsel asked Olga, "In your presence, while you were in the store, did a detective with the Buffalo Police Department show a photo to your sister at any time?” Olga responded, "She did not identify. She was not paying too much attention that night of the robbery.”
+At trial, Olga identified Torres as the robber and testified that she saw him clearly during the robbery. Olga also testified that her sister Anna had been unable to identify the defendant when shown a photo array by detectives. Defense counsel asked Olga, "In your presence, while you were in the store, did a detective with the Buffalo Police Department show a photo to your sister at any time?" Olga responded, "She did not identify. She was not paying too much attention that night of the robbery."
 
-On cross-examination of Anna, defense counsel sought to build on Olga’s testimony and elicit from Anna that she had been unable to identify the defendant in at least one photo array shown to her by police. In response to questioning from defense counsel and the trial court, Anna testified that she had identified the robber in the first photo array she was shown, but that she "couldn't identify the robber the second time around.” Defense counsel then sought to determine the dates that the police had shown Anna the two photo arrays. Although Anna initially stated that the second photo array had been shown to her in January 1998, upon further questioning she indicated that it had occurred in June 1998, a fact which was clarified and confirmed by the trial court. According to Anna, she did not identify the robber when presented with this second array because she was "so nervous.” When the date of the second photo array was confirmed by the court's questioning, however, Attorney Keefe realized that the photo array to which Anna was referring was the one that he had shown her in June or July 1998 as part of his preparation for trial and not one shown to her by police. He interjected and clarified to the court that he in fact had been in the store in June or July 1998 and presented a photo array to Anna. On redirect examination, Anna repeated that she did not identify Torres when Attorney Keefe showed her an array because she was nervous. Contrary to Anna’s testimony, however, Attorney Keefe knew that Anna had identified Torres when he had shown her the photo array.
+On cross-examination of Anna, defense counsel sought to build on Olga's testimony and elicit from Anna that she had been unable to identify the defendant in at least one photo array shown to her by police. In response to questioning from defense counsel and the trial court, Anna testified that she had identified the robber in the first photo array she was shown, but that she "couldn't identify the robber the second time around." Defense counsel then sought to determine the dates that the police had shown Anna the two photo arrays. Although Anna initially stated that the second photo array had been shown to her in January 1998, upon further questioning she indicated that it had occurred in June 1998, a fact which was clarified and confirmed by the trial court. According to Anna, she did not identify the robber when presented with this second array because she was "so nervous." When the date of the second photo array was confirmed by the court's questioning, however, Attorney Keefe realized that the photo array to which Anna was referring was the one that he had shown her in June or July 1998 as part of his preparation for trial and not one shown to her by police. He interjected and clarified to the court that he in fact had been in the store in June or July 1998 and presented a photo array to Anna. On redirect examination, Anna repeated that she did not identify Torres when Attorney Keefe showed her an array because she was nervous. Contrary to Anna's testimony, however, Attorney Keefe knew that Anna had identified Torres when he had shown her the photo array.
 
-Later, in a colloquy outside the presence of the jury, the prosecutor argued that it was important to clarify to the jurors what Anna had told Attorney Keefe about the photo array. He asserted that by showing her the photo array, Keefe had essentially made himself a witness in the case. Upon questioning by the trial court, and because of Attorney Keefe's ethical obligation not to "knowingly use false evidence,” Keefe ultimately informed the court that Anna had identified Torres when Keefe showed her the photo array in June or July 1998. Keefe explained that he had pursued his line of questioning under the mistaken belief that the police had shown Anna two sets of photo arrays on separate occasions.
+Later, in a colloquy outside the presence of the jury, the prosecutor argued that it was important to clarify to the jurors what Anna had told Attorney Keefe about the photo array. He asserted that by showing her the photo array, Keefe had essentially made himself a witness in the case. Upon questioning by the trial court, and because of Attorney Keefe's ethical obligation not to "knowingly use false evidence," Keefe ultimately informed the court that Anna had identified Torres when Keefe showed her the photo array in June or July 1998. Keefe explained that he had pursued his line of questioning under the mistaken belief that the police had shown Anna two sets of photo arrays on separate occasions.
 
 To avoid the complications of defense counsel being called to the stand and possibly obtaining different counsel for Torres, the trial court suggested, and Attorney Keefe agreed to, the following stipulation, which the court then read to the jury:
 
-> Both parties are concerned that there may be confusion over Anna Rodriguez’s testimony with regard to photo arrays. To clarify this issue over what photo array was shown to her, we, the attorneys, stipulate that on or about June or July of 1998, attorney Thomas Keefe showed her a photocopy of one of the arrays, and asked her if she could identify the robber. The witness did identify the robber as number 3.
+> Both parties are concerned that there may be confusion over Anna Rodriguez's testimony with regard to photo arrays. To clarify this issue over what photo array was shown to her, we, the attorneys, stipulate that on or about June or July of 1998, attorney Thomas Keefe showed her a photocopy of one of the arrays, and asked her if she could identify the robber. The witness did identify the robber as number 3.
 
 After deliberations, the jury convicted Torres on both counts of robbery.
 
-On direct appeal from the conviction, the Appellate Division affirmed Torres's conviction. As to counsel’s cross-examination of Anna and resulting stipulation, it found that:
+On direct appeal from the conviction, the Appellate Division affirmed Torres's conviction. As to counsel's cross-examination of Anna and resulting stipulation, it found that:
 
-> Defense counsel’s stipulation advising the jury that a witness identified defendant in a photo array shown to her by defense counsel was not an egregious error that denied defendant effective assistance of counsel. Defense counsel reasonably believed that the witness had been shown two photo arrays by police; during cross examination the witness testified that she identified defendant in the first photo array but not in the second photo array. During the course of the witness's testimony, defense counsel realized the "second” photo array to which the witness referred was the photo array that he had shown the witness, and therefore the testimony of the witness that she did not identify defendant in that photo array was not true. Defense counsel could not "knowingly use false evidence” and thus was required to report the incorrect testimony to the court. Defense counsel’s alternative to the stipulation was to testify as a witness, which would have required new counsel for defendant.
+> Defense counsel's stipulation advising the jury that a witness identified defendant in a photo array shown to her by defense counsel was not an egregious error that denied defendant effective assistance of counsel. Defense counsel reasonably believed that the witness had been shown two photo arrays by police; during cross examination the witness testified that she identified defendant in the first photo array but not in the second photo array. During the course of the witness's testimony, defense counsel realized the "second" photo array to which the witness referred was the photo array that he had shown the witness, and therefore the testimony of the witness that she did not identify defendant in that photo array was not true. Defense counsel could not "knowingly use false evidence" and thus was required to report the incorrect testimony to the court. Defense counsel's alternative to the stipulation was to testify as a witness, which would have required new counsel for defendant.
 
 ## Discussion 
 
-To establish that counsel’s performance was constitutionally defective, a defendant must show that "the lawyer's performance ‘fell below an objective standard of reasonableness’ and that ‘there is a reasonable probability that, but for counsel’s unprofessional errors, the result of the proceedings would have been different.’” Even if counsel’s performance is found professionally unreasonable, "any deficiencies in counsel's performance must be prejudicial to the defense in order to constitute ineffective assistance under the Constitution.” Therefore, the question becomes "whether there is a reasonable probability that, absent the errors, the factfinder would have had a reasonable doubt respecting guilt.” In certain circumstances, however, prejudice may be presumed, and an individual inquiry regarding this factor is unnecessary. Similarly, the Supreme Court has recognized that when a criminal defendant claims that defense counsel was "burdened by an actual conflict of interest,” this warrants a "limited presumption of prejudice.” In these instances, the presumption of prejudice attaches "only if the defendant demonstrates that counsel ‘actively represented conflicting interests’ and that ‘an actual conflict of interest adversely affected his lawyer’s performance.’”
+To establish that counsel's performance was constitutionally defective, a defendant must show that "the lawyer's performance 'fell below an objective standard of reasonableness' and that 'there is a reasonable probability that, but for counsel's unprofessional errors, the result of the proceedings would have been different.'" Even if counsel's performance is found professionally unreasonable, "any deficiencies in counsel's performance must be prejudicial to the defense in order to constitute ineffective assistance under the Constitution." Therefore, the question becomes "whether there is a reasonable probability that, absent the errors, the factfinder would have had a reasonable doubt respecting guilt." In certain circumstances, however, prejudice may be presumed, and an individual inquiry regarding this factor is unnecessary. Similarly, the Supreme Court has recognized that when a criminal defendant claims that defense counsel was "burdened by an actual conflict of interest," this warrants a "limited presumption of prejudice." In these instances, the presumption of prejudice attaches "only if the defendant demonstrates that counsel 'actively represented conflicting interests' and that 'an actual conflict of interest adversely affected his lawyer's performance.'"
 
-Torres argues that the limited presumption is applicable to his case such that he is not required to demonstrate he was prejudiced by his counsel’s performance. We disagree. Although Keefe had parallel duties to zealously represent his client and not to use false evidence, this did not create an actual conflict of interest. Though the presumption has been "unblinkingly” applied to "all kinds of alleged attorney ethical conflicts,” it does not support this expansive application. The presumption was created to account for the "high probability of prejudice arising from multiple concurrent representation, and the difficulty of proving that prejudice.” However, "not all attorney conflicts present comparable difficulties. Here, defense counsel’s ethical obligation to correct the testimony he knew to be inaccurate does not present the difficulties and high probability of prejudice engendered by joint representation. At most, in this case defense counsel’s earnest representation of his client was constrained by ethical guidelines applicable to every attorney appearing as trial counsel, to wit, that "in the representation of a client, a lawyer shall not knowingly use perjured or false evidence.”
+Torres argues that the limited presumption is applicable to his case such that he is not required to demonstrate he was prejudiced by his counsel's performance. We disagree. Although Keefe had parallel duties to zealously represent his client and not to use false evidence, this did not create an actual conflict of interest. Though the presumption has been "unblinkingly" applied to "all kinds of alleged attorney ethical conflicts," it does not support this expansive application. The presumption was created to account for the "high probability of prejudice arising from multiple concurrent representation, and the difficulty of proving that prejudice." However, "not all attorney conflicts present comparable difficulties. Here, defense counsel's ethical obligation to correct the testimony he knew to be inaccurate does not present the difficulties and high probability of prejudice engendered by joint representation. At most, in this case defense counsel's earnest representation of his client was constrained by ethical guidelines applicable to every attorney appearing as trial counsel, to wit, that "in the representation of a client, a lawyer shall not knowingly use perjured or false evidence."
 
-Accordingly, we hold that the tension between Keefe’s parallel duties of (1) zealous representation and (2) candor to the court, which gives rise to his obligation to correct the record, did not create a conflict of interest of the sort identified in _Sullivan_. This holding "is consistent with the governance of trial conduct in what we have long called ‘a search for truth.’” Indeed, "an attorney’s ethical duty to advance the interests of his client is limited by an equally solemn duty to comply with the law and standards of professional conduct; it specifically ensures that the client may not use false evidence.”
+Accordingly, we hold that the tension between Keefe's parallel duties of (1) zealous representation and (2) candor to the court, which gives rise to his obligation to correct the record, did not create a conflict of interest of the sort identified in _Sullivan_. This holding "is consistent with the governance of trial conduct in what we have long called 'a search for truth.'" Indeed, "an attorney's ethical duty to advance the interests of his client is limited by an equally solemn duty to comply with the law and standards of professional conduct; it specifically ensures that the client may not use false evidence."
 
-We further find no actual conflict of interest inherent in counsel’s decision to enter into the stipulation to correct the record. It is clear that several methods, such as calling as a witness the interpreter who was present when Attorney Keefe showed Anna the photo array, were available to accomplish this necessary task. Each of them, in order to correct the misstatement, would have yielded the same result.
+We further find no actual conflict of interest inherent in counsel's decision to enter into the stipulation to correct the record. It is clear that several methods, such as calling as a witness the interpreter who was present when Attorney Keefe showed Anna the photo array, were available to accomplish this necessary task. Each of them, in order to correct the misstatement, would have yielded the same result.
 
 </div>
 
@@ -231,9 +231,9 @@ We further find no actual conflict of interest inherent in counsel’s decision 
 
 # Questions 
 
-Could Keefe have relied on Rodriguez’s testimony without violating his duty of candor to the court? What if the prosecutor did not notice the mistake? Would Keefe have a duty to disclose? Would it be a violation of the Model Rules if he did not disclose?
+Could Keefe have relied on Rodriguez's testimony without violating his duty of candor to the court? What if the prosecutor did not notice the mistake? Would Keefe have a duty to disclose? Would it be a violation of the Model Rules if he did not disclose?
 
-What are Keefe’s ethical obligations under the circumstances? How should he balance his duty to Torres against his duty to the court?
+What are Keefe's ethical obligations under the circumstances? How should he balance his duty to Torres against his duty to the court?
 
 </div>
 
@@ -259,7 +259,7 @@ What are Keefe’s ethical obligations under the circumstances? How should he ba
 
 - [Judith Andre, _Role Morality as a Complex Instance of Ordinary Morality_, 28 Am. Phil. Q. 73 (1991).](https://www.jstor.org/stable/20014357?seq=1#page_scan_tab_contents)
 
-- [Monroe H. Freedman, _A Critique of Philosophizing About Lawyers’ Ethics_, 25 Geo. J. Legal Ethics 91 (2012).](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1776345.)
+- [Monroe H. Freedman, _A Critique of Philosophizing About Lawyers' Ethics_, 25 Geo. J. Legal Ethics 91 (2012).](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1776345.)
 
 - [Alice Woolley, _The Lawyer as Advisor and the Practice of the Rule of Law_, 47 UBC L. Rev. 743 (2014).](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2450599)
 
@@ -271,13 +271,13 @@ What are Keefe’s ethical obligations under the circumstances? How should he ba
 
 ## The Profession before the 1908 Ethics Rules
 
-The American legal profession was significantly unregulated for most of the eighteenth and nineteenth centuries. In fact, it is not clear whether lawyers’ work during this time was part of a unified legal profession at all.
+The American legal profession was significantly unregulated for most of the eighteenth and nineteenth centuries. In fact, it is not clear whether lawyers' work during this time was part of a unified legal profession at all.
 
-That’s not to say lawyers did not play an important role in American society. Lawyers fulfilled not just one, but _two equally important roles_: (a) as advocates for their clients and (b) agents of the court.
+That's not to say lawyers did not play an important role in American society. Lawyers fulfilled not just one, but _two equally important roles_: (a) as advocates for their clients and (b) agents of the court.
 
 Before the American legal profession was organized with formal rules, this _dual-role model_ of lawyering shaped how lawyers thought about their professional responsibilities and standards for their conduct.
 
-Many lawyers’ everyday work consisted primarily of advocating for the private interests of clients. Eighteenth and nineteenth century clients sought out lawyers for many of the same reasons people obtain lawyers today - including:
+Many lawyers' everyday work consisted primarily of advocating for the private interests of clients. Eighteenth and nineteenth century clients sought out lawyers for many of the same reasons people obtain lawyers today - including:
 
 - settling disputes over personal property
 
@@ -285,7 +285,7 @@ Many lawyers’ everyday work consisted primarily of advocating for the private 
 
 - resolving all sorts of other conflicts between people.
 
-Although some of the events leading people to seek lawyer’s assistance may seem familiar, the social, economic, and political conditions of the nineteenth century meant even this familiar role was anything but routine.
+Although some of the events leading people to seek lawyer's assistance may seem familiar, the social, economic, and political conditions of the nineteenth century meant even this familiar role was anything but routine.
 
 The time period between the American Revolution and the twentieth century was full of dramatic changes in the law, the work of lawyering, and the legal profession. The law itself became more voluminous and complex, beginning with post-Revolution efforts to create orderly state and federal governments. Industrialization sped up and increased the scope of economic activity and speed of economic development. The United States needed new and different kinds of lawyers to help it respond to those changes, and the legal profession had to change as well.
 
@@ -295,7 +295,7 @@ Instrumentalist theories about law combined with a rapidly changing industrial s
 
 # Questions 
 
-Is the _dual-role model_ of lawyers’ responsibilities useful for navigating professional ethical dilemmas? Based on what you know about lawyers’ work, try to think of at least one scenario in which it would be helpful and one in which it might not be.
+Is the _dual-role model_ of lawyers' responsibilities useful for navigating professional ethical dilemmas? Based on what you know about lawyers' work, try to think of at least one scenario in which it would be helpful and one in which it might not be.
 
 </div>
 
@@ -329,7 +329,7 @@ No code or set of rules can be framed, which will particularize all the duties o
 
 7. Professional Colleagues and Conflicts of Opinion.
 
-8. Advising Upon the Merits of a Client’s Cause.
+8. Advising Upon the Merits of a Client's Cause.
 
 9. Negotiations with Opposite Party.
 
@@ -343,7 +343,7 @@ No code or set of rules can be framed, which will particularize all the duties o
 
 14. Suing a Client for a Fee.
 
-15. How Far a Lawyer May Go in Supporting a Client’s Cause.
+15. How Far a Lawyer May Go in Supporting a Client's Cause.
 
 16. Restraining Clients from Improprieties.
 
@@ -376,7 +376,7 @@ No code or set of rules can be framed, which will particularize all the duties o
 
 31. Responsibility for Litigation.
 
-32. The Lawyer’s Duty in Its Last Analysis.
+32. The Lawyer's Duty in Its Last Analysis.
 
 </div> 
 
@@ -384,7 +384,7 @@ No code or set of rules can be framed, which will particularize all the duties o
 
 # Questions 
 
-Do you see evidence of dual-role model of lawyers’ responsibilities in the Canons? Where?
+Do you see evidence of dual-role model of lawyers' responsibilities in the Canons? Where?
 
 What does the adoption of the Canons tell us about the state of the profession in 1908?
 
@@ -424,7 +424,7 @@ How helpful is the explanatory content? Does it answer all your questions about 
 
 The ABA House of Delegates approved the [Model Code of Professional Responsibility](https://www.americanbar.org/content/dam/aba/administrative/professional_responsibility/mrpc_migrated/mcpr.pdf), a comprehensively revised set of rules, on August 12, 1969.
 
-The Model Code, in various forms and versions, was the ABA’s central document on professional responsibility from 1970 through 1981.
+The Model Code, in various forms and versions, was the ABA's central document on professional responsibility from 1970 through 1981.
 
 The Model Code marked a significant shift from the Canons in its organization and scope. Where the Canons were idealistic and relied on external judgments to clarify conflicting priorities and refine broad goals, the Model Code contained _three distinct but interrelated parts_:
 
@@ -492,7 +492,7 @@ A. A lawyer shall not attempt to exonerate himself from or limit his liability t
 
 How useful is the Model Code for making decisions about professional conduct? Is the clarification between canons, ethical considerations, and disciplinary rules an improvement on the 1908 Canons?
 
-Is it necessary to have canons, ethical considerations, and disciplinary rules? Consider each rule’s usefulness in lawyers’ various roles and practice settings.
+Is it necessary to have canons, ethical considerations, and disciplinary rules? Consider each rule's usefulness in lawyers' various roles and practice settings.
 
 </div>
 
@@ -540,7 +540,7 @@ _Comment:_ Maintaining Competence_
 
 ### Adoption of the Model Rules
 
-States adopted the structure of the model rules fairly quickly. Today, almost all states’ disciplinary rules follow the numbering system of the Model Rules. The content of state rules varies, so it’s important to follow the law of your jurisdiction.{% marginnote "margin-note-id" "The NC Rules of Professional Conduct are available [here]({{ site.baseurl }}/NCRPC)." %} Since the Model Rules of Professional Conduct have been so influential, lawyers can look to these Model Rules just like they might look to other uniform laws or model acts.
+States adopted the structure of the model rules fairly quickly. Today, almost all states' disciplinary rules follow the numbering system of the Model Rules. The content of state rules varies, so it's important to follow the law of your jurisdiction.{% marginnote "margin-note-id" "The NC Rules of Professional Conduct are available [here]({{ site.baseurl }}/NCRPC)." %} Since the Model Rules of Professional Conduct have been so influential, lawyers can look to these Model Rules just like they might look to other uniform laws or model acts.
 
 <div markdown="block" class="casebook-questions">
 
