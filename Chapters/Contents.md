@@ -5,13 +5,13 @@ title: Table of Contents
 
 # Table of Contents
 
-# Section 1: Introduction
+# Part 1: Introduction
 
 1.1: Introduction to Professional Responsibility 1.2: The History of the
 Legal Profession
 
 
-# Section 2: The Attorney-Client Relationship
+# Part 2: The Attorney-Client Relationship
 
 2.1: Creating an Attorney-Client Relationship
 
@@ -31,7 +31,7 @@ Legal Profession
 
 2.9: Agents as Clients
 
-# Section 3: The Legal Duties of an Attorney
+# Part 3: The Legal Duties of an Attorney
 
 3.1: Fiduciary Duties
 
@@ -39,7 +39,7 @@ Legal Profession
 
 3.3: Ineffective Assistance of Counsel
 
-# Section 4: Conflicts of Interest
+# Part 4: Conflicts of Interest
 
 4.1: Identifying Conflicts of Interest 
 
@@ -57,7 +57,7 @@ Legal Profession
 
 4.8: Personal Conflicts of Interest
 
-# Section 5: Confidentiality
+# Part 5: Confidentiality
 
 5.1: The Duty of Confidentiality
 
@@ -73,7 +73,7 @@ Legal Profession
 
 5.7: Exceptions to Privilege & Work Product
 
-# Section 6: Advocacy & Conduct
+# Part 6: Advocacy & Conduct
 
 6.1: Frivolous Pleading 
 
@@ -85,7 +85,7 @@ Legal Profession
 
 6.5: Alternative Dispute Resolution
 
-# Section 7: The Regulation of the Legal Profession
+# Part 7: The Regulation of the Legal Profession
 
 7.1: Bar Admission
 
@@ -97,6 +97,6 @@ Legal Profession
 
 7.5: Judicial Recusal & Misconduct
 
-# Section 8: Justifying the Rules of Professional Responsibility
+# Part 8: Justifying the Rules of Professional Responsibility
 
 8.1: Theories of Legal Ethics

@@ -61,7 +61,7 @@ title: Professional Responsibility An Open Source Casebook
 50. [Take Me Baby, or Leave Me: Ending the Attorney-Client
     Relationship](050.html)
 51. [Restatement (Third) of the Law Governing Lawyers § 31 (2000):
-    Termination of a Lawyer\'s Authority](051.html)
+    Termination of a Lawyer's Authority](051.html)
 52. [Restatement (Third) of the Law Governing Lawyers § 32 (2000):
     Discharge by a Client and](052.html)
 53. [You're Fired!: Discharge](053.html)
@@ -233,7 +233,7 @@ title: Professional Responsibility An Open Source Casebook
 191. [4.4: Current Client Conflicts of Interest](191.html)
 192. [Questions:](192.html)
 193. [Prospective Informed Consent](193.html)
-194. [Model Rule 1.7, Comment \[221](194.html)
+194. [Model Rule 1.7, Comment [221](194.html)
 195. [Questions:](195.html)
 196. [Conflicts of Law](196.html)
 197. [Questions:](197.html)
@@ -247,7 +247,7 @@ title: Professional Responsibility An Open Source Casebook
 204. [Borden v. Borden , 277 A. 2d 89 (D.C. App. 1971)](204.html)
 205. [4.8: Personal Conflicts of Interest](205.html)
 206. [Model Rule 1.8: Current Clients: Specific Rules](206.html)
-207. [Model Rule 1.8, Comments f171-\[191: Client-Lawyer Sexual
+207. [Model Rule 1.8, Comments f171-[191: Client-Lawyer Sexual
      Relationships](207.html)
 208. [Walter v. Stuart 67 P.3d 1042 (Utah 2003)](208.html)
 209. [Questions:](209.html)
@@ -267,7 +267,7 @@ title: Professional Responsibility An Open Source Casebook
 218. [Restatement (Third) of the Law Governing Lawyers § 59 (2000):
      Comment b, Kinds of confidential client information](218.html)
 219. [Restatement (Third) of the Law Governing Lawyers § 60 (2000): A
-     Lawyer\'s Duty to](219.html)
+     Lawyer's Duty to](219.html)
 220. [Confidential & Privileged Information](220.html)
 221. [Questions:](221.html)
 222. ["Generally Known" Information](222.html)
@@ -376,9 +376,9 @@ title: Professional Responsibility An Open Source Casebook
 299. [In re Sargent, 136 F. 3d 349 (4th Cir. 1998)](299.html)
 300. [Questions:](300.html)
 301. [The Duty of Reasonable Investigation](301.html)
-302. [-\_7\^ \>4 \^ \^ \^y-y y Xy-r/](302.html)
+302. [-_7. >4 ^ ^ ^y-y y Xy-r/](302.html)
 303. [& ■](303.html)
-304. [Jll\_ 2 3 200T](304.html)
+304. [Jll. 2 3 200T](304.html)
 305. [rn-m](305.html)
 306. [COURT REINSTATES ANGRY LAWYER, 33](306.html)
 307. [Dollars and Dreams: Immigrants as Prey](307.html)
@@ -420,13 +420,13 @@ title: Professional Responsibility An Open Source Casebook
      Services](339.html)
 340. [Information About Legal Services](340.html)
 341. [Model Rule 7.1: Comments](341.html)
-342. [Model Rule 7.2: Communications Concerning a Lawyer\'s Services:
+342. [Model Rule 7.2: Communications Concerning a Lawyer's Services:
      Specific Rules](342.html)
 343. [Model Rule 7.2: Comments](343.html)
 344. [DO YOU NEED A LAWYER?](344.html)
 345. [DID YOU USE THIS IUD?](345.html)
 346. [ATTORNEY](346.html)
-347. [Lawyers\' soliciting tactics draw scorn at Bar hearing](347.html)
+347. [Lawyers' soliciting tactics draw scorn at Bar hearing](347.html)
 348. [Questions:](348.html)
 349. [Further Reading:](349.html)
 350. [Further Viewing & Listening:](350.html)
@@ -468,7 +468,7 @@ title: Professional Responsibility An Open Source Casebook
 11. [5 Finley Peter Dunne, Mr. Dooley's Opinions 118 (1901)
     .](001.html#n2_6)
 12. [6 H.L. Mencken, A Mencken Chrestomathy (1949).](001.html#n2_7)
-13. [7 Ambrose Bierce, The Cynic\'s Dictionary (1906).](001.html#n2_8)
+13. [7 Ambrose Bierce, The Cynic's Dictionary (1906).](001.html#n2_8)
 14. [8 H.L. Mencken, Stewards of Nonsense, American Mercury 35 (Jan.
     1928).](001.html#n2_9)
 15. [5](008.html#5)
@@ -1047,8 +1047,8 @@ title: Professional Responsibility An Open Source Casebook
 584. [571](302.html#571)
 585. [572](302.html#572)
 586. [573](302.html#573)
-587. [/ yi\~\> fj & \^ ------ g ss/ \<\* \^x:\<\^ g\*](302.html#n572_1)
-588. [1 ■ 1 )A£ JA. £Sl // \^ --- /s 7 \~ \~ a](302.html#n572_2)
+587. [/ yi.> fj & ^ ------ g ss/ <* ^x:<^ g.](302.html#n572_1)
+588. [1 ■ 1 )A£ JA. £Sl // ^ --- /s 7 ~ ~ a](302.html#n572_2)
 589. [574](303.html#574)
 590. [575](303.html#575)
 591. [576](304.html#576)
