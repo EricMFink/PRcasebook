@@ -431,7 +431,7 @@
                 <group delimiter=" ">
                     <text macro="source"/>
                     <group delimiter=" " prefix="(" suffix=")">
-                        <text variable="authority" form="short"/>
+                        <text variable="jurisdiction" form="short"/>
                         <choose>
                             <if variable="container-title">
                             <text macro="year-date" />

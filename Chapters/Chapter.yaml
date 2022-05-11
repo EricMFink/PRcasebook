@@ -1,0 +1,29 @@
+---
+
+date: Fall Term 2022
+title: Professional Responsibility
+subtitle: An Open-Source Casebook
+cc0: true
+secnum: 1
+
+author: Eric M. Fink
+publisher: Elon University School of Law
+
+reference-section-title: "References"
+bibliography: '../assets/bibliography/PRCasebook.yaml'
+csl: '../assets/bibliography/casebook.csl'
+citation-abbreviations: '../assets/bibliography/casebook-abbrevs.json'
+nocite: |
+  @*
+
+epigraph: "Every lawyer carries within him the debris of a poet."
+epigraph-author: Gustave Flaubert
+epigraph-source: Madame Bovary
+
+output:
+  pdf_document:
+    template: casebook-tufte.tex
+    path: ../PDF/2-1.pdf
+    pandoc_args: []
+
+---
