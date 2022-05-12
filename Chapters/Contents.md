@@ -1,8 +1,8 @@
 ---
-layout: casebook
+
 
 title: 'Table of Contents'
-permalink: /Contents/
+
 
 ---
 

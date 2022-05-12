@@ -39,7 +39,7 @@ port: 4000
 
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-permalink: /articles/:title
+:title
 timezone: America/New_York
 excerpt_separator: <!--more--> # you can specify your own separator, of course.
 include: ['_pages']

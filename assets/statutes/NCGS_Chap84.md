@@ -2,7 +2,7 @@
 layout: statute
 
 title: "Attorneys-at-Law"
-permalink: /statutes/NCGS_Chap84/
+
 cite: 'N.C.G.S. Chap. 84'
   
 ---

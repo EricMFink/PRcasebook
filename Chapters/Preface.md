@@ -1,8 +1,8 @@
 ---
-layout: casebook
+
 
 title: 'Preface'
-permalink: /Preface/
+
   
 ---
 

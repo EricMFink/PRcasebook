@@ -4,7 +4,7 @@ layout: statute
 course: Professional Responsibility
 title: NC Rules of Professional Conduct 
 subtitle: 'Section 3—Advocate'
-permalink: /rules/Section3/
+
     
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: sidenotes 
-permalink: /readings/Abbott/
+
 
  
 title: 'The System of Professions'

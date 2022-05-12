@@ -3,7 +3,7 @@ layout: statute
 
 course: Professional Responsibility
 title: 'NC Rules of Professional Conduct'
-permalink: /NCRPC/
+
 
 ---
 

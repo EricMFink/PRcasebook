@@ -4,7 +4,7 @@ layout: statute
 course: Professional Responsibility
 title: ABA Model Rules of Professional Conduct 
 subtitle: 'Part 6: Public Service'
-permalink: /rules/MRPC_6-2/
+
   
 ---
 

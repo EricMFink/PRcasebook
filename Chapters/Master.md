@@ -25,16 +25,16 @@ output:
 
 \part{Law as a Regulated Profession}
 
-\chapter{Introduction}
-
-
 \chapter{The Legal Profession}
 
 
 \chapter{Regulating Attorney Conduct}
 
 
-\chapter{Bar Admission}
+\chapter{Bar Admission and Unauthorized Practice}
+
+
+\chapter{Attorney Discipline}
 
 
 \chapter{Responsibilities within Law Firms}
@@ -45,46 +45,15 @@ output:
 
 \part{The Attorney-Client Relationship}
 
-\chapter{Forming an Attorney-Client Relationship}
+\chapter{Establishing Representation}
+
+# Prospective Clients
+
+# Forming an Attorney-Client Relationship
 
 
-\chapter{Terminating an Attorney-Client Relationship}
+\chapter{Declining and Terminating Representation}
 
-
-\chapter{Agency and Fiduciary Duties}
-
-
-\chapter{Duty of Care}
-
-# Duties Under the Model Rules
-
-## Competence
-
-## Diligence
-
-## Communication
-
-
-# Malpractice
-
-
-# Ineffective Assistance of Counsel
-
-
-\chapter{Attorney Fees and Client Property}
-
-# Attorney Fees
-
-## Reasonable Fees
-
-
-## Retainers
-
-
-## Fee Disputes
-
-
-# Client Property
 
 
 \chapter{Organizations as Clients}
@@ -94,55 +63,59 @@ output:
 # Representing Agents and Members of Client Organizations
 
 
-\part{Conflicts of Interest}
+\chapter{Duties to Clients}
 
-\chapter{Conflicts Involving Current Clients}
+# Agency
 
-# Identifying Conflicts
+# Allocation of Authority
 
-# Waiving Conflicts
+# Fiduciary Duties
 
-# Special Conflicts
+# Clients with Diminished Capacity
+
+\chapter{Competence, Diligence, & Communication}
+
+# Duties Under the Model Rules
+
+# Malpractice
+
+# Ineffective Assistance of Counsel
 
 
-\chapter{Conflicts Involving Former Clients}
-
-# Identifying Former Client Conflicts
-
-# Waiving Former Client Conflicts
-
-
-\chapter{Imputed Conflicts}
-
-# Identifying Imputed Conflicts
-
-# Waiving Imputed Conflicts
+\chapter{Attorney Fees and Client Property}
 
 
 \part{Confidentiality and Privileges}
 
 \chapter{Confidentiality Under the Model Rules}
 
-# Duty of Confidentiality
+\chapter{Duty of Confidentiality}
 
-
-# Exceptions to Confidentiality
-
+\chapter{Exceptions to Confidentiality}
 
 \chapter{Client Communication Privilege}
 
-# Privileged Communications
-
-
-# Waiver and Exceptions
-
-
 \chapter{Attorney Work Product}
 
-# Protected Work Product
+\chapter{Exceptions to Client Communication Privilege and Work Product}
 
 
-# Waiver and Exceptions
+
+\part{Conflicts of Interest}
+
+\part{Identifying Conflicts}
+
+\part{Resolving Conflicts}
+
+\part{Lawyer-Client Conflicts}
+
+\chapter{Conflicts Between Current Clients}
+
+\chapter{Conflicts with Former Clients}
+
+\chapter{Imputed Conflicts}
+
+
 
 
 \part{Advocacy and Litigation}
