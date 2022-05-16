@@ -16,11 +16,13 @@ author: Eric M. Fink
 
 	\frcp{rule no.}
 
-	\mrpc{rule no.}
+	\mrpc{rule no.}{title}
+
+	\restatement{section}{title}
 
 	\legalcode{code}{section}
 
-	\restatement{revision}{subject}{section}
+	\reading{title}{author}{source}
 
 # Colored Text Boxes
 

@@ -1,43 +1,198 @@
 ---
+
 date: Fall Term 2022
-title: Civil Procedure
-Chapter: Law as a Regulated Profession
+title: Professional Responsibility
+subtitle: An Open-Source Casebook
+chapter: Law as a Regulated Profession
 
 author: Eric M. Fink
-affiliation: Elon University School of Law
+publisher: Elon University School of Law
 
-reference-section-title: "References"
-bibliography: '../assets/bibliography/CivProCasebook.yaml'
-csl: '../assets/bibliography/casebook.csl'
+bibliography: '../../assets/bibliography/PRCasebook.yaml'
+csl: '../../assets/bibliography/casebook.csl'
+citation-abbreviations: '../../assets/bibliography/casebook-abbrevs.json'
 
 output:
-   pdf_document:
-     template: casebook-tufte.tex
-     path: ../PDF/Chap2.pdf
+  pdf_document:
+    template: casebook-PR.tex
+    path: ../PDF/1-2.pdf
+    pandoc_args: []
 
 ---
 
+
 # Law as a Profession
+
+## What Makes Law a Profession?
+
+\reading{Work, Jurisdiction, \& Competition}{Andrew Abbott}{The System of Professions}[^1885]
+
+[ … ] Each profession is bound to a set of tasks by ties of jurisdiction, the strengths and weaknesses of these ties being established in the processes of actual professional work. Since none of these links is absolute or permanent, the professions make up an interacting system, an ecology. Professions compete within this system, and a profession's success reflects as much the situations of its competitors and the system structure as it does the professions own efforts. From time to time, tasks are created, abolished, or reshaped by external forces, with consequent jostling and readjustment within the system of professions. [ … ]
+
+[ … ]
+
+Jurisdiction is a more-or-less exclusive claim. One professions jurisdiction preempts another's. Because jurisdiction is exclusive, every move in one profession's jurisdictions affects those of others. [ … ]
+
+[ *** ]
+
+---
+
+#### 2. Professional Work
+
+[ … ]
+
+##### Objective and Subjective
+
+The tasks of professions are human problems amenable to expert service. They may be problems for individuals, like sickness and salvation, or for groups, like fundraising and auditing. They may be disturbing problems to be cured, like vandalism or neurosis, or they may be creative problems to be solved, like a building design or a legislative program. The degree of resort to experts varies from problem to problem, from society to society, and from time to time.
+
+[ … ]
+
+Some problems are close to others. [ … ] For example, we think that fixing a broken thumb is "closer" to curing typhoid fever than it is to building a bridge, because of the common object of the first two tasks, the human body. But in purely theoretical terms, broken bones are close to bridges because both involve the science of mechanics. Indeed, the physicians who handled the fever and the surgeons who fixed the thumbs had little to do with one another before the nineteenth century. [ … ]
+
+[ … ]
+
+[J]urisdictional claims [ … ] have three parts: claims to classify a problem, to reason about it, and to take action on it: in more formal terms, to diagnose, to infer, and to treat. Theoretically, these are the three acts of professional practice. Professionals often run them together. They may begin with treatment rather than diagnosis; they may, indeed, diagnose by treating, as doctors often do. The three are modalities of action more than acts per se. But the sequence of diagnosis, inference, and treatment embodies the essential cultural logic of professional practice. It is within this logic that tasks receive the subjective qualities that are the cognitive structure of a jurisdictional claim.
+
+##### Diagnosis
+
+[ … ]
+
+[ … ] Diagnosis not only seeks the right professional category for a client, but also removes the client's extraneous qualities. If the client is an individual, such extraneous qualities often include his or her emotional or financial relation to the "problem." If the client is a group, they include irrelevant internal politics, financial difficulties, and so on. (A diagnosed problem may still be ambiguous, but the ambiguity will be profession-relevant ambiguity—ambiguity within the professional knowledge system.) Thus, diagnosis first assembles clients' relevant needs into a picture and then places this picture in the proper diagnostic category.
+
+[ … ]
+
+Diagnosis, then, begins to assign subjective properties to the objective problems with which professions work. The problems become more than simply objective tasks. They are related to various underlying conceptual dimensions, guarded by rules of evidence and of relevance, and located at the ends of various diagnostic chains. The clarity, the strictness, and the logic of these subjective definitions of the problem make it more-or-less open to the intervention of other professions. [ … ]
+
+##### Treatment
+
+[ … ] Like diagnosis, treatment imposes a subjective structure on the problems with which a profession works. Like diagnosis, treatment is organized around a classification system and a brokering process. In this case brokering gives results to the client, rather than takes information from the client; colligation is replaced by prescription.
+
+[ … ]
+
+The treatment classification not only lumps together problems with similar treatments, it also associates with each problem a likelihood of successful outcome under a given treatment. [ … ] A good lawyer has a[] [ … ] sense of the probabilities associated with settling a case or trying it, often specified by which side he is on, which judge he is likely to get, and how proficient the opposing counsel is, as well as by the facts and legal merits of the case.
+
+[ … ]
+
+Treatments, like diagnoses, can range from very general to very specific, and this too influences the amenability of the jurisdiction to seizure. [ … ] Normally, the more specialized a treatment is, the more a profession can retain control of it. Control over certain kinds of treatment may be central to a professions jurisdiction, as law and medicine's monopolies of litigation and drugs make very clear. That control of treatment may be central and that specialized treatments are easier to protect suggests that professions may defend jurisdiction by specifying treatments even where the results of specification may be unmeasurable and where general treatments in fact suffice. [ … ]
+
+The professional interested in effective treatment must worry about many client characteristics that influence treatment efficacy. Just as the diagnostic system removes the human properties of the client to produce a diagnosed case, so also the treatment system must reintroduce those properties to make treatment effective for real clients, human or corporate; this is the process of prescription. [ … ] The same decisions must be made by a lawyer who knows what his client will look like "in the box" or by the architect who knows how his client is likely to alter the building after it is designed. Who the client is thus determines much of what he or she gets. And most professions [ … ] have treatment cost as a central problem in prescription. Each treatment fits uniquely into the life of a particular client, and that in part must determine whether it is preferred.
+
+The impact of client characteristics on prescription and treatment is felt both within the profession itself and in its relations with competitors. Within the profession, the ability of clients to handle prescriptions is an important stratifying mechanism [ … ]. One factor that makes certain clients more attractive to professionals is their ability on the one hand to pre-diagnose their problems and on the other to understand their treatment in relatively professional terms. For example, this quality makes upper class people more attractive clients for psychotherapists. A similar difference makes corporations more attractive than individuals as clients for lawyers. Brokering, whether in diagnosis or prescription, is a dirty business, and intraprofessional status often reflects the amount of it a professional must do.
+
+But client ability to handle prescription also has effects on interprofessional competition. These effects are analogous to the effects of rules of relevance in diagnosis. A profession clearly derives general social prestige from meeting clients on _its_ own, rather than on _their_ own, grounds, just as it derives prestige from strictly enforced rules of relevance. But a profession that forces clients to take treatment completely on its own terms risks heavy competition from those who talk to the clients in their own language. [ … ] Only when a profession possesses absolute monopoly can it afford to ignore this arena of competition. Even the British barristers, whose clogged courts monopolize legal dispute settlement, have seen administrative tribunals emerge to handle disputes to the expeditious liking of corporations, unions, and other social groups. So it is that many professions meet clients on their own grounds—phrasing their treatments in common language, offering advice on professionally irrelevant issues, indeed promising results well beyond those predicted by the treatment structure itself. If they didn't do it, clients would take their problems to someone who would. A similar process forces professions to keep a weather eye to treatment costs. Professions can easily price themselves out of markets, as psychoanalysts have discovered over the last few decades.
+
+[ … ]
+
+##### Inference
+
+[ … ]
+
+Inference is undertaken when the connection between diagnosis and treatment is obscure. The composite of diagnostic and treatment classification cannot narrow the range of outcomes acceptably. Acceptability depends, of course, on the costs and reversibility of failure on first trial. [ … ]
+
+[ … ]
+
+The most important aspect of professional inference in determining jurisdictional vulnerability is actually external to inference itself; it is the degree to which inference predominates, rather than the routine connection of diagnosis and treatment without inference. Any profession has rules dictating when a professional must resort to complex inference, and learning these rules is central to learning the profession. Yet whatever these rules may be, either too little or too much use of inference will ultimately weaken jurisdiction.
+
+[ … ]
+
+##### Academic Knowledge
+
+Diagnosis, treatment, and inference are aspects of professional practice. In most professions, that work is tied directly to a system of knowledge that formalizes the skills on which this work proceeds. [ … ]
+
+A profession's formal knowledge system is ordered by abstractions alone. Like any knowledge it is organized into a classification system and an inferential system. The classification, however, is quite unlike the diagnostic and treatment classifications. It is not organized from common to esoteric or from treatable to recalcitrant. Rather it is organized along logically consistent, rationally conceptualized dimensions. [ … ] In law there are rights, duties, procedures, and so on. While these resemble the dimensions of the diagnostic classification, they are in fact more formal and rationalized.
+
+Within this academic sector of the profession, entities are defined not in little bundles, like the syndromes of the diagnostic classification system, but rather as disassembled pieces. [ … ] Thus, in academic library studies, indexing can be seen as independent of the thing to be indexed, and more importantly, of accessibility or collection structure. A working librarian knows that indexing must reflect collection structure to be of use, and that many published indexes are so thorough as to obscure the information they would retrieve. But that is not the problem of the indexing theorist. [ … ] Professional knowledge exists, in academia, in a peculiarly disassembled state that prevents its use.
+
+The ability of a profession to sustain its jursidictions lies partly in the power and prestige of its academic knowledge. This prestige reflects the public's mistaken belief that abstract professional knowledge is continuous with practical professional knowledge, and hence that prestigious abstract knowledge implies effective professional work. In fact, the true use of academic professional knowledge is less practical than symbolic. Academic knowledge legitimizes professional work by clarifying its foundations and tracing them to major cultural values. In most modern professions, these have been the values of rationality, logic, and science. Academic professionals demonstrate the rigor, the clarity, and the scientifically logical character of professional work, thereby legitimating that work in the context of larger values.
+
+[ … ]
+
+That abstract knowledge serves to legitimate professional work should not belittle its other functions. The most important of these is the most familiar, the generation of new diagnoses, treatments, and inference methods. Academic knowledge excels at invention precisely because it is organized along abstract lines, rather than syndromic ones. It can make connections that seem nonsensical within practical professional knowledge, but that may reveal underlying regularities that can ultimately reshape practical knowledge altogether. Examples from medicine are legion, but the importance of law review articles in reshaping legal doctrine is equally evident in the citations of appellate court reports. [ … ]  
+
+The academic, abstract knowledge system is thus universally important throughout the professions. It is therefore not surprising that jurisdictional assaults are often directed at the academic level. For example, the attempt of psychiatry to take over criminality in the twenties was a largely academic assault on the concept of responsibility. The attack had then, as it has now, very little to do with defense counsels treatment question—is the insanity defense a good gamble? Rather it was a general assertion that the whole category system by which crime is classified, the typology of personal responsibility for action, was in fact a system about which psychiatrists knew more than lawyers. The psychiatrists actually won a number of intellectual battles in this conflict, but ultimately lost the jurisdictional war, partly because they didn't have the numbers to turn every criminal court into a psychiatric clinic and partly because the public believed too deeply in the lawyers' version of personal responsibility. But the case illustrates that the academic level of professional knowledge is by no means invulnerable. Indeed its very strain towards clarity makes it one of the more vulnerable parts of a professions knowledge structure. As Weber argued, the British lawyers protected their jurisdictions effectively indeed with the antirational procedure of founding law on cases rather than on formally constructed statutes.
+
+[ … ]
+
+Finally, the clarity with which professional borders are defined towards other professions may affect the jurisdictions' vulnerability. Under some conditions, clarity is a good defense. Certainly it has served lawyers well against psychiatry's attacks on the notion of responsibility. [ … ] At the same time, clarity does give an easy target for attempts at "seizure by absorption." [ … ]  
+
+[ … ]
+
+---
+
+#### 3. The Claim of Jurisdiction
+
+Diagnosis, treatment, inference, and academic work provide the cultural machinery of jurisdiction. They construct tasks into known "professional problems" that are potential objects of action and further research. But to perform skilled acts and justify them cognitively is not yet to hold jurisdiction. In claiming jurisdiction, a profession asks society to recognize its cognitive structure through exclusive rights; jurisdiction has not only a culture, but also a social structure. These claimed rights may include absolute monopoly of practice and of public payments, rights of self-discipline and of unconstrained employment, control of professional training, of recruitment, and of licensing, to mention only a few. Which of them are actually claimed depends in part on the audience. Claims made in the political and legal systems generally involve much more than do those in public media. The claims also depend on the professions own desires; not all professions aim for domination of practice in all their jurisdictions. Finally, they depend on the social organization of the professions themselves. This indeed was the focus of the professionalization literature. To understand the actual claims, then, it is less important to analyze their particular content than their location, their general form, and the social structure of the claiming professions themselves.
+
+##### Audiences
+
+Jurisdictional claims can be made in several possible arenas. One is the legal system, which can confer formal control of work. Another is the related arena of public opinion, where professions build images that pressure the legal system. An equally important, but less studied, arena is the workplace. Claims made in the workplace blur and distort the official lines of legally and publicly established jurisdictions; an important problem for any profession is the reconciliation of its public and its workplace position.
+
+[ … ]
+
+Authority often confers obligation. But jurisdictional claims entail only secondarily an obligation to in fact accomplish the work claimed. Lawyers have a right to perform legal work as they wish, but only a hazy obligation to guarantee that all the needs of justice are served. Such general social obligations are more formal among continental professions than among Anglo-American ones. The relative power of continental governments has allowed them to place and enforce such obligations on the professions; in America these obligations are merely paraded in the preambles to codes of professional ethics. The different relation between authority and obligation is one of the profound differences between continental and Anglo-American professions.
+
+[ … ]
+
+Contests for legal jurisdiction occur in three places. The first of these is the legislature, which in America [ … ] grants statutory rights to certain professional groups. The second is the courts, where such rights are enforced and the actual boundaries of loose legislative mandates specified. The third is the administrative or planning structure, which has always dominated the legal structuring of professions in France, and which increasingly does so in England and America. [ … ] In England and America, legislatures have traditionally dominated in the legal establishment of professional rights, the American legislatures having been considerably more profligate in the number of rights so established. [ … ]
+
+[ … ] The other, and equally important, arena is the workplace itself. In the workplace, jurisdiction is a simple claim to control certain kinds of work. There is usually little debate about what the tasks are or how to construct them. There is normally a well-understood and overwhelming flow of work—alleged criminals waiting to be processed, buildings to be designed, welfare clients to be handled. The basic question is who can control and supervise the work and who is qualified to do which parts of it. My example implicitly (and correctly) assumes that the typical professional worksite is an organization, although in some cases, professionals work in solo or small group practices in open markets.
+
+Professionals in open markets and in organizations control jurisdictional relations in different ways. In open markets, jurisdictional boundaries between competing professions are established by referral networks and similar structures. Occasionally, advertisements are used, either by official groups or by individuals, to establish for the public and for the referral sources the exact contribution of this or that profession. "Let the financial planning professionals at XYZ Bank help you find the money you need." More often, professionals simply establish rules for the kinds of things they do and the kinds of things they don't do, and refer the latter out. Small-town attorneys and accountants, for example, generally operate this way. They are enmeshed in a referral network maintained by club life, personal acquaintance, and a constant flow of business. Since such networks draw so directly on personal relations in fairly tight social systems, interprofessional relations in small towns have a fixed, enduring quality. In large cities, by contrast, several excellent studies have shown that interprofessional relations in open markets range from chaos to open warfare.
+
+Within an organization the situation is quite different. [ … ] The standard interprofessional division of labor is replaced by the intraorganizational one. More often than not, this locates professionals where they must assume many extraprofessional tasks and cede many professional ones. To be sure, the organizational division of labor may be formalized in job descriptions that recognize professional boundaries, but these have a rather vague relation to reality. In most professional work settings, actual divisions of labor are established, through negotiation and custom, that embody situation-specific rules of professional jurisdiction. These actual divisions of labor exist over relatively short time periods—perhaps a few months to a couple of years. They are extremely vulnerable to organizational perturbations. Professional staff are often replaced by paraprofessional or untrained staff without corresponding change of function. The division of labor must then be renegotiated, with the common result that boundaries of actual professional jurisdiction change to accommodate organizational imperatives.
+
+It is in the workplaces, then, that the actual complexity of professional life insists on having its effect. [ … ] If a professional is incompetent, organizational function demands that his or her work be done by someone else who is probably not officially qualified to do it. Or if there is too much professional work, nonprofessionals do it. Boundaries between professional jurisdictions therefore tend to disappear in worksites, particularly in overworked worksites. There results a form of knowledge transfer that can be called workplace assimilation. Subordinate professionals, nonprofessionals, and members of related, equal professions learn on the job a craft version of given professions' knowledge systems. While they lack the theoretical training that justifies membership in that profession, they generally acquire much of the diagnostic, therapeutic, and inferential systems discussed in the preceding chapter. This assimilation is facilitated by the fact that professionals are not in reality a homogeneous group. In the jurisdictional system of the workplace, it is the real output of an individual, not his credentialed or noncredentialed status, that matters. Since some professionals are much more talented than others, the best of the subordinates often excel the worst of the superordinates; certain individuals in closely related professions end up knowing far more about a profession's actual work than do a fair number of its own practitioners.
+
+The reality of jurisdictional relations in the workplace is therefore a fuzzy reality indeed. To be sure, in the elite workplaces—the university teaching hospitals, the Wall Street law firms, the leading architectural houses—the blurring is minimized. Since each group is represented by its best members, vertical and horizontal assimilation can be minimized. [ … ] But in most professional worksites, the mix of workers is so broad that assimilation is considerable. It reaches its maximum in publicly funded worksites specializing in pariah clients—mental hospitals, jails, criminal courts—where few elite professionals venture, and where attendants, guards, and clerks effectively conduct such professional work as is done. [ … ]
+
+[ … ]
+
+Dominant professions also form setting-based associations within themselves—for example, the American Academy of Matrimonial Lawyers, the American Society of Hospital Attorneys—while undermining interprofessional societies that are based on particular settings of work, such as the American Orthopsychiatric Association. Yet another strategy for maintaining the publicly clear picture of jurisdictional relations is media manipulation [ … ].
+
+[ … ]
+
+Since the advent of associational professionalism in the nineteenth century, the claim to full jurisdiction is nearly always made by a formally organized group. Certainly this has been true since the advent of the formally organized profession in the later nineteenth century. [ … ]
+
+[ … ]
+
+Claims of full jurisdiction are maintained by a variety of means. Once successful, they are backed by legal rules prohibiting either work with the claimed task or the collection of fees for such work. Within organizations, they are backed by organizational rules. Professions particularly sensitive about professional invasion may maintain vigilante groups to guard the borders—the "unauthorized practice of law" committees of Americas bar associations being the best examples. The lawyers, of course, also directly control the means of enforcement, which may explain why they get away with such groups. Other professions have to depend on the law to back up their claims of full jurisdiction.
+
+[ … ]
+
+##### Internal Structure
+
+[ … ]
+
+A professions social organization has three major aspects—groups, controls, and worksites. Professional groups have diverse forms and functions. Local groups usually emerge early in professional history and later amalgamate into larger ones. Some groups are lobbying groups, some informational ones, still others aim at practitioner control. Some are organized around mere professional membership, while others embody a wide variety of special interests within that membership. The mature profession typically has hundreds of professional associations, many or most of which are open only to members of some large, dominant association.
+
+Under the heading of professional controls can be placed the schools that train practitioners, the examinations that test them, the licenses that identify them, and the ethics codes they are presumed to obey. There are in addition a wide variety of informal controls, usually specific to various professional worksites. Empirical studies of professions show that attempts at licensure seem to come early and ethics codes late in professional development. Examinations and formal schooling tend to come in the middle of professional development. Once begun, however, all develop continually. The typical profession has one ethics code, but usually dozens or hundreds of schools. Although recent years in America have seen consolidated licensure structure across state lines, licensure and examination have characteristically been state based in America, and the politics of license maintenance consequently continuous and complex. [ … ] It is important to note that licensure alone, of these controls, has direct implications for others beyond the profession involved. Licensure normally carries certain preemptive rights over outsiders, particularly in the United States and France. That a profession has an ethics code does not keep another closely related profession from having one. With licenses, the reverse is generally true; where one profession has a licensed right to do certain work, others are excluded.
+
+Professions operate in a bewildering variety of worksites. Some professions have consolidated, exclusive worksites whose divisions of labor they dominate. The hospital is the most familiar, but large law, accounting, and architectural firms are also examples. [ … ]
+
+A profession normally has some worksites that are not involved in practice, but only in the purely professional work of maintaining and furthering professional knowledge. These include not only the academic settings discussed before, but also journals, research institutes, and other such organizations. In the United States, such cultural organizations are nearly all affiliated with universities, with a few journals and research institutes being tied to the larger professional associations (e.g., the American Bar Foundation), to industry, or to government agencies. [ … ]
+
+The strength with which individual professionals are tied to this organized structure varies considerably. Some are central members tying elite worksites to elite schools and dominating major professional associations. Others are totally peripheral, passing their entire careers without contacting any of the central institutions of professional life beyond a few journals. This internal stratification of professions is often confounded with specialization. Often professional tasks are so complex as to require considerable specialization, and individual professionals develop enduring identification with specialty work. [ … ]. These specializations generally fall in a status order of their own, although there is within each an internal hierarchy.
+
+[ … ]
+
+The extent of structuring [ … ] affects a profession's ability to deal with attack. Thus it is common in professions to create rigid entry standards, coupling extensive education with several levels of examination prior to formal entry into the profession. This is part of a structure of control that seems utterly advantageous to the profession. It protects recruitment, controls professional numbers (and consequently professional rewards), and guarantees a minimum standard of professional ability. This strategy seems perfectly monopolistic in effect. Yet it is clear that several professions have nearly lost jurisdictions because sudden expansions in demand found them committed to standards that would not permit rapid expansion. [ … ] The only defense in such conditions is rapid and effective creation of subordinate groups to handle the business, the strategy that led solicitors to develop the managing clerks' role in conveyancing [ … ]. But [ … ] this has not been a terribly effective strategy. The British lawyers have in fact lost jurisdiction over many of the important aspects of dispute settlement in Britain precisely because they are too few to service demand and their divisions of labor have not been sufficient[ … ].
+
+The social structure of professions is thus neither fixed nor uniformly beneficial. [ … ] [T]he mature profession is constantly subdividing under the various pressures of market demands, specialization, and interprofessional competition. Some competitive conditions favor the less, some the more organized.
+
+The central organizing reality of professional life is control of tasks. The tasks themselves are defined in the professions' cultural work. Control over them is established, as we have seen, by competitive claims in public media, in legal discourse, and in workplace negotiation. [ … ]
+
+
+
+## Emergence of the Modern Legal Profession
+
+\reading{Lawyers and Their Competitors}{Andrew Abbott}{The System of Professions (247-279)}[^1885]
+
+[^1885]: 
 
 # Regulation of Legal Practice
 
 Multiple sources and institutions ...
 
-The American legal profession was significantly unregulated for most of the eighteenth and nineteenth centuries. In fact, applying contemporary definitions in which a profession is self-regulating, it is not clear lawyers' work during this time was part of a unified legal profession at all. That's not to say lawyers did not play an important role in American society. Lawyers fulfilled not just one, but two equally important roles: as advocates for their clients and agents of the court. Before the organized American legal profession with formal rules, this dual-role model of lawyering shaped how lawyers thought about their professional responsibilities and standards for their conduct.
-
-Many lawyers' everyday work primarily concerned advocating for the private interests of clients. Eighteenth and nineteenth century clients sought out lawyers for many of the same reasons people obtain lawyers today, including settling disputes over personal property, navigating commercial matters, and resolving all sorts of other conflicts between people. Although some of the events leading people to seek lawyer's assistance may seem familiar, the social, economic, and political conditions of the nineteenth century meant even this familiar role was anything but routine.
-
-The time period between the American Revolution and the twentieth century was full of dramatic changes in the law, the work of lawyering, and the legal profession. The law itself became more voluminous and complex, beginning with post-Revolution efforts to create orderly state and federal governments. Industrialization sped up and increased the scope of economic of
-
-Lawrence Friedman's _A History of American Law_ summarizes:
-
-What happened to American law in the nineteenth century, basically, was that it changed dramatically, fundamentally, to conform to the needs, wants, and pressures coming from the vast increase in the numbers of consumers of law. It is dangerous to sum up long periods and great movements in a sentence. But if colonial law had been, in the first place, colonial, and in the second place, paternal, emphasizing community, order, and the struggle against sin, then, gradually, a new set of attitudes developed, in which the primary function of law was not suppression and uniformity, but economic growth and services to its users.
-
-Instrumentalist theories about law combined with a rapidly changing industrial society contributed to the idea that practicing judges, lawyers, and scholars could actively shape the world they worked in. Often this was in response to their work for the private interests of clients, although records of conversations among lawyers show continued concern for and attention to their public responsibilities as well.
-
-#### Question:
-
-- Is the dual-role model of lawyers' responsibilities useful for navigating professional ethical dilemmas? Based on what you know about lawyers' work, try to think of at least one scenario in which it would be helpful and one in which it might not be.
 
 ## The American Bar Association and Professional Standards
 

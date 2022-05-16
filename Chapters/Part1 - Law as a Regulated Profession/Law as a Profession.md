@@ -1,16 +1,31 @@
 ---
-layout: sidenotes
 
+date: Fall Term 2022
+title: Professional Responsibility
+subtitle: An Open-Source Casebook
+chapter: Law as a Profession
 
+author: Eric M. Fink
+publisher: Elon University School of Law
 
-title: 'The System of Professions'
-author: 'Andrew Abbott'
-published: '1988'
+bibliography: '../../assets/bibliography/PRCasebook.yaml'
+csl: '../../assets/bibliography/casebook.csl'
+citation-abbreviations: '../../assets/bibliography/casebook-abbrevs.json'
+
+output:
+  pdf_document:
+    template: casebook-PR.tex
+    path: ../PDF/1-2.pdf
+    pandoc_args: []
 
 ---
 
-#### 1. Work, Jurisdiction, and Competition
 
+# Professions and Professionalism
+
+\reading{Work, Jurisdiction, \& Competition}{Andrew Abbott}{The System of Professions}[^932c]
+
+[^932c]: @abbottSystemProfessionsEssay1988, 33-114
 
 [ … ] Each profession is bound to a set of tasks by ties of jurisdiction, the strengths and weaknesses of these ties being established in the processes of actual professional work. Since none of these links is absolute or permanent, the professions make up an interacting system, an ecology. Professions compete within this system, and a profession's success reflects as much the situations of its competitors and the system structure as it does the professions own efforts. From time to time, tasks are created, abolished, or reshaped by external forces, with consequent jostling and readjustment within the system of professions. [ … ]
 
@@ -102,8 +117,6 @@ Finally, the clarity with which professional borders are defined towards other p
 
 [ … ]
 
----
-
 #### 3. The Claim of Jurisdiction
 
 Diagnosis, treatment, inference, and academic work provide the cultural machinery of jurisdiction. They construct tasks into known "professional problems" that are potential objects of action and further research. But to perform skilled acts and justify them cognitively is not yet to hold jurisdiction. In claiming jurisdiction, a profession asks society to recognize its cognitive structure through exclusive rights; jurisdiction has not only a culture, but also a social structure. These claimed rights may include absolute monopoly of practice and of public payments, rights of self-discipline and of unconstrained employment, control of professional training, of recruitment, and of licensing, to mention only a few. Which of them are actually claimed depends in part on the audience. Claims made in the political and legal systems generally involve much more than do those in public media. The claims also depend on the professions own desires; not all professions aim for domination of practice in all their jurisdictions. Finally, they depend on the social organization of the professions themselves. This indeed was the focus of the professionalization literature. To understand the actual claims, then, it is less important to analyze their particular content than their location, their general form, and the social structure of the claiming professions themselves.
@@ -166,15 +179,35 @@ The social structure of professions is thus neither fixed nor uniformly benefici
 
 The central organizing reality of professional life is control of tasks. The tasks themselves are defined in the professions' cultural work. Control over them is established, as we have seen, by competitive claims in public media, in legal discourse, and in workplace negotiation. [ … ]
 
----
+\halfsep
 
-#### 9. Lawyers and Their Competitors
 
-Professions' histories are littered with splinter groups and faltering competitors. These are usually ignored in official mythologies, although occasionally recalled as precursors, charlatans, or worse. [ … ] By studying interprofessional conflict, we can set the successful professions in their real context and correct our theories of their development.{% marginnote "margin-note-id" "In this chapter, Abbott analyzes jurisdictional conflicts involving the U.S. and English legal professions during the late 19th and early 20th century, to test the hypothesis that the different patterns and outcomes of jurisdictional conflict in the two countries 'should be tracable to the differing competitors and competitions faced by the two professions'. Most of the comparative discussion is omitted here." %}
+\reading{Professionalism}{Kathi Weeks}{The Trouble with Work}
+
+\marginnote{Internal citations omitted}
+
+The discourse of professionalism today enjoys a wide application, serving as a disciplinary mechanism to manage the affects and attitudes of a service-based workforce that is less amenable to direct supervision. [ ... ]
+
+ The category of professional work was once defined narrowly. Confined to those jobs that were subject to a measure of self-regulation, required specialized knowledge, and involved a relatively high degree of discretion and judgment, the label was traditionally reserved for the fields of law, medicine, and the clergy. To be a professional was to have a career---a calling---as opposed to a "mere" job: "To the professional person his work becomes his life. Hence the act of embarking upon a professional career is similar in some respects to entering a religious order". The professional's relationship to his or her calling entailed an erosion of the temporal boundaries between work and life, and a different calibration of the qualities of emotional investment between the times and spaces of work and life outside it. [ ... ] Professional socialization has always served as a disciplinary mechanism, one that can induce the effort and commitment, entitlement and identification, and---perhaps above all---the self-monitoring considered necessary to a profession's reproduction as such.
+
+[ ... ]
+
+Whereas the term once suggested a certain mastery of a field of knowledge linked to a specific skill and expertise, increasingly the mastery that a professional is expected to achieve is over [ ... ] "the personality." [T]oday's professional is supposed to gain control over his or her thoughts, imagination, relationships, and affects. Certainly one purpose of this is to promote the kind of self-discipline and subjective investment long associated with being a professional. [ ... ]
+
+Today the term "professional" refers more to a prescribed attitude toward any work than the status of some work. To act like a professional---to be professional in one's work---calls for subjective investment in and identification with work, but also a kind of affective distancing from it. A professional invests his or her person in the job but does not "take it personally" when dealing with difficult co-workers, clients, patients, students, passengers, or customers. As an ideal of worker subjectivity, this requires not just the performance of a role, but a deeper commitment of the self, an immersion in and identification not just with work, but with work discipline. The popular injunction to "be professional;" to cultivate a professional attitude, style, and persona, serves as one way that the autonomy, especially of immaterial workers, can be managerially constituted up and down the post-Fordist labor hierarchy.
+
+
+# Emergence of the Modern Legal Profession
+
+\reading{Lawyers and Their Competitors}{Andrew Abbott}{The System of Professions}[^1885]
+
+[^1885]: @abbottSystemProfessionsEssay1988, 247-279
+
+Professions' histories are littered with splinter groups and faltering competitors. These are usually ignored in official mythologies, although occasionally recalled as precursors, charlatans, or worse. [ … ] By studying interprofessional conflict, we can set the successful professions in their real context and correct our theories of their development.
 
 [ … ]
 
-##### Potential Jurisdictional Conflicts of the Legal Profession
+#### Potential Jurisdictional Conflicts of the Legal Profession
 
 Two organizational forms emerged in the late nineteenth and early twentieth centuries that generated enormous demand for legal services—the large commercial enterprise and the administrative bureaucracy. The growth of business practice involved some problems never before encountered—large-scale reorganizations, massive bond issues, tax planning, and, in America, antitrust. There were also vastly increased quantities of traditional business work. Governmental work grew similarly. It often involved practice before new tribunals, tribunals with their own staffs, their own forms of procedure, and their own sense of prerogative. Like business work, government-related work was extremely diverse, ranging from personal matters associated with the welfare state's involvement in housing and education to the corporate business generated by the state's regulatory intrusions into the economy. By contrast with business and government work, matters of land and property did not multiply but merely expanded additively with the population. [ … ]
 
@@ -184,27 +217,17 @@ Did the legal profession grow in relation to this changing body of work? Garriso
 
 [ … ]
 
-[Abbott identifies "three types of conflicts between a profession and its competitors." The first arises from an expanding jurisdiction, i.e. a profession is unable to grow fast enough to meet an increase in potential work. The expansion may be quantitative (i.e. more demand for existing types of work) or qualitative (i.e. the emergence of new types of work). In either case, the profession "faces invasion by outsiders" seeking to claim the surplus work. The second arises from a contracting jurisdiction, i.e. there is less work available relative to the size and/or productivity of the professional workforce. In this situation, the profession will seek new work, either by claiming work previously ceded to other occupations within its existing area, or by expanding into new areas. The third arises from external disruption, i.e. "the invasion of a settled jurisdiction by groups providing equivalent services at lower prices. Such invaders generally assault public jurisdiction, usually through an extensive advertising campaign. Attackers may be new to professional work or members of another established profession; they may also use special organizational forms that enable their price cutting." Abbott notes that "all three forms of conflict [have occurred] among professions contesting lawyers' jurisdictions."]
-
-[ … ]
-
-Of the three forms of conflict, two involve the failure to adjust output and demand. In many professions—and the law is one of them—output is closely tied to manpower. [ … ] [A] rigid demographic structure leaves a profession quite unable to respond to sudden expansion in demand. {% marginnote "margin-note-id" "'Demographic rigidity' describes professional career patterns that tend to 'prevent [the profession from] expanding or contracting rapidly'. See Abbott, Chap. 5." %}
-
-[ … ]
-
 Two developments allowed the American profession to avoid this situation. The first was the large firm, whose extensively divided labor accomplished more work with given resources; the Cravath firm, for example, had twenty-five lawyers by 1906 and fifty by 1923. The second was the replacement of clerkship with law school. In 1870, one-quarter of new lawyers had gone to law schools. By 1910, the figure was two-thirds. This shift decoupled the profession's rate of growth from its current size in two ways. First, not only could law schools take extra students more easily than could individual practitioners, but also, since schools were both profitable and prestigious, there was an enormous incentive to found them. There resulted an immense potential for recruitment. Second, the typical law-school career in this period was two years, not five, providing a much shorter response to demand changes.
 
 This rapid expansion was, however, accompanied by a stratification of the American bar, indicated in part by the separation of the night law school graduates from the full-time law school graduates. This stratification has important implications for the interpretation of competition between lawyers and others. Roughly speaking, the night school graduates, along with some day school graduates, dealt with the land and property jurisdiction—individual matters expanding at the rate of population growth. The graduates of the elite full-time schools and their newly huge law firms controlled the qualitatively expanding area of big business practice as well as extensive parts of the new government practice. Work in the traditional business jurisdiction, expanding in amount but not kind, was split between the two groups. Since the majority of the United States lawyer expansion came in night schools and nonelite day schools (whose graduates entered the relatively slowly expanding area of land and property), the American legal profession was moving towards the paradoxical situation of having a lower tier oversupplied with lawyers and an upper one under-supplied.
 
 [ … ]
 
-These considerations predict the following patterns of interprofessional conflicts. [ … ] [T]he qualitatively new jurisdictions of big business and governmental work [ … ] should see serious conflict,  [ … ] because of the lack of preexisting cultural jurisdiction [ … ]. In addition, the law's move into these areas may have weakened its hold elsewhere, with consequent change in settlements. The demographic power of the American profession, however, should prevent any loss of cultural jurisdiction, despite a possible weakening of settlements. [W]e expect conflicts to appear at peripheral points, and expect differential patterns in the different status levels of the profession.
+The demographic and institutional flexibility of the American lawyers, so disturbing to the elite WASP lawyers of the East Coast, in fact enabled the [profession] to handle the demand expansion with relative ease. But as we shall see, this simple picture is by no means the whole story.
 
-[ … ] The demographic and institutional flexibility of the American lawyers, so disturbing to the elite WASP lawyers of the East Coast, in fact enabled the [profession] to handle the demand expansion with relative ease. But as we shall see, this simple picture is by no means the whole story.
+#### Complaints about Unqualified Practice and Other Invasions
 
-##### Complaints about Unqualified Practice and Other Invasions
-
-**GENERAL MATTERS**
+##### GENERAL MATTERS
 
 [ … ]
 
@@ -216,7 +239,7 @@ Despite the apparent stability of routine enforcement, lawyers' _sense_ of the d
 
 [ … ]
 
-**AREAS OF CONFLICT**
+##### AREAS OF CONFLICT
 
 The areas about which lawyers complained included all of the chief legal jurisdictions—business affairs like bankruptcy and companies; property matters such as conveyancing, wills, and trusteeship; advocacy before courts and administrative tribunals; and finally, general advice on business, legal, and personal affairs. [ … ]
 
@@ -224,7 +247,7 @@ The areas about which lawyers complained included all of the chief legal jurisdi
 
 [T]he invasion of lawyers' jurisdiction was not peripheral, at least in terms of areas. On the contrary, the rates of complaints seem to follow the rates of work. For example, figures from Pennsylvania on distribution of lawyers' actual work show that property matters were the most important work for 62 percent of the Pennsylvania profession outside of Philadelphia and Pittsburgh. The correspondence with the complaints of unauthorized practice in property matters (58 percent) is extremely close. Similarly, the greater level of business complaints in the American cities reflects the equally greater importance of business work there. Of course lawyers are more likely to act on a complaint the more central the area invaded. But still, it is noteworthy that jurisdictional enforcement is not just a matter of professional borders. That this invasion occurred with peripheral _clients_, however, is easily verified from discussions of the complaints. Both in America and Britain the cases often involved small shopkeepers who refused to pay lawyers' rates for enforcing debts, as well as private individuals who sought inexpensive wills and deeds. The conflicts thus involved not change of cultural jurisdiction but largely change of clientele settlements.
 
-The national differences, however, reflect important aspects of jurisdictional claims. Advocacy, the classic heart of lawyers'jurisdiction, was of equal concern to both, as was business, perhaps because of the rapid expansion that had called forth competitors in both countries. (It is notable that business conflicts were urban in the United States and rural in England.) Advice was a different matter. Although the British believed advice to be an important legal function, they never really attempted a dominant settlement in the area. American lawyers did, presumably because their greater numbers made them believe they could reasonably uphold the claim. Finally, land and property conflicts sharply differentiated urban from upstate lawyers in the United States, but not urban from provincial solicitors in England. This indicates a second division among United States lawyers—that between rural and urban attorneys. The two status-tiers discussed before were both largely urban. The extensive competition rural lawyers faced in their basic property jurisdiction suggests possible underlawyering in the countryside, a fact often noted by rural lawyers in debate. [ … ]
+The national differences, however, reflect important aspects of jurisdictional claims. Advocacy, the classic heart of lawyers' jurisdiction, was of equal concern to both, as was business, perhaps because of the rapid expansion that had called forth competitors in both countries. (It is notable that business conflicts were urban in the United States and rural in England.) Advice was a different matter. Although the British believed advice to be an important legal function, they never really attempted a dominant settlement in the area. American lawyers did, presumably because their greater numbers made them believe they could reasonably uphold the claim. Finally, land and property conflicts sharply differentiated urban from upstate lawyers in the United States, but not urban from provincial solicitors in England. This indicates a second division among United States lawyers—that between rural and urban attorneys. The two status-tiers discussed before were both largely urban. The extensive competition rural lawyers faced in their basic property jurisdiction suggests possible under-lawyering in the countryside, a fact often noted by rural lawyers in debate. [ … ]
 
 American urban lawyers pushed out into advice giving, an area the solicitors [in England] rapidly gave up. This expansion occurred both in the upper and lower tiers of the urban profession. These lawyers had little trouble in land and property, although their country cousins—the few who remained—faced a massive invasion of this heartland jurisdiction. In England, land and property clearly became the obsession of both urban and provincial solicitors. The reversal of patterns in business practice seems, at this point, to be quite anomalous.
 
@@ -233,7 +256,7 @@ This picture complements and expands the predictions made earlier. [ … ] In th
 The overall pattern thus emerging is one of activity within constraint. Professional groups take certain jurisdictional actions partly for internal reasons involving their own structure and knowledge base, partly for external reasons like status and power, and partly because these actions are constrained by the competitive environment. [ … ]
 
 
-**AUDIENCES FOR JURISDICTIONAL CLAIMS**
+##### AUDIENCES FOR JURISDICTIONAL CLAIMS
 
 Efforts to curb unqualified practice are efforts to make the workplace relations of jurisdiction conform to the legal and public ones. As I argued before, if the lawyers have workplace jurisdiction but not public or legal jurisdiction, then they are expanding into the area. If, by contrast, they have legal and perhaps public jurisdiction, but not workplace jurisdiction, then they are facing an invasion.
 
@@ -243,20 +266,19 @@ Additional evidence comes from the differing extents of legal and public jurisdi
 
 Such complaints seldom appear in city sources. That the public jurisdiction was less extensive than the legal one in the countryside reemphasizes the interpretation here given—that provincial lawyers were too few for the business and were facing serious invasion. This is further strengthened by the fact, which we know from the actual complaints, that large amounts of legally routine law work—conveyancing and other property matters—were being done by nonlawyers. The workplace jurisdiction was even less extensive than the public one.
 
-
 In the city, as we have already seen, the arena pattern of jurisdiction shows evidence of expansion. An elegant example of this comes not from the expansion into advice giving and similar areas by the too-numerous lower-status lawyers. Rather it bespeaks an earlier expansion, at the expense of a group called conveyancers. We know that the expansion was old because the uncertainty about jurisdiction was merely at the legal level; the workplace and public jurisdictions, at least in the cities, were secure. The area immediately concerned was the drawing of wills. The legal status of this work was confusing even for lawyers themselves. Thus while most lawyers in both countries assumed that the drawing of wills was a legally established jurisdiction, it was in fact not so. In England, the Stamp Act of 1870 (33 &amp; 34 Vict., c.97) allowed an unqualified person to draw a will, power of attorney, or transfer of stock (provided the transfer contained no trusts or limitations) and to be paid for these activities. In America, when the Pennsylvania Bar Association's brand-new unauthorized practice committee reported in 1932, its chairman, a Philadelphia suburban lawyer, asserted that "the Committee feels that the writing of wills is the practice of law." W. G. Littleton of Philadelphia rose to his feet and thundered:
 
 > Is it not a fact that the writing of wills is not only not the practice of the law but in the English system lawyers themselves were not permitted to draw wills until the year 1760, when the exclusive privileges of the English association which formerly had that right were thrown open to members of the Bar, and when I come to speak, my mind running back personally as far back as 1885, when I was thrown in with that class of men who were known as conveyancers, who prepared deeds, mortgages, and other legal instruments, and wrote wills, it would be perfectly astonishing to the lawyer of that day to say that members of the conveyancers' association, whose names you probably know, some of whom I recollect, were violating any law.
 
-This passage is notable not only for its total disagreement about the legally established jurisdiction, but also for its reference to an invisible group of nonlawyer legal professionals, who had in workplace fact been ousted from this jurisdiction within the half century of Mr. Littleton's memory. The new social-history method—studying conflict to find the lost people of history—has produced a lost profession.
+This passage is notable not only for its total disagreement about the legally established jurisdiction, but also for its reference to an invisible group of non-lawyer legal professionals, who had in workplace fact been ousted from this jurisdiction within the half century of Mr. Littleton's memory. The new social-history method—studying conflict to find the lost people of history—has produced a lost profession.
 
 The Philadelphia conveyancers had been, in fact, a small, elite group of practitioners, some of whom were lawyers and some of whom were not. They normally both drafted and stored title papers, wills, and other documents. At first employed as hired specialists to abstract titles, they eventually became independent consultants. A family lawyer would consult a conveyancer concerning property to be purchased, and the conveyancer would then abstract the title and take counsel from a consulting real-estate lawyer on the title's encumbrances. As specialists in property documents, the conveyancers naturally handled wills, mortgages, trusts, and related property matters. Apparently they had strong professional structure; as Littleton mentions, they had an association. Other sources report that their examinations were felt by many to be considerably more difficult than those of the lawyers.
 
-Nonetheless, the conveyancers were destroyed, very rapidly, by a convergence of forces. The lawyers were rapidly increasing in numbers and looking for work. This threatened the conveyancers' control of wills, trusts, and similar documents. In their heartland title work, a crucial court case both gave them "professional" stature and destroyed them. In _Watson_ v. _Muirhead_ (57 PA 161, 1868), the court held conveyancers not liable for bad titles if they had taken reasonable precautions. But this left purchasers without recourse in cases of bad title, a situation the growing business community would not accept. A coalition of exasperated businessmen, lawyers, and conveyancers created in 1876 the Land Title Insurance Company (the first such corporation), to provide a mechanism for pooling the risks of property transfer. In a similar move, lawyers and bankers founded the Fidelity Trust Company to take up work with trusts and other financial matters. As a result of these changes, the conveyancers rapidly disappeared.
+Nonetheless, the conveyancers were destroyed, very rapidly, by a convergence of forces. The lawyers were rapidly increasing in numbers and looking for work. This threatened the conveyancers' control of wills, trusts, and similar documents. In their heartland title work, a crucial court case both gave them "professional" stature and destroyed them. In _Watson v. Muirhead_ (57 PA 161, 1868), the court held conveyancers not liable for bad titles if they had taken reasonable precautions. But this left purchasers without recourse in cases of bad title, a situation the growing business community would not accept. A coalition of exasperated businessmen, lawyers, and conveyancers created in 1876 the Land Title Insurance Company (the first such corporation), to provide a mechanism for pooling the risks of property transfer. In a similar move, lawyers and bankers founded the Fidelity Trust Company to take up work with trusts and other financial matters. As a result of these changes, the conveyancers rapidly disappeared.
 
 The example of the conveyancers shows again how the relative extents of jurisdictional claims can tell us much about the direction of jurisdictional change. For lawyers of the 1930s, the writing of wills was an old expansion jurisdiction, one in which they sought to convert a successful workplace invasion into publicly and legally recognized domination. That the rural public persisted in having wills drawn by banks, trust companies, prothonotaries, and aldermen indicates that this expansion had never had the success in rural areas that it enjoyed in the city.
 
-**COMPETITORS**
+##### COMPETITORS
 
 The lawyers had other antagonists besides the vanquished conveyancers. These antagonists, as I have argued throughout, provide the structure that bends the two professions in different directions. They fall into seven groups. The first are the other free professions—the accountants, the bankers, and others. The second are the other professions affiliated with the law. In America this meant notaries, foreign (out-of-state or out-of-country) lawyers, and disbarred individuals working for other lawyers. [ … ] A third group, the land professions, comprises the simple category of real estate agents in the United States [ … ]. A fourth group is local officials—justices of the peace, magistrates, police, and other municipal authorities, as well as their various clerks. [ … ] Fifth, a group of negligible importance in the United States, but of great importance in England, is national officials. [ … ] Conversely, the sixth group was more important in the United States—corporations. These include title and trust companies, insurance companies, collection agencies, legal aid societies, trade associations, and various other groups. The seventh category of offenders is a miscellaneous group of outsiders—chiefly [ … ] insurance agents in the United States.
 
@@ -268,7 +290,7 @@ The lawyers had other antagonists besides the vanquished conveyancers. These ant
 
 [ … ]
 
-**IMPORTANT CONTESTS**
+##### IMPORTANT CONTESTS
 
 To gain a clearer picture of the actual settlements of the major jurisdictional disputes, we may analyze problem areas and competitors in detail. This means replacing general classifications (free professions, national officials, land and property) with actual groups and bodies of work (accountants, the Board of Trade, trusts). [ … ]
 
@@ -284,8 +306,10 @@ In each of these competitions with companies, the lawyers preserved what I have 
 
 The notaries and foreign lawyers offer two interesting footnotes to unauthorized urban practice.The New York bar attributed the notarial problem to the city's large foreign population. The bar associations attacked "ignorant foreigners coming from countries where the 'notary' is a quasi-lawyer" for supposing that notaries were capable of performing legal actions. Eventually, perhaps because America entered the First World War as France's ally, the committee's remarks became a little less nativistic. The (later) foreign lawyer problem was similar; foreigners arriving in the 1930s often saw fit to advise fellow countrymen concerning the laws of their own land, something the bar association originally tried to attack, but later permitted. But the chief problem with foreign lawyers was their procuring offshore divorces for clients, something which drove the bar committees quite mad. Under the heading of foreign lawyers came also those large law firms from other American cities that opened New York offices. These provide the lone example in these data of a conflict, within the qualitatively new big-business jurisdiction, between members of the upper tier of the profession. Although these invaders were nationally reputable firms, the New Yorkers insisted that they announce on their letterheads their incapability of New York practice. The competition for the new commercial work was so intense as to cause fighting within the profession.
 
-The American rural scene was quite different. There lawyers were scarce and even lawyers were frank about the necessity of nonlawyers doing some legal work. In 1921, half of Pennsylvania's counties had less than forty lawyers apiece, and a quarter had less than twenty. Justices of the peace, aldermen, notaries, prothonotaries, and various other officials and laymen had perforce to do a variety of lawyers' work. Complaints about this practice surfaced most in the smaller cities like Wilkes-Barre, Allentown, and Williamsport, where the clearly defined legal systems of the cities met the locally negotiated divisions of labor characteristic of the true countryside. The rural conflicts concerned basic heartland legal work in land and property and betray all the usual signs of invasion of an underserved jurisdiction. It is striking, by comparison with the urban data, that Pennsylvania shows no sign whatever of the problems associated with collections—complaints about letters, about representation on retainer, about debt work. This too signifies a retreat to heartland work.
+The American rural scene was quite different. There lawyers were scarce and even lawyers were frank about the necessity of non-lawyers doing some legal work. In 1921, half of Pennsylvania's counties had less than forty lawyers apiece, and a quarter had less than twenty. Justices of the peace, aldermen, notaries, prothonotaries, and various other officials and laymen had perforce to do a variety of lawyers' work. Complaints about this practice surfaced most in the smaller cities like Wilkes-Barre, Allentown, and Williamsport, where the clearly defined legal systems of the cities met the locally negotiated divisions of labor characteristic of the true countryside. The rural conflicts concerned basic heartland legal work in land and property and betray all the usual signs of invasion of an underserved jurisdiction. It is striking, by comparison with the urban data, that Pennsylvania shows no sign whatever of the problems associated with collections—complaints about letters, about representation on retainer, about debt work. This too signifies a retreat to heartland work.
 
 Surprisingly, many problems related to the new government business—tax appeals and advocacy before minor and government tribunals—seem to be equally split between urban and rural American lawyers. The presumption that governmental work provided an expansion area mainly for upper-tier urban lawyers may thus be incorrect. The tax advice findings do support it, for that problem is a largely urban matter. But still, the government work may have offered more general opportunities than it seemed at the outset. Perhaps it was the attempt to enter this new jurisdiction that left the rural lawyers so open to invasion in their land and property work.
 
 [ … ]
+
+\halfsep

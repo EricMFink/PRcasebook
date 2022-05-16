@@ -1,0 +1,21 @@
+---
+
+date: Fall Term 2022
+title: Professional Responsibility
+subtitle: An Open-Source Casebook
+chapter: Law as a Regulated Profession
+
+author: Eric M. Fink
+publisher: Elon University School of Law
+
+bibliography: '../assets/bibliography/PRCasebook.yaml'
+csl: '../assets/bibliography/casebook.csl'
+citation-abbreviations: '../assets/bibliography/casebook-abbrevs.json'
+
+output:
+  pdf_document:
+    template: casebook-tufte.tex
+    path: ../PDF/2-1.pdf
+    pandoc_args: []
+
+---
