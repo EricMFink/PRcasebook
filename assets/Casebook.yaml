@@ -2,7 +2,7 @@
 
 date: Fall Term 2022
 title: Professional Responsibility
-subtitle: An Open-Source Casebook
+
 
 author: Eric M. Fink
 publisher: Elon University School of Law
@@ -20,8 +20,8 @@ epigraph-source: Madame Bovary
 
 output:
   pdf_document:
-    template: casebook-tufte.tex
-    path: ../PDF/2-1.pdf
+    template: casebook.tex
+    path: ../PDF/PRcasebook.pdf
     pandoc_args: []
 
 ---

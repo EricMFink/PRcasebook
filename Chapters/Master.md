@@ -16,7 +16,7 @@ epigraph-source: Madame Bovary
 
 output:
   pdf_document:
-    template: casebook-tufte.tex
+    template: casebook.tex
     path: ../PDF/StyleTest.pdf
     pandoc_args: []
 

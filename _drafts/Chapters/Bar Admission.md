@@ -12,7 +12,7 @@ csl: '../assets/bibliography/casebook.csl'
 
 output:
    pdf_document:
-     template: casebook-tufte.tex
+     template: casebook.tex
      path: ../PDF/Chap2.pdf
 
 ---

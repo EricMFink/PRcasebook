@@ -2,7 +2,7 @@
 
 date: Fall Term 2022
 title: Professional Responsibility
-subtitle: An Open-Source Casebook
+
 chapter: Law as a Regulated Profession
 
 author: Eric M. Fink
@@ -14,7 +14,7 @@ citation-abbreviations: '../../assets/bibliography/casebook-abbrevs.json'
 
 output:
   pdf_document:
-    template: casebook-PR.tex
+    template: casebook.tex
     path: ../PDF/1-2.pdf
     pandoc_args: []
 
