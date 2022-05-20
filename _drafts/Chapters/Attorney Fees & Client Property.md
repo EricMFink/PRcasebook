@@ -2501,7 +2501,7 @@ $20,000 for legal fees and $49,600 as a finder's commission. Murray
 became aware of these payments sometime in December of 1981.
 
 In the complaint, Murray essentially alleges breach of fiduciary duty
-arising out of an attorneyclient relationship between Mursau and G&S and
+arising out of an attorney-client relationship between Mursau and G&S and
 Goldberg and Snodgrass individually.
 
 The Defendants maintain that the 102 PPM as well as the 101 PPM, on
@@ -2514,7 +2514,7 @@ prospective limited partners to consult independent counsel.
 
 In order to recover for a breach of fiduciary duty by an attorney, the
 plaintiff has a threshold burden of showing existence of an
-attorney-client relationship. The intent to create an attorneyclient
+attorney-client relationship. The intent to create an attorney-client
 relation can be implied from the conduct of the parties where no express
 relationship exists.
 
@@ -2978,7 +2978,7 @@ attorney-client privilege and gave the government documents that
 described attorney's communication with
 
 Warley. Warley says the attorneys were representing her and KPMG and her
-attorneyclient privilege was compromised by the actions of KPMG and the
+attorney-client privilege was compromised by the actions of KPMG and the
 evidence should be suppressed. Evidence suggests there was no Upjohn
 warning. Warley's showing of her subjective belief that the attorneys
 represented her is insufficient to meet her burden of proving privilege.

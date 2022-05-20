@@ -500,7 +500,7 @@ Sargent's legal contention was not a complete explanation of the
 consequences of a third strike. But, the consequences of a third strike
 in all future cases were not put into issue by the motion. And, Sargent
 explains that the statement was meant to convey only that Cox would be
-barred from filing cases pursuant to § 1915 --- the statute at issue ---
+barred from filing cases pursuant to § 1915---the statute at issue ---
 which addresses only in forma pauperis filings. Thus, although Sargent's
 statement of the consequences of obtaining a third strike perhaps was
 not completely thorough, it can plausibly be read as a mere shorthand
@@ -1312,8 +1312,8 @@ Criminal Justice Act cases in the future if the panel was equitably
 structured had "considerable merit."
 
 Petitioner moved for rehearing en banc. In support of his motion, he
-presented an affidavit from the District Judge's secretary --- the
-addressee of the October 6 letter --- stating that she had encouraged
+presented an affidavit from the District Judge's secretary---the
+addressee of the October 6 letter---stating that she had encouraged
 him to send the letter. He also submitted an affidavit from the District
 Judge, which read in part:
 
@@ -1449,13 +1449,13 @@ criticism on such matters.
 The record indicates the Court of Appeals was concerned about the tone
 of the letter; petitioner concedes that the tone of his letter was
 "harsh," and, indeed it can be read as illmannered. All persons involved
-in the judicial process --- judges, litigants, witnesses, and court
-officers --- owe a duty of courtesy to all other participants. The
+in the judicial process---judges, litigants, witnesses, and court
+officers---owe a duty of courtesy to all other participants. The
 necessity for civility in the inherently contentious setting of the
 adversary process suggests that members of the bar cast criticisms of
 the system in a professional and civil tone. However, even assuming that
 the letter exhibited an unlawyerlike rudeness, a single incident of
-rudeness or lack of professional courtesy --- in this context --- does
+rudeness or lack of professional courtesy---in this context---does
 not support a finding of contemptuous or contumacious conduct, or a
 finding that a lawyer is "not presently fit to practice law in the
 federal courts." Nor does it rise to the level of "conduct unbecoming a
@@ -1492,7 +1492,7 @@ By LINDA GREENHOUSE
 
 Sptoari to "n>e New York Times
 
-WASHINGTON. June 24 --- It was a fight over principle and pnde between a
+WASHINGTON. June 24---It was a fight over principle and pnde between a
 33-year-old lawyer from Bismarck. N.D., and the United States Court of
 Appeals for the Eighth Circuit.
 
@@ -1578,7 +1578,7 @@ case.
 
 Chief Justice Burger's opinion, In re Snyder. No. 84-310, was terse. He
 said that while "all persons involved in the judicial process ---
-judges, litigants, witnesses, and court officers --- owe a duty of
+judges, litigants, witnesses, and court officers---owe a duty of
 courtesy to all other participants," Mr. Snyder's behavior had not
 demonstrated that he was unfit to practice In the Federal courts. "We do
 not consider a lawyer's criticism of the administration or the act.**
@@ -1749,7 +1749,7 @@ for adjustment of status on the children's last day to depart
 voluntarily, approximately three months later; and (6) by failing to
 supervise Gardner in filing a petition for writ of habeas corpus.
 
-B. Gadda v. Ashcroft --- appeal from BIA disciplinary proceedings
+B. Gadda v. Ashcroft---appeal from BIA disciplinary proceedings
 
 Based on the State Bar Court's order, on October 2, 2001, the BIA
 suspended Gadda from practice before the BIA, the Immigration Courts,
@@ -1911,7 +1911,7 @@ ago that Cebo Lima Mejia started to wonder whether his lawyer was taking
 him for a very costly nde Mr. Mejia, a Guatemalan immigrant who was
 residing illegally in the United States, said lie had already paid
 Miguel Gadda S3.6D0 to help him apply for asylum. Mr. Mejia recalled in
-a recent interview that Mr Gadda promised him that the legal fees --- a
+a recent interview that Mr Gadda promised him that the legal fees---a
 large chunk of his annual pay of about $ 20,000 as a handyman - would
 land him a coveted prize: a green card allowing him to come out from the
 shadows and
@@ -1921,8 +1921,8 @@ live in the United States as a permanent residem
 But immigration authorities rejected the application, and Mr. Mejia said
 Mr. Gadda pressed him for the extra $1,000 to appeal the decision.
 Until that point. Mr. Mejia said. Mr. Gadda had done virtually no work
-on the case --- "He hadn't even done any prep work with me before my
-hearina. --- but his asylum appbcauon had revealed him lo immigration
+on the case---"He hadn't even done any prep work with me before my
+hearina.---but his asylum appbcauon had revealed him lo immigration
 authorities Mr. Mejia, who is now 29. felt that he had to keep fighting,
 so he scrounged up the money And that was the last lime he saw Mr.
 Gadda.
@@ -1930,9 +1930,9 @@ Gadda.
 When Mr Mejia found a deportation order in his mail in 2001. he rushed
 in pantc to his lawyer's office "But the office wasn't there anymore,
 and there was nowhere to find him," said Mr. Mejia, who gained
-permanent resident status --- his
+permanent resident status---his
 
-green card --- after turnmg to a second lawyer hr described as "my
+green card---after turnmg to a second lawyer hr described as "my
 angel "
 
 Mr. Mejia wasn't Mr. Gadda's only victim. When the State Bar of
@@ -2814,7 +2814,7 @@ observed continuing misconduct during the trial itself.
 Early in the trial, an episode occurred when defense counsel brought to
 the Court's attention that after an instruction to a witness not to
 discuss his testimony during a break in his testimony for lunch, Ira and
-Marvin Kurzban had approached the witness and had a discussion --- with
+Marvin Kurzban had approached the witness and had a discussion---with
 an open deposition transcript in hand. Marvin Kurzban responded,
 "That's a lie." The Kurzbans then explained that they had the
 transcript open because they were looking at it, but that they were not
@@ -2861,7 +2861,7 @@ ability to get a page typed. And instead I ended up having names called
 at me and a confrontation. I only bring it to the Court's attention
 because I am concerned about the record being clear. I feel this Court
 Reporter for whatever reason ... I don't know the gentlemen, never met
-him before --- is either unstable based on his reaction and not
+him before---is either unstable based on his reaction and not
 competent to be reporting or has some bias.
 
 At the next recess, I asked the Court Reporter what had happened. He
@@ -2882,7 +2882,7 @@ the remainder of the trial.
 
 I learned that accusations of bias followed any disagreement with
 positions espoused by Plaintiff's counsel: "There's no question that
-he's entitled to it, so it's no --- if I understand what Your Honor's
+he's entitled to it, so it's no---if I understand what Your Honor's
 saying, you don't want it to go in front of the jury for whatever
 reason." "Your Honor, I know you're angry at me, but I hope you're not
 taking it out on my client." "In fact, I think that the Court has
@@ -2914,7 +2914,7 @@ flailing of arms. I warned counsel about this behavior.
 After the episode of Marvin Kurzban laughing at my ruling, I asked
 counsel to approach the bench. Marvin Kurzban responded: "I didn't
 laugh. What I started doing was writing a note, saying to my brothea...
-I didn't realize I was saying it out loud --- we're not trying his
+I didn't realize I was saying it out loud---we're not trying his
 case. That's what the objection was, because he's telling about his
 problems." Ira Kurzban then interjected: "I'd like to add, Your Honor,
 there's a continuing pattern of conduct we believe shows enormous bias
@@ -3563,7 +3563,7 @@ arbitration. That approach is puzzling. To begin with, arbitration is
 not an annex to litigation, but an alternative method for dispute
 resolution. Treating arbitration as if it were an appendage to
 adjudication is a mistake that would undermine the very purpose of
-arbitration --- "the provision of a relatively quick, efficient and
+arbitration---"the provision of a relatively quick, efficient and
 informal means of private dispute settlement." Parties agree to
 arbitration to avoid litigation; they voluntarily surrender judicial
 remedies in favor of an extrajudicial process.
@@ -3697,7 +3697,7 @@ district court nor in direct defiance of its orders.
 
 If inherent authority were expanded to cover Camina's conduct, there
 would be nothing to prevent courts from inserting themselves into the
-thicket of arbitrable issues --- precisely where they do not belong.
+thicket of arbitrable issues---precisely where they do not belong.
 Such an expansion would also threaten the integrity of federal
 arbitration law in the name of filling a gap that does not exist. We
 therefore REVERSE the sanctions 95 and REMAND for any further
@@ -3762,7 +3762,7 @@ By Ian Johnaon
 
 Or THE SENTINEL STATE
 
-DELAND --- While topless dancers entertained patrons inside Porky's bar
+DELAND---While topless dancers entertained patrons inside Porky's bar
 when it opened for the first time Monday, about 7S people stood outside,
 carrying placards objecting to the entertainment.
 
@@ -3840,7 +3840,7 @@ topless bars from unincorpor ated areas.
 But a representative of the first top less bar to open in an
 unincorporated area said the show will continue Kay Samero, a spokesman
 for TDJ Inc., the corporation that runs Porky's, east of DeLand on U.S.
-Highway 92, said topless dancers will perform --- at least until the
+Highway 92, said topless dancers will perform---at least until the
 ordinance banning the prac tice is filed with the Florida Secretary of
 State's office.
 
@@ -5127,7 +5127,7 @@ seen one. Whiteside "got the
 
 
 
-impression at one time that maybe if I didn't go along with --- with
+impression at one time that maybe if I didn't go along with---with
 what was happening, that it was no gun being involved, maybe that he
 will pull out of my trial."
 
@@ -5272,7 +5272,7 @@ accorded a presumption of correctness by the courts below was that
 Whiteside's "proposed testimony would have been deliberately
 untruthful." The lower courts did not purport to presume the correctness
 of the Iowa Supreme Court's holding concerning the mixed question
-respondent identifies --- whether Robinson's response to Whiteside's
+respondent identifies---whether Robinson's response to Whiteside's
 proposed testimony deprived Whiteside of effective representation.
 
 B
@@ -5435,8 +5435,8 @@ handful of gravel.
 
 As we view this case, it appears perfectly clear that respondent
 intended to commit perjury, that his lawyer knew it, and that the lawyer
-had a duty --- both to the court and to his client, for perjured
-testimony can ruin an otherwise meritorious case --- to take extreme
+had a duty---both to the court and to his client, for perjured
+testimony can ruin an otherwise meritorious case---to take extreme
 measures to prevent the perjury from occurring. The lawyer was
 successful and, from our unanimous and remote perspective, it is now
 pellucidly clear that the client suffered no "legally cognizable
@@ -5445,14 +5445,14 @@ prejudice."
 Nevertheless, beneath the surface of this case there are areas of
 uncertainty that cannot be resolved today. A lawyer's certainty that a
 change in his client's recollection is a harbinger of intended perjury
---- as well as judicial review of such apparent certainty --- should be
+--- as well as judicial review of such apparent certainty---should be
 tempered by the realization that, after reflection, the most honest
 witness may recall (or sincerely believe he recalls) details that he
 previously overlooked. Similarly, the post-trial review of a lawyer's
 pretrial threat to expose perjury that had not yet been committed ---
-and, indeed, may have been prevented by the threat --- is by no means
+and, indeed, may have been prevented by the threat---is by no means
 the same as review of the way in which such a threat may actually have
-been carried out. Thus, one can be convinced --- as I am --- that this
+been carried out. Thus, one can be convinced---as I am---that this
 lawyer's actions were a proper way to provide his client with effective
 representation without confronting the much more difficult questions of
 what a lawyer must, should, or may do after his client has given
@@ -7014,7 +7014,7 @@ L. Rev. 713 (1997)
 - Eleanor H. Norton, Bargaining and the Ethic of Process, 64 N.Y.U. L.
 Rev. 493 (1989)
 
-- Daisy H. Floyd, Can the Judge Do That? --- The Need for a Clearer
+- Daisy H. Floyd, Can the Judge Do That?---The Need for a Clearer
 Judicial Role in
 
 Settlement, 26 Ariz. St. L.J. 45 (1994)

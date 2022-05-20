@@ -1,33 +1,12 @@
-# 3.2. The Duty of Care
+\chap{Malpractice}
 
-Attorneys may be liable for malpractice if they violate any of their fiduciary duties of care, loyalty, impartiality, or confidentiality. However, the standard for liability may differ depending on the duty at issue. Attorneys may be liable for a violation of the duty of care only if they are negligent. But they may be liable for any violation of the duties of loyalty, impartiality, and confidentiality under a strict liability standard
+The term "legal malpractice" is sometimes used generally to refer to any claim against an attorney for breach of fiduciary duty, and sometimes more specifically for claims involving the duty of care. The elements of such claims are similar to other torts: the existence of a duty, breach of the duty, and harm caused by the breach. In claims based on the duty of care, the standard of liability is negligence, i.e. failure to exercise the degree of care of a reasonably prudent attorney under similar circumstances. In contrast, attorneys may be strictly liable for breaching the duties of loyalty, impartiality, or confidentiality.
 
-Under the duty of care, attorneys must always exercise reasonable care under the circumstances. Attorneys are professionals, so the professional standard of care applies. In other words, an attorney must exercise the standard of care that an ordinary attorney would exercise under similar circumstances. If an attorney breaches the duty of care, then the attorney is negligent, and may be liable in tort for malpractice.
+# Existence of a Duty
 
-By contrast, under the duties of loyalty, impartiality, and confidentiality, attorneys must always avoid conflicts of interest, provide candid advice, and protect confidential information. Any violation of these duties is a tort, irrespective of negligence. In effect, they are analogous to strict liability torts.
+\case{Marker v. Greenberg}{313 N.W.2d 4}{Minn. 1981}
 
-_The Elements of the Tort of Legal Malpractice_
-
-Legal malpractice is a tort, with the same basic elements as any other tort claim: duty, breach, causation, and damages. An attorney has a duty only if an attorney-client relationship exists. Accordingly, the plaintiff in an action claiming legal malpractice must prove:
-
-
-- Existence of an attorney-client relationship
-
-- Breach of a legal duty
-
-- Factual causation of harm
-
-- Proximate causation of harm
-
-- Actual damages
-
-_Legal Duty_
-
-Attorneys owe legal duties to their clients, but do not owe legal duties to non-clients. Accordingly, the threshold question in a malpractice action is whether the plaintiff is a client to whom the attorney owes legal duties.
-
-# <a href="https://scholar.google.com/scholar_case?case=4179748777495646780">Marker v. Greenberg, 313 N.W.2d 4 (Minn. 1981)</a> 
-
-_Summary:_ Theodore Marker hired attorney Robert Greenberg for estate planning services. Among other things, Greenberg prepared deeds conveying real estate to Marker and his son as joint tenants. When Marker died, the real estate was subject to estate tax. Marker's son sued Greenberg for malpractice, alleging that if the real estate had been conveyed as tenants in common, it would not have been subject to estate tax. The trial court granted Greenberg's motion for summary judgment and the appeals court affirmed, holding that Marker's son lacked an attorney-client relationship with Greenberg, and could not bring a malpractice action as a beneficiary of the estate because he received the property. 
+### SCOTT, Justice.
 
 This is an appeal from an order of the Hennepin County District Court in a legal malpractice action brought by the surviving joint tenant against the attorney who drafted the deed. By that order the trial court granted respondent Robert Greenberg's motion for summary judgment on the grounds that plaintiff could not bring the action absent an attorney-client relationship and that the six-year statute of limitations barred the action since the statutory period began to run in 1973 when the alleged negligence occurred. We affirm.
 
@@ -49,7 +28,7 @@ The relaxation of the strict privity requirement is very limited, however. Espec
 
 In determining the extent of an attorney's duty to a non-client, courts frequently consider the factors expressed by the _Lucas_ court:
 
-> The determination whether in a specific case the defendant will be held liable to a third person not in privity is a matter of policy and involves the balancing of various factors, among which are the extent to which the transaction was intended to affect the plaintiff, the foreseeability of harm to him, the degree of certainty that the plaintiff suffered injury, the closeness of the connection between the defendant's conduct and the injury, and the policy of preventing future harm.
+The determination whether in a specific case the defendant will be held liable to a third person not in privity is a matter of policy and involves the balancing of various factors, among which are the extent to which the transaction was intended to affect the plaintiff, the foreseeability of harm to him, the degree of certainty that the plaintiff suffered injury, the closeness of the connection between the defendant's conduct and the injury, and the policy of preventing future harm.
 
 Applying these factors to the deed drafted by respondent for appellant's father reveals that the respondent owed no duty to appellant. This is not a case where the property did not pass to the intended recipient upon the death of the testator. The deed was effective at the time it was recorded in 1973. There was no invalidity in the deed. Appellant does not allege that the disposition of the property was contrary to the intent of his father. The benefit which Theodore Marker wished to give to his son was the joint ownership of the property, and this was accomplished by the documents.
 
@@ -59,39 +38,36 @@ The facts of the instant case are more similar to those of _Hiemstra v. Huston_.
 
 In the case before us, the objective of the deed was to transfer ownership of the real estate to joint tenancy between the father and the son. The complaint alleges no invalidity in the documents and no conflict of the result with decedent's intentions. The estate taxes that were due at Theodore Marker's death were the natural result of the form of ownership chosen by the decedent and not the result of any negligence by respondent. In this case summary judgment was proper. We therefore need not discuss the disputed application of the statute of limitations.
 
-# Questions 
+\halfsep
 
-Quick Reminder: 
+\Begin{questions}
 
-Joint Tenancy is where the interest of the decedent is automatically transferred to the surviving joint tenant upon death. 
+1. Why didn't Marker have an attorney-client relationship with Greenberg?
+2. Was Greenberg negligent? Would Marker's father have had a malpractice action against Greenberg?
+3. Who is the real party in interest: Marker or his father's estate? Why did Marker's father choose joint tenancy rather than tenancy in common? What outcome was Marker's father trying to accomplish? Did Greenberg help him achieve that outcome? All else being equal, do you think Marker's father would have wanted to minimize the tax?
 
-However, with a Tenancy in Common, the decedent's interest in the property is determined by the terms of the will. 
+\End{questions}
 
-Why didn't Marker have an attorney-client relationship with Greenberg? # Questions 
+# Breach of the Duty
 
-Was Greenberg negligent? Would Marker's father have had a malpractice action against Greenberg?
+\case{Equitania Ins, v. Slone & Garrett}{191 S.W.3d 552}{Ky. 2006}
 
-Who is the real party in interest: Marker or his father's estate? Why did Marker's father choose joint tenancy rather than tenancy in common? What outcome was Marker's father trying to accomplish? Did Greenberg help him achieve that outcome? All else being equal, do you think Marker's father would have wanted to minimize the tax? 
 
-_Breach of Duty_
-
-If an attorney-client relationship exists, then the attorney owes certain legal duties to the client. In order to prevail in a malpractice action, the plaintiff must prove that the attorney breached one of those legal duties. However, different duties have different liability standards.
-
-# <a href="https://scholar.google.com/scholar_case?case=17856615835761866048">Equitania Ins. v. Slone & Garrett, 191 S.W.3d 552 (Ky. 2006)</a> 
-
-_Summary:_ Attorney Laurel Garrett represented Vimont in a shareholder dispute. Vimont filed a malpractice claim against Garrett, alleging that she provided unsound advice. The trial court instructed the jury that attorneys are not liable for errors of judgment, and the jury found for Garrett. The Supreme Court reversed, holding that attorneys must exercise ordinary care under the circumstances. 
+WINTERSHEIMER, Justice.
 
 This appeal is from an opinion of the Court of Appeals which affirmed a judgment of the circuit court based on a summary judgment/jury verdict that rejected the claim of the Equitania Insurance Company and its Vimont shareholder group for legal malpractice against Garrett and her law firm.
 
 The major issues are whether the proper standard for proving liability in a legal malpractice case was followed and whether the instructions given by the trial judge to the jury regarding specific factual issues violated the rule in favor of barebones jury instructions.
 
-Two groups of shareholders, the Vimont group, composed of four of the shareholders, and the Pavenstedt group, composed of a group of shareholders led by Johann Pavenstedt began to vie for control of Equitania, an insurance company which provided insurance for horse owners. After the Vimont group bought out the Pavenstedt group, the company continued to decline in its efforts to return a profit. Vimont eventually entered an agreement to sell the book of business to Markel Insurance Company. That deal was closed in January 1995. In March of that year, the Vimont group filed a civil action in circuit court, seeking to rescind the agreement between them and the Pavenstedt group. That case was assigned to Fayette Circuit Judge Gary Payne. A judgment was rendered against the Vimont group and it was upheld by the Court of Appeals in an unpublished opinion.
+Two groups of shareholders, the Vimont group, composed of four of the shareholders, and the Pavenstedt group, composed of a group of shareholders led by Johann Pavenstedt began to vie for control of Equitania, an insurance company which provided insurance for horse owners.
+
+After the Vimont group bought out the Pavenstedt group, the company continued to decline in its efforts to return a profit. Vimont eventually entered an agreement to sell the book of business to Markel Insurance Company. That deal was closed in January 1995. In March of that year, the Vimont group filed a civil action in circuit court, seeking to rescind the agreement between them and the Pavenstedt group. That case was assigned to Fayette Circuit Judge Gary Payne. A judgment was rendered against the Vimont group and it was upheld by the Court of Appeals in an unpublished opinion.
 
 Laurel Garrett and the law firm of Slone & Garrett represented the Vimont group in its attempt to gain control of the company prior to Vimont buying the shares of Pavenstedt. As a result of that representation, Vimont filed a civil action against Garrett in circuit court in February of 1997, alleging legal malpractice by Garrett in connection with her representation. That case was assigned to Fayette Circuit Judge John R. Adams and it is the principal subject of this appeal. Judge Adams ruled against Vimont and the Court of Appeals upheld that decision. This appeal followed.
 
 This case is a complex legal malpractice claim brought by Vimont against Garrett alleging that she negligently advised them during the midst of the shareholder dispute. They claim that Garrett negligently failed to properly advise them as to how to retain control of the corporation; that the methods she advised violated the insurance code; violated a fiduciary duty to shareholders; was unethical, and was substantially more expensive. The circuit judge granted Garrett a partial summary judgment based on his interpretation of the contract which was different from the interpretation made by the circuit judge in the earlier civil case. The other portion of the claim was resolved in favor of Garrett by a jury verdict. The Court of Appeals upheld the decision of the circuit court, and this Court granted discretionary review.
 
-I. Jury Instructions
+#### I. Jury Instructions
 
 Correct instructions are absolutely essential to an accurate jury verdict. The fundamental function of instructions is to tell the jury what it must believe from the evidence in order to resolve each dispositive factual issue in favor of the party who has the burden of proof on that issue.
 
@@ -103,71 +79,38 @@ The jury instructions given by the trial court over the objection by Vimont were
 
 The given instructions were incorrect for several reasons. It was properly preserved because there was an objection to Instruction No. 2 in the submitted instructions.
 
-Kentucky law does not provide for an exception for attorney liability for errors in judgment. A case relied on by the Court of Appeals, _Daugherty v. Runner_, stated that misjudgment of the law will generally not render a lawyer liable. However, _Daugherty_ did not state that a lawyer can never be held liable for an error in judgment. The tendered instructions did not advise the jury that it had to be an error of law which precluded liability, nor did it inform the jury that there are circumstances in which misjudgment of the law could be a basis for liability. There can be many circumstances in which lawyers can commit errors of judgment which deviate from the standard of care. Whether an error of judgment is legal malpractice is a question of fact for the jury.
+Kentucky law does not provide for an exception for attorney liability for errors in judgment. A case relied on by the Court of Appeals, _Daugherty v. Runner_, stated that misjudgment of the law will generally not render a lawyer liable. However, Daugherty did not state that a lawyer can never be held liable for an error in judgment. The tendered instructions did not advise the jury that it had to be an error of law which precluded liability, nor did it inform the jury that there are circumstances in which misjudgment of the law could be a basis for liability. There can be many circumstances in which lawyers can commit errors of judgment which deviate from the standard of care. Whether an error of judgment is legal malpractice is a question of fact for the jury.
 
-Vimont offered an expert, Manning Warren, to evaluate the methods undertaken by Garrett to assist the company in its shareholders dispute. Specifically, Warren testified that Garrett should have pursued an administrative process with the Department of Insurance to join the Vimont group to the Pavenstedt agreement which, if successful, would have resulted in the shareholders maintaining control of Equitania and would have resolved the issue. This would have avoided a prolonged battle with Pavenstedt and would have avoided spending over two million dollars by buying the stock. They also would have avoided the issues with the Department of Insurance regarding change of control as a result of their purchase. It was their conclusion that Garrett committed ongoing malpractice by failing to advise them of change of control issues. Warren further testified that it was a deviation to fail to pursue this option. However, it is apparently undisputed that the Department of Insurance would not have approved a Pavenstedt sale even if it had been properly submitted.
+Vimont offered an expert, Manning Warren, to evaluate the methods undertaken by Garrett to assist the company in its shareholders dispute. Specifically, Warren testified that Garrett should have pursued an administrative process with the Department of Insurance to join the Vimont group to the Pavenstedt agreement which, if successful, would have resulted in the shareholders maintaining control of Equitania and would have resolved the issue. This would have avoided a prolonged battle with Pavenstedt and would have avoided spending over two million dollars by buying the stock. They also would have avoided the issues with the Department of Insurance regarding change of control as a result of their purchase. It was their conclusion that Garrett committed ongoing malpractice by failing to advise them of change of control issues. Warren further testified that it was a deviation to fail to pursue this option.
+
+However, it is apparently undisputed that the Department of Insurance would not have approved a Pavenstedt sale even if it had been properly submitted.
 
 Kentucky should not allow lawyers to avoid liability for committing errors in judgment which the average reasonably prudent lawyer would not commit. Any avoidance of liability should only be allowed for errors of judgment made in absolute good faith.
 
 Here, Garrett failed to plead or present evidence regarding her alleged errors in judgment so as to justify her decision. The error in judgment instruction indirectly required the jury to define and understand abstract legal principles. The jury could not have reasonably understood the distinction between errors in judgment and legal malpractice. It is of interest to note that the instruction provided by Vimont in this case is similar to the instructions provided in Daugherty.
 
-The proper jury instruction must follow a form similar to that in _Palmore_:
+The proper jury instruction must follow a form similar to that in _Palmore_ :
 
 > It was the duty of Defendant in undertaking the legal representation of Plaintiff to exercise the degree of care and skill expected of a reasonably competent lawyer acting under similar circumstances. If you are satisfied from the evidence that Defendant failed to comply with this duty and that such failure was a substantial factor causing the loss, you will find for Plaintiff; otherwise you will find for Defendant.
 
-This instruction form contains the elements prescribed in Daugherty without requiring the jury to understand abstract legal principles. The jury is able to determine from the evidence whether there was a breach of duty and whether that breach caused the loss.
+This instruction form contains the elements prescribed in _Daugherty_ without requiring the jury to understand abstract legal principles. The jury is able to determine from the evidence whether there was a breach of duty and whether that breach caused the loss.
 
 Consequently, under the circumstances regarding the instructions, this matter is reversed and remanded. The decisions of the Court of Appeals and the trial court are reversed and this matter is remanded to the trial court for a jury determination as to all factual issues.
 
-# Questions
+\halfsep
 
-Why was Garrett's advice unsound? What was her defense?
+\Begin{questions}
 
-How should juries evaluate malpractice claims alleging violations of the duty of care? What is the correct standard of liability?
+1. Why was Garrett's advice unsound? What was her defense?
+2. How should juries evaluate malpractice claims alleging violations of the duty of care? What is the correct standard of liability?
 
-What did the court mean by: "Any avoidance of liability should only be allowed for errors of judgment made in absolute good faith"?
+\End{questions}
 
-How would you define the "reasonably prudent lawyer"? 
+# Harm Caused by the Breach
 
-_Causation of Harm_
+\case{Daugherty v. Runner}{581 S.W.2d 12}{Ky. Ct. App. 1978}
 
-Clients can recover for malpractice only if their attorney's negligence was both:
-
-- the "factual" or "but for" cause; and
-
-- proximate cause of a legally cognizable harm.
-
-An attorney who is negligent but causes no harm is not liable for malpractice.
-
-Courts typically apply the "suit within a suit" or "trial within a trial" doctrine to legal malpractice actions. Under this doctrine, the factfinder must determine not only how the attorney's breach of duty affected the action, but also how the action would have ended without the breach of duty. In other words, the client must prove that the attorney's breach of duty caused a foreseeably worse outcome.
-
-Accordingly, an attorney is not liable for malpractice if the client's injury was inevitable. For example, an attorney who negligently fails to file an action with no chance of success is not liable for negligence. But what if the action had a small chance of success? And what if the action had no chance of success, but still had settlement value?
-
-In an action for transactional malpractice, the client must prove that the attorney's breach of duty caused a worse outcome than non-breach would have caused. For example, the client could show that alternative actions would have produced a better result.
-
-The client must also prove that the attorney's negligence was the proximate cause of the injury. In other words, the plaintiff must provide that a reasonable attorney under the circumstances would have foreseen the injury.
-
-In theory, causation is a straightforward concept. Attorneys are liable for malpractice only if their actions caused a harm that they could have foreseen. But in practice, causation of harm and foreseeability can be difficult to determine in the face of diverse probabilities and uncertain counterfactuals.
-
-For example, consider the following scenarios:
-
-- The attorney advises the client not to accept a $10,000 settlement for a $100,000 damages claim, and the jury rules for the defendant.
-
-- The attorney advises the client not to accept a $10,000 settlement for a $100,000 damages claim, and the judge grants the defendant's motion for summary judgment.
-
-- The attorney advises the client not to accept a $10,000 settlement for a $100,000 damages claim, and the judge grants the defendant's motion to dismiss.
-
-- Before discovery, the attorney advises the client not to accept a $10,000 settlement for a $100,000 damages claim before discovery. After discovery, the client accepts a $5,000 settlement.
-
-- The attorney advises the client to accept a $10,000 settlement for a $100,000 damages claim, and the client later obtains a $50,000 settlement.
-
-- The attorney advises the client to accept a $10,000 settlement for a $100,000 damages claim. The client accepts the settlement, but could have obtained a $20,000 settlement.
-
-In each of these circumstances, has the attorney caused a foreseeable harm?
-
-# <a href="https://scholar.google.com/scholar_case?case=12689582563538777092">Daugherty v. Runner, 581 S.W.2d 12 (Ky. Ct. App. 1978)</a> 
-
-_Summary:_ Lula Daugherty Roach died in the hospital after a car accident. Runner represented Roach's estate, and filed an action against the other driver, but not against the hospital. The estate eventually hired another attorney to file a medical malpractice action, but it was barred by the statute of limitations. The estate filed a malpractice action against Runner for failing to file a medical malpractice action. The jury found for Runner, but also held that the estate would have recovered $146k in a medical malpractice action. The court of appeals affirmed, holding that Runner did not necessarily violate the duty of care. 
+### HAYES, Judge.
 
 This appeal is from a judgment entered pursuant to a jury verdict which exonerated the appellee, an attorney, from the charges of legal malpractice. The charges of the legal malpractice claim arose from a medical malpractice cause of action on behalf of the deceased, Lula Daugherty Roach. This type of action is commonly referred to as a "suit within a suit." The basis for the legal malpractice claim is that appellee Runner, while representing the deceased Roach for injuries sustained in an automobile accident, failed to pursue a medical malpractice claim by the estate of Roach against the hospital where Roach was treated for her injuries after her accident and against the doctors who treated her, until her claim was barred by the statute of limitations.
 
@@ -221,17 +164,27 @@ Appellant offered proof that Runner was contacted by members of Mrs. Roach's fam
 
 The other important testimony was that the Roach family, including Daugherty, a brother of Mrs. Roach, had discussed, among themselves, the medical malpractice case as early as December, 1972. They had in fact contacted two attorneys in Lexington, who declined the case. They were aware of the statute of limitations.
 
-The family then proceeded to northern Kentucky, where on March 15, 1973, they employed the "second attorney" to represent the estate in the medical malpractice case. He filed no complaint. Some time after July 28, 1973, he turned the case over to the appellant's current attorney, who on August 1, 1973, filed a medical malpractice claim in Fayette Circuit Court which was subsequently dismissed as barred by the statute of limitations.
+The family then proceeded to northern Kentucky, where on March 15, 1973, they employed the "second attorney" to represent the estate in the medical malpractice case. He filed no complaint.
 
-Under these circumstances the question of whether Runner had exercised the degree of care and skill expected of a reasonably competent attorney was a question for the jury to decide. This is true especially in light of the fact that there was disputed testimony concerning whether the possibility of a medical malpractice action had been discussed with Runner.
+Some time after July 28, 1973, he turned the case over to the appellant's current attorney, who on August 1, 1973, filed a medical malpractice claim in Fayette Circuit Court which was subsequently dismissed as barred by the statute of limitations.
+
+Under these circumstances the question of whether Runner had exercised the degree of care and skill expected of a reasonably competent attorney was a question for the jury to decide.
+
+This is true especially in light of the fact that there was disputed testimony concerning whether the possibility of a medical malpractice action had been discussed with Runner.
 
 The issue of Runner's negligence was submitted to the jury under the following instructions:
 
-> 4\. It was the duty of the defendant, E. Michael Runner, Attorney at Law, in undertaking the legal representation of the Estate of Lula Daugherty Roach, to exercise that degree of care and skill expected of a reasonably competent lawyer acting in the same or similar circumstances about which you have heard evidence, and this general duty, included the following specific duties: \(A\) Not to undertake representation in a legal matter in which he knew or should have known he was not competent without associating with himself a lawyer that was competent to handle it; \(B\) Not to undertake representation in a legal matter without preparation adequate in the circumstances. 5\. The Jury will answer the following interrogatory: Do you believe from the evidence that the defendant, E. Michael Runner, failed in one or more of the duties imposed upon him by instruction number 4, and such failure was the substantial factor in the Estate of Lula Daugherty Roach not recovering the award set out in instruction number 3 and incorporated in Verdict A?
+> (1) It was the duty of the defendant, E. Michael Runner, Attorney at Law, in undertaking the legal representation of the Estate of Lula Daugherty Roach, to exercise that degree of care and skill expected of a reasonably competent lawyer acting in the same or similar circumstances about which you have heard evidence, and this general duty, included the following specific duties:
+>
+> >	(a) Not to undertake representation in a legal matter in which he knew or should have known he was not competent without associating with himself a lawyer that was competent to handle it;
+>
+> >	(b) Not to undertake representation in a legal matter without preparation adequate in the circumstances.
+>
+> (2) The Jury will answer the following interrogatory: Do you believe from the evidence that the defendant, E. Michael Runner, failed in one or more of the duties imposed upon him by instruction number 4, and such failure was the substantial factor in the Estate of Lula Daugherty Roach not recovering the award set out in instruction number 3 and incorporated in Verdict A?
 
 Nine of the jurors answered the question in the negative. While we may have found differently had we sat as jurors in this case, we believe there is sufficient evidence to support this jury's verdict, and we therefore will not disturb it. Based upon the conflicting evidence, we fail to see how Runner was negligent as a matter of law.
 
-We note that the trial court's instruction mistakenly required the jury to find that Runner's breach of duty, if any, was "the" substantial factor in the plaintiff's failure to recover. The instruction should have read, "a" substantial factor. However, the trial court was not made aware of the error by objection, and it has not been raised on appeal, nor could it be. For this reason we are not able to review the question. In any event, it does not appear to be so substantial as to have caused the plaintiff any prejudice.
+We note that the trial court's instruction mistakenly required the jury to find that Runner's breach of duty, if any, was "the" substantial factor in the plaintiffs failure to recover. The instruction should have read, "a" substantial factor. However, the trial court was not made aware of the error by objection, and it has not been raised on appeal, nor could it be. For this reason we are not able to review the question. In any event, it does not appear to be so substantial as to have caused the plaintiff any prejudice.
 
 In conclusion, we would add that we do agree somewhat with a statement appellant makes in his well-written brief. Appellant states thusly:
 
@@ -239,19 +192,21 @@ In conclusion, we would add that we do agree somewhat with a statement appellant
 
 To that, we would simply repeat that all the evidence in this case was submitted to a jury of twelve citizens of this community, nine of whom found for the attorney. Even though we may have found differently had we sat as jurors in this case, we cannot disturb their verdict, as it was sufficiently supported by the evidence.
 
-# Questions
+\halfsep
 
-What was the harm to Roach's estate? Could Runner have prevented that harm? Could anyone else have prevented the harm?
+\Begin{questions}
 
-What was the error in the jury instructions? Do you agree with the court's conclusion that the error was not prejudicial? 
+1. What was the harm to Roach's estate? Could Runner have prevented that harm? Could anyone else have prevented the harm?
+2. What was the error in the jury instructions? Do you agree with the court's conclusion that the error was not prejudicial?
 
-# <a href="https://scholar.google.com/scholar_case?case=14068277850550158496">TIG Ins. v. Giffin Winning Cohen & Bodewes, 444 F. 3d 587 (7th Cir. 2006)</a> 
+\End{questions}
 
-_Summary:_ The Giffin Winning Law Firm represented Illinois State University ("ISU"), defendant, in a gender discrimination action, and failed to produce three gender equity studies to Joel Bellows, attorney for the plaintiffs. Subsequently, Latham & Watkins replaced Giffin Winning. Soon afterward, Gorrell, a former employee of ISU, gave Bellows the studies and claimed they were based on a nonexistent database. Bellows moved to sanction Giffin Winning and ISU for not producing the database, and TIG paid Latham & Watkins $1.2 million to defend ISU. The action ultimately settled, and TIG filed a malpractice action against Giffin Winning for failing to produce the studies. The district court dismissed the action, and the circuit court affirmed, holding that TIG failed to allege proximate cause because the injury was not foreseeable. 
+\case{TIG Ins, v. Giffin, Winning, Cohen & Bodewes}{444 F. 3d 587}{7th Cir. 2006}
+### EVANS, Circuit Judge.
 
 TIG Insurance Company appeals the dismissal of its malpractice case against the Giffin Winning law firm and one of its attorneys, Carol Hansen Posegate.
 
-To explain the malpractice claim we must reach back to the underlying lawsuit, in which Giffin Winning, at least for a time, represented Illinois State University (ISU) in a class-action, gender-discrimination lawsuit brought by several female professors. In the suit, the plaintiffs contended that they were being paid less than male professors and that ISU retaliated against female professors who complained about the discrimination. Their attorney was Joel Bellows. TIG was ISU's liability insurer at the time and it paid the attorney fees which are at the heart of the present malpractice action; TIG, in turn, was reimbursed by its reinsurers.
+To explain the malpractice claim we must reach back to the underlying lawsuit, in which Giffin Winning, at least for a time, represented Illinois State University (ISU) in a class-action, genderdiscrimination lawsuit brought by several female professors. In the suit, the plaintiffs contended that they were being paid less than male professors and that ISU retaliated against female professors who complained about the discrimination. Their attorney was Joel Bellows. TIG was ISU's liability insurer at the time and it paid the attorney fees which are at the heart of the present malpractice action; TIG, in turn, was reimbursed by its reinsurers.
 
 The malpractice alleged in the present case arose out of discovery problems in the case. The major problem involved Giffin Winning's failure to produce three documents called gender equity studies (two of which are at issue here) in their response to a discovery request. The response was signed in October 1996. A month later the case was stayed. Soon thereafter, the law firm of Latham & Watkins filed an appearance on behalf of ISU and essentially took control of ISU's defense, though Giffin Winning remained of record. Latham had an attorney-client relationship with ISU's insurer TIG. Giffin Winning did not.
 
@@ -265,23 +220,33 @@ For his part, Bellows filed a motion for sanctions against both ISU and Giffin W
 
 We now arrive at the essence of the case---the pivotal facts about the database. At a 4-day hearing on the pending motions, Gorrell testified that the database contained variables relevant to the issue of gender equity and was maintained in a format which enabled a user to prepare comparative studies. He testified that the gender equity studies were prepared from this database. He said he had done one of the studies himself, though he also said he had never personally accessed the database. The actual data processing, he said, was done by his research assistant, Anna Wells, and her preparation of the data for his 1994 study would have taken her no more than a day or two using the database:
 
-> Q How long did it take Anna Wells to compile the information for the 1994 study? A It could be done in a day or two.
-
-That apparently was news to Wells. She testified that she did not use any database in compiling the data.
-
-> Q Ms. Wells, when you collected the information reflected in these tables, was there a single source that you could go to to collect all the information reflected in the tables? A No. Q Was there a single database maintained by the Planning Policy department that contained all of the information reflected in these tables? A No.
+> Q How long did it take Anna Wells to compile the information for the 1994 study?
+>
+> A It could be done in a day or two.
+>
+> That apparently was news to Wells. She testified that she did not use any database in compiling the data.
+>
+> Q Ms. Wells, when you collected the information reflected in these tables, was there a single source that you could go to to collect all the information reflected in the tables?
+>
+> A No.
+>
+> Q Was there a single database maintained by the Planning Policy department that contained all of the information reflected in these tables?
+>
+> A No.
 
 She used hard copy (probably the same 279 banker boxes of material which had, in fact, been produced to Bellows), and it took her "a few weeks, several weeks" to locate the information and format it for use. Why? Because, as Judge Mihm found, there was no database and never had been:
 
 > I don't believe that the plaintiffs have ever established the existence of the kind of database that I thought was being alleged here, that there was some button at ISU that could be punched that would involve a print-out of all this information. That clearly is not true. The nonexistence of the database---which Bellows said there was an alleged conspiracy to hide---is not seriously contested.
 
-Nevertheless, Judge Mihm sanctioned Giffin Winning $10,000 for discovery lapses, a sanction which was later vacated. Judge Mihm, however, wisely denied Bellows' request for a default judgment based on the failure to produce the gender equity studies. He remarked that "I don't believe it was appropriate---but even if I had ordered that, I think that would have been reversed on appeal." In addition, although he denied Latham's motion to disqualify Bellows because of his contact with Gorrell, Judge Mihm sanctioned Bellows $10,000 as well. Ultimately, the case was settled; mercifully, we think.
+Nevertheless, Judge Mihm sanctioned Giffin Winning $10,000 for discovery lapses, a sanction which was later vacated. Judge Mihm, however, wisely denied Bellows' request for a default judgment based on the failure to produce the gender equity studies. He remarked that "I don't believe it was appropriate---but even if I had ordered that, I think that would have been reversed on appeal." In addition, although he denied Latham's motion to disqualify Bellows because of his contact with Gorrell, Judge Mihm sanctioned Bellows $10,000 as well.
+
+Ultimately, the case was settled; mercifully, we think.
 
 We now get to the present malpractice action that TIG filed against Giffin Winning in which the damages TIG alleges are the attorney fees it paid Latham to defend against the sanction motion---a whopping $1.2 million, give or take, for the work of 27 attorneys and various paralegals. It seems that when Latham said it took the motion seriously, it meant it. As we said, TIG paid the bill and was subsequently reimbursed by its reinsurers.
 
 The elements of a legal malpractice action in Illinois are well-settled. They are: "(1) the existence of an attorney-client relationship that establishes a duty on the part of the attorney; (2) a negligent act or omission constituting a breach of that duty; (3) proximate cause; and (4) damages." A legal malpractice case is similar to any other negligence claim, and traditional principles apply. Proximate cause describes two distinct requirements---cause in fact and legal cause. Cause in fact exists only if the defendant's conduct was a "material element and a substantial factor in bringing about the injury." Legal cause, on the other hand, is largely a question of foreseeability. The relevant inquiry is whether "the injury is of a type that a reasonable person would see as a likely result of his or her conduct." The occurrence must have been "reasonably" foreseeable: "Not what actually happened, but what the reasonably prudent person would then have foreseen as likely to happen, is the key to the question of reasonableness."
 
-This is not the same as (but, in this case, necessarily a bit difficult to distinguish from) a determination as to whether the fees themselves are reasonable. For purposes of proximate cause, if the fees do not reflect work reasonably, foreseeably related to the negligence alleged in the case, it does not matter that in some other sense they might be "reasonable." We draw this distinction in response to TIG's argument, that because the fees were paid, they are _prima facie_ reasonable. In this situation, we find the argument breathtaking, say nothing of irrelevant.
+This is not the same as (but, in this case, necessarily a bit difficult to distinguish from) a determination as to whether the fees themselves are reasonable. For purposes of proximate cause, if the fees do not reflect work reasonably, foreseeably related to the negligence alleged in the case, it does not matter that in some other sense they might be "reasonable." We draw this distinction in response to TIG's argument, that because the fees were paid, they are prima facie reasonable. In this situation, we find the argument breathtaking, say nothing of irrelevant.
 
 Proximate cause is the issue on which this case falters. Having said that, we recognize that the Illinois courts indicate that proximate cause should ordinarily be decided not as a matter or law, but by a trier of fact. However, in a situation in which it is clear as a matter of law that the injury could not have been foreseeable, Illinois courts have upheld summary judgment on the issue. The situation before us is such a case.
 
@@ -289,49 +254,50 @@ The fundamental negligence allegedly committed by Giffin Winning was a failure t
 
 In this all-too-common situation, the question for us is whether it would be reasonably foreseeable that a failure to produce these documents would result in the injury alleged here. Could the attorneys foresee that Gorrell, who failed to produce the documents when they turned the request over to him, would then, after he became disgruntled with ISU, independently provide the documents to Bellows? Beyond that, would reasonable people foresee that Gorrell would mislead Bellows about a database which did not exist? Would reasonable people then think that, upon hearing Gorrell's story, Bellows' first impulse would be to move for sanctions including default judgment in the case? Would reasonable people foresee that, next, a large law firm, apparently thinking of Judge Mihm as a bit trigger-happy, would jump into high gear out of fear of default judgment and launch an army of 27 attorneys, plus paralegals, to defend against the possibility that Judge Mihm might grant default judgment on the basis of an alleged conspiracy to hide something which does not exist? In other words, was the Latham response to a failure to produce documents and the resulting injury foreseeable?
 
-We think it was not as a matter of law. Our point can be illustrated by a very different sort of negligence action. In _Abrams_, the city failed to send an ambulance for a woman, Abrams (of course), who was in labor. A friend, who then drove her to the hospital, ran a red light and collided with a car driven by a drug-and-alcohol-impaired driver with a suspended license. Abrams was seriously injured and spent 2 weeks in a coma; sadly, her baby died. The court found, however, that as a matter of law there was no proximate cause. The city could not have foreseen the situation that unfolded. Perhaps a bit callously, the court remarked that "millions of women in labor make it safely to the hospital each year by private transportation."
+We think it was not as a matter of law. Our point can be illustrated by a very different sort of negligence action. In Abrams, the city failed to send an ambulance for a woman, Abrams (of course), who was in labor. A friend, who then drove her to the hospital, ran a red light and collided with a car driven by a drug-and-alcohol-impaired driver with a suspended license. Abrams was seriously injured and spent 2 weeks in a coma; sadly, her baby died. The court found, however, that as a matter of law there was no proximate cause. The city could not have foreseen the situation that unfolded. Perhaps a bit callously, the court remarked that "millions of women in labor make it safely to the hospital each year by private transportation."
 
 It is also true---though less tragically so---that countless failures to produce documents occur in the federal courts every year. That is not a good thing. But we are not at a point at which it is foreseeable that such a failure will spawn a million-dollar bill for attorney fees. If it were, litigation would become more of a blood sport than it already is. Lawyers would be even more obsessive about irrelevant and tedious details. No good could come of it.
 
 There is, in fact, nothing which distinguishes the failure to produce in this case with countless others. Judge Mihm himself made this point in response to Bellows' argument that this was the worst discovery abuse he had ever seen. Judge Mihm said:
 
-> But you said in your 34 years of practice this was the most shocking thing you had ever seen in terms of this discovery issue. I wonder what kind of practice you've had if that's the case because, boy, in the scheme of things, I've seen things 50 times worse than this.
+But you said in your 34 years of practice this was the most shocking thing you had ever seen in terms of this discovery issue. I wonder what kind of practice you've had if that's the case because, boy, in the scheme of things, I've seen things 50 times worse than this.
 
 What is foreseeable as a result of a failure to produce documents is the reasonable procedure set out in Civil Rule of Civil Procedure 37, which provides for sanctions only after other reasonable efforts to work out disagreements fail. It may be that, as Judge Mihm also said, that did not happen enough in this case. But ISU and Giffin Winning could hardly be expected to foresee all this trouble over a phantom database. Why would they? It was ISU's alleged database and Giffin Winning was representing ISU at the time. They knew of no database; they were hiding no database; there was no database. For Giffin Winning's carelessness in failing to produce documents (which Bellows had in his possession), the sanction of $10,000 might well have been sustained on appeal. But as a matter of law, the injury alleged here was not reasonably foreseeable.
 
-# Questions
+\halfsep
 
-What was TIG's injury? Did Giffin Winning's negligence cause that injury?
+\Begin{questions}
 
-Why did the court hold that TIG's injury was not reasonably foreseeable? Was TIG's injury a reasonably foreseeable risk?
+1. What was TIG's injury? Did Giffin Winning's negligence cause that injury?
+2. Why did the court hold that TIG's injury was not reasonably foreseeable? Was TIG's injury a reasonably foreseeable risk?
 
-Why do you think this case became a claim for malpractice? Why wasn't this resolved by a motion to compel pursuant to Federal Rules of Civil Procedure 37? 
+\End{questions}
 
-_Damages_
+# Damages
 
-The plaintiff in a legal malpractice action can only recover actual damages, and can only recover damages that were reasonably foreseeable by the defendant. As a consequence, the plaintiff must prove the amount of damages, and cannot recover speculative damages.
+\case{Kituskie v. Corbman}{714 A. 2d 1027}{Pa. 1998}
 
-# <a href="https://scholar.google.com/scholar_case?case=16979297434076297810">Kituskie v. Corbman, 714 A. 2d 1027 (Pa. 1998)</a> 
+### CASTILLE, Justice.
 
-_Summary:_ Kituskie was injured by Trapp in a car accident while on vacation in California. He returned home to Pennsylvania and hired attorney Corbman to represent him in a tort action. Corbman negligently failed to file an action within California's one-year statute of limitations, and advised Kituskie to file a legal malpractice action against Corbman's law firm. The jury awarded Kituskie $2.3 million in damages against Corbman. The appellate court vacated the judgment and remanded, holding that the jury must consider the collectability of damages, and that the defendant bears the burden of proof that damages are not collectable. The Supreme Court affirmed. 
-
-This Court granted allocatur in this matter in order to address two issues. The first issue is whether the collectibility of damages in an underlying action is relevant to and, therefore, admissible in a legal malpractice action. The second issue is, if collectibility of damages should be considered, which party bears the burden of proving collectibility. Because we find that collectibility of damages in the underlying action should be considered in a legal malpractice action and that the defendant/attorney bears the burden of proof, we affirm the order of the Superior Court and remand for further proceedings consistent with this opinion.
+This Court granted allocatur\marginnote{Allocatur is the Pennsylvania Supreme Court's analog to Certiorari by the U.S. Supreme Court. Pennsylvania judicial procedure is replete with similarly whimsical terms, lending a Dickensian air to litigation in the Keystone State.} in this matter in order to address two issues. The first issue is whether the collectibility of damages in an underlying action is relevant to and, therefore, admissible in a legal malpractice action. The second issue is, if collectibility of damages should be considered, which party bears the burden of proving collectibility. Because we find that collectibility of damages in the underlying action should be considered in a legal malpractice action and that the defendant/attorney bears the burden of proof, we affirm the order of the Superior Court and remand for further proceedings consistent with this opinion.
 
 The facts relevant to this appeal are not in dispute. Leo J. Kituskie is a Pennsylvania resident who is a practicing periodontist. On September 3, 1989, Kituskie was injured in a two-car automobile accident during his vacation in San Jose, California. The traffic collision report for the accident stated that a vehicle being driven by Evan Mark Trapp crossed a highway on-ramp into the path of Kituskie's automobile after it struck a curb and a cyclone fence. The traffic collision report also indicated that Trapp was driving while intoxicated and that his vehicle was being operated at the time of the accident at a high rate of speed. After the accident, Kituskie returned to the Philadelphia area in order to begin treatment for his injuries. As a result of this automobile accident, Kituskie avers that he suffers from a degenerative and arthritic back condition which makes it difficult for him to work full-time as a periodontist.
 
 On September 9, 1989, Kituskie retained Scott K. Corbman, Esquire, to pursue his claim against Trapp for the personal injuries he sustained in the accident. Corbman is an attorney licensed to practice law in the Commonwealth of Pennsylvania and is a principal/shareholder in the law firm of Garfinkle, Corbman, Greenberg and Jurikson, P.C.
 
-Corbman proceeded to obtain Kituskie's medical reports. After reviewing the medical reports, Corbman made a claim on Kituskie's behalf against Trapp's insurance carrier, California State Automobile Association ("CSAA"). During settlement negotiations with CSAA, Corbman learned that Trapp's insurance policy had a limit of $25,000.
+Corbman proceeded to obtain Kituskie's medical reports. After reviewing the medical reports, Corbman made a claim on Kituskie's behalf against Trapp's insurance carrier, California State Automobile Association ("CSAa.). During settlement negotiations with CSAA, Corbman learned that Trapp's insurance policy had a limit of $25,000.
 
 On September 17, 1990, more than one year after the accident, Corbman discovered that the California statute of limitations for injuries such as those suffered by Kituskie was only one year as opposed to the two-year statute of limitations in Pennsylvania. CSAA ultimately informed Corbman that it would not make a settlement offer to Kituskie because the one-year statute of limitations had passed without Corbman instituting a formal legal action. As soon as Corbman learned this information, Corbman met with Kituskie and informed him that his claim had been terminated because no suit was filed or settlement reached within the one-year statute of limitations period. During this meeting, Corbman advised Kituskie to seek the services of another attorney in order to assert a legal malpractice claim against Corbman and the Garfinkle firm.
 
 On August 28, 1991, Kituskie, represented by new counsel, filed a legal malpractice claim against Corbman and the Garfinkle law firm in the Montgomery County Court of Common Pleas. Immediately prior to jury selection, counsel for each side filed motions in limine requesting that each side be precluded from presenting expert testimony on the issue of CSAA possibly settling the matter within the policy limits of Trapp's policy. Neither of these motions dealt directly with the issue of whether the jury in this legal malpractice action could consider Kituskie's ability to collect on an underlying judgment against Trapp. However, the trial court, realizing that its resolution of whether collectibility of damages in an underlying case could be an issue at trial, withheld its disposition of the two motions in limine. On January 6, 1995, prior to commencing the trial in this matter, the trial court decided that collectibility of damages in an underlying case was not relevant to a legal malpractice claim in Pennsylvania. Thus, the trial court granted both motions in limine.
 
-Following a trial on the matter, on January 11, 1995, a jury found that Corbman and the Garfinkle firm were liable to Kituskie for legal malpractice in the amount of $2,300,000. Corbman and the Garfinkle firm appealed to the Superior Court. The Superior Court, in a published opinion, vacated the judgment and remanded for further proceedings because it held that the collectibility of damages in an underlying case should be considered in a legal malpractice action. The Superior Court also held that the attorney being sued for legal malpractice bore the burden of proving as a defense in the form of mitigation of damages that the potential underlying case which formed the basis of the legal malpractice award would have been uncollectible. This Court granted allocatur in order to decide whether collectibility should be part of a legal malpractice action and, if so, which party bears the burden of proof as to that issue.
+Following a trial on the matter, on January 11,1995, a jury found that Corbman and the Garfinkle firm were liable to Kituskie for legal malpractice in the amount of $2,300,000. Corbman and the Garfinkle firm appealed to the Superior Court. The Superior Court, in a published opinion, vacated the judgment and remanded for further proceedings because it held that the collectibility of damages in an underlying case should be considered in a legal malpractice action. The Superior Court also held that the attorney being sued for legal malpractice bore the burden of proving as a defense in the form of mitigation of damages that the potential underlying case which formed the basis of the legal malpractice award would have been uncollectible. This Court granted allocatur in order to decide whether collectibility should be part of a legal malpractice action and, if so, which party bears the burden of proof as to that issue.
 
 In order to establish a claim of legal malpractice, a plaintiff/aggrieved client must demonstrate three basic elements:
 
-> 1\) employment of the attorney or other basis for a duty; 2\) the failure of the attorney to exercise ordinary skill and knowledge; and 3\) that such negligence was the proximate cause of damage to the plaintiff.
+1. employment of the attorney or other basis for a duty;
+2. the failure of the attorney to exercise ordinary skill and knowledge; and
+3. that such negligence was the proximate cause of damage to the plaintiff.
 
 An essential element to this cause of action is proof of actual loss rather than a breach of a professional duty causing only nominal damages, speculative harm or the threat of future harm. Damages are considered remote or speculative only if there is uncertainty concerning the identification of the existence of damages rather than the ability to precisely calculate the amount or value of damages. In essence, a legal malpractice action in Pennsylvania requires the plaintiff to prove that he had a viable cause of action against the party he wished to sue in the underlying case and that the attorney he hired was negligent in prosecuting or defending that underlying case (often referred to as proving a "case within a case").
 
@@ -341,16 +307,17 @@ Like these other jurisdictions, this Court believes that collectibility of damag
 
 Because this Court has concluded that collectibility of damages is an issue which should be considered in legal malpractice actions, we now must decide who bears the burden of proof. While other jurisdictions considering the issue of collectibility of damages have unanimously concluded that collectibility is a part of a legal malpractice action, they have been split on which party in the legal malpractice action bears the burden of proof. A majority of courts in other jurisdictions have placed the burden of proving collectibility on the plaintiff because it is viewed as being closely related to the issue of proximate cause, a burden which clearly the plaintiff bears as part of his prima facie case. In doing so, these courts place the burden on the plaintiff because a plaintiff can prove that the attorney's malfeasance was the proximate cause of his loss only if he demonstrates that he would have succeeded on the underlying action and that he would have succeeded in collecting on the resulting judgment.
 
-A minority of courts in other jurisdictions, however, have rejected the majority's line of reasoning and placed the burden of proving non-collectibility on the defendant/attorney. These courts have recognized that the plaintiff must prove a case within a case. These minority of courts, however, do not believe that it logically follows from the case within a case burden of proof that the plaintiff must also prove that the damages in the underlying case would have been collectible. Instead, these courts believe that the burden of proof in a legal malpractice action only requires the plaintiff to prove a loss of judgment on a valid claim. To require the plaintiff to also prove collectibility of damages would result in placing an unfair burden on the plaintiff where the plaintiff's legal malpractice action is often brought years after the initial accident causing his injuries solely because the defendant/lawyer failed to act in a timely and competent manner. Thus, the minority of courts believe that it is more logical and fair to treat collectibility as an affirmative defense which the defendant/attorney must plead and prove in order to avoid or mitigate the consequences of that attorney's negligent acts. Moreover, this minority has criticized the majority position because it ignores the possibility of settlement between the plaintiff and the underlying tortfeasor and also overlooks that the passage of time itself can be a militating factor either for or against collectibility of the underlying case.
+A minority of courts in other jurisdictions, however, have rejected the majority's line of reasoning and placed the burden of proving non-collectibility on the defendant/attorney. These courts have recognized that the plaintiff must prove a case within a case. These minority of courts, however, do not believe that it logically follows from the case within a case burden of proof that the plaintiff must also prove that the damages in the underlying case would have been collectible. Instead, these courts believe that the burden of proof in a legal malpractice action only requires the plaintiff to prove a loss of judgment on a valid claim. To require the plaintiff to also prove collectibility of damages would result in placing an unfair burden on the plaintiff where the plaintiffs legal malpractice action is often brought years after the initial accident causing his injuries solely because the defendant/lawyer failed to act in a timely and competent manner. Thus, the minority of courts believe that it is more logical and fair to treat collectibility as an affirmative defense which the defendant/attorney must plead and prove in order to avoid or mitigate the consequences of that attorney's negligent acts. Moreover, this minority has criticized the majority position because it ignores the possibility of settlement between the plaintiff and the underlying tortfeasor and also overlooks that the passage of time itself can be a militating factor either for or against collectibility of the underlying case.
 
 After considering both positions, this Court finds the reasoning of the minority position to be more persuasive. Thus, we adopt the minority position and hold that a defendant/lawyer in a legal malpractice action should plead and prove the affirmative defense that the underlying case was not collectible by a preponderance of the evidence.
 
 Accordingly, for the reasons expressed above, we find that the Superior Court correctly held that collectibility of damages in an underlying case is a matter which must be considered in a legal malpractice action and that the defendant/lawyer bears the burden of proving that the underlying case which formed the basis of the damages award in a legal malpractice action would not have been fully collectible. Therefore, the order of the Superior Court is affirmed and the matter remanded for further proceedings.
 
-# Questions
+\halfsep 
 
-Why did the court hold that Kituskie could only recover collectable damages? Why couldn't he recover all of his damages?
+\Begin{questions}}
 
-Why did the court hold that Corbman bore the burden of proving that damages were not collectable? Will it be hard for Corbman to prove the damages were not collectable, under the circumstances?
+1. Why did the court hold that Kituskie could only recover collectable damages? Why couldn't he recover all of his damages?
+2. Why did the court hold that Corbman bore the burden of proving that damages were not collectable? Will it be hard for Corbman to prove the damages were not collectable, under the circumstances?
 
-Why would Corbman advise his client to file a malpractice action against Corbman and his firm after Corbman failed to file the California action prior to the statute of limitations? 
+\End{questions}

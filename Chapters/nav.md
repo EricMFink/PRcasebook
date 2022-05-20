@@ -1048,7 +1048,7 @@ title: Professional Responsibility An Open Source Casebook
 585. [572](302.html#572)
 586. [573](302.html#573)
 587. [/ yi.> fj & ^ ------ g ss/ <* ^x:<^ g.](302.html#n572_1)
-588. [1 ■ 1 )A£ JA. £Sl // ^ --- /s 7 ~ ~ a](302.html#n572_2)
+588. [1 ■ 1 )A£ JA. £Sl // ^---/s 7 ~ ~ a](302.html#n572_2)
 589. [574](303.html#574)
 590. [575](303.html#575)
 591. [576](304.html#576)

@@ -532,7 +532,7 @@ We conclude that client-identifying data with respect to persons
 receiving legal assistance through the Law Project constitute matters
 clearly covered by the Rules of Professional Conduct as "information
 relating to representation." Such material is also covered under the
-attorneyclient privilege and the former Disciplinary Rule as information
+attorney-client privilege and the former Disciplinary Rule as information
 in the nature of client secrets that could be embarrassing or
 detrimental to the client if revealed. Under these strictures we are
 satisfied that it would be improper to reveal such information to either
@@ -1109,7 +1109,7 @@ Responsibility Exam.
 
 We have concluded that ODC established one ethical violation in addition
 to those recognized by the Commission. However, that violation
-ultimately did not harm Tennant's clients --- the Harshmans redeemed
+ultimately did not harm Tennant's clients---the Harshmans redeemed
 their property. Further, the additional violation does not undermine the
 Commission's overall conclusions on the evidence presented, and on this
 record we are not inclined to deviate from the discipline recommended by
@@ -1810,7 +1810,7 @@ Comment T31
 
 
 The principle of client-lawyer confidentiality is given effect by
-related bodies of law: the attorneyclient privilege, the work product
+related bodies of law: the attorney-client privilege, the work product
 doctrine and the rule of confidentiality established in professional
 ethics. The attorney-client privilege and work product doctrine apply in
 judicial and other proceedings in which a lawyer may be called as a
@@ -2243,7 +2243,7 @@ On Tuesday, April 24, 1984, the body of Carol Jones was found in her
 home in Grants Pass, Oregon. She had been struck numerous times on the
 head, arms and hands with a blunt object. A gun cabinet in the home had
 been forced open and a .44 caliber revolver was missing. Two of Jones'
-children --- Michael, age 14, and Tanya, age 10 --- were also missing.
+children---Michael, age 14, and Tanya, age 10---were also missing.
 The fingerprints of Robert McClure, a friend of Jones, were found in the
 blood in the home. On Saturday, April 28, McClure was arrested in
 connection with the death of Carol Jones and the disappearance of the
@@ -2390,8 +2390,8 @@ disclosure of the locations of the children. He emphasized that "it all
 happened relatively quickly" and that there was a public "hysteria about
 these kids, whether the kids were dead, whether the kids were alive."
 Mecca reiterated that much of the later conversations with McClure
-consisted of hypotheticals and fantasies --- "like he was playing a game
-with me" --- but that it was clear that McClure wanted to tell him where
+consisted of hypotheticals and fantasies---"like he was playing a game
+with me"---but that it was clear that McClure wanted to tell him where
 the children were. Mecca stated in his deposition that "the condition of
 the children was never discussed," but that the insistence by McClure's
 mother and sister that McClure wouldn't hurt the children put him "in
@@ -2612,8 +2612,8 @@ he lacked the kind of informed consent that would give him the legal
 authority to act.
 
 However, the findings reached by the state and district courts are not
-so "implausible" --- particularly in light of the district court's
-credibility determinations --- that they produce a "definite and firm
+so "implausible"---particularly in light of the district court's
+credibility determinations---that they produce a "definite and firm
 conviction that a mistake has been committed." The district court
 believed Mecca's account at the evidentiary hearing, disbelieved
 McClure's, and found the discrepancies in Mecca's testimony to be
@@ -2659,8 +2659,8 @@ those
 
 
 consequences and the importance of good counsel regarding them. Even in
-cases in which the negative ramifications seem obvious --- for example,
-when criminal defendants opt for selfrepresentation --- we require that
+cases in which the negative ramifications seem obvious---for example,
+when criminal defendants opt for selfrepresentation---we require that
 a criminal defendant's decision be made on the basis of legal guidance
 and with full cautionary explanation. We disagree with the district
 court's conclusion that this case was so exceptional that the attorney's
@@ -2759,8 +2759,8 @@ call, he thought there was a "possibility," but not a "strong
 possibility," that the children were alive.
 
 McClure argues that the statement Mecca says abruptly changed his mind
-about the status of the children --- McClure's comment that "Jesus
-saved the kids" --- was so vague and ambiguous that it was not a
+about the status of the children---McClure's comment that "Jesus
+saved the kids"---was so vague and ambiguous that it was not a
 sufficient basis for a "reasonable belief" that disclosure was
 necessary. Despite Mecca's acknowledgment that this comment led him only
 to "assume" that McClure was saying the children were alive, Mecca never
@@ -2814,9 +2814,9 @@ This is a close case, even after we give the required deference to the
 state and district courts. The choices made by McClure's counsel give us
 significant pause, and, were we deciding this case as an original
 matter, we might decide it differently. But we take as true the district
-court's specific factual findings as to what transpired --- including
+court's specific factual findings as to what transpired---including
 what McClure said and did, and what actions Mecca took and why he took
-them --- and we conclude that Mecca made the disclosure "reasonably
+them---and we conclude that Mecca made the disclosure "reasonably
 believing it was necessary to prevent the client from committing a
 criminal act that Mecca believed was likely to result in imminent death
 or substantial bodily harm." Mecca therefore did not violate the duty of
@@ -3381,7 +3381,7 @@ on Colton alone a new summons in substance identical to the earlier ones
 as modified by the stipulation. Colton again appeared on March 24, 1961,
 in response to this second summons, but gave the Service no more
 satisfaction than he had at his first appearance, again declining on the
-basis of the attorneyclient privilege to answer certain questions
+basis of the attorney-client privilege to answer certain questions
 concerning tax work his firm might have done for the Matters.
 
 Colton now offers to answer by affidavit thirteen of the questions he
@@ -3450,9 +3450,9 @@ committing a crime or tort; and (4) the privilege has been (a) claimed
 and (b) not waived by the client.
 
 There can, of course, be no question that the giving of tax advice and
-the preparation of tax returns --- which unquestionably constituted a
+the preparation of tax returns---which unquestionably constituted a
 very substantial part of the legal services rendered the Matters by the
-Colton firm --- are basically matters sufficiently within the
+Colton firm---are basically matters sufficiently within the
 professional competence of an attorney to make them prima facie subject
 to the attorney-client privilege. But, although the word
 "communications" must be broadly interpreted in this context, the
@@ -3483,8 +3483,8 @@ before us, we note that the government states that this question is
 relevant to a determination whether the attorney-client relationship
 actually existed, as well as to the propriety of deductions for legal
 fees taken by the taxpayers in their returns for those years. Such
-matters are surely relevant, and --- in the absence of allegations as to
-special circumstances --- we see no reason why an attorney should be any
+matters are surely relevant, and---in the absence of allegations as to
+special circumstances---we see no reason why an attorney should be any
 less subject to questioning about fees received from a taxpayer than
 should any other person who has dealt with the taxpayer. There is no
 further encroachment here upon any confidential relationship than there
@@ -3505,7 +3505,7 @@ attorney preparing a tax return (as the questioning agent attempted to
 establish Colton did for the Matters), a good deal of information
 transmitted to an attorney by a client is not intended to be
 confidential, but rather is given for transmittal by the attorney to
-others --- for example, for inclusion in the tax return. Such
+others---for example, for inclusion in the tax return. Such
 information is, of course, not privileged.
 
 It was also proper for agent Kurtzuk, in Questions 16 and 18, to inquire
@@ -3515,7 +3515,7 @@ least insofar as it can be separated from their essentially professional
 legal services, gives rise to no privilege whatever. Indeed, Colton
 admitted at the Service hearing that he sometimes gave "a little
 investment advice" to his clients. Because Colton's work for the
-Matters --- both legal and non-legal --- may thus have involved
+Matters---both legal and non-legal---may thus have involved
 unprivileged communications with them, it is proper for the Service in
 its search for unprivileged matters not only to inquire into the years
 during which he rendered "legal services" but also to explore, as it
@@ -3758,8 +3758,8 @@ frequently provide inadequate or ambiguous guidance in the face of
 specific factual circumstances. So it is here.
 
 This litigation focuses on two professional standards of attorney
-confidentiality --- (i) the evidentiary attorney-client privilege and
-(ii) the broader ethical duty of confidentiality --- and their
+confidentiality---(i) the evidentiary attorney-client privilege and
+(ii) the broader ethical duty of confidentiality---and their
 application to the specific facts presented. Understanding the
 distinction between these two standards is essential to the matter at
 bar. For that reason, it is worth describing them here in some detail.
@@ -3834,7 +3834,7 @@ Responsibility, which states: "A Lawyer Should Preserve the Confidences
 and Secrets of a Client." The corresponding Disciplinary Rules provide
 in relevant part:
 
-DR4-101. Preservation of Confidences and Secrets of a Client. --- (A)
+DR4-101. Preservation of Confidences and Secrets of a Client.---(A)
 "Confidence" refers to information protected by the attorney-client
 privilege under applicable law, and "secret" refers to other information
 gained in the professional relationship that the client has requested be
@@ -3883,7 +3883,7 @@ they apply in different contexts. Succinctly put, the evidentiary
 attorney-client privilege arises only where disclosures are sought to be
 compelled in some litigation context, whereas the broader ethical duty
 arises in the context of voluntary or uncompelled disclosures, typically
-outside a litigation context. More particularly, the attorneyclient
+outside a litigation context. More particularly, the attorney-client
 privilege is an evidentiary privilege applicable where someone seeks to
 compel an attorney or his client to reveal communications between lawyer
 and client made for the purpose of securing a legal opinion or legal
@@ -3895,9 +3895,9 @@ party seeks to overcome it. Significantly, however, the evidentiary
 attorney-client privilege does not control where disclosures occur, or
 potential disclosures are contemplated, in circumstances involving
 uncompelled disclosure and no judicial scrutiny. In such circumstances,
-the ethical duty --- with its appropriately higher standard of
+the ethical duty---with its appropriately higher standard of
 protection against unwarranted disclosure of suspected fraudulent
-activities --- governs.
+activities---governs.
 
 Given this, in proving its claim that Doe is obligated to maintain its
 confidences pursuant to the ethical duty, X Corp. bears the initial
@@ -3952,7 +3952,7 @@ The attorney-client privilege was created by the courts, and its scope
 is defined by the courts. Accordingly, the attorney-client privilege
 differs from jurisdiction to jurisdiction. However, the Restatement of
 the Law Governing Lawyer describes the paradigmatic form of the
-attorneyclient privilege.
+attorney-client privilege.
 ---
 lang: en
 title: "Federal Rule of Evidence 501: Privilege in General"
@@ -4254,7 +4254,7 @@ Silver's apartment. About fifteen minutes later, one neighbor heard a
 II
 
 Appellant's primary argument on appeal is that the court erred when it
-ruled that the attorneyclient privilege did not attach to a conversation
+ruled that the attorney-client privilege did not attach to a conversation
 that he had with his girlfriend at the time, Tina Ducharme, who was also
 a lawyer.
 
@@ -4347,7 +4347,7 @@ reason to depart from our usual standard of review for factual findings
 by a trial court; i.e., we must uphold that court's determination of
 the facts unless it is "plainly wrong or without evidence to support
 it." In particular, a trial court's "findings of fact relevant to the
-essential elements of a claim of attorneyclient privilege will not be
+essential elements of a claim of attorney-client privilege will not be
 overturned unless clearly erroneous." This standard of review places a
 heavy burden on appellant. Because appellant has not shown that the
 trial court's factual findings were clearly erroneous or, in the words
@@ -4825,7 +4825,7 @@ enforcement authorities to protect them from harm.
 
 We discern no reason to depart from the Purcell decision, and hold that
 Moe's communications were made in furtherance of the rendition of legal
-services and thus protected by the attorneyclient privilege. The
+services and thus protected by the attorney-client privilege. The
 Commonwealth's argument to the contrary essentially raises an issue of
 germaneness. Scholars, commentators, and courts have formulated a number
 of tests for
@@ -4897,7 +4897,7 @@ documents
 
 
 
---- twenty-four produced with redactions and one withheld in full --- to
+--- twenty-four produced with redactions and one withheld in full---to
 the Court for an in camera review to determine whether the
 communications at issue are shielded from disclosure by the
 attorney-client privilege and/or the work product doctrine.
@@ -4971,15 +4971,15 @@ after Equisoft provided Mr. Keating with their privilege log, Mr.
 Keating filed a motion to compel requesting that Equisoft produce every
 document on its privilege log not already produced because (1) Mr.
 Synnott, a foreign attorney, is not "a member of the bar of a court" as,
-Mr. Keating claims, is necessary for the attorneyclient privilege to
+Mr. Keating claims, is necessary for the attorney-client privilege to
 apply, (2) the attorney-client privilege cannot apply where the
 challenged communications do not include a lawyer as a sender or a
 recipient, and (3) the work product doctrine cannot apply where the
 documents at issue were not prepared by an attorney or his
 representative.
 
-Since the filing of that motion --- which was mooted by Order of the
-Court --- the parties have reduced the universe of documents in dispute
+Since the filing of that motion---which was mooted by Order of the
+Court---the parties have reduced the universe of documents in dispute
 from 253 to 25. Twenty-four of these disputed documents have been
 produced in redacted form, and one document has been withheld in its
 entirety. These 25 documents have been submitted to the Court for an in
@@ -5098,7 +5098,7 @@ IIa. DISCUSSION
 
 Seven documents contain all of the redacted material at issue, as the
 redacted material in the other eighteen documents is fully duplicated
-within these seven. Equisoft argues that attorneyclient privilege and
+within these seven. Equisoft argues that attorney-client privilege and
 the work product doctrine shield each of these documents from
 disclosure. Accordingly, the Court will analyze each of these documents
 in turn.
@@ -5128,7 +5128,7 @@ the e-mails in question does not necessarily defeat the assertion of the
 attorney client privilege. Also, as noted above, the Court is not
 persuaded that simply because Mr. Synnott is admitted to practice law
 only in foreign jurisdictions that he is not "a member of the bar of a
-coura. for the purposes of the attorneyclient privilege and the work
+coura. for the purposes of the attorney-client privilege and the work
 product doctrine. Therefore, the Court will treat Mr. Synnott as an
 attorney (which he, indeed, is) for the purposes of this analysis.
 
@@ -5332,7 +5332,7 @@ Synnott for the purpose of securing either an opinion of law, legal
 services or assistance in a legal matter. If anything, as indicated by
 the unredacted portion of the e-mail, Mr. O'Donnell is soliciting a
 response from Mr. Michaud, as he noted, "Let me know what you think."
-Thus, this communication is not protected by the attorneyclient
+Thus, this communication is not protected by the attorney-client
 privilege.
 
 Mr. Michaud attests that the redacted portion of his 10:11 a.m. e-mail
@@ -5376,7 +5376,7 @@ assistance in a legal matter. Accordingly, the Court
 
 
 concludes that the redacted portion of Mr. Michaud's e-mail is not
-protected by the attorneyclient privilege.
+protected by the attorney-client privilege.
 
 Even though the attorney-client privilege does not apply to the redacted
 portions of these communications, the work product doctrine shields the
@@ -5485,7 +5485,7 @@ above, the personal opinion or comments from a non-lawyer to another
 non-lawyer about communications from a lawyer are not protected under
 the attorney client privilege. Rather, only the communications to or
 from the attorney are protected. Accordingly, Mr. Michaud's e-mail is
-not shielded from disclosure by the attorneyclient privilege.
+not shielded from disclosure by the attorney-client privilege.
 
 However, the work product doctrine does shield the redacted portions of
 Mr. Michaud's e-mail from disclosure. The redacted statements are
@@ -5507,7 +5507,7 @@ Document 253 is a November 17, 2010 Executive Summary presented to the
 Equisoft Board of Directors, the last paragraph of which reports on Ms.
 Sussman's September 2, 2010 demand letter and provides Mr. Synnott's
 assessment regarding the probability of litigation. Equisoft has
-withheld the entire document --- the final paragraph on work product and
+withheld the entire document---the final paragraph on work product and
 attorney-client privilege grounds and the rest because it is irrelevant
 to the subject lawsuit.
 
@@ -5537,7 +5537,7 @@ responsible for making strategic decisions related to the legal issues
 involving Mr. Keating.
 
 Moreover, contrary to Mr. Michaud's assertions, only the final sentence
-of the Executive Summary --- rather than the final paragraph ---
+of the Executive Summary---rather than the final paragraph ---
 recounts Mr. Synnott's assessment of the probability of Mr. Keating
 commencing litigation against Equisoft. The remainder of the paragraph
 merely recounts underlying facts that are not shielded by the
@@ -5849,7 +5849,7 @@ with the law in this area is hardly an instinctive matter. The test
 adopted by the court below is difficult to apply in practice, though no
 abstractly formulated and unvarying "test" will necessarily enable
 courts to decide questions such as this with mathematical precision. But
-if the purpose of the attorneyclient privilege is to be served, the
+if the purpose of the attorney-client privilege is to be served, the
 attorney and client must be able to predict with some degree of
 certainty whether particular discussions will be protected. An uncertain
 privilege, or one which purports to be certain but results in widely
@@ -6331,8 +6331,8 @@ manufacturers of generic pharmaceuticals for infringement of its patents
 listing and use of any patents regarding Paxil, and any filings with the
 FDA regarding Paxil." GSK and the Commission resolved their differences
 over the inclusion or exclusion of thousands of documents, but because
-GSK declined to produce hundreds of others --- primarily on the ground
-that they were shielded by the attorneyclient privilege --- the
+GSK declined to produce hundreds of others---primarily on the ground
+that they were shielded by the attorney-client privilege---the
 Commission petitioned the district court to enforce the subpoena.
 
 The parties then agreed upon a procedure for presenting their positions
@@ -6436,7 +6436,7 @@ GSK is collaterally estopped in any event, by reason of the Apotex
 litigation, from claiming the 34 documents are attorney work product.
 
 The district court held that GSK failed to establish either of two
-prerequisites for recognition of the attorney-client privilege --- that
+prerequisites for recognition of the attorney-client privilege---that
 the documents contain confidential information and that they have been
 kept confidential. As the Company points out, during the parties'
 negotiations the Commission did not dispute that the documents contain
@@ -6456,7 +6456,7 @@ chance to respond to it.
 
 The question that remains is whether the district court erred in ruling
 that GSK failed to satisfy the second prerequisite for attorney-client
-privilege --- that the documents have been kept confidential. GSK
+privilege---that the documents have been kept confidential. GSK
 contends that this issue, too, was raised in a manner that deprived the
 Company of an opportunity to respond. We think not. The Commission took
 the position in its negotiations with GSK that the Company had lost its
@@ -6501,8 +6501,8 @@ overreaching. The Company's burden is to show that it limited its
 dissemination of the documents in keeping with their asserted
 confidentiality, not to justify each determination that a particular
 employee should have access to the information therein. Not only would
-that task be Herculean --- especially when the sender and the recipient
-are no longer with the Company --- but it is wholly unnecessary. After
+that task be Herculean---especially when the sender and the recipient
+are no longer with the Company---but it is wholly unnecessary. After
 all, when a corporation provides a confidential document to certain
 specified employees or contractors with the admonition not to
 disseminate further its contents and the contents of the documents are
@@ -6852,7 +6852,7 @@ may have occurred during a recess in the deposition. The Court concluded
 that, because corporate counsel did not represent the former employee
 and there was no evidence that the conversations occurred for the
 purpose of legal advice, the record did not contain any basis for an
-assertion of the attorneyclient privilege. In so holding, the District
+assertion of the attorney-client privilege. In so holding, the District
 Court in Coastal Oil explicitly followed the reasoning of Peralta.
 
 In Peralta, the District Court for the District of Connecticut rejected
@@ -7292,8 +7292,8 @@ concepts are used in these rules. 81 Here is simply an attempt, without
 
 The English courts have developed the concept of privilege to include
 all documents prepared by or for counsel with a view to litigation. "All
-documents which are called into existence for the purpose --- but not
-necessarily the sole purpose --- of assisting the deponent or his legal
+documents which are called into existence for the purpose---but not
+necessarily the sole purpose---of assisting the deponent or his legal
 advisers in any actual or anticipated litigation are privileged from
 production. Thus all proofs, briefs, draft pleadings, etc., are
 privileged; but not counsel's indorsement on the outside of his brief,
@@ -7328,7 +7328,7 @@ which lawyers act within the framework of our system of jurisprudence to
 promote justice and to protect their clients' interests. This work is
 reflected, of course, in interviews, statements, memoranda,
 correspondence, briefs, mental impressions, personal beliefs, and
-countless other tangible and intangible ways --- aptly though roughly
+countless other tangible and intangible ways---aptly though roughly
 termed by the Circuit Court of Appeals in this case as the "work product
 of the lawyer." Were such materials open to opposing counsel on mere
 demand, much of what is now put down in writing would remain unwritten.
@@ -7522,7 +7522,7 @@ Of course, if this practice were adopted, that scene would be repeated
 over and over again. The lawyer who delivers such statements often would
 find himself branded a deceiver afraid to take the stand to support his
 own version of the witness's conversation with him, or else he will have
-to go on the stand to defend his own credibility --- perhaps against
+to go on the stand to defend his own credibility---perhaps against
 that of his chief witness, or possibly even his client.
 
 Every lawyer dislikes to take the witness stand and will do so only for
@@ -7551,7 +7551,7 @@ trial, to
 
 
 
-disclose his version of the facts. But that is his own disclosure --- it
+disclose his version of the facts. But that is his own disclosure---it
 can be used to impeach him if he contradicts it and such a deposition is
 not useful to promote an unseemly disagreement between the witness and
 the counsel in the case.
@@ -7951,8 +7951,8 @@ purposes of the rule, for if the witness is not using the document to
 refresh his memory, that document has no relevance to any attempt to
 test the credibility and memory of the witness.
 
-The second requirement --- that the witness use the document for the
-purpose of testifying --- was designed "to safeguard against using the
+The second requirement---that the witness use the document for the
+purpose of testifying---was designed "to safeguard against using the
 rule as a pretext for wholesale exploration of an opposing party's files
 and to insure that access is limited only to those writings which may
 fairly be said in part to have an impact upon the testimony of the
@@ -7984,9 +7984,9 @@ selected by counsel.
 Indeed, if respondent's counsel had first elicited specific testimony
 from petitioner, and then questioned petitioner as to which, if any,
 documents informed that testimony, the work product petitioner seeks to
-protect --- counsel's opinion of the strengths and weaknesses of the
+protect---counsel's opinion of the strengths and weaknesses of the
 case as represented by the group identification of documents selected by
-counsel --- would not have
+counsel---would not have
 
 
 
@@ -8339,7 +8339,7 @@ work-product protection, but whether the document contains work
 
 
 
-product --- the thoughts and opinions of counsel developed in
+product---the thoughts and opinions of counsel developed in
 anticipation of litigation. The district court found that the memorandum
 records those thoughts, even though Deloitte and not Dow or its attorney
 committed them to paper. The work product privilege does not depend on
@@ -8452,7 +8452,7 @@ privilege and the work-product doctrine serve different purposes: the
 former protects the attorney-client relationship by safeguarding
 confidential communications, whereas the latter promotes the adversary
 process by insulating an attorney's litigation preparation from
-discovery. Voluntary disclosure waives the attorneyclient privilege
+discovery. Voluntary disclosure waives the attorney-client privilege
 because it is inconsistent with the confidential attorney-client
 relationship.
 
@@ -8554,7 +8554,7 @@ As we have explained, Deloitte is not an adversary, so Dow's disclosure
 to Deloitte was not selective disclosure. The "reasonable expectation of
 confidentiality" inquiry is more complicated. As to common interests,
 Dow and Deloitte do not have common litigation interests in the Dow
-Documents --- Dow has a litigation interest in the documents because of
+Documents---Dow has a litigation interest in the documents because of
 its interest in the Chemtech partnerships, but Deloitte has no similar
 interest in the documents. Absent common interests, the question is
 whether a confidentiality agreement or similar assurance gave Dow a
@@ -8598,7 +8598,7 @@ private parties. Or Deloitte might report illegal acts it detects during
 its audit. Finally, the government returns to Arthur Young , arguing
 that as an independent auditor, Deloitte is a "public watchdog" whose
 ultimate allegiance is to Dow's creditors, stockholders, and the
-investing public --- all potential adversaries of Dow. In sum, the
+investing public---all potential adversaries of Dow. In sum, the
 government contends that Dow could not reasonably expect confidentiality
 from Deloitte after giving it the Dow Documents, given the myriad ways
 Deloitte could reveal that information.
@@ -8930,7 +8930,7 @@ attorneys from a law firm retained by Company. The other three are
 memoranda from that vice president to Company's chief accounting
 officer transmitting the law firm's legal advice to amend the corporate
 books to reflect that certain amounts previously reported on its books
---- and to the IRS --- as business expenses be shown as nondeductible
+--- and to the IRS---as business expenses be shown as nondeductible
 income payments to CEO.
 
 The government moved to compel production of all six documents, arguing
@@ -9038,14 +9038,14 @@ directly related to the published data, those communications, if
 otherwise privileged, must be removed by the reviewing court before the
 document may be produced.
 
-Although these cases seem to conflate two theories --- waiver of an
+Although these cases seem to conflate two theories---waiver of an
 existing privilege and absence of an intent to maintain confidentiality
-in the first place --- we think under either theory the IRS cases are
+in the first place---we think under either theory the IRS cases are
 inapposite; the government much too facilely claims that the six
 documents are merely "details" underlying past or future returns. To be
 sure, virtually all the material in the documents reflects adjusting
 entries in Company's books, which have been or will be reported to the
-IRS. 84 But the crucial significance of the documents --- and the
+IRS. 84 But the crucial significance of the documents---and the
 apparent reason the government wishes to present them to the grand jury
 --- is that they suggest Company made the adjusting entries on the
 advice of counsel (after the investigation commenced).
@@ -9083,7 +9083,7 @@ Alternatively, however, the government relies on a waiver caused by the
 disclosure of one memo to a DCAA auditor, and we think the government
 is, in this respect, on firmer ground. It will be recalled that Company
 does not dispute the disclosure but denies its voluntariness, claiming
-it was inadvertent --- "a bureaucratic error." The district court found
+it was inadvertent---"a bureaucratic error." The district court found
 otherwise, but we do not think it matters whether the waiver is labeled
 "voluntary" or "inadvertent" and thus do not find it necessary to
 consider appellant's claim that the CAO should have been permitted to
@@ -9114,7 +9114,7 @@ perhaps causing grave injury to the organization. But that is as it
 should be. Otherwise, there is a temptation to seek artificially to
 expand the content of privileged matter. In other words, if a client
 wishes to preserve the privilege, it must treat the confidentiality of
-attorney-client communications like jewels --- if not crown jewels.
+attorney-client communications like jewels---if not crown jewels.
 Short of court-compelled disclosure or other equally extraordinary
 circumstances, 85 we will not distinguish between various degrees of
 "voluntariness" in waivers of the attorney-client privilege.
@@ -9130,7 +9130,7 @@ disturb a district court's decision as to the question unless it can be
 shown the court abused its discretion. In this case, although the
 district court extended the waiver to all six documents, it did not
 fully explain why the communications were related. Of course, all six
---- including the notes of the meeting --- stemmed from the same
+--- including the notes of the meeting---stemmed from the same
 consultation Company had with its law firm. But the "subject matter" of
 the waiver could, nevertheless, be defined in a number of different
 ways. Did the district court mean, for instance, to define the "subject
@@ -9143,8 +9143,8 @@ be no waiver at all.
 
 
 
-communications "relating" to the adjustment entries, which --- as
-suggested at oral argument --- would permit the individual lawyers and
+communications "relating" to the adjustment entries, which---as
+suggested at oral argument---would permit the individual lawyers and
 corporate officers present at the meeting to be called before the grand
 jury to describe their discussions, or perhaps even other communications
 between Company and its counsel? Or, alternatively, was the waiver
@@ -9207,7 +9207,7 @@ United States v. Zolin, 491 U.S. 554 (1989)
 Summary: In a case against the Church of Scientology (Church), the IRS
 sought to introduce into evidence tape recordings of meetings between
 representatives of the Church and its attorney. The IRS claimed that the
-tapes fell within the crime-fraud exception to the attorneyclient
+tapes fell within the crime-fraud exception to the attorney-client
 privilege and asked the district court to listen to the tapes in camera
 to determine if the privilege applied. The IRS attempted to provide the
 court with partial transcripts of the tape recordings that it acquired
@@ -9240,7 +9240,7 @@ exception to that privilege for communications in
 
 
 
-furtherance of future illegal conduct --- the so-called "crime-fraud"
+furtherance of future illegal conduct---the so-called "crime-fraud"
 exception. The specific question presented is whether the applicability
 of the crime-fraud exception must be established by "independent
 evidence" (/'.e., without reference to the content of the contested
@@ -9302,8 +9302,8 @@ declarations by Agent Petersell. In
 the first, Petersell stated his grounds for believing that the tapes
 were relevant to the investigation. In the second, Petersell offered a
 description of the tapes' contents, based on information he received
-during several interviews. Appended to this declaration --- over
-respondents' objection --- were partial transcripts of the tapes, which
+during several interviews. Appended to this declaration---over
+respondents' objection---were partial transcripts of the tapes, which
 the IRS lawfully had obtained from a confidential source. 86 In
 subsequent briefing, the IRS reiterated its request that the District
 Court listen to the tapes in camera before making its privilege ruling.
@@ -9346,7 +9346,7 @@ crime-fraud exception was inapplicable. Respondents contended, in
 contrast, that the District Court erred in the opposite direction: they
 argued that it was error for the court to rely on the partial
 transcripts, because "in this Circuit, a party cannot rely on the
-communications themselves --- whether by listening to the tapes or
+communications themselves---whether by listening to the tapes or
 
 86 The IRS denied that the transcripts were made using tapes obtained
 from the Superior Court or from any other illicit source. Agent
@@ -9363,12 +9363,12 @@ purposes that the transcripts were legally obtained.
 
 
 
-reviewing excerpts or transcripts of them --- to bear its burden to
+reviewing excerpts or transcripts of them---to bear its burden to
 invoke the exception but must bear the burden by independent evidence."
 
 The panel of the Court of Appeals agreed with respondents that, under
 Shewfelt, "the Government's evidence of crime or fraud must come from
-sources independent of the attorneyclient communications recorded on the
+sources independent of the attorney-client communications recorded on the
 tapes," thereby implicitly holding that even if the IRS had properly
 preserved its demand for in camera review, the District Court would have
 been without power to grant it. The Court of Appeals then reviewed "the
@@ -9405,9 +9405,9 @@ The attorney-client privilege is not without its costs. "Since the
 privilege has the effect of withholding relevant information from the
 factfinder, it applies only where necessary to achieve its purpose." The
 attorney-client privilege must necessarily protect the confidences of
-wrongdoers, but the reason for that protection --- the centrality of
+wrongdoers, but the reason for that protection---the centrality of
 open client and attorney communication to the proper functioning of our
-adversary system of justice --- "ceases to operate at a certain point,
+adversary system of justice---"ceases to operate at a certain point,
 namely, where the desired advice refers not to prior wrongdoing, but to
 future wrongdoing." It is the purpose of the crime-fraud exception to
 the attorney-client privilege to assure that the "seal of secrecy,"
@@ -9704,8 +9704,8 @@ D
 87
 
 In addition, we conclude that evidence that is not "independent" of the
-contents of allegedly privileged communications --- like the partial
-transcripts in this case --- may be used not only in the pursuit of in
+contents of allegedly privileged communications---like the partial
+transcripts in this case---may be used not only in the pursuit of in
 camera review, but also may provide the evidentiary basis for the
 ultimate showing that the crime-fraud exception applies. We see little
 to distinguish these two uses: in both circumstances, if the evidence
@@ -9821,7 +9821,7 @@ the respondents submitted five additional supplemental responses,
 leading to a total disclosure of approximately 577 pages of documents.
 After negotiation between the parties as to outstanding documents
 sought, the hearing on the petitioner's application for compliance was
-reduced to one issue --- a claim of attorney-client privilege on a
+reduced to one issue---a claim of attorney-client privilege on a
 document sent via electronic mail (e-mail) by Dwight Van Brunt, a Kimber
 employee, to Edelman, Denis Schusterman, another Kimber employee, and
 Jerry S. Goldman, an attorney in private practice. 121 The e-mail also
@@ -9850,7 +9850,7 @@ an effective legal strategy of their own. Goldman also provided the
 court with the corporate titles of each of the e-mail recipients, which
 identified them as senior Kimber officers. Goldman contended that,
 because the reactions of others in the firearms industry to the
-agreement --- such as whether to sign similar agreements or litigate ---
+agreement---such as whether to sign similar agreements or litigate ---
 would inform Kimber's legal decision making, Kimber's management
 needed to keep track of these developments and communicate them to him,
 as Kimber's counsel.
@@ -9928,7 +9928,7 @@ cause to believe that the client intended to perpetrate a crime or fraud
 does the exception properly come to bear." We have explained that,
 "without reference to intent, the attorney-client privilege would be
 pierced whenever probable cause could be made that an illegal act
-occurred after the client conferred with an attorney --- even if the
+occurred after the client conferred with an attorney---even if the
 consultation was part of a good-faith attempt to follow the law.
 Good-faith consultations with attorneys by clients who are uncertain
 about the legal implications of a proposed course of action however are
@@ -10111,8 +10111,8 @@ We stress that in this case, appellee has admitted engaging in the
 conduct which forms the basis of the charge of unprofessional conduct.
 We are therefore not dealing with a situation where disclosure is sought
 for the purpose of determining whether such misbehavior has in fact
-occurred. The latter case involves an entirely different problem --- an
-exception which threatens to swallow the rule --- than is presented in
+occurred. The latter case involves an entirely different problem---an
+exception which threatens to swallow the rule---than is presented in
 this case.
 
 89
@@ -10222,9 +10222,9 @@ memoranda, and the motion is now ripe for decision. Although several
 issues are raised by the parties, only two need to be addressed by this
 Court.
 
-Issue I --- Are the tapes protected by the work product privilege?
+Issue I---Are the tapes protected by the work product privilege?
 
-Issue II --- If the answer to the question in Issue I is yes, is the
+Issue II---If the answer to the question in Issue I is yes, is the
 privilege vitiated in this case? Issue I
 
 Federal Rule of Civil Procedure 26(b)(3) addresses the work product

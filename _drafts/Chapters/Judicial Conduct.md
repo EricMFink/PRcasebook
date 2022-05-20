@@ -781,7 +781,7 @@ In November 2007 that court reversed the $50 million verdict against
 Massey. The majority opinion, authored by then-Chief Justice Davis and
 joined by Justices Benjamin and Maynard, found that "Massey's conduct
 warranted the type of judgment rendered in this case." It reversed,
-nevertheless, based on two independent grounds --- first, that a
+nevertheless, based on two independent grounds---first, that a
 forum-selection clause contained in a contract to which Massey was not a
 party barred the suit in West Virginia, and, second, that res judicata
 barred the suit due to an out-of-state judgment to which Massey was not
@@ -807,7 +807,7 @@ The court granted rehearing. Justice Benjamin, now in the capacity of
 acting chief justice, selected Judges Cookman and Fox to replace the
 recused justices. Caperton moved a third time for disqualification,
 arguing that Justice Benjamin had failed to apply the correct standard
-under West Virginia law --- i.e., whether "a reasonable and prudent
+under West Virginia law---i.e., whether "a reasonable and prudent
 person, knowing these objective facts, would harbor doubts about Justice
 Benjamin's ability to be fair and impartial." Caperton also included the
 results of a public opinion poll, which indicated that over 67% of West
@@ -832,8 +832,8 @@ neither honored nor served by the majority." The dissent also noted
 "genuine due process implications arising under federal law" with
 respect to Justice Benjamin's failure to recuse himself.
 
-Four months later --- a month after the petition for writ of certiorari
-was filed in this Court --- Justice Benjamin filed a concurring opinion.
+Four months later---a month after the petition for writ of certiorari
+was filed in this Court---Justice Benjamin filed a concurring opinion.
 He defended the merits of the majority opinion as well as his decision
 not to recuse. He rejected Caperton's challenge to his participation in
 the case under both the Due Process Clause and West Virginia law.
@@ -841,7 +841,7 @@ Justice Benjamin reiterated that he had no '"direct, personal,
 substantial, pecuniary interest' in this case." Adopting "a standard
 merely of 'appearances,'" he concluded, "seems little more than an
 invitation to subject West Virginia's justice system to the vagaries of
-the day --- a framework in which predictability and stability yield to
+the day---a framework in which predictability and stability yield to
 supposition, innuendo, half-truths, and partisan manipulations."
 
 We granted certiorari.
@@ -1104,8 +1104,8 @@ process is to be adequately implemented."
 We turn to the influence at issue in this case. Not every campaign
 contribution by a litigant or attorney creates a probability of bias
 that requires a judge's recusal, but this is an exceptional case. We
-conclude that there is a serious risk of actual bias --- based on
-objective and reasonable perceptions --- when a person with a personal
+conclude that there is a serious risk of actual bias---based on
+objective and reasonable perceptions---when a person with a personal
 stake in a particular case had a significant and disproportionate
 influence in placing the judge on the case by raising funds or directing
 the judge's election campaign when the case was pending or imminent. The
@@ -1152,8 +1152,8 @@ contributor's influence on the election under all the circumstances
 "would offer a possible temptation to the average judge to lead him not
 to hold the balance nice, clear and true." In an election decided by
 fewer than 50,000 votes (382,036 to 334,301), Blankenship's campaign
-contributions --- in comparison to the total amount contributed to the
-campaign, as well as the total amount spent in the election --- had a
+contributions---in comparison to the total amount contributed to the
+campaign, as well as the total amount spent in the election---had a
 significant and disproportionate influence on the electoral outcome. And
 the risk that Blankenship's influence engendered actual bias is
 sufficiently substantial that it "must be forbidden if the guarantee of
@@ -1171,8 +1171,8 @@ biggest donor's company $50 million. Although there is no allegation of
 a quid pm quo agreement, the fact remains that Blankenship's
 extraordinary contributions were made at a time when he had a vested
 stake in the outcome. Just as no man is allowed to be a judge in his own
-cause, similar fears of bias can arise when --- without the consent of
-the other parties --- a man chooses the judge in his own cause. And
+cause, similar fears of bias can arise when---without the consent of
+the other parties---a man chooses the judge in his own cause. And
 applying this principle to the judicial election process, there was here
 a serious, objective risk of actual bias that required Justice
 Benjamin's recusal.
@@ -1191,7 +1191,7 @@ consider objective standards requiring
 recusal is not consistent with the imperatives of due process. We find
 that Blankenship's significant and disproportionate influence ---
 coupled with the temporal relationship between the election and the
-pending case --- "offers a possible temptation to the average judge to
+pending case---"offers a possible temptation to the average judge to
 lead him not to hold the balance nice, clear and true." On these extreme
 facts the probability of actual bias rises to an unconstitutional level.
 
@@ -1200,7 +1200,7 @@ IV
 Our decision today addresses an extraordinary situation where the
 Constitution requires recusal. Massey and its amici predict that various
 adverse consequences will follow from recognizing a constitutional
-violation here --- ranging from a flood of recusal motions to
+violation here---ranging from a flood of recusal motions to
 unnecessary interference with judicial elections. We disagree. The facts
 now before us are extreme by any measure. The parties point to no other
 instance involving judicial campaign contributions that presents a
@@ -1232,7 +1232,7 @@ less extreme situations.
 
 One must also take into account the judicial reforms the States have
 implemented to eliminate even the appearance of partiality. Almost every
-State --- West Virginia included --- has adopted the American Bar
+State---West Virginia included---has adopted the American Bar
 Association's objective standard: "A judge shall avoid impropriety and
 the appearance of impropriety." The ABA Model Code's test for appearance
 of impropriety is "whether the conduct would create in reasonable minds
@@ -1288,7 +1288,7 @@ Chief Justice ROBERTS, with whom Justice SCALIA, Justice THOMAS, and
 Justice AUTO join, dissenting.
 
 I, of course, share the majority's sincere concerns about the need to
-maintain a fair, independent, and impartial judiciary --- and one that
+maintain a fair, independent, and impartial judiciary---and one that
 appears to be such. But I fear that the Court's decision will undermine
 rather than promote these values.
 
@@ -1368,7 +1368,7 @@ requirement under the Due
 
 
 Process Clause." States are, of course, free to adopt broader recusal
-rules than the Constitution requires --- and every State has --- but
+rules than the Constitution requires---and every State has---but
 these developments are not continuously incorporated into the Due
 Process Clause.
 
@@ -1377,7 +1377,7 @@ constitutionally required and when it is not, the majority repeatedly
 emphasizes the need for an "objective" standard. The majority's analysis
 is "objective" in that it does not inquire into Justice Benjamin's
 motives or decisionmaking process. But the standard the majority
-articulates --- "probability of bias" --- fails to provide clear,
+articulates---"probability of bias"---fails to provide clear,
 workable guidance for future cases. At the most basic level, it is
 unclear whether the new probability of bias standard is somehow limited
 to financial support in judicial elections, or applies to judicial
@@ -1506,7 +1506,7 @@ the judge won in a landslide? What if the judge won primarily because of
 his opponent's missteps?
 
 21. Is the due process analysis less probing for incumbent judges ---
-who typically have a great advantage in elections --- than for
+who typically have a great advantage in elections---than for
 challengers?
 
 21. How final must the pending case be with respect to the
@@ -1628,7 +1628,7 @@ Just eight years later, we granted certiorari in Hudson "because of
 concerns about the wide variety of novel double jeopardy claims spawned
 in the wake of Halper." The novel claim that we had recognized in
 Halper turned out not to be so "rare" after all, and the test we adopted
-in that case --- "overwhelmingly disproportionate" --- had "proved
+in that case---"overwhelmingly disproportionate"---had "proved
 unworkable." We thus abandoned the Halper rule, ruing our "ill
 considered" "deviation from longstanding double jeopardy principles."
 
@@ -1660,12 +1660,12 @@ refer to them as "independent expenditures." Blankenship only
 
 Moreover, Blankenship's independent expenditures do not appear "grossly
 disproportionate" compared to other such expenditures in this very
-election. "And for the Sake of the Kids" --- an independent group that
+election. "And for the Sake of the Kids"---an independent group that
 received approximately two-thirds of its funding from Blankenship ---
 spent $3,623,500 in connection with the election. But large independent
 expenditures were also made in support of Justice Benjamin's opponent.
-"Consumers for Justice" --- an independent group that received large
-contributions from the plaintiffs' bar --- spent approximately $2
+"Consumers for Justice"---an independent group that received large
+contributions from the plaintiffs' bar---spent approximately $2
 million in this race. And Blankenship has made large expenditures in
 connection with several previous West Virginia elections, which
 undercuts any notion that his involvement in this election was "intended
@@ -1716,7 +1716,7 @@ legal proceedings are wonderfully self-perpetuating but incapable of
 delivering real-world justice. The Court's opinion will reinforce that
 perception, adding to the vast arsenal of lawyerly gambits what will
 come to be known as the Caperton claim. The facts relevant to
-adjudicating it will have to be litigated --- and likewise the law
+adjudicating it will have to be litigated---and likewise the law
 governing it, which will be indeterminate for years to come, if not
 forever. Many billable hours will be spent in poring through volumes of
 campaign finance reports, and many more in contesting nonrecusal
@@ -1727,7 +1727,7 @@ and turn it over, for all is therein." Divinely inspired text may
 contain the answers to all earthly questions, but the Due Process Clause
 most assuredly does not. The Court today continues its quixotic quest to
 right all wrongs and repair all imperfections through the Constitution.
-Alas, the quest cannot succeed --- which is why some wrongs and
+Alas, the quest cannot succeed---which is why some wrongs and
 imperfections have been called nonjusticiable. In the best of all
 possible worlds, should judges sometimes recuse even where the clear
 commands of our prior due process law do not require it? Undoubtedly.

@@ -1226,7 +1226,7 @@ relationship between Stoller and NuStar began. The attorney-client
 relationship is governed by general contract principles. It may be
 either express, such as when representation is based on a written
 agreement, or implied by the conduct of the parties. There are three
-elements that must be met to find that an attorneyclient relationship
+elements that must be met to find that an attorney-client relationship
 has been established:
 
 (1. a person sought advice or assistance from an attorney, (2) the
@@ -1289,7 +1289,7 @@ future, adverse action against the Zylstras on behalf of NuStar.
 Although Stoller terminated the attorney-client relationship with the
 Zylstras in the same email, the intent to pursue legal action unless the
 Zylstras complied with NuStar's request to sign the deed arose before
-the email was sent --- which is precisely why the demand or "formal
+the email was sent---which is precisely why the demand or "formal
 notice" language is included. We find that Stoller's representation of
 NuStar was a directly adverse concurrent conflict of interest. Because
 Stoller did not properly obtain consent from the Zylstras to represent
@@ -1302,7 +1302,7 @@ Zylstras. Because the district court applied the law in error, we find
 that it abused its discretion in concluding that Stoller should not be
 disqualified.
 
-Rule 32:1.9(a) --- Duties to Former Clients
+Rule 32:1.9(a)---Duties to Former Clients
 
 Stoller argues that, even though there was a concurrent conflict of
 interest in the past, the conflict no longer exists because he severed
@@ -1336,7 +1336,7 @@ of the present lawsuit; and (3) whether the client might have disclosed
 a confidence to his or her attorney in the prior representation which
 could be relevant to the present action.
 
-Under the first factor, we must consider the scope --- if any --- of
+Under the first factor, we must consider the scope---if any---of
 Stoller's representation of the Zylstras in regard to the manure
 easement agreements. There is no question that Stoller and Robert met to
 discuss the agreements and that Stoller was aware the Zylstras intended
@@ -1819,7 +1819,7 @@ fiduciary duty towards Welch. With respect to a cause of action alleging
 breach of a fiduciary duty, the existence of the duty is a question of
 law. "The relation between attorney and client is a fiduciary relation
 of the very highest character, and binds the attorney to most
-conscientious fidelity --- uberrima fides."
+conscientious fidelity---uberrima fides."
 
 There is no dispute that a fiduciary duty did exist in this case. The
 issue is whether defendants breached that duty towards Welch, which is a
@@ -1996,7 +1996,7 @@ In particular, the stock division, including "the equity interest
 solicited and obtained by the law firm was not consummated to facilitate
 the best interest of the corporation, but only to satisfy the demands of
 individual members and the law firm." Moreover, from the beginning of
-the attorneyclient relationship, Maxwell had never disclosed to, or
+the attorney-client relationship, Maxwell had never disclosed to, or
 discussed with, the other principals the possible conflicts of interest
 that relationship entailed. By engaging in this course of "double
 dealing" designed to insure themselves effective control of the
@@ -2906,7 +2906,7 @@ consolidated class action antitrust suit brought against manufacturers
 of oil well drill bits.
 
 Dresser Industries, Inc., is now a defendant in Drill Bits, charged ---
-by its own lawyers --- with conspiring to fix the prices of drill bits
+by its own lawyers---with conspiring to fix the prices of drill bits
 and with fraudulently concealing its conduct. Stephen D. Susman, with
 his firm, Susman Godfrey, is lead counsel for the plaintiffs committee.
 As lead counsel, Susman signed the amended complaint that levied these
@@ -3654,7 +3654,7 @@ identity, escape the strictures that would govern his conduct were he
 representing the class as counsel. Doe contends that he must be
 permitted to represent the class because he has yet another identity as
 a fiduciary for Benefit Plan and his fellow employees of A Corporation.
-Although the attorneyclient privilege may be inapplicable when either
+Although the attorney-client privilege may be inapplicable when either
 the lawyer or the client stands in a fiduciary relationship to the party
 seeking disclosure, Doe simply was not such a fiduciary. He was a lawyer
 for and representative of A's corporate interest.
@@ -5974,7 +5974,7 @@ possible jail time for his violation of probation. Although the client
 repaid the loan in full, Morse admits that he violated Rule 1.8(e). He
 asserts that while he has had three instances of prior discipline
 (having received a 90-day suspension in 1996, and Review Panel
-reprimands in both 1993 and 1998 --- one of which was for similar
+reprimands in both 1993 and 1998---one of which was for similar
 misconduct), he has had no disciplinary matters for an extended period
 of time. He further asserts that since 1998, he has shown a strong
 regard for the professional standards of conduct and asks that this
@@ -6330,10 +6330,10 @@ of the private bar to undertake representation of their insured."
 
 STUMBO, Justice.
 
-In this consolidated action, Complainants --- American Insurance
+In this consolidated action, Complainants---American Insurance
 Association, National Association of Independent Insurers, and State
 Farm Mutual Automobile Insurance Company and State Farm Fire and
-Casualty Company --- timely filed a motion seeking review by this Court
+Casualty Company---timely filed a motion seeking review by this Court
 of Advisory Ethics Opinion E-368 which was issued by the Board of
 Governors of Respondent, Kentucky Bar Association, and which appeared in
 the Fall 1994 issue of Kentucky Bench & Bar. In addition, State Farm
@@ -6374,7 +6374,7 @@ the circumstance presented in E-368 as but the latest issue to arise
 from attempts by insurers to cut costs. One such cost-cutting measure,
 referenced in the "Background" section of E-368 and more fully discussed
 in U-36, involved the practice of insurers to attempt to provide defense
-services directly through salaried attorney employees --- a practice,
+services directly through salaried attorney employees---a practice,
 the Board concluded, that "is not permitted in Kentucky, for in addition
 to the obvious conflicts of interest that would be presented by such an
 arrangement, the practice would violate the law governing unauthorized
@@ -6475,7 +6475,7 @@ perceived "community of interest," or Complainants' Pollyanna
 postulate that house counsel will continue to provide undivided loyalty
 to the insured. Complainants' pleas for logic are unpersuasive, as we
 are inclined to view U-36 in the way in which Respondent characterizes
-the opinion --- as a prophylactic measure, not unlike the imputed
+the opinion---as a prophylactic measure, not unlike the imputed
 disqualification rules. See Rule 1.10. As such, we believe that U-36
 logically discerns when house counsel would fall into that precarious
 position between employee of insurer and advocate of insured, and, thus,
@@ -6512,7 +6512,7 @@ Rules of Professional Conduct which prevents an attorney and an insurer
 from entering into an agreement whereby the attorney agrees to perform
 all of the insurer's defense work for a set fee. In support,
 Complainants analogize the set fee to other alternative billing methods
---- such as retainers and contingency fees --- and argue that there
+--- such as retainers and contingency fees---and argue that there
 exists no real difference between these latter, more accepted
 arrangements, and the set fee. Moreover, American and National contend
 that if any type of fee arrangement is to be viewed as suspect, it is
@@ -6549,7 +6549,7 @@ interest of the insured is to be protected. We also do not agree with
 Complainants' contention that the form of compensation has little
 relevance in examining the attorney-client relationship. To the
 contrary, a set fee arrangement enables the insurer to constrain counsel
-for the insured by, in effect, limiting the defense budget --- a
+for the insured by, in effect, limiting the defense budget---a
 practice that Respondent cautioned, in E-331, could create
 
 
@@ -6625,7 +6625,7 @@ judgment." Additionally, Allstate and National contend that the Board
 adopted the wrong version of E-368, in that a revised draft of the
 opinion better articulates the ethical standard which should apply to
 counsel involved in set fee arrangements. These Complainants note that
-the ethics opinions referenced in E-368 --- such as E-331 and E-340 ---
+the ethics opinions referenced in E-368---such as E-331 and E-340 ---
 bear out the assertion that blanket prohibitions are unnecessary where
 sufficient reliance is placed upon counsel's ability to comply with the
 ethical obligations owed to the client, including the requirement that
@@ -6918,7 +6918,7 @@ paying for the lawyers who will represent the target's employees before
 the very grand jury considering the target's culpability creates an
 insoluble conflict not subject to waiver. Although the State's
 arguments possess considerable initial appeal, in light of modern
-changes in the manner in which attorneyclient relationships are to be
+changes in the manner in which attorney-client relationships are to be
 viewed, we are constrained to disagree.
 
 No doubt, it long has been the law of this State that it is "improper
@@ -7677,7 +7677,7 @@ hearing, his father reported that the case had been "sent to another
 judge." Paris's father was not called as a witness, but he represented
 Paris before the panel. During his closing argument, he stated that he
 attended the sentencing hearing at Paris's request. But the parties had
-stipulated --- and the client's testimony confirmed --- that when the
+stipulated---and the client's testimony confirmed---that when the
 judge asked her whether she was represented by counsel, she responded
 that Paris had failed to appear and that she did not expect him to
 because "he's been doing nothing but trying to get in my pants."
@@ -7741,7 +7741,7 @@ Noting the increasing frequency of cases involving repeated and
 unwelcome solicitation of clients for sexual activity, the board,
 however, urges us to hold that in the absence of significant mitigating
 factors, this court will impose an actual suspension on attorneys who
-have engaged in such conduct --- as we do in cases involving attorneys
+have engaged in such conduct---as we do in cases involving attorneys
 who have engaged in a material misrepresentation to a court or have
 engaged in a pattern of dishonesty with a client.
 
@@ -7884,7 +7884,7 @@ not through judicial fiat. It is for the members of the legal community
 --- guided by the principle that the primary purpose of the disciplinary
 process is not to punish the offender but to "protect the public against
 members of the bar who are unworthy of the trust and confidence
-essential to the relationship of attorney and client" --- to debate
+essential to the relationship of attorney and client"---to debate
 whether it would be appropriate to establish a presumption of an actual
 suspension.
 
