@@ -15,26 +15,28 @@ output:
 
 ---
 
-# Part 1: Law as a Regulated Profession
+# Part 1: The Legal Profession
 
-## Chapter: The Legal Profession
+## Chapter: Law as a Profession
 
-- Professions
-- Law as a Profession
+- Professions and Professionalism 
+- Emergence of the Modern Legal Profession in the U.S.
 
-## Chapter: Regulating Attorney Conduct
+## Chapter: Regulating the Practice of Law
 
 - Regulation by the Profession
 - Regulation by Courts
 - Regulation by Legislatures
 
-# Part 2: Professional Gatekeeping
-
-## Chapter: Bar Admission and Discipline
+## Chapter: Bar Admission
 
 Rule 8.1
 
 Character and Fitness
+
+Unauthorized Practice of Law
+
+## Chapter: Professional Misconduct and Discipline
 
 Rules 8.2, 8.3, 8.4, 8.5
 
@@ -48,7 +50,7 @@ Rules 5.1, 5.2, 5.3, 5.4, 5.5, 5.6, 5.7 1.17
 
 Rules 7.1, 7.2, 7.3, 7.6
 
-# Part 3: The Client-Lawyer Relationship
+# Part 2: The Attorney-Client Relationship
 
 ## Chapter: Establishing Representation
 
@@ -75,7 +77,7 @@ Rules 1.5, 5.4, 1.15
 Rule 1.13
 
 
-# Part 4: The Lawyer's Duty of Care
+# Part 3: The Duty of Care
 
 ## Chapter: Duties Under the Model Rules
 
@@ -89,7 +91,7 @@ Restatement
 
 Cases
 
-# Part 5: Confidentiality and Privileges
+# Part 4: The Duty of Confidentiality
 
 ## Chapter: Confidentiality Under the Model Rules
 
@@ -103,7 +105,7 @@ Restatement
 
 Restatement
 
-# Part 6: Conflicts of Interest
+# Part 5: The Duty of Loyalty
 
 ## Chapter: Identifying and Resolving Conflicts
 
@@ -121,7 +123,7 @@ Rule 1.9
 
 Rules 1.8(k), 1.10
 
-# Part 7: Duties to Courts, Opposing Parties, and Others
+# Part 6: Duties to Courts, Opposing Parties, and Others
 
 ## Chapter: Good Faith and Fair Dealing in Litigation
 
