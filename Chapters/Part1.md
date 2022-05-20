@@ -3,27 +3,29 @@
 date: Fall Term 2022
 title: Professional Responsibility
 
-chapter: Law as a Profession
+Part: Introduction
 
 author: Eric M. Fink
 publisher: Elon University School of Law
 
+bibliography: '../assets/bibliography/PRCasebook.yaml'
+csl: '../assets/bibliography/casebook.csl'
+citation-abbreviations: '../assets/bibliography/casebook-abbrevs.json'
+
 output:
   pdf_document:
     template: casebook.tex
-    path: ../PDF/LawAsProfession.pdf
+    path: ../PDF/Part1.pdf
     pandoc_args: []
 
 ---
-
+\chapter{Law as a Profession}
 
 # Professions and Professionalism
 
-\reading{Work, Jurisdiction, and Competition}{Andrew Abbott}{The System of Professions}[^5429]
+\reading{Work, Jurisdiction, and Competition}{Andrew Abbott}{\itshape{The System of Professions}}
 
-[^5429]: @abbottSystemProfessionsEssay1988, PAGES
-
-[ … ] Each profession is bound to a set of tasks by ties of jurisdiction, the strengths and weaknesses of these ties being established in the processes of actual professional work. Since none of these links is absolute or permanent, the professions make up an interacting system, an ecology. Professions compete within this system, and a profession's success reflects as much the situations of its competitors and the system structure as it does the professions own efforts. From time to time, tasks are created, abolished, or reshaped by external forces, with consequent jostling and readjustment within the system of professions. [ … ]
+Each profession is bound to a set of tasks by ties of jurisdiction, the strengths and weaknesses of these ties being established in the processes of actual professional work. Since none of these links is absolute or permanent, the professions make up an interacting system, an ecology. Professions compete within this system, and a profession's success reflects as much the situations of its competitors and the system structure as it does the professions own efforts. From time to time, tasks are created, abolished, or reshaped by external forces, with consequent jostling and readjustment within the system of professions.
 
 [ … ]
 
@@ -104,9 +106,7 @@ The central organizing reality of professional life is control of tasks. The tas
 \halfsep
 
 
-\reading{Professionalism}{Kathi Weeks}{The Trouble with Work}[^a7d0]
-
-[^a7d0]: @weeksProblemWorkFeminism2011
+\reading{Professionalism}{Kathi Weeks}{\itshape{The Trouble With Work}}
 
 The discourse of professionalism today enjoys a wide application, serving as a disciplinary mechanism to manage the affects and attitudes of a service-based workforce that is less amenable to direct supervision. [ ... ]
 
@@ -123,9 +123,7 @@ Today the term "professional" refers more to a prescribed attitude toward any wo
 
 # Emergence of the Modern Legal Profession
 
-\reading{Lawyers and Their Competitors}{Andrew Abbott}{The System of Professions}[^1885]
-
-[^1885]: @abbottSystemProfessionsEssay1988, 247-279
+\reading{Lawyers and Their Competitors}{Andrew Abbott}{\itshape{The System of Professions}}
 
 Professions' histories are littered with splinter groups and faltering competitors. These are usually ignored in official mythologies, although occasionally recalled as precursors, charlatans, or worse. [ … ] By studying interprofessional conflict, we can set the successful professions in their real context and correct our theories of their development.
 
@@ -236,3 +234,6 @@ Surprisingly, many problems related to the new government business—tax appeals
 [ … ]
 
 \halfsep
+
+
+\chapter{The Regulation of Legal Practice}
