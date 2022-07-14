@@ -382,7 +382,7 @@ I am of the opinion that the defendant was not guilty of violating section 270 o
 
 (l) "Substantial" when used in reference to degree or extent denotes a material matter of clear and weighty importance.
 
-\(m\) "Tribunal" denotes a court, an arbitrator in a binding arbitration proceeding or a legislative body, administrative agency or other body acting in an adjudicative capacity. A legislative body, administrative agency or other body acts in an adjudicative capacity when a neutral official, after the presentation of evidence or legal argument by a party or parties, will render a binding legal judgment directly affecting a party's interests in a particular matter.
+(m\) "Tribunal" denotes a court, an arbitrator in a binding arbitration proceeding or a legislative body, administrative agency or other body acting in an adjudicative capacity. A legislative body, administrative agency or other body acts in an adjudicative capacity when a neutral official, after the presentation of evidence or legal argument by a party or parties, will render a binding legal judgment directly affecting a party's interests in a particular matter.
 
 (n) "Writing" or "written" denotes a tangible or electronic record of a communication or representation, including handwriting, typewriting, printing, photostating, photography, audio or videorecording, and electronic communications. A "signed" writing includes an electronic sound, symbol or process attached to or logically associated with a writing and executed or adopted by a person with the intent to sign the writing.
 
@@ -390,9 +390,9 @@ I am of the opinion that the defendant was not guilty of violating section 270 o
 
 NC Gen. Stat. §§ 84-15, 84-16, 84-23
 
-In re Creasey, 12 P.3d 214 (Ariz. 2000)
+\case{In re Creasey}{12 P.3d 214}{Ariz. 2000}
 
-Sheller v. Superior Court, 71 Cal.Rptr.3d 1697 (Cal. App. 2008)
+\case{Sheller v. Superior Court}{71 Cal.Rptr.3d 1697}{Cal. App. 2008}
 
 
 \chapter{Professional Gatekeeping}
@@ -472,11 +472,11 @@ NC Gen. Stat. §§ 84-1, 84-2, 84-4.1, 84-4.2, 84-24, 84-32
 
 NC Gen. Stat. §§ 84-2.1, 84-2.2, 84-4, 84-5, 84-5.1, 84-6, 84-7, 84-7.1, 84-8, 84-9, 84-10.1
 
-{Birbrower, Montalbano, Condon & Frank v. Superior Court} 70 Cal.Rptr.2d 304 (Cal. 1998)
+\case{Birbrower, Montalbano, Condon \& Frank v. Superior Court}{70 Cal.Rptr.2d 304}{Cal. 1998}
 
-{Estate of Condon v. McHenry} 76 Cal.Rptr.2d 922 (Cal. App. 1998)
+\case{Estate of Condon v. McHenry}{76 Cal.Rptr.2d 922}{Cal. App. 1998}
 
-{In re Trester} 172 P.3d 31 (Kan. 2007)
+\case{In re Trester}{172 P.3d 31}{Kan. 2007}
 
 \chapter{Attorney Discipline}
 
@@ -487,28 +487,28 @@ Restatement § 5
 
 NC Gen. Stat. § 84-28, 84-36
 
-{Neal v. Clinton}{No. CIV 2000–5677, slip op.}{Ark. Cir. Ct. Jan. 19, 2001}
+\case{Neal v. Clinton}{No. CIV 2000–5677, slip op.}{Ark. Cir. Ct. Jan. 19, 2001}
 
-{In re Riehlmann}{891 So.2d 1239}{La. 2005}
+\case{In re Riehlmann}{891 So.2d 1239}{La. 2005}
 
-{In re Diaz} 288 P.3d 486 (Kan. 2012)
+\case{In re Diaz}{288 P.3d 486}{Kan. 2012}
 
-{In re Gates} Misc. Case No. 18-00301-KRH (Bankr. E.D. Va. 2018)
+\case{In re Gates}{Misc. Case No. 18-00301-KRH}{Bankr. E.D. Va. 2018}
 
-{Matter of Giuliani} No. 2021-00506, slip op. (NY App. Div. June 24, 2021)
+\case{Matter of Giuliani}{No. 2021-00506}{NY App. Div. June 24, 2021}
 
 
 \chapter{Law Firms}
 
 \mrpc{5.1-5.4, 5.6, 5.7}
 
-{Lawyer Disciplinary Board v. Veneri}, 524 S.E.2d 900 (W. Va. 1999)
+\case{Lawyer Disciplinary Board v. Veneri}{524 S.E.2d 900}{W. Va. 1999}
 
-{In re Columbia Valley Healthcare System, L.P.} 320 S.W.3d 819 (Tex. 2010)
+\case{In re Columbia Valley Healthcare System, L.P.}{320 S.W.3d 819}{Tex. 2010}
 
-{Hoff v. Mayer, Brown, & Platt} 772 N.E.2d 263 (Ill. App. Ct. 2002)
+\case{Hoff v. Mayer, Brown, \& Platt}{772 N.E.2d 263}{Ill. App. Ct. 2002}
 
-{Cardillo v. Bloomfield 206 Corp.} 988 A.2d 136 (N.J. Super. 2010)
+\case{Cardillo v. Bloomfield 206 Corp.}{988 A.2d 136}{N.J. Super. 2010}
 
 
 \chapter{Advertising and Solicitation}
@@ -517,27 +517,27 @@ NC Gen. Stat. § 84-28, 84-36
 
 \mrpc{7.1, 7.2}
 
-{Bates v. State Bar of Arizona} 433 U.S. 350 (1977)
+\case{Bates v. State Bar of Arizona}{433 U.S. 350}{1977}
 
-{Florida Bar v. Pape} 918 So.2d 240 (2005)
+\case{Florida Bar v. Pape}{918 So.2d 240}{2005}
 
-{Hayes v. New York Attorney Grievance Committee} 672 F.3d 158 (2d Cir. 2012)
+\case{Hayes v. New York Attorney Grievance Committee}{672 F.3d 158}{2d Cir. 2012}
 
-{Hunter v. Virginia State Bar} 744 S.E.2d 611 (Va. 2013)
+\case{Hunter v. Virginia State Bar}{744 S.E.2d 611}{Va. 2013}
 
 
 # Solicitation
 
 \mrpc{7.3, 7.6}
 
-{NAACP v. Button} 371 U.S. 415 (1963)
+\case{NAACP v. Button}{371 U.S. 415}{1963}
 
-{Ohralik v. Ohio State Bar Assn.} 436 U.S. 447 (1978)
+\case{Ohralik v. Ohio State Bar Assn.}{436 U.S. 447}{1978}
 
-{In re Primus} 436 U.S. 412 (1978)
+\case{In re Primus} 436 U.S. 412 {1978}
 
-{Zauderer v. Office of Disciplinary Counsel} 471 U.S. 626 (1985)
+\case{Zauderer v. Office of Disciplinary Counsel}{471 U.S. 626}{1985}
 
-{Shapero v. Kentucky State Bar Assn.} 486 U.S. 466 (1988)
+\case{Shapero v. Kentucky State Bar Assn.}{486 U.S. 466}{1988}
 
-{Florida Bar v. Went for It} 515 U.S. 618 (1995)
+\case{Florida Bar v. Went for It}{515 U.S. 618}{1995}
