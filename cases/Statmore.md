@@ -1,5 +1,5 @@
 ---
-layout: case
+
  
 title: 'Nebraska State Bar Association v. Statmore'
 cite: '352 N.W.2d 875 (Neb. 1984)'

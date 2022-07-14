@@ -1,5 +1,5 @@
 ---
-layout: case
+
  
 title: 'Committee on Professional Ethics v. Mershon'
 cite: '316 N.W.2d 895 (Iowa 1982)'

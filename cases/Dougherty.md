@@ -1,5 +1,5 @@
 ---
-layout: case
+
  
 title: 'Dougherty v. Pepper Hamilton LLP'
 cite: '133 A. 3d 792 (Pa. Super. Ct. 2016)'

@@ -1,5 +1,5 @@
 ---
-layout: case
+
  
 title: 'Equitania Ins. v. Slone & Garrett'
 cite: '191 S.W.3d 552 (Ky. 2006)'

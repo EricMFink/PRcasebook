@@ -1,5 +1,5 @@
 ---
-layout: case 
+ 
 
 title: 'Ohralik v. Ohio State Bar Association'
 cite: '436 U.S. 447 (1978)'

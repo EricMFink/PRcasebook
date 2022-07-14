@@ -1,5 +1,5 @@
 ---
-layout: case
+
  
 title: 'Togstad v. Vesely, Otto, Miller & Keefe'
 cite: '291 N.W.2d 686 (Minn. 1980)'

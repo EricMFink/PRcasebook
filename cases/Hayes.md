@@ -1,5 +1,5 @@
 ---
-layout: case 
+ 
 
 title: 'Hayes v. New York Attorney Grievance Committee of the Eighth Judicial District'
 cite: '672 F.3d 158 (2d Cir. 2012)'

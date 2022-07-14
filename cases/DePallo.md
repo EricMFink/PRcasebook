@@ -1,11 +1,11 @@
 ---
-layout: case
- 
-title: "People v. DePallo" 
+
+
+title: "People v. DePallo"
 cite: 96 N.Y.2d 437 (2001)
-judge: WESLEY, J.
-    
 ---
+
+### Wesley, J.
 
 This case calls upon us to clarify a defense attorney's responsibilities when confronted with the dilemma that a client intends to commit perjury.
 
@@ -16,7 +16,7 @@ At trial, defense counsel noted at a sidebar that he had advised defendant that 
 After both sides rested, defense counsel addressed the court in Chambers, outside the presence of defendant and the prosecutor. Counsel stated:
 
 > prior to the [defendant's] testimony, I informed the Court that * * * the defendant was going to take the witness stand, and that he had previously told me he was involved in this homicide. Although I did not get into details with him, I don't know exactly what his involvement was, but he had stated to me that he was there that night, he had gotten at least that far.
-> 
+>
 > Knowing that, I told the defendant I cannot participate in any kind of perjury, and you really shouldn't perjure yourself. But, he, you know, dealing with him is kind of difficult and he was insistent upon taking the stand. He never told me what he was going to say, but I knew it was not going to be the truth, at least to the extent of him denying participation.
 
 The court then noted that counsel had complied with the procedures for such circumstances [ … ]. During summations, defense counsel did not refer to defendant's trial testimony. Defendant was convicted of two counts of second degree murder (intentional and felony murder based on the burglary), two counts of first degree robbery, two counts of first degree burglary, and one count of second degree robbery. The Appellate Division affirmed, rejecting defendant's claims that he was denied effective assistance of counsel when his attorney disclosed the perjured testimony to the court and that the ex parte conference was a material stage of trial. A Judge of this Court granted leave to appeal, and we now affirm.

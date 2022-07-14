@@ -1,11 +1,12 @@
 ---
-layout: case 
+
 
 title: 'Estate of Condon'
 cite: '76 Cal. Rptr. 2d 922 (Cal. App. 1998)'
-judge: 'Walker, Associate Justice'
 
 ---
+
+### Walker, Associate Justice
 
 Michael R. Condon and his attorneys, Michael Katz and his firm (the "Elrod firm"), appeal an order of the probate court denying Katz attorney fees for services rendered to the estate of Evelyn J. Condon. Michael, Evelyn's son, was appointed co-executor of her will with his sister, Caroline M. McHenry, the respondent to this appeal. Michael lives in Colorado; Caroline lives in California, as did their mother. The Elrod firm, which Evelyn J. Condon had retained to prepare her will and other documents effectuating her estate plan, is in Colorado, where the will was prepared, and where Katz is licensed to practice law. Katz is not a member of the California State Bar.
 
@@ -19,9 +20,9 @@ When the hearing resumed, the judge denied Kate's hastily-assembled application 
 
 In our June 25, 1997, opinion, we reversed the probate court's order, holding that California Probate Code section 8570 et seq. allowed for such fees and that section 6125 did not proscribe them. Following our denial of a petition for rehearing, the Supreme Court granted review and ordered action on the cause deferred until disposition of [_Birbrower, Montalbano, Condon & Frank v. Superior Court_](https://www.emfink.net/ProfessionalResponsibility/cases/Birbrower) then pending before it. Following its decision, the Supreme Court transferred review to us with directions to vacate our prior decision and to reconsider _Condon_ in light of _Birbrower_.
 
-Following our review we conclude that Kate did not violate section 6125. He is therefore entitled under the Probate Code to ordinary statutory fees and to extraordinary fees in whatever amount the court deems reasonable for the services he rendered to Michael in his capacity as co-executor. 
+Following our review we conclude that Kate did not violate section 6125. He is therefore entitled under the Probate Code to ordinary statutory fees and to extraordinary fees in whatever amount the court deems reasonable for the services he rendered to Michael in his capacity as co-executor.
 
-# The Legal Question
+#### The Legal Question
 
 Section 6125 provides that "[n]o person shall practice law in California unless the person is an active member of the State Bar." Section 6126 states that "[any] person advertising or holding himself or herself out as practicing or entitled to practice law or otherwise practicing law who is not an active member of the State Bar, is guilty of a misdemeanor." Our courts have spun from these prohibitions a policy against awarding attorney fees to unlicensed practitioners of law.
 
@@ -29,15 +30,15 @@ It is well settled in California that "practicing law" means more than just appe
 
 We must decide whether an out-of-state law firm, not licensed to practice law in California, violated section 6125 when it performed legal services by either physically or virtually entering California on behalf of a Colorado client who was an executor of a California estate.
 
-# Analysis 
+#### Analysis
 
-## 1. The Probate Code Allows the Payment of Attorney Fees to an Out-of-state Attorney Rendering Services on Behalf of a California Estate.
+##### 1. The Probate Code Allows the Payment of Attorney Fees to an Out-of-state Attorney Rendering Services on Behalf of a California Estate.
 
 The Probate Code makes specific allowance for a nonresident, such as Michael, to serve as executor of a will subject to probate in California, and our courts have made clear that "[t]he executor[] has the right to choose independent counsel to perform the necessary legal services on behalf of the estate." Here, Michael's choice was not only his to make, it was also reasonable; the Elrod firm did business where he lived and its principals had originally prepared his mother's estate plan.
 
 Lending further support to our conclusion, the language of the Probate Code is mandatory; it provides "the attorney for the [executor] _shall_ receive compensation", making no exception for out-of-state attorneys, and our Supreme Court has held that the attorney's right to ordinary compensation is absolute. Moreover, our courts have approved without question the payment of statutory fees to an out-of-state attorney retained by a California executor. And it is common practice for California probate judges to award fees to out-of-state attorneys rendering legal services in "ancillary" matters. In sum, though out-of-state attorneys have undoubtedly served California estates before this, and their services have surely entailed professional communications with people in California, there is nothing in the Probate Code or prior cases to suggest that they are disqualified from receiving statutory compensation.
 
-## 2. Section 6125 does Not Proscribe an Award of Attorney Fees to an Out-of-state Attorney for Services Rendered on Behalf of an Out-of-state Client Regardless of Whether the Attorney is Either Physically or Virtually Present Within the State of California.
+##### 2. Section 6125 does Not Proscribe an Award of Attorney Fees to an Out-of-state Attorney for Services Rendered on Behalf of an Out-of-state Client Regardless of Whether the Attorney is Either Physically or Virtually Present Within the State of California.
 
 In _Birbrower_, ESQ Business Services, Inc. (ESQ), a California Corporation with its principal place of business in Santa Clara County, retained the New York law firm of Birbrower, Montalbano, Condon & Frank, P.C. (Birbrower), a professional law corporation incorporated in New York with its principal place of business in New York. Birbrower attorneys performed substantial work while physically present in California relating to the law firm's representation of ESQ. Neither the professional corporation nor any of the individual attorneys rendering services in California were licensed to practice law in California, although they were licensed in New York. ESQ's retention agreement with the Birbrower firm provided for the rendition of legal services to resolve a contractual dispute relating to a software development and marketing contract between Tandem Computers Incorporated (Tandem), a Delaware corporation having its principal place of business in California, and ESQ. The retention agreement specifically provided that: "'The internal laws of the State of California (irrespective of its choice of law principles) shall govern the validity of this Agreement, the construction of its terms, and the interpretation and enforcement of the rights and duties of the parries hereto.'" In a malpractice action brought by ESQ against the Birbrower firm, the attorneys asserted by way of a cross-complaint the right to receive their fees with respect to their legal representation performed in California. ESQ defended asserting that Birbrower was not licensed to practice law in California and thus was barred from collecting any fees.
 
@@ -51,11 +52,11 @@ In fleshing out the definition of the practice of law in California the Supreme 
 
 Implicit in the court's formulation of the rule is the ingredient that the client is a "California client," one that either resides in or has its principal place of business in California. This conclusion is not only logical, it comports with the reason underlying the proscription of section 6175.
 
-In the real world of 1998 we do not live or do business in isolation within strict geopolitical boundaries. Social interaction and the conduct of business transcends state and national boundaries; it is truly global. A tension is thus created between the right of a party to have counsel of his or her choice and the right of each geopolitical entity to control the activities of those who practice law within its borders. In resolving the issue of the applicability of section 6125 it is useful to look to the reason underlying the proscription of section 6125. _Birbrower_ instructs that the rationale is to protect California citizens from incompetent attorneys stating: "California is not alone in regulating who practices law in its jurisdiction. Many states have substantially similar statutes that serve to _protect their citizens_ from unlicensed attorneys who engage in unauthorized legal practice. Like section 6125, these other state statutes protect local citizens 'against the dangers of legal representation and advice given by persons not trained, examined and licensed for such work, whether they be laymen or lawyers from other jurisdictions.' Whether an attorney is duly admitted in another state and is, in fact, competent to practice in California is irrelevant in the face of section 6125's language and _purpose_." _Birbrower_, _supra_. 
+In the real world of 1998 we do not live or do business in isolation within strict geopolitical boundaries. Social interaction and the conduct of business transcends state and national boundaries; it is truly global. A tension is thus created between the right of a party to have counsel of his or her choice and the right of each geopolitical entity to control the activities of those who practice law within its borders. In resolving the issue of the applicability of section 6125 it is useful to look to the reason underlying the proscription of section 6125. _Birbrower_ instructs that the rationale is to protect California citizens from incompetent attorneys stating: "California is not alone in regulating who practices law in its jurisdiction. Many states have substantially similar statutes that serve to _protect their citizens_ from unlicensed attorneys who engage in unauthorized legal practice. Like section 6125, these other state statutes protect local citizens 'against the dangers of legal representation and advice given by persons not trained, examined and licensed for such work, whether they be laymen or lawyers from other jurisdictions.' Whether an attorney is duly admitted in another state and is, in fact, competent to practice in California is irrelevant in the face of section 6125's language and _purpose_." _Birbrower_, _supra_.
 
 It is therefore obvious that, given the facts before us, the client's residence or its principal place of business is determinative of the question of whether the practice is proscribed by section 6125. Clearly the state of California has no interest in disciplining an out-of-state attorney practicing law on behalf of a client residing in the lawyer's home state.
 
-## 3. The Applicability of the Birbrower Guidelines to this Case.
+##### 3. The Applicability of the Birbrower Guidelines to this Case.
 
 It is apparent that both the facts and the issues in _Birbrower_ are distinguishable from those presented in _this case_. Most significantly Michael R. Condon was a resident of the state of Colorado. Thus, the issue was not "whether an out-of-state law firm, not licensed to practice law in this state, violated section 6125, when it performed legal services in California for a _California-based client_ ...", but whether an out-of-state law firm practicing law on behalf of a resident of the lawyer's home state violated section 6125 when that lawyer either physically or virtually entered the state of California and practiced law on behalf of that client. Adopting the premise, as articulated in _Birbrower_, that the goal of section 6125 is to protect California citizens from incompetent or unscrupulous practitioners of law we must conclude that section 6125 is simply not applicable to our case.
 

@@ -1,5 +1,5 @@
 ---
-layout: case 
+ 
 
 title: 'In re Trester'
 cite: '172 P. 3d 31 (Kan. 2007)'

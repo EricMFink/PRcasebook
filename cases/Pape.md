@@ -1,5 +1,5 @@
 ---
-layout: case
+
  
 title: 'Florida Bar v. Pape'
 cite: '918 So.2d 240 (Fla. 2005)'

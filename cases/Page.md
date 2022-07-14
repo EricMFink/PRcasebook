@@ -1,5 +1,5 @@
 ---
-layout: case
+
 
 title: 'Page v. Oath, Inc.'
 cite: 'C.A. No. S20C-07-030 CAK (Del. Sup. Ct. Jan. 11, 2021)'

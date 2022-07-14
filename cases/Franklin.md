@@ -1,5 +1,5 @@
 ---
-layout: case
+
  
 title: 'U.S. v. Franklin'
 cite: '598 F. 2d 954 (5th Cir. 1979)'

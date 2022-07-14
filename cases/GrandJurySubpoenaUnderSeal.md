@@ -1,5 +1,5 @@
 ---
-layout: case
+
  
 title: 'In re Grand Jury Investigation: Under Seal'
 cite: '415 F. 3d 334 (4th Cir. 2005)'

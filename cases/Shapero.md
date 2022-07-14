@@ -1,5 +1,5 @@
 --- 
-layout: case 
+ 
 
 title: 'Shapero v. Kentucky Bar Association' 
 cite: '486 U.S. 466' 

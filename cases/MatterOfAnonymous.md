@@ -1,5 +1,5 @@
 ---
-layout: case
+
  
 title: 'Matter of Anonymous'
 cite: '61 AD 3d 1214 (N.Y. App. Div. 2009)'

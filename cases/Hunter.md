@@ -1,5 +1,5 @@
 ---
-layout: case 
+ 
 
 title: 'Hunter v. Virginia State Bar'
 cite: '744 S.E.2d 611 (Va. 2013)'

@@ -1,12 +1,12 @@
 ---
-layout: case
- 
+
+
 title: 'Neal v. Clinton'
 cite: 'No. CIV 2000–5677 (Ark. Cir. Ct. Jan. 19, 2001)'
-    
+
 ---
 
-# AGREED ORDER OF DISCIPLINE
+#### AGREED ORDER OF DISCIPLINE
 
 Come now the parties hereto and agree to the following Order of this Court in settlement of the pending action:
 

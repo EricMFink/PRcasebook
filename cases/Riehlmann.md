@@ -1,5 +1,5 @@
 ---
-layout: case 
+ 
 
 title: 'In re Riehlmann'
 cite: '891 So.2d 1239 (La. 2005)'

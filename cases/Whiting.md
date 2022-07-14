@@ -1,5 +1,5 @@
 ---
-layout: case
+
  
 title: 'Whiting v. Lacara'
 cite: '187 F. 3d 317 (2d Cir. 1999)'

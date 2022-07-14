@@ -1,5 +1,5 @@
 ---
-layout: case
+
  
 title: 'Hoffman v. Conder'
 cite: '712 P. 2d 216 (Utah 1985)'

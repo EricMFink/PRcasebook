@@ -1,5 +1,5 @@
 ---
-layout: case
+
  
 title: 'In re Litz'
 cite: '721 N.E.2d 258 (Ind. 1999)'

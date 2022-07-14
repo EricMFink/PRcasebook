@@ -1,5 +1,5 @@
 ---
-layout: case
+
  
 title: 'Lee v. U.S.'
 cite: '137 S. Ct. 1958 (2017)'

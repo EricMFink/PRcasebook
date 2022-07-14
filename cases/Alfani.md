@@ -1,11 +1,11 @@
 ---
-layout: case
- 
+
 title: 'People v. Alfani'
 cite: '125 A. 671 (NY 1919)'
-judge: "Crane, J."
-    
+
 ---
+
+### Crane, J.
 
 The defendant was convicted by the Special Sessions of the city of New York, borough of Brooklyn, of violating section 270 of the Penal Law. He was not an attorney and counselor-at-law, but had for a long period of time drawn legal papers and instruments for hire and  held himself out to the public as being in that business. His conviction was reversed by the Appellate Division on the ground that such acts did not constitute practicing law and, therefore, were in nowise contrary to the statute.
 
@@ -39,7 +39,7 @@ Section 835 of the Code of Civil Procedure provides in substance that an attorne
 
 Also the summary power of courts over attorneys may be exercised in matters unrelated to court proceedings.
 
-Even the instances cited below of scriveners and notaries public in foreign lands drawing legal papers sustain this contention, as the laws require such to be trained and experienced men. 
+Even the instances cited below of scriveners and notaries public in foreign lands drawing legal papers sustain this contention, as the laws require such to be trained and experienced men.
 
 The duties of notaries public here are defined by section 105 of the Executive Law. Only in the name is there a correspondence to the continental official.
 
@@ -72,12 +72,12 @@ On the 27th of December, 1917, one Gallo, special investigator of the state indu
 
 It is contended that this transaction, together with the sign, amounted to a violation of the provisions of the statute quoted. I have been unable to reach this conclusion. The statute, unless something is read into it which does not there appear, is to prohibit a natural person practicing or appearing as an attorney-at-law in the courts mentioned, or to hold himself out to the public as being entitled to practice in such courts. The defendant did neither. Clearly, the drafting of the bill of sale and chattel mortgage was not practicing or appearing as an attorney-at-law in any court. Nor did the words on the sign, "Redaction of all legal papers" indicate that he was holding himself out as entitled to practice in such courts. The words "in any other manner," upon which stress is laid, relate to what precedes them in the sentence, viz., the courts referred to. The phrase, although general in its nature, is limited and qualified by the prior specific designations. The rule of ejusdem generis applies. Where the enumeration of specific things is followed by some more general word or phrase, such general word or phrase is held to refer to the things of the same kind.
 
-At the time defendant was convicted it was not illegal, and is not now, for natural persons to draft papers usually intrusted to lawyers. Judicial notice may be taken of the fact that in the rural districts of the state leases, deeds, bills of sale, chattel mortgages, wills and other instruments creating legal obligations are frequently prepared by laymen, notaries public and justices of the peace. Indeed, a natural person could, at the time defendant was convicted, appear for another in a Magistrate's Court, or before a justice of the peace, except in cities of the first  and second class, and receive pay therefor. This practice is recognized by section 271, which prohibits a person from receiving compensation for appearing as attorney in a court before any magistrate in any city of the first or second class, unless admitted to practice as an attorney and counsellor in the courts of record of the state. That the legislature did not intend to prohibit such practice is apparent from the fact that at its last session it amended section 271, so that it now includes cities of the third, as well as those of the first and second class. 
+At the time defendant was convicted it was not illegal, and is not now, for natural persons to draft papers usually intrusted to lawyers. Judicial notice may be taken of the fact that in the rural districts of the state leases, deeds, bills of sale, chattel mortgages, wills and other instruments creating legal obligations are frequently prepared by laymen, notaries public and justices of the peace. Indeed, a natural person could, at the time defendant was convicted, appear for another in a Magistrate's Court, or before a justice of the peace, except in cities of the first  and second class, and receive pay therefor. This practice is recognized by section 271, which prohibits a person from receiving compensation for appearing as attorney in a court before any magistrate in any city of the first or second class, unless admitted to practice as an attorney and counsellor in the courts of record of the state. That the legislature did not intend to prohibit such practice is apparent from the fact that at its last session it amended section 271, so that it now includes cities of the third, as well as those of the first and second class.
 
-To give to the words "in any other manner" the legal effect suggested would prohibit a natural person anywhere in the state from drawing a legal paper of any description, or appearing in any court. This, the legislature has not yet indicated its intent to do. 
+To give to the words "in any other manner" the legal effect suggested would prohibit a natural person anywhere in the state from drawing a legal paper of any description, or appearing in any court. This, the legislature has not yet indicated its intent to do.
 
 One of the well-settled rules of statutory construction is that statutory offenses cannot be established by implication and that acts in and of themselves innocent and lawful cannot be held to be criminal, unless there is a clear and unequivocal expression of the legislative intent to make them such.
 
 I am of the opinion that the defendant was not guilty of violating section 270 of the Penal Law; that the Appellate Division was right in reversing the conviction and discharging him; and its judgment should, therefore, be affirmed.
 
-Judgment reversed, etc. 
+Judgment reversed, etc.

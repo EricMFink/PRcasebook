@@ -238,6 +238,8 @@ Surprisingly, many problems related to the new government business—tax appeals
 
 \case{People v. Alfani}{125 A. 671}{NY 1919}
 
+### Crane, J. 
+
 The defendant was convicted by the Special Sessions of the city of New York, borough of Brooklyn, of violating section 270 of the Penal Law. He was not an attorney and counselor-at-law, but had for a long period of time drawn legal papers and instruments for hire and  held himself out to the public as being in that business. His conviction was reversed by the Appellate Division on the ground that such acts did not constitute practicing law and, therefore, were in nowise contrary to the statute.
 
 The question is fairly presented whether the things done by Alfani are open to the public generally or require a license from the state before a person can perform them for compensation and as an occupation.
@@ -280,7 +282,7 @@ We recognize that by section 270 and also 271 a person, not a lawyer, may appear
 
 We must, therefore, in harmony with these views, reverse the judgment of the Appellate Division and affirm that of the Special Sessions.
 
-#### McLAUGHLIN, J. (dissenting).
+### McLAUGHLIN, J. (dissenting).
 
 The defendant was convicted of violating section 270 of the Penal Law. [On appeal], the judgment of conviction was reversed and he was discharged. The People, by permission, appeal to this court.
 

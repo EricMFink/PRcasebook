@@ -1,5 +1,5 @@
 ---
-layout: case
+
  
 title: 'Sheller v. Superior Court'
 cite: '71 Cal. Rptr. 3d 207 (Cal. .App. 2008)'

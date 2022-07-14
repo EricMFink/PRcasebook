@@ -1,5 +1,5 @@
 ---
-layout: case 
+ 
 
 title: 'Matter of Giuliani'
 cite: '2021 NY Slip Op 04086 (N.Y. App. Div. June 24, 2021)'

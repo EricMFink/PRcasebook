@@ -1,5 +1,5 @@
 ---
-layout: case
+
  
 title: "State v. Hischke" 
 cite: "639 N.W.2d 6 (Iowa 2002)"

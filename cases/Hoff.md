@@ -1,5 +1,5 @@
 ---
-layout: case 
+ 
 
 title: 'Hoff v. Meyer, Brown and Platt'
 cite: '772 N.E.2d 263 (Ill. 2002)'

@@ -1,5 +1,5 @@
 ---
-layout: case
+
  
 title: 'In re Disciplinary Proceeding Against Haley'
 cite: '126 P. 3d 1262 (Wash. 2006)'

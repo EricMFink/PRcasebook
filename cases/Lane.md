@@ -1,9 +1,9 @@
 ---
-layout: case
+
  
 title: 'Appeal of Lane'
 cite: '544 N.W.2d 367 (Neb. 1996)'
-judge: 'Per Curium'
+judge: 'Per Curiam'
     
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: case
+
  
 title: 'X Corp. v. Doe'
 cite: '805 F. Supp. 1298 (E.D. Va. 1992)'

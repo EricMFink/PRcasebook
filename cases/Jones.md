@@ -1,5 +1,5 @@
 ---
-layout: case
+
  
 title: 'Jones v. U.S.'
 cite: '828 A. 2d 169 (DC App. 2003)'

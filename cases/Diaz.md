@@ -1,11 +1,11 @@
 ---
-layout: case 
+
 
 title: 'Matter of Diaz'
 cite: '288 P.3d 486 (Kan. 2012)'
-judge: 'Per Curiam'
-
 ---
+
+### Per Curiam
 
 This is an original proceeding in discipline filed by the office of the Disciplinary Administrator against the respondent, Matthew M. Diaz, of Forest Hills, New York, an attorney admitted to the practice of law in Kansas in 1995.
 
@@ -143,19 +143,19 @@ The panel made the following findings of fact and conclusions of law, together w
 
 > 65. Costs are assessed against the Respondent in an amount to be certified by the Office of the Disciplinary Administrator."
 
-# Discussion
+#### Discussion
 
-In a disciplinary proceeding, this court considers the evidence, the findings of the hearing panel, and the arguments of the parties and determines whether violations of KRPC exist and, if they do, the discipline to be imposed. Attorney misconduct must be established by clear and convincing evidence. Clear and convincing evidence is "'evidence that causes the factfinder to believe that "the truth of the facts asserted is highly probable."'" When the court assesses the existence of clear and convincing evidence, it refrains from weighing conflicting evidence, assessing witness credibility, or redetermining questions of fact. 
+In a disciplinary proceeding, this court considers the evidence, the findings of the hearing panel, and the arguments of the parties and determines whether violations of KRPC exist and, if they do, the discipline to be imposed. Attorney misconduct must be established by clear and convincing evidence. Clear and convincing evidence is "'evidence that causes the factfinder to believe that "the truth of the facts asserted is highly probable."'" When the court assesses the existence of clear and convincing evidence, it refrains from weighing conflicting evidence, assessing witness credibility, or redetermining questions of fact.
 
-Respondent was given adequate notice of the formal complaint, to which he filed an answer, and adequate notice of both the hearing before the panel and the hearing before this court. He filed no exceptions to the panel's final hearing report. The panel's findings of fact are thus deemed admitted, and we adopt them. 
+Respondent was given adequate notice of the formal complaint, to which he filed an answer, and adequate notice of both the hearing before the panel and the hearing before this court. He filed no exceptions to the panel's final hearing report. The panel's findings of fact are thus deemed admitted, and we adopt them.
 
 The evidence before the hearing panel establishes the charged misconduct of the respondent by clear and convincing evidence and supports the panel's conclusions of law. We therefore also adopt the panel's conclusions.
 
 The only remaining issue is the appropriate discipline to be imposed. We have held that "[t]he panel's recommendation is advisory only and shall not prevent the court from imposing a different discipline." At the hearing before this court, at which the respondent appeared, the office of the Disciplinary Administrator recommended that the respondent be disbarred. The respondent requested that no discipline be imposed beyond that assessed by the military courts. As referenced above, the hearing panel recommended that respondent be suspended from the practice of law for 3 years and that the suspension be made retroactive to the date of his temporary suspension.
 
-We begin our analysis by recognizing that in apparent support of respondent's position that the military courts have sufficiently disciplined him, he repeats an argument he made before those tribunals. Respondent essentially argues that while his actions were wrong his motive was virtuous. In short, he disclosed the information to protect the Guantanamo Bay detainees' habeas corpus rights declared in the United States Supreme Court opinion of _Rasul v. Bush_. During the general court-martial proceedings, that tribunal excluded respondent's motive evidence showing his purported honorable intent in disclosing the classified information. As noted by the hearing panel, the United States Navy-Marine Corps Court of Criminal Appeals affirmed, finding his motive argument "nonsensical and dangerous." 
+We begin our analysis by recognizing that in apparent support of respondent's position that the military courts have sufficiently disciplined him, he repeats an argument he made before those tribunals. Respondent essentially argues that while his actions were wrong his motive was virtuous. In short, he disclosed the information to protect the Guantanamo Bay detainees' habeas corpus rights declared in the United States Supreme Court opinion of _Rasul v. Bush_. During the general court-martial proceedings, that tribunal excluded respondent's motive evidence showing his purported honorable intent in disclosing the classified information. As noted by the hearing panel, the United States Navy-Marine Corps Court of Criminal Appeals affirmed, finding his motive argument "nonsensical and dangerous."
 
-The United States Court of Appeals for the Armed Forces found that while the motive evidence might be relevant to respondent's charge of conduct unbecoming an officer, its exclusion was harmless error. It observed that supporting a harmlessness determination was respondent's knowledge that his "actions warranted concealment." An additional consideration supporting a harmlessness determination was the "absence in _Rasul_ of any indication the Supreme Court intended its ruling to supersede in some manner counsel's other legal and ethical obligations," including his obligation to adhere to presidential and naval directives regarding the handling of classified information. 
+The United States Court of Appeals for the Armed Forces found that while the motive evidence might be relevant to respondent's charge of conduct unbecoming an officer, its exclusion was harmless error. It observed that supporting a harmlessness determination was respondent's knowledge that his "actions warranted concealment." An additional consideration supporting a harmlessness determination was the "absence in _Rasul_ of any indication the Supreme Court intended its ruling to supersede in some manner counsel's other legal and ethical obligations," including his obligation to adhere to presidential and naval directives regarding the handling of classified information.
 
 According to the record before us, respondent was asked during his general court-martial proceedings why he chose to disclose the classified information surreptitiously. He replied, "Selfish reasons, I was more concerned with self-preservation, I didn't want to get---make any waves and jeopardize my career." When asked why he did not share with his superior officers his concerns about the Navy's then-refusal to release the information to Ms. Olshansky, Diaz replied, "I was worried about the effect it would have on me.... I wasn't really to put---willing to put my neck on the line and jeopardize my career at the time.... [So], I did it anonymously." On this latter point, the hearing panel held that "[I]f the Respondent disagreed with the actions taken by his client, the Navy, then the Respondent was duty bound to so inform those with decision making power within the Navy." The panel did not cite a KRPC provision in support of its holding. But subsection (b) of KRPC 1.13, which sets out the rules for an attorney whose client is an organization, contains supportive language. It states:
 
@@ -165,7 +165,7 @@ According to the record before us, respondent was asked during his general court
 
 > (2) advising that a separate legal opinion on the matter be sought for presentation to appropriate authority in the organization; and
 
-> (3) _referring the matter to higher authority in the organization_, including, if warranted by the seriousness of the matter, referral to the highest authority that can act in behalf of the organization as determined by applicable law." (Emphasis added.) 
+> (3) _referring the matter to higher authority in the organization_, including, if warranted by the seriousness of the matter, referral to the highest authority that can act in behalf of the organization as determined by applicable law." (Emphasis added.)
 
 We continue our discipline analysis by referring to the ABA Standards for Imposing Lawyer Sanctions. As the hearing panel pointed out, suspension is generally appropriate when, as here, "a lawyer knowingly reveals information relating to the representation of a client not otherwise lawfully permitted to be disclosed, and this disclosure causes injury or potential injury to a client." ABA Standards, Section 4.22. And as the panel further pointed out, suspension is also generally appropriate when, as here, "a lawyer in an official or governmental position knowingly fails to follow proper procedures or rules, and causes injury or potential injury to a party or to the integrity of the legal process." ABA Standards, Section 5.22. But here, we have much more.
 
@@ -183,6 +183,6 @@ On this general issue of harm, the hearing panel acknowledged that in determinin
 
 Based upon the number and nature of respondent's violations and criminal convictions, the conclusions of the military courts, the decision of the Judge Advocate General permanently revoking respondent's certification as a lawyer in the naval service, respondent's admitted selfish reasons for the clandestine disclosure of classified information, and the standards listed above, we conclude disbarment is the appropriate sanction. A minority of this court would impose the lesser sanction of indefinite suspension.
 
-# Conclusion and Discipline
+#### Conclusion and Discipline
 
 IT IS THEREFORE ORDERED that MATTHEW M. DIAZ be disbarred from the practice of law in the state of Kansas, effective on the filing of this opinion, in accordance with Supreme Court Rule 203(a)(1).

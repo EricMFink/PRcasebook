@@ -1,5 +1,5 @@
 ---
-layout: case
+
  
 title: 
 cite: 

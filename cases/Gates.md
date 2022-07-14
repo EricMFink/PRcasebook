@@ -1,5 +1,5 @@
 ---
-layout: case 
+ 
 
 title: 'In re Gates'
 cite: 'No. 18-00301-KRH, slip op. (Bankr. E.D. Va. April 5, 2018)'

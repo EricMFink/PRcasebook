@@ -1,5 +1,5 @@
 ---
-layout: case
+
  
 title: 'Knowles v. Mirzayance'
 cite: '556 U.S. 111 (2009)'

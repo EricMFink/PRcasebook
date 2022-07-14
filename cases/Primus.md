@@ -1,5 +1,5 @@
 ---
-layout: case 
+ 
 
 title: 'In re Primus'
 cite: '436 U.S. 412 (1978)'

@@ -1,15 +1,16 @@
 ---
-layout: case
- 
+
+
 title: 'Ang v. Martin'
 cite: '114 P. 3d 637 (Wash. 2005)'
-judge: 'Owens, J.'
-    
+
 ---
+
+### Owens, J.
 
 We are asked to determine whether plaintiffs in a malpractice action against their former criminal defense attorneys were properly required to prove by a preponderance of the evidence that they were actually innocent of the underlying criminal charges. The Court of Appeals concluded that, as an element of their negligence claim, plaintiffs were required "to prove innocence in fact and not merely to present evidence of the government's inability to prove guilt." We affirm the Court of Appeals.
 
-# Facts
+#### Facts
 
 Psychiatrist Jessy Ang and his wife Editha jointly owned Evergreen Medical Panel, Inc., a company that provided the Washington State Department of Labor and Industries with independent medical examinations of injured workers. As a result of Dr. Ang's contact with a target of a governmental task force investigating social security fraud, Dr. Ang himself became a person of interest. In February 1994, the task force executed a search warrant on Dr. Ang's office and seized copies of two sets of signed tax returns that reported conflicting amounts of income. The Angs were arrested in April 1996, following the execution of a search warrant at their residence. A year later, the Angs were indicted on 18 criminal counts, including conspiracy to defraud the United States, bank and tax fraud, and filing false statements.
 
@@ -21,11 +22,11 @@ The Angs, along with Evergreen Medical, filed the present legal malpractice acti
 
 The plaintiffs appealed, but the Court of Appeals affirmed. This court granted the plaintiffs' petition for review.
 
-# Issues
+#### Issues
 
 Where a legal malpractice suit stems from the representation of clients in a criminal prosecution, must plaintiffs who were acquitted of the criminal charges prove their actual innocence of the crimes, or does their acquittal satisfy the innocence element of their malpractice action?
 
-# Analysis
+#### Analysis
 
 Essential Elements of Legal Malpractice Claims against Criminal Defense Counsel. A plaintiff claiming negligent representation by an attorney in a civil matter bears the burden of proving four elements by a preponderance of the evidence:
 
@@ -47,13 +48,12 @@ In the alternative, the Angs argue that, if a plaintiff's actual guilt or innoce
 
 In sum, we conclude that the Angs were properly required to prove by a preponderance of the evidence that they were actually innocent of the underlying criminal charges. We therefore affirm the Court of Appeals.
 
-# Conclusion
+#### Conclusion
 
 We conclude that, as plaintiffs in a criminal malpractice action, the Angs were properly required to prove by a preponderance of the evidence that they were actually innocent of the underlying criminal charges. We find no persuasive reasons for this court to follow the minority position and shift the burden to the defendant attorneys to prove that their former clients were actually guilty of the charged crimes.
 
---- 
 
-SANDERS, J. (dissenting).
+### SANDERS, J. (dissenting).
 
 I dissent because the malpractice standard for criminal cases should be the same as civil. There is no reason to invite malpractice in criminal cases by heightening the plaintiff's burden to prove postconviction relief and actual innocence. In every situation a client should rightfully expect competent legal representation.
 
@@ -73,7 +73,7 @@ Legal causation is a subsequent inquiry, asking as a matter of law whether liabi
 
 Here the Angs's defense attorneys, Michael Martin and Richard Hansen, recommended a particular plea agreement. The Angs initially agreed but later withdrew the plea on recommendation from new counsel and were acquitted on all charges at a subsequent trial. They sued their former defense attorneys and a jury found that Martin alone was negligent even though it found the Angs had not proved their innocence by a preponderance of the evidence. Since the latter consideration should be irrelevant, Martin should bear the responsibility for his negligence. I would reverse as to Martin, and remand for a trial on damages.
 
---- 
+---
 
 ALEXANDER, C.J. (concurring in dissent).
 
@@ -81,7 +81,7 @@ I agree with Justice Sanders that the trial court erred in instructing the jury 
 
 I write separately because, in my view, we should not stop with a determination that the trial court erred but should go further to indicate that the defendant attorney may raise the issue of the plaintiff's actual guilt in the criminal case as an affirmative defense. That was the position taken by the Supreme Court of Alaska in a similar case, _Shaw v. Department of Administration_. There, the court said that because plaintiffs in such actions must already bear the burden of proving that they have obtained postconviction relief from their criminal convictions, they should not have to prove their "actual innocence." The court went on to indicate, however, that the defendant may raise the issue of the plaintiff's "actual guilt" as an affirmative defense and seek to establish it by a preponderance of the evidence. Although the Alaska court did not engage in an extensive discussion of its reasons for placing the burden on the defendant to establish this affirmative defense, it did indicate that putting the burden there is consistent with the requirement that defendants establish traditional affirmative defenses that look to plaintiffs' actions such as contributory/comparative negligence and assumption of the risk. The Alaska rule makes perfect sense to me for that reason and for the additional reason that it is consonant with the traditional notion that one is presumed innocent until proven guilty beyond a reasonable doubt. Furthermore, shifting the burden to the defendant relieves the plaintiff of the almost impossible burden of proving innocence while at the same time addressing the policy concern noted by the majority, that criminals should not benefit from "their own bad acts."
 
---- 
+---
 
 CHAMBERS, J. (concurring in dissent).
 

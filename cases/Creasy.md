@@ -1,13 +1,12 @@
 ---
-layout: case
- 
+
+
 title: 'In re Creasy'
 cite: '12 P.3d 214 (Ariz. 2000)'
-judge: 'Feldman, Justice'
-    
+
 ---
 
-# Opinion 
+### Feldman, Justice
 
 ¶ This court disbarred Frederick C. Creasy, Jr. on September 16, 1996, for a number of violations of the Code of Professional Conduct and other Rules of the Supreme Court. The most serious involved failure to properly maintain client funds entrusted to him on two separate occasions, failure to adequately supervise a non-lawyer, and failure to assist in the State Bar's investigation of these matters. In the eleven years prior to his disbarment, Creasy received six informal reprimands from the State Bar.
 
@@ -19,19 +18,19 @@ judge: 'Feldman, Justice'
 
 ¶ 5 Creasy, no longer a member of the bar, contests the jurisdiction of this court to regulate the actions of a non-lawyer. He also denies that he practiced law when he examined Dr. Crandall, arguing that actions that constitute the practice of law before a court are not the practice of law when done in the context of a private arbitration proceeding. Finally, he contends that because he was employed by an insurance adjuster licensed under A.R.S. § 20-281 (1990), the Arizona Department of Insurance has sole jurisdiction to regulate his conduct in this matter. We disagree with all three of his submissions.
 
-## DISCUSSION
+#### DISCUSSION
 
-### A. Jurisdiction
+##### A. Jurisdiction
 
 ¶ 6 We first address Creasy's argument that this court lacks jurisdiction over him because he is a non-lawyer. The argument is without merit. As we have previously said:
 
 > Article III of the Arizona Constitution creates the judicial branch of government, separate and distinct from the other branches.
-> 
+>
 > * * *
-> 
+>
 > This court has long recognized that under article III of the Constitution "the practice of law is a matter exclusively within the authority of the Judiciary. The determination of who shall practice law in Arizona and under what condition is a function placed by the state constitution in this court."
 
-¶ 7 The court's authority over the practice of law is also based on the creation of an integrated judicial department and the revisory jurisdiction of this court as provided in the Arizona Constitution. Prior to 1985, the Arizona Legislature prohibited the practice of law by unlicenced persons. Effective January 1, 1985, however, the entire title regulating attorneys was repealed; since then the practice of law has been under the exclusive regulatory jurisdiction of this court, governed by the Supreme Court Rules, in particular Rule 31(a)(3). This constitutional power to regulate the practice of law extends to non-lawyers as well as attorneys admitted to bar membership. 
+¶ 7 The court's authority over the practice of law is also based on the creation of an integrated judicial department and the revisory jurisdiction of this court as provided in the Arizona Constitution. Prior to 1985, the Arizona Legislature prohibited the practice of law by unlicenced persons. Effective January 1, 1985, however, the entire title regulating attorneys was repealed; since then the practice of law has been under the exclusive regulatory jurisdiction of this court, governed by the Supreme Court Rules, in particular Rule 31(a)(3). This constitutional power to regulate the practice of law extends to non-lawyers as well as attorneys admitted to bar membership.
 
 ¶ 8 The facts of this case do not require us to determine the extent of our power to regulate "practitioners" who are not and have never been lawyers. In the situation presented here, our rules specifically apply to both active lawyers and those who have been disbarred. Rule 31(a)(3) states:
 
@@ -41,7 +40,7 @@ judge: 'Feldman, Justice'
 
 ¶ 9 Given our authority over the practice of law and those who have been admitted to the bar, we conclude that we have continuing jurisdiction to prevent Creasy from resuming the practice of law. We turn, then, to the question of whether he was engaged in the practice of law.
 
-### B. The practice of law
+##### B. The practice of law
 
 ¶ 10 Creasy argues that his actions during the private arbitration proceeding— unconnected to any pending judicial matter— do not constitute the practice of law. We long ago defined the practice of law as
 
@@ -51,19 +50,19 @@ More recently, we applied this definition to hold that a judge who represented a
 
 ¶ 11 In this case we need not decide whether the Arizona Land Title definition should be changed or whether the Baron definition of the practice of law is an appropriate narrowing of Arizona Land Title or Fleischman. Whatever may be the line separating the proper activities of lay people and lawyers in a non-adversary context, even a cursory look at the caption of the proceedings at which Creasy appeared and a sample of Creasy's examination of Dr. Crandall during the sworn statement makes it apparent that Creasy rendered the kind of core service that is and has "been customarily given and performed from day to day [only] in the ordinary practice of members of the legal profession." As noted, our cases make clear that a person need not appear in a judicial proceeding to engage in the practice of law. If negotiation of a contract in Fleischman was the practice of law, then, a fortiori, Creasy's representation of Smith by examining a witness in an adversary setting involving a disputed claim certainly falls within that definition as well, particularly in light of the nature of the examination, which was no less exhaustive or rigorous than one would ordinarily see during a formal deposition in a judicial proceeding.
 
-¶ 12 We are quite aware of the social, technological, and economic changes that have taken place since our decision in Arizona Land Title. In some situations these changes may require us to reexamine our broad definition of the practice of law. This is not the case in which to do so. We do not deal here with the legitimate practice of other professionals, with the preparation or distribution of generic documents and forms for general use, the mere giving of legal advice, or even the preparation of documents for a specific client, the situation in which the "trained legal mind" test evolved. 
+¶ 12 We are quite aware of the social, technological, and economic changes that have taken place since our decision in Arizona Land Title. In some situations these changes may require us to reexamine our broad definition of the practice of law. This is not the case in which to do so. We do not deal here with the legitimate practice of other professionals, with the preparation or distribution of generic documents and forms for general use, the mere giving of legal advice, or even the preparation of documents for a specific client, the situation in which the "trained legal mind" test evolved.
 
 ¶ 13 Our conclusion that Creasy engaged in the practice of law by acting as a public adjuster is supported by the decisions of other jurisdictions. The Illinois Supreme Court held that a suspended lawyer engaged in the unauthorized practice of law when he represented a former client in settlement negotiations against her insurance company even though the insurance company had already admitted liability. Citing _Liberty Mutual Insurance Co. v. Jones_, for the proposition that adjusters employed by insurance companies do not engage in the unauthorized practice of law, Bodkin argued that "his position was the same as that of an adjustor for an insurance company except that he was acting on behalf of a claimant." The Illinois court rejected this argument, distinguishing Liberty Mutual on the grounds that the Missouri Supreme Court had
 
 > distinguished between services rendered by an insurance adjuster on behalf of his company and services rendered by one who negotiates a claim against the company. … The court stated … [that] "appellants' lay claim adjusters work only for their several employers, who hire and retain them with their eyes open. When they deal with claimants it is on an adversary basis, not a representative basis implying a fiduciary relation."
 
-¶ 14 Kansas, like Arizona, has no statute prohibiting the unauthorized practice of law, has reached the same result by approximately the same reasoning. The Martinez court held that an insurance claims "consultant" engaged in the unauthorized practice of law by putting together settlement brochures, negotiating settlements on behalf of injured persons, and advertising that he could save claimants the trouble of hiring a lawyer. The court concluded that the consultant offered a service that required knowledge of legal principles and that his financial interest in settling without litigation conflicted with his clients' interest in receiving a fair settlement, thus distinguishing the consultant's work from that done by insurance company adjusters. The court thus enjoined the consultant from further representation. Although the injunction was issued under the Kansas Consumer Protection Act, the finding of unauthorized practice was based on the court's "inherent power to define and regulate the practice of law." 
+¶ 14 Kansas, like Arizona, has no statute prohibiting the unauthorized practice of law, has reached the same result by approximately the same reasoning. The Martinez court held that an insurance claims "consultant" engaged in the unauthorized practice of law by putting together settlement brochures, negotiating settlements on behalf of injured persons, and advertising that he could save claimants the trouble of hiring a lawyer. The court concluded that the consultant offered a service that required knowledge of legal principles and that his financial interest in settling without litigation conflicted with his clients' interest in receiving a fair settlement, thus distinguishing the consultant's work from that done by insurance company adjusters. The court thus enjoined the consultant from further representation. Although the injunction was issued under the Kansas Consumer Protection Act, the finding of unauthorized practice was based on the court's "inherent power to define and regulate the practice of law."
 
 ¶ 15 Of course, unlike Illinois, which had no statute authorizing adjusters to investigate or settle claims "on behalf of either the insurer or the insured," the Arizona Legislature arguably has authorized private adjusters to represent claimants against insurance companies. However, we still find persuasive the Illinois court's rejection of Bodkin's argument that his actions were merely "administrative" because of his status as an admitted, though suspended, attorney. The court held that Bodkin was engaged in the practice of law, reasoning, "It is obvious that settling a case, under these circumstances, required legal skill. It is mere sham ... to contend that the acts during suspension were clerical, administrative, and ministerial only." Creasy clearly employed legal skill during his examination of Dr. Crandall and cannot now claim he was not engaged in practicing law.
 
 ¶ 16 The Kansas Supreme Court reached a similar result in a case in which a suspended lawyer continued all his activities except court appearances, finding that his activities were not permissible just because they could have been performed by non-lawyers. The court's rationale was that "some actions which may be taken with impunity by persons who have never been admitted to the practice of law, will be found to be in contempt if undertaken by a suspended or disbarred attorney." Applying this reasoning to our facts, we believe Creasy, who acted as a representative for his client by examining a witness in an adversarial setting, cannot now claim to have merely engaged in insurance adjusting under A.R.S. § 20-281.
 
-### C. Legislative authority to license private insurance adjusters
+##### C. Legislative authority to license private insurance adjusters
 
 ¶ 17 Finally, we turn to Creasy's argument that pursuant to A.R.S. § 20-281, the legislature has authorized the licensing of private insurance adjusters and that he is therefore subject only to the jurisdiction of the Department of Insurance. This argument is also without merit. In defining adjuster and setting out licensing requirements in A.R.S. §§ 20-281 and 20-312, the legislature has undertaken the regulation of insurance adjusters. Section 20-281(A) defines an adjuster as
 
@@ -73,11 +72,11 @@ More recently, we applied this definition to hold that a judge who represented a
 
 ¶ 18 But even if we were so persuaded, the legislature's adoption of A.R.S. § 20-281 cannot authorize Creasy to violate our disbarment order by engaging in activities that constitute the practice of law. Section 20-281 is intended to regulate insurance adjusters. The legislature has not purported to, nor can it, authorize non-lawyers or disbarred lawyers to practice law. Whether it is within the legislature's power to authorize one to engage in activities that constitute the practice of law while engaging in the business of insurance adjusting is a question we reserve for the appropriate case, if and when brought.
 
-## CONCLUSION
+#### CONCLUSION
 
 ¶ 19 We hold that Creasy has violated Rule 31(a)(3) and the order of disbarment. We thus find him in contempt and order that he immediately cease and desist from any further activities that constitute the practice of law. In lieu of other penalties that might be imposed, Creasy is ordered to pay the costs incurred by the State Bar, plus reasonable attorneys' fees, the amount to be approved by this court on application by the State Bar.
 
-# MARTONE, Justice, concurring.
+### MARTONE, Justice, concurring.
 
 ¶ 20 I join the holding that this court has jurisdiction over disbarred lawyers pursuant to the order of disbarment and Rule 31(a)(3). Creasy is a disbarred lawyer. This case, therefore, affords us no opportunity to address the quite separate question of whether this court has jurisdiction over persons who were never lawyers and whose activities are not part of, or ancillary to, Judicial Department institutions within the meaning of Article VI, § 1 of the Arizona Constitution.
 

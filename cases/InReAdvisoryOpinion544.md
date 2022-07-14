@@ -1,5 +1,5 @@
 ---
-layout: case
+
  
 title: 'In re Advisory Opinion No. 544 of NJ Sup. Court'
 cite: '511 A. 2d 609 (N.J. 1986)'

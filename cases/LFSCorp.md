@@ -1,5 +1,5 @@
 ---
-layout: case
+
  
 title: 'L.F.S. Corp. v. Kennedy'
 cite: '337 S.E.2d 209 (S.C. 1985)'

@@ -1,5 +1,5 @@
 ---
-layout: case
+
  
 title: "Nix v. Whiteside"
 cite: "475 U.S. 157 (1986)"

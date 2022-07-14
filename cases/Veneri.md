@@ -1,5 +1,5 @@
 ---
-layout: case 
+ 
 
 title: 'Lawyer Disciplinary Board v. Veneri'
 cite: '524 S.E.2d 900 (W. Va. 1999)'

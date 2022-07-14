@@ -1,15 +1,16 @@
 ---
-layout: case
- 
+
+
 title: 'Bronson v. Borst'
 cite: '404 A. 2d 960 (D.C. App. 1979)'
-judge: 'Kelly, Associate Judge'
-    
+
 ---
+
+### Kelly, Associate Judge
 
 Eugene C. Bronson here appeals from an adverse decision in a declaratory judgment action filed against him to enforce a settlement agreement and for the payment of attorney's fees and costs, arguing that the trial court erred in holding that an attorney does not need specific authority to accept a settlement on behalf of his client. We reverse.
 
-# I
+#### I
 
 The material facts are largely undisputed. On May 1, 1972, appellant's automobile was struck by an automobile owned by Mattos, Inc. In order to pursue a claim for personal injuries caused by the accident, appellant retained appellee Borst under a general retainer agreement which provided only for the usual contingency basis of payment, i.e., Borst was to receive one-third of any judgment recovered.
 
@@ -19,7 +20,7 @@ Borst thereafter filed suit in Superior Court for a declaratory judgment to enfo
 
 Bronson conducted a vigorous, but inartful, cross-examination. Frequently the trial judge admonished Bronson that his questioning was argumentative and advised that he would have an opportunity later to take the stand and present his case. After Borst left the stand, however, the trial judge asked Bronson to present support in the law for his case. When Bronson completed his statement, the judge ruled for Borst without giving Bronson the opportunity to take the stand and testify under oath.
 
-# II
+#### II
 
 Appellant's first argument is that the trial court erred, as a matter of law, in holding that the settlement agreement at issue was binding on him. His analysis is that an attorney without express authority cannot accept for his client any settlement regardless of the merits of the client's case or the attractiveness of the settlement offer. That conclusion was stated succinctly in Ashley v. Atlas Mfg. Co., D.C., 7 F.R.D. 77 (1946). In Ashley, the court confronted a courtroom settlement to which counsel for both parties assented in open court. Although the court judged from the tenor of the agreement and the manner in which the attorney for defendant announced the agreement in the presence of the defendant that the attorney had specific authority to settle the case, the court noted that
 

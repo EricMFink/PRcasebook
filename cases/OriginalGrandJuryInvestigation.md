@@ -1,5 +1,5 @@
 ---
-layout: case
+
  
 title: 'In re Original Grand Jury Investigation'
 cite: '89 Ohio St. 3d 544 (Ohio 2000)'

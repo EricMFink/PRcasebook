@@ -1,5 +1,5 @@
 ---
-layout: case
+
  
 title: "In re Dresser Industries, Inc."
 cite: "972 F.2d 540 (5th Cir. 1992)"

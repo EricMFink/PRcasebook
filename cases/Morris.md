@@ -1,5 +1,5 @@
 ---
-layout: case
+
  
 title: 'Morris v. Ohio Cas. Ins. Co.'
 cite: '35 Ohio St. 3d 45 (Ohio 1988)'

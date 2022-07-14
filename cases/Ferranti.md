@@ -1,5 +1,5 @@
 ---
-layout: case
+
  
 title: 'Ferranti International PLC v. Clark'
 cite: '767 F.Supp. 670 (E.D. Pa. 1991)'

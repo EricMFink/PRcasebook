@@ -1,15 +1,16 @@
 ---
-layout: case 
+
 
 title: 'In re Application of Converse'
 cite: 602 N.W.2d 500 (Neb. 1999)
-judge: 'Per Curiam'
 
 ---
 
+### Per Curiam
+
 Paul Raymond Converse appeals a decision of the Nebraska State Bar Commission (Commission) denying his request to take the July 1998 Nebraska bar examination. Converse claims that the decision of the Commission should be reversed because the Commission rested its denial of Converse's application, at least in part, upon conduct protected by the First Amendment to the U.S. Constitution and, in the alternative, that Converse's conduct did not constitute sufficient cause under Nebraska law for denying his application on the ground of deficient moral character. For the reasons that follow, we affirm the decision of the Commission.
 
-# Factual Background 
+#### Factual Background
 
 In 1998, Converse applied for permission to sit for the Nebraska bar examination. On June 29, 1998, Converse was notified by letter that the Commission had denied permission for him to take the July 1998 Nebraska bar examination because it had determined that Converse lacked the requisite moral character for admission upon examination to the Nebraska State Bar Association. On July 7, the Commission received notice that Converse was appealing the Commission's initial determination. Converse's appeal was heard on September 15, after which the Commission reaffirmed its initial determination and notified Converse on December 18 that he would not be allowed to sit for the Nebraska bar examination at that time.
 
@@ -43,13 +44,13 @@ The evidence also revealed that prior to law school, Converse, in his capacity a
 
 After the Commission notified Converse that he would not be allowed to sit for the Nebraska bar examination, Converse appealed the adverse determination to this court.
 
-# Assignments of Error
+#### Assignments of Error
 
 Converse claims that the Commission erred in basing its decision, in part, upon conduct and speech arguably protected by the First Amendment; not making Converse aware of all of the "charges" against him in the proceedings in violation of the 14th Amendment; and determining that Converse's conduct gave rise to sufficient cause under Nebraska law for the Commission to deny his application to sit for the Nebraska bar examination.
 
 [ * * * ]
 
-# Analysis
+#### Analysis
 
 Converse first assigns as error that the Commission's determination should not stand because it is based in large part upon speech that is protected by the First Amendment. Thus, the threshold question we must answer is whether conduct arguably protected by the First Amendment can be considered by the Commission during an investigation into an applicant's moral character and fitness to practice law. We answer this question in the affirmative.
 
@@ -69,7 +70,7 @@ Converse next contends that the Commission violated his due process rights by no
 
 By alleging that he has not been made fully aware of the "charges" against him, Converse has confused this inquiry into his moral character with a trial. Such is not the case. An inquiry regarding an application to the bar is not a lawsuit with the formalities of a trial, but, rather, is an investigation of the conduct of an applicant for membership to the bar for the purpose of determining whether he shall be admitted. No charges have been filed against Converse, and he has been advised of the reasons for which his application was denied. Converse's assignment of error that he has been denied due process of law is therefore without merit.
 
-Converse's third assignment of error alleges that the Commission erred by determining there was sufficient cause to deny his application to sit for the Nebraska bar exam. Much of his argument centers around his conduct being protected by the First Amendment, as discussed previously. However, the question presented is not the scope of Converse's rights under the First Amendment, but whether Converse's propensity to unreasonably react against anyone whom he believes opposes him reveals his lack of professional responsibility, which renders him unfit to practice law. 
+Converse's third assignment of error alleges that the Commission erred by determining there was sufficient cause to deny his application to sit for the Nebraska bar exam. Much of his argument centers around his conduct being protected by the First Amendment, as discussed previously. However, the question presented is not the scope of Converse's rights under the First Amendment, but whether Converse's propensity to unreasonably react against anyone whom he believes opposes him reveals his lack of professional responsibility, which renders him unfit to practice law.
 
 There is no question that "[a] state can require high standards of qualification, such as good moral character or proficiency in its law, before it admits an applicant to the bar...." The Court has also stated that it must be "kept clearly in mind ... that an applicant for admission to the bar bears the burden of proof of 'good moral character'—a requirement whose validity is not, nor could well be, drawn in question here."  "If at the conclusion of the proceedings the evidence of good character and that of bad character are found in even balance, the State may refuse admission...." Nebraska does, in fact, require a bar applicant to show that the applicant is of good moral character. Therefore, the burden is upon Converse to adequately prove his fitness to practice law in Nebraska, and the evidence will be viewed in this light.
 
@@ -99,9 +100,9 @@ We explained in _In re Appeal of Lane_ that the "requisite restraint in dealing 
 
 > "The profession's insistence that counsel show restraint, self-discipline and a sense of reality in dealing with courts, other counsel, witnesses and adversaries is more than insistence on good manners. It is based on the knowledge that civilized, rational behavior is essential if the judicial system is to perform its function. Absent this, any judicial proceeding is likely to degenerate into [a] verbal free-for-all.... [H]abitual unreasonable reaction to adverse rulings... is conduct of a type not to be permitted of a lawyer when acting as a lawyer. _What cannot be permitted in lawyers, cannot be tolerated in those applying for admission as lawyers."_
 
-In Nebraska, _In re Appeal of Lane_ is clearly the rule and not an exception thereto. 
+In Nebraska, _In re Appeal of Lane_ is clearly the rule and not an exception thereto.
 
-The evidence in this case shows that Converse's numerous disputes and personal attacks indicate a "pattern and a way of life which appear to be [Converse's] normal reaction to opposition and disappointment." The totality of the evidence clearly establishes that Converse possesses an inclination to personally attack those with whom he has disputes. Such inclinations "are not acceptable in one who would be a counselor and advocate in the legal system." 
+The evidence in this case shows that Converse's numerous disputes and personal attacks indicate a "pattern and a way of life which appear to be [Converse's] normal reaction to opposition and disappointment." The totality of the evidence clearly establishes that Converse possesses an inclination to personally attack those with whom he has disputes. Such inclinations "are not acceptable in one who would be a counselor and advocate in the legal system."
 
 In addition to Converse's tendency to personally attack those individuals with whom he has disputes, his pattern of behavior indicates an additional tendency to do so in arenas other than those specifically established within the legal system. This tendency is best exemplified by observing Converse's conduct in situations where there were avenues through which Converse could have and should have handled his disputes, but instead chose to mount personal attacks on those with whom he had disputes through letters and barrages in the media.
 
@@ -117,6 +118,6 @@ The result might have been different if Converse had exhibited only a "single in
 
 Converse has exhibited a clear lack of self-restraint and lack of judgment, and our de novo review of the record leads us to independently conclude that Converse has exhibited such a pattern of acting in a hostile and disruptive manner as to render him unfit for the practice of law in Nebraska. We conclude that the Commission's determination to deny Converse's application was correct, and Converse's third assignment of error is therefore without merit.
 
-# Conclusion
+#### Conclusion
 
 The Commission correctly determined that Converse possessed insufficient moral character and was unfit to practice law in the State of Nebraska. This determination was based on an inquiry into Converse's moral character that was both proper and constitutionally permissible. Finding no error in the Commission's determination or the process used to reach that determination, we affirm the Commission's denial of application.
