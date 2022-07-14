@@ -12,8 +12,6 @@ The inherent authority of a court is non-exclusive of any statutes or rules that
 
 _The Inherent Authority of the Court_
 
-<img src="/assets/images/image2.png" style="width:1.88203in;height:2.13021in" /><img src="/assets/images/image5.png" style="width:3.18893in;height:2.13021in" />
-
 [Marvin Kurzban](https://www.youtube.com/watch?v=8K-XAf06EHA) & [Ira J. Kurzban](https://en.wikipedia.org/wiki/Ira_J._Kurzban)
 
 [_Lee v. American Eagle Airlines, Inc._, 93 F. Supp. 2d 1322 (S.D. Fla. 2000)_](https://scholar.google.com/scholar_case?case=18422616841756190256)

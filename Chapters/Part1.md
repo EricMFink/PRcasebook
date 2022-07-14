@@ -3,7 +3,7 @@
 date: Fall Term 2022
 title: Professional Responsibility
 
-Part: Introduction
+Part: Law as a Regulated Profession
 
 author: Eric M. Fink
 publisher: Elon University School of Law
@@ -20,11 +20,11 @@ output:
 
 ---
 
-\chapter{Law as a Profession}
+\chapter{Law as a Regulated Profession}
 
 # Professions and Professionalism
 
-\reading{Work, Jurisdiction, and Competition}{Andrew Abbott}{\itshape{The System of Professions}}
+\reading{Work, Jurisdiction, and Competition}{Andrew Abbott{The System of Professions}
 
 Each profession is bound to a set of tasks by ties of jurisdiction, the strengths and weaknesses of these ties being established in the processes of actual professional work. Since none of these links is absolute or permanent, the professions make up an interacting system, an ecology. Professions compete within this system, and a profession's success reflects as much the situations of its competitors and the system structure as it does the professions own efforts. From time to time, tasks are created, abolished, or reshaped by external forces, with consequent jostling and readjustment within the system of professions.
 
@@ -107,7 +107,7 @@ The central organizing reality of professional life is control of tasks. The tas
 \halfsep
 
 
-\reading{Professionalism}{Kathi Weeks}{\itshape{The Trouble With Work}}
+\reading{Professionalism}{Kathi Weeks}{The Trouble With Work}
 
 The discourse of professionalism today enjoys a wide application, serving as a disciplinary mechanism to manage the affects and attitudes of a service-based workforce that is less amenable to direct supervision. [ ... ]
 
@@ -117,14 +117,13 @@ The discourse of professionalism today enjoys a wide application, serving as a d
 
 Whereas the term once suggested a certain mastery of a field of knowledge linked to a specific skill and expertise, increasingly the mastery that a professional is expected to achieve is over [ ... ] "the personality." [T]oday's professional is supposed to gain control over his or her thoughts, imagination, relationships, and affects. Certainly one purpose of this is to promote the kind of self-discipline and subjective investment long associated with being a professional. [ ... ]
 
-Today the term "professional" refers more to a prescribed attitude toward any work than the status of some work. To act like a professional---to be professional in one's work---calls for subjective investment in and identification with work, but also a kind of affective distancing from it. A professional invests his or her person in the job but does not "take it personally" when dealing with difficult co-workers, clients, patients, students, passengers, or customers. As an ideal of worker subjectivity, this requires not just the performance of a role, but a deeper commitment of the self, an immersion in and identification not just with work, but with work discipline. The popular injunction to "be professional;" to cultivate a professional attitude, style, and persona, serves as one way that the autonomy, especially of immaterial workers, can be managerially constituted up and down the post-Fordist labor hierarchy.
+Today the term "professional" refers more to a prescribed attitude toward any work than the status of some work. To act like a professional---to be professional in one's work---calls for subjective investment in and identification with work, but also a kind of affective distancing from it. A professional invests his or her person in the job but does not "take it personally" when dealing with difficult co-workers, clients, patients, students, passengers, or customers. As an ideal of worker subjectivity, this requires not just the performance of a role, but a deeper commitment of the self, an immersion in and identification not just with work, but with work discipline. The popular injunction to "be professional;" to cultivate a professional attitude, style, and persona, serves as one way that the autonomy, especially of immaterial workers, can be managerially constituted up and down the [ ... ] labor hierarchy.
 
 \halfsep
 
-
 # Emergence of the Modern Legal Profession
 
-\reading{Lawyers and Their Competitors}{Andrew Abbott}{\itshape{The System of Professions}}
+\reading{Lawyers and Their Competitors}{Andrew Abbott}{The System of Professions}
 
 Professions' histories are littered with splinter groups and faltering competitors. These are usually ignored in official mythologies, although occasionally recalled as precursors, charlatans, or worse. [ … ] By studying interprofessional conflict, we can set the successful professions in their real context and correct our theories of their development.
 
@@ -237,4 +236,308 @@ Surprisingly, many problems related to the new government business—tax appeals
 \halfsep
 
 
-\chapter{The Regulation of Legal Practice}
+\case{People v. Alfani}{125 A. 671}{NY 1919}
+
+The defendant was convicted by the Special Sessions of the city of New York, borough of Brooklyn, of violating section 270 of the Penal Law. He was not an attorney and counselor-at-law, but had for a long period of time drawn legal papers and instruments for hire and  held himself out to the public as being in that business. His conviction was reversed by the Appellate Division on the ground that such acts did not constitute practicing law and, therefore, were in nowise contrary to the statute.
+
+The question is fairly presented whether the things done by Alfani are open to the public generally or require a license from the state before a person can perform them for compensation and as an occupation.
+
+Henry Alfani had lived at 475 Park avenue, Brooklyn, New York, since 1888. In the basement he had an office in which he carried on a real estate and insurance business. Distinct from such work he also drew legal papers, contracts for real estate, deeds, mortgages, bills of sale and wills. A large sign placed over his dining-room or basement window bore the words in big letters "Notary Public---Redaction of all legal papers." The defendant said "redaction" meant the drawing of legal papers. He was sixty years of age and evidently an Italian, as he testified in part through the Italian interpreter.
+
+On December 27, 1917, two investigators of the state industrial commission called on Alfani at his office and asked him to look after a matter for them. Gallo, one of the men, said his name was George Lecas and that he lived at 23 Cook street, Brooklyn, where he had a soda water stand which together with a stock of cigars, cigarettes, candies and malted milk he had sold to the other man whom he introduced as Geannelis. The terms of the sale were these: the purchaser agreed to assume the seller's contract to pay five dollars twice a month to the American Siphon Company from which the fountain had been obtained, $65 being still due thereon; the stock was to be $26 cash and the good will $145 to be paid for by Geannelis---$50 that night, $50 January 15th and $45 January 31st. The last payment was to be extended ten days if the purchaser was unable to meet it on time. The defendant advised that a bill of sale be drawn and that the purchaser give back a chattel mortgage. He explained about the  necessity of filing the mortgage in the county clerk's office and the foreclosure by a city marshal in case of non-payment. The papers were drawn and executed for which the defendant charged and received four dollars. Before leaving Gallo said: "In case I have any trouble of any kind and I need any legal advice can I come back to you?" to which Alfani replied, "Yes."
+
+By section 270 of the Penal Law it is a misdemeanor for any natural person "to make it a business to practice as an attorney-at-law * * * or to hold himself out to the public as being entitled to practice law as aforesaid, or in any other manner, * * * without having first been duly and regularly licensed and admitted to practice law in the courts of record of this state." To practice or to represent as being entitled to practice law in any manner is prohibited to those not lawyers.
+
+The Appellate Division was of the opinion that this section related only to practice connected with court or legal proceedings. The restriction is broader than this for effect must be given to the words "or in any other manner." The words "as aforesaid" have reference to practice in the courts mentioned, and the following "or in any other manner" refer to the practice as an attorney-at-law out of court and not in legal proceedings. Practicing as an attorney-at-law in or out of court or holding oneself out as entitled to so practice is the offense. Not only is this the natural reading of the section but the lower court in a previous decision held that practicing law was not confined to court work.
+
+In _Matter of Duncan_ it is said: "It is too obvious for discussion that the practice of law is not limited to the conduct of cases in courts. According to the generally understood definition of the practice of law in this country, it embraces the preparation of pleadings and other papers incident to actions and special proceedings and the management of such actions  and proceedings on behalf of clients before judges and courts, and in addition conveyancing, the preparation of legal instruments of all kinds, and in general all advice to clients and all action taken for them in matters connected with the law. An attorney-at-law is one who engages in any of these branches of the practice of law."
+
+In _Eley v. Miller_ the court stated: "As the term is generally understood, the practice of law is the doing or performing services in a court of justice in any matter depending therein, throughout its various stages, and in conformity to the adopted rules of procedure. But in a larger sense it includes legal advice and counsel, and the preparation of legal instruments and contracts by which legal rights are secured, although such matter may or may not be depending in a court."
+
+To make it a business to practice as an attorney-at-law not being a lawyer is the crime. Therefore, to prepare as a business legal instruments and contracts by which legal rights are secured and to hold oneself out as entitled to draw and prepare such as a business is a violation of the law.
+
+It does not lead us to a conclusion to investigate the powers of notaries public under the Roman law or of scriveners and notaries under the English system past or present. The legislators who enacted section 270 knew what practicing law was in this state as many of them were of the profession and they were dealing with that as carried on here at the present day. It is common knowledge for which the above authorities were hardly necessary, that a large, if not the greater, part of the work of the bar to-day is out of court or office work. Counsel and  advice, the drawing of agreements, the organization of corporations and preparing papers connected therewith, the drafting of legal documents of all kinds, including wills, are activities which have long been classed as law practice. The legislature is presumed to have used the words as persons generally would understand them, and not being technical or scientific terms "to practice as an attorney-at-law" means to do the work, as a business, which is commonly and usually done by lawyers here in this country.
+
+The reason why preparatory study, educational qualifications, experience, examination and license by the courts are required, is not to protect the bar as stated in the opinion below but to protect the public. Similar preparation and license are now demanded for the practice of medicine, surgery, dentistry and other callings, and the list is constantly increasing as the danger to the citizen becomes manifest and knowledge reveals how it may be avoided.
+
+Why have we in this state such strict requirements for admission to the Bar? A regents' certificate or college degree followed by three years in a law school or an equivalent study in a law office marks the course to a bar examination which must finally be passed to entitle the applicant to practice as an attorney. Recognizing that knowledge and ability alone are insufficient for the standards of the profession, a character committee also investigates and reports upon the honesty and integrity of the man. And all of this with but one purpose in view and that to protect the public from ignorance, inexperience and unscrupulousness.
+
+Is it only in court or in legal proceedings that danger lies from such evils? On the contrary, the danger there is at a minimum for very little can go wrong in a court where the proceedings are public and the presiding officer is generally a man of judgment and experience. Any judge of much active work on the bench has had frequent  occasion to guide the young practitioner or protect the client from the haste or folly of an older one. Not so in the office. Here the client is with his attorney alone, without the impartial supervision of a judge. Ignorance and stupidity may here create damage which the courts of the land cannot thereafter undo. Did the legislature mean to leave this field to any person out of which to make a living? Reason says no. Practicing law as an attorney likewise covers the drawing of legal instruments as a business.
+
+That such work is properly that of an attorney seems to be recognized by other provisions of law. Section 88 of the Judiciary Law, relating to the disbarment of attorneys, makes it the duty of the Appellate Division in each final order of suspension to forbid the giving to another of an opinion as to the law or its application or of any advice in relation thereto.
+
+Section 835 of the Code of Civil Procedure provides in substance that an attorney shall not be allowed to disclose a communication made by his client to him or his advice given thereon, in the course of his professional employment. Such communications have referred to a deed; an affidavit; a chattel mortgage and a bill of sale.
+
+Also the summary power of courts over attorneys may be exercised in matters unrelated to court proceedings.
+
+Even the instances cited below of scriveners and notaries public in foreign lands drawing legal papers sustain this contention, as the laws require such to be trained and experienced men.
+
+The duties of notaries public here are defined by section 105 of the Executive Law. Only in the name is there a correspondence to the continental official.
+
+All rules must have their limitations, according to circumstances and as the evils disappear or lessen. Thus a man may plead his own case in court, or draft his own will or legal papers. Probably he may ask a friend or neighbor to assist him.
+
+We recognize that by section 270 and also 271 a person, not a lawyer, may appear for another in a court not of record outside cities of the first and second class. The results cannot be serious. The cases are generally of minor importance to the parties; such occasions are seldom frequent enough to make it a business, and the procedure is so informal as to constitute the judge really an arbiter in the dispute.
+
+We must, therefore, in harmony with these views, reverse the judgment of the Appellate Division and affirm that of the Special Sessions.
+
+#### McLAUGHLIN, J. (dissenting).
+
+The defendant was convicted of violating section 270 of the Penal Law. [On appeal], the judgment of conviction was reversed and he was discharged. The People, by permission, appeal to this court.
+
+So much of the section of the Penal Law under which the conviction was obtained as is material to the question presented on appeal, reads as follows: "Practicing or  appearing as attorney without being admitted and registered. It shall be unlawful for any natural person to practice or appear as an attorney-at-law or as attorney and counsellor-at-law for another in a court of record in this state or in any court in the city of New York, or to make it a business to practice as an attorney-at-law or as an attorney and counsellor-at-law for another in any of said courts * * * or to hold himself out to the public as being entitled to practice law as aforesaid, or in any other manner, * * * without having first been duly and regularly licensed and admitted to practice law in the courts of record of this state * * *."
+
+The defendant, at the time stated in the information, was a notary public, living at 475 Park avenue, Brooklyn, in the basement of which he had a small office for the transaction of business. Over the entrance of the office was the following sign:
+
+![](../assets/img/Alfani.png)
+
+On the 27th of December, 1917, one Gallo, special investigator of the state industrial commission, in company with one Geannelis, entered defendant's office and he asked them what they wanted. Gallo stated that he was selling his store, which consisted of a soda water stand, together with a stock of cigars, cigarettes, etc., to Geannelis, for a certain consideration, which was named, part of which was to be paid down and the balance in installments. Gallo also stated there was a certain amount due to the American Siphon Company on the purchase price of the soda water fountain, which Geannelis was to assume and pay. The defendant advised that Gallo give a bill of sale to Geannelis and that he give a chattel mortgage for the amount remaining unpaid. He also explained it would be necessary to file the mortgage in the county clerk's office, so that the same could be foreclosed by the city marshal in case of non-payment.  His suggestions as to the bill of sale and mortgage were followed and he thereupon prepared the same, for which he was paid four dollars.
+
+It is contended that this transaction, together with the sign, amounted to a violation of the provisions of the statute quoted. I have been unable to reach this conclusion. The statute, unless something is read into it which does not there appear, is to prohibit a natural person practicing or appearing as an attorney-at-law in the courts mentioned, or to hold himself out to the public as being entitled to practice in such courts. The defendant did neither. Clearly, the drafting of the bill of sale and chattel mortgage was not practicing or appearing as an attorney-at-law in any court. Nor did the words on the sign, "Redaction of all legal papers" indicate that he was holding himself out as entitled to practice in such courts. The words "in any other manner," upon which stress is laid, relate to what precedes them in the sentence, viz., the courts referred to. The phrase, although general in its nature, is limited and qualified by the prior specific designations. The rule of ejusdem generis applies. Where the enumeration of specific things is followed by some more general word or phrase, such general word or phrase is held to refer to the things of the same kind.
+
+At the time defendant was convicted it was not illegal, and is not now, for natural persons to draft papers usually intrusted to lawyers. Judicial notice may be taken of the fact that in the rural districts of the state leases, deeds, bills of sale, chattel mortgages, wills and other instruments creating legal obligations are frequently prepared by laymen, notaries public and justices of the peace. Indeed, a natural person could, at the time defendant was convicted, appear for another in a Magistrate's Court, or before a justice of the peace, except in cities of the first  and second class, and receive pay therefor. This practice is recognized by section 271, which prohibits a person from receiving compensation for appearing as attorney in a court before any magistrate in any city of the first or second class, unless admitted to practice as an attorney and counsellor in the courts of record of the state. That the legislature did not intend to prohibit such practice is apparent from the fact that at its last session it amended section 271, so that it now includes cities of the third, as well as those of the first and second class.
+
+To give to the words "in any other manner" the legal effect suggested would prohibit a natural person anywhere in the state from drawing a legal paper of any description, or appearing in any court. This, the legislature has not yet indicated its intent to do.
+
+One of the well-settled rules of statutory construction is that statutory offenses cannot be established by implication and that acts in and of themselves innocent and lawful cannot be held to be criminal, unless there is a clear and unequivocal expression of the legislative intent to make them such.
+
+I am of the opinion that the defendant was not guilty of violating section 270 of the Penal Law; that the Appellate Division was right in reversing the conviction and discharging him; and its judgment should, therefore, be affirmed.
+
+\halfsep
+
+# Regulation of Lawyers
+
+\mrpc{Preamble and Scope}
+
+#### PREAMBLE: A LAWYER'S RESPONSIBILITIES
+
+[1] A lawyer, as a member of the legal profession, is a representative of clients, an officer of the legal system and a public citizen having special responsibility for the quality of justice.
+
+[2] As a representative of clients, a lawyer performs various functions. As advisor, a lawyer provides a client with an informed understanding of the client's legal rights and obligations and explains their practical implications. As advocate, a lawyer zealously asserts the client's position under the rules of the adversary system. As negotiator, a lawyer seeks a result advantageous to the client but consistent with requirements of honest dealings with others. As an evaluator, a lawyer acts by examining a client's legal affairs and reporting about them to the client or to others.
+
+[3] In addition to these representational functions, a lawyer may serve as a third-party neutral, a nonrepresentational role helping the parties to resolve a dispute or other matter. Some of these Rules apply directly to lawyers who are or have served as third-party neutrals. See, e.g., Rules 1.12 and 2.4. In addition, there are Rules that apply to lawyers who are not active in the practice of law or to practicing lawyers even when they are acting in a nonprofessional capacity. For example, a lawyer who commits fraud in the conduct of a business is subject to discipline for engaging in conduct involving dishonesty, fraud, deceit or misrepresentation. See Rule 8.4.
+
+[4] In all professional functions a lawyer should be competent, prompt and diligent. A lawyer should maintain communication with a client concerning the representation. A lawyer should keep in confidence information relating to representation of a client except so far as disclosure is required or permitted by the Rules of Professional Conduct or other law.
+
+[5] A lawyer's conduct should conform to the requirements of the law, both in professional service to clients and in the lawyer's business and personal affairs. A lawyer should use the law's procedures only for legitimate purposes and not to harass or intimidate others. A lawyer should demonstrate respect for the legal system and for those who serve it, including judges, other lawyers and public officials. While it is a lawyer's duty, when necessary, to challenge the rectitude of official action, it is also a lawyer's duty to uphold legal process.
+
+[6] As a public citizen, a lawyer should seek improvement of the law, access to the legal system, the administration of justice and the quality of service rendered by the legal profession. As a member of a learned profession, a lawyer should cultivate knowledge of the law beyond its use for clients, employ that knowledge in reform of the law and work to strengthen legal education. In addition, a lawyer should further the public's understanding of and confidence in the rule of law and the justice system because legal institutions in a constitutional democracy depend on popular participation and support to maintain their authority. A lawyer should be mindful of deficiencies in the administration of justice and of the fact that the poor, and sometimes persons who are not poor, cannot afford adequate legal assistance. Therefore, all lawyers should devote professional time and resources and use civic influence to ensure equal access to our system of justice for all those who because of economic or social barriers cannot afford or secure adequate legal counsel. A lawyer should aid the legal profession in pursuing these objectives and should help the bar regulate itself in the public interest.
+
+[7] Many of a lawyer's professional responsibilities are prescribed in the Rules of Professional Conduct, as well as substantive and procedural law. However, a lawyer is also guided by personal conscience and the approbation of professional peers. A lawyer should strive to attain the highest level of skill, to improve the law and the legal profession and to exemplify the legal profession's ideals of public service.
+
+[8] A lawyer's responsibilities as a representative of clients, an officer of the legal system and a public citizen are usually harmonious. Thus, when an opposing party is well represented, a lawyer can be a zealous advocate on behalf of a client and at the same time assume that justice is being done. So also, a lawyer can be sure that preserving client confidences ordinarily serves the public interest because people are more likely to seek legal advice, and thereby heed their legal obligations, when they know their communications will be private.
+
+[9] In the nature of law practice, however, conflicting responsibilities are encountered. Virtually all difficult ethical problems arise from conflict between a lawyer's responsibilities to clients, to the legal system and to the lawyer's own interest in remaining an ethical person while earning a satisfactory living. The Rules of Professional Conduct often prescribe terms for resolving such conflicts. Within the framework of these Rules, however, many difficult issues of professional discretion can arise. Such issues must be resolved through the exercise of sensitive professional and moral judgment guided by the basic principles underlying the Rules. These principles include the lawyer's obligation zealously to protect and pursue a client's legitimate interests, within the bounds of the law, while maintaining a professional, courteous and civil attitude toward all persons involved in the legal system.
+
+[10] The legal profession is largely self-governing. Although other professions also have been granted powers of self-government, the legal profession is unique in this respect because of the close relationship between the profession and the processes of government and law enforcement. This connection is manifested in the fact that ultimate authority over the legal profession is vested largely in the courts.
+
+[11] To the extent that lawyers meet the obligations of their professional calling, the occasion for government regulation is obviated. Self-regulation also helps maintain the legal profession's independence from government domination. An independent legal profession is an important force in preserving government under law, for abuse of legal authority is more readily challenged by a profession whose members are not dependent on government for the right to practice.
+
+[12] The legal profession's relative autonomy carries with it special responsibilities of self-government. The profession has a responsibility to assure that its regulations are conceived in the public interest and not in furtherance of parochial or self-interested concerns of the bar. Every lawyer is responsible for observance of the Rules of Professional Conduct. A lawyer should also aid in securing their observance by other lawyers. Neglect of these responsibilities compromises the independence of the profession and the public interest which it serves.
+
+[13] Lawyers play a vital role in the preservation of society. The fulfillment of this role requires an understanding by lawyers of their relationship to our legal system. The Rules of Professional Conduct, when properly applied, serve to define that relationship.
+
+#### SCOPE
+
+[14] The Rules of Professional Conduct are rules of reason. They should be interpreted with reference to the purposes of legal representation and of the law itself. Some of the Rules are imperatives, cast in the terms "shall" or "shall not." These define proper conduct for purposes of professional discipline. Others, generally cast in the term "may," are permissive and define areas under the Rules in which the lawyer has discretion to exercise professional judgment. No disciplinary action should be taken when the lawyer chooses not to act or acts within the bounds of such discretion. Other Rules define the nature of relationships between the lawyer and others. The Rules are thus partly obligatory and disciplinary and partly constitutive and descriptive in that they define a lawyer's professional role. Many of the Comments use the term "should." Comments do not add obligations to the Rules but provide guidance for practicing in compliance with the Rules.
+
+[15] The Rules presuppose a larger legal context shaping the lawyer's role. That context includes court rules and statutes relating to matters of licensure, laws defining specific obligations of lawyers and substantive and procedural law in general. The Comments are sometimes used to alert lawyers to their responsibilities under such other law.
+
+[16] Compliance with the Rules, as with all law in an open society, depends primarily upon understanding and voluntary compliance, secondarily upon reinforcement by peer and public opinion and finally, when necessary, upon enforcement through disciplinary proceedings. The Rules do not, however, exhaust the moral and ethical considerations that should inform a lawyer, for no worthwhile human activity can be completely defined by legal rules. The Rules simply provide a framework for the ethical practice of law.
+
+[17] Furthermore, for purposes of determining the lawyer's authority and responsibility, principles of substantive law external to these Rules determine whether a client-lawyer relationship exists. Most of the duties flowing from the client-lawyer relationship attach only after the client has requested the lawyer to render legal services and the lawyer has agreed to do so. But there are some duties, such as that of confidentiality under Rule 1.6, that attach when the lawyer agrees to consider whether a client-lawyer relationship shall be established. See Rule 1.18. Whether a client-lawyer relationship exists for any specific purpose can depend on the circumstances and may be a question of fact.
+
+[18] Under various legal provisions, including constitutional, statutory and common law, the responsibilities of government lawyers may include authority concerning legal matters that ordinarily reposes in the client in private client-lawyer relationships. For example, a lawyer for a government agency may have authority on behalf of the government to decide upon settlement or whether to appeal from an adverse judgment. Such authority in various respects is generally vested in the attorney general and the state's attorney in state government, and their federal counterparts, and the same may be true of other government law officers. Also, lawyers under the supervision of these officers may be authorized to represent several government agencies in intragovernmental legal controversies in circumstances where a private lawyer could not represent multiple private clients. These Rules do not abrogate any such authority.
+
+[19] Failure to comply with an obligation or prohibition imposed by a Rule is a basis for invoking the disciplinary process. The Rules presuppose that disciplinary assessment of a lawyer's conduct will be made on the basis of the facts and circumstances as they existed at the time of the conduct in question and in recognition of the fact that a lawyer often has to act upon uncertain or incomplete evidence of the situation. Moreover, the Rules presuppose that whether or not discipline should be imposed for a violation, and the severity of a sanction, depend on all the circumstances, such as the willfulness and seriousness of the violation, extenuating factors and whether there have been previous violations.
+
+[20] Violation of a Rule should not itself give rise to a cause of action against a lawyer nor should it create any presumption in such a case that a legal duty has been breached. In addition, violation of a Rule does not necessarily warrant any other nondisciplinary remedy, such as disqualification of a lawyer in pending litigation. The Rules are designed to provide guidance to lawyers and to provide a structure for regulating conduct through disciplinary agencies. They are not designed to be a basis for civil liability. Furthermore, the purpose of the Rules can be subverted when they are invoked by opposing parties as procedural weapons. The fact that a Rule is a just basis for a lawyer's self-assessment, or for sanctioning a lawyer under the administration of a disciplinary authority, does not imply that an antagonist in a collateral proceeding or transaction has standing to seek enforcement of the Rule. Nevertheless, since the Rules do establish standards of conduct by lawyers, a lawyer's violation of a Rule may be evidence of breach of the applicable standard of conduct.
+
+[21] The Comment accompanying each Rule explains and illustrates the meaning and purpose of the Rule. The Preamble and this note on Scope provide general orientation. The Comments are intended as guides to interpretation, but the text of each Rule is authoritative.
+
+\mrpc{1}
+
+#### Terminology
+
+(a) "Belief" or "believes" denotes that the person involved actually supposed the fact in question to be true. A person's belief may be inferred from circumstances.
+
+(b) "Confirmed in writing," when used in reference to the informed consent of a person, denotes informed consent that is given in writing by the person or a writing that a lawyer promptly transmits to the person confirming an oral informed consent. See paragraph (e) for the definition of "informed consent." If it is not feasible to obtain or transmit the writing at the time the person gives informed consent, then the lawyer must obtain or transmit it within a reasonable time thereafter.
+
+(c) "Firm" or "law firm" denotes a lawyer or lawyers in a law partnership, professional corporation, sole proprietorship or other association authorized to practice law; or lawyers employed in a legal services organization or the legal department of a corporation or other organization.
+
+(d) "Fraud" or "fraudulent" denotes conduct that is fraudulent under the substantive or procedural law of the applicable jurisdiction and has a purpose to deceive.
+
+(e) "Informed consent" denotes the agreement by a person to a proposed course of conduct after the lawyer has communicated adequate information and explanation about the material risks of and reasonably available alternatives to the proposed course of conduct.
+
+(f)  "Knowingly," "known," or "knows" denotes actual knowledge of the fact in question. A person's knowledge may be inferred from circumstances.
+
+(g) "Partner" denotes a member of a partnership, a shareholder in a law firm organized as a professional corporation, or a member of an association authorized to practice law.
+
+(h) "Reasonable" or "reasonably" when used in relation to conduct by a lawyer denotes the conduct of a reasonably prudent and competent lawyer.
+
+(i)  "Reasonable belief" or "reasonably believes" when used in reference to a lawyer denotes that the lawyer believes the matter in question and that the circumstances are such that the belief is reasonable.
+
+(j)  "Reasonably should know" when used in reference to a lawyer denotes that a lawyer of reasonable prudence and competence would ascertain the matter in question.
+
+(k) "Screened" denotes the isolation of a lawyer from any participation in a matter through the timely imposition of procedures within a firm that are reasonably adequate under the circumstances to protect information that the isolated lawyer is obligated to protect under these Rules or other law.
+
+(l) "Substantial" when used in reference to degree or extent denotes a material matter of clear and weighty importance.
+
+\(m\) "Tribunal" denotes a court, an arbitrator in a binding arbitration proceeding or a legislative body, administrative agency or other body acting in an adjudicative capacity. A legislative body, administrative agency or other body acts in an adjudicative capacity when a neutral official, after the presentation of evidence or legal argument by a party or parties, will render a binding legal judgment directly affecting a party's interests in a particular matter.
+
+(n) "Writing" or "written" denotes a tangible or electronic record of a communication or representation, including handwriting, typewriting, printing, photostating, photography, audio or videorecording, and electronic communications. A "signed" writing includes an electronic sound, symbol or process attached to or logically associated with a writing and executed or adopted by a person with the intent to sign the writing.
+
+\halfsep
+
+NC Gen. Stat. §§ 84-15, 84-16, 84-23
+
+In re Creasey, 12 P.3d 214 (Ariz. 2000)
+
+Sheller v. Superior Court, 71 Cal.Rptr.3d 1697 (Cal. App. 2008)
+
+
+\chapter{Professional Gatekeeping}
+
+
+# Bar Admission
+
+\mrpc{8.1}
+
+NC Gen. Stat. §§ 84-1, 84-2, 84-4.1, 84-4.2, 84-24, 84-32
+
+\case{In re Converse}{602 N.W.2d 500}{Neb. 1999}
+
+\case{Appeal of Lane}{544 N.W.2d 367}{1996}
+
+\case{In re Application of Hale}{Committee of Character and Fitness of the Supreme Court of Illinois}{April 10, 1999}
+
+\case{In re Hinson-Lyles}{864 So.2d 108}{La. 2003}
+
+\case{Matter of Anonymous}{875 N.Y.S.2d 925}{N.Y. App. Div. 2009}
+
+\case{In re Glass}{316 P. 3d 1199}{Cal. 2014}
+
+\case{Page v. Oath, Inc.}{C.A. No. S20C-07-030 CAK}{Del. Super. Jan. 11, 2021}
+
+
+# Unauthorized Practice of Law
+
+\mrpc{5.5}
+
+(a) A lawyer shall not practice law in a jurisdiction in violation of the regulation of the legal profession in that jurisdiction, or assist another in doing so.
+
+(b) A lawyer who is not admitted to practice in this jurisdiction shall not:
+
+\begin{indented}
+(1) except as authorized by these Rules or other law, establish an office or other systematic and continuous presence in this jurisdiction for the practice of law; or
+
+(2) hold out to the public or otherwise represent that the lawyer is admitted to practice law in this jurisdiction.
+
+\end{indented}
+
+(c) A lawyer admitted in another United States jurisdiction, and not disbarred or suspended from practice in any jurisdiction, may provide legal services on a temporary basis in this jurisdiction that:
+
+\begin{indented}
+
+(1) are undertaken in association with a lawyer who is admitted to practice in this jurisdiction and who actively participates in the matter;
+
+(2) are in or reasonably related to a pending or potential proceeding before a tribunal in this or another jurisdiction, if the lawyer, or a person the lawyer is assisting, is authorized by law or order to appear in such proceeding or reasonably expects to be so authorized;
+
+(3) are in or reasonably related to a pending or potential arbitration, mediation, or other alternative resolution proceeding in this or another jurisdiction, if the services arise out of or are reasonably related to the lawyer's practice in a jurisdiction in which the lawyer is admitted to practice and are not services for which the forum requires pro hac vice admission; or
+
+(4) are not within paragraphs (c) (2) or (c)(3) and arise out of or are reasonably related to the lawyer's practice in a jurisdiction in which the lawyer is admitted to practice.
+
+\end{indented}
+
+(d) A lawyer admitted in another United States jurisdiction or in a foreign jurisdiction, and not disbarred or suspended from practice in any jurisdiction or the equivalent thereof, or a person otherwise lawfully practicing as an in-house counsel under the laws of a foreign jurisdiction, may provide legal services through an office or other systematic and continuous presence in this jurisdiction that:
+
+\begin{indented}
+
+(1) are provided to the lawyer's employer or its organizational affiliates, are not services for which the forum requires pro hac vice admission; and when performed by a foreign lawyer and requires advice on the law of this or another U.S. jurisdiction or of the United States, such advice shall be based upon the advice of a lawyer who is duly licensed and authorized by the jurisdiction to provide such advice; or
+
+(2) are services that the lawyer is authorized by federal or other law or rule to provide in this jurisdiction.
+
+\end{indented}
+
+(e) For purposes of paragraph (d):
+
+\begin{indented}
+
+(1) the foreign lawyer must be a member in good standing of a recognized legal profession in a foreign jurisdiction, the members of which are admitted to practice as lawyers or counselors at law or the equivalent, and subject to effective regulation and discipline by a duly constituted professional body or a public authority; or,
+
+(2) the person otherwise lawfully practicing as an in-house counsel under the laws of a foreign jurisdiction must be authorized to practice under this Rule by, in the exercise of its discretion, [the highest court of this jurisdiction].
+
+\end{indented}
+
+\halfsep
+
+NC Gen. Stat. §§ 84-2.1, 84-2.2, 84-4, 84-5, 84-5.1, 84-6, 84-7, 84-7.1, 84-8, 84-9, 84-10.1
+
+{Birbrower, Montalbano, Condon & Frank v. Superior Court} 70 Cal.Rptr.2d 304 (Cal. 1998)
+
+{Estate of Condon v. McHenry} 76 Cal.Rptr.2d 922 (Cal. App. 1998)
+
+{In re Trester} 172 P.3d 31 (Kan. 2007)
+
+\chapter{Attorney Discipline}
+
+
+\mrpc{8.2, 8.3, 8.4, 8.5}
+
+Restatement § 5
+
+NC Gen. Stat. § 84-28, 84-36
+
+{Neal v. Clinton}{No. CIV 2000–5677, slip op.}{Ark. Cir. Ct. Jan. 19, 2001}
+
+{In re Riehlmann}{891 So.2d 1239}{La. 2005}
+
+{In re Diaz} 288 P.3d 486 (Kan. 2012)
+
+{In re Gates} Misc. Case No. 18-00301-KRH (Bankr. E.D. Va. 2018)
+
+{Matter of Giuliani} No. 2021-00506, slip op. (NY App. Div. June 24, 2021)
+
+
+\chapter{Law Firms}
+
+\mrpc{5.1-5.4, 5.6, 5.7}
+
+{Lawyer Disciplinary Board v. Veneri}, 524 S.E.2d 900 (W. Va. 1999)
+
+{In re Columbia Valley Healthcare System, L.P.} 320 S.W.3d 819 (Tex. 2010)
+
+{Hoff v. Mayer, Brown, & Platt} 772 N.E.2d 263 (Ill. App. Ct. 2002)
+
+{Cardillo v. Bloomfield 206 Corp.} 988 A.2d 136 (N.J. Super. 2010)
+
+
+\chapter{Advertising and Solicitation}
+
+# Advertising
+
+\mrpc{7.1, 7.2}
+
+{Bates v. State Bar of Arizona} 433 U.S. 350 (1977)
+
+{Florida Bar v. Pape} 918 So.2d 240 (2005)
+
+{Hayes v. New York Attorney Grievance Committee} 672 F.3d 158 (2d Cir. 2012)
+
+{Hunter v. Virginia State Bar} 744 S.E.2d 611 (Va. 2013)
+
+
+# Solicitation
+
+\mrpc{7.3, 7.6}
+
+{NAACP v. Button} 371 U.S. 415 (1963)
+
+{Ohralik v. Ohio State Bar Assn.} 436 U.S. 447 (1978)
+
+{In re Primus} 436 U.S. 412 (1978)
+
+{Zauderer v. Office of Disciplinary Counsel} 471 U.S. 626 (1985)
+
+{Shapero v. Kentucky State Bar Assn.} 486 U.S. 466 (1988)
+
+{Florida Bar v. Went for It} 515 U.S. 618 (1995)
