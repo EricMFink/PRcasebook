@@ -19,6 +19,7 @@ output:
     pandoc_args: []
 
 ---
+
 \chapter{Law as a Profession}
 
 # Professions and Professionalism
