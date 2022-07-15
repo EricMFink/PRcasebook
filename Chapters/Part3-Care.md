@@ -2,7 +2,6 @@
 date: Fall Term 2022
 
 title: Professional Responsibility
-
 Part: Duty of Care
 
 author: Eric M. Fink
@@ -19,6 +18,7 @@ output:
 
 ---
 
+\part{Duty of Care}
 
 \chapter{Competence, Diligence, & Communication}
 

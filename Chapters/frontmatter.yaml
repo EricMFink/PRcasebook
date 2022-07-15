@@ -1,0 +1,23 @@
+---
+
+date: Fall Term 2022
+title: Professional Responsibility
+Part: PART
+
+author: Eric M. Fink
+publisher: Elon University School of Law
+
+bibliography: '../assets/bibliography/PRCasebook.yaml'
+csl: '../assets/bibliography/casebook.csl'
+citation-abbreviations: '../assets/bibliography/casebook-abbrevs.json'
+
+version: '1.0'
+published: July 2022
+
+output:
+  pdf_document:
+    template: casebook.tex
+    path: ../PDF/FrontMatter.pdf
+    pandoc_args: []
+
+---

@@ -2,7 +2,6 @@
 
 date: Fall Term 2022
 title: Professional Responsibility
-Part: Law as a Regulated Profession
 
 author: Eric M. Fink
 publisher: Elon University School of Law
@@ -17,10 +16,24 @@ published: July 2022
 output:
   pdf_document:
     template: casebook.tex
-    path: ../PDF/Part1.pdf
+    path: ../PDF/Master.pdf
     pandoc_args: []
 
 ---
+
+\chapter*{Preface}
+\addcontentsline{toc}{chapter}{Preface}
+
+## Acknowledgments
+
+This book includes material from Bryan L. Frye & Elizabeth Schiller, [Professional Responsibility: An Open-Source Casebook](https://uknowledge.uky.edu/lawfac_book/5/) (2019).
+
+## Editorial Notes
+
+Judicial opinions and other quoted texts have been edited for teaching purposes. For ease of reading, internal citations and other passages omitted from quoted texts are generally not indicated by ellipses.
+
+Marginal notes are used in place of footnotes. Numbered notes are from the quoted text, with original reference numbers indicated where appropriate. Editor's notes are unnumbered and appear in sans serif type.
+
 
 \part{Law as a Regulated Profession}
 
@@ -1424,3 +1437,17 @@ NC Gen. Stat. § 84-28, 84-36
 \case{Shapero v. Kentucky State Bar Assn.}{486 U.S. 466}{1988}
 
 \case{Florida Bar v. Went for It}{515 U.S. 618}{1995}
+
+\part{The Lawyer-Client Relationship}
+
+\chapter{Prospective Clients}
+
+\chapter{Establishing Representation}
+
+\part{Duty of Care}
+
+\part{Confidentiality}
+
+\part{Conflicts of Interest}
+
+\part{Advocacy}
