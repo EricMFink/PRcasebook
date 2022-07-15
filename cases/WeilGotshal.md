@@ -1,11 +1,12 @@
 ---
 
- 
+
 title: "Weil, Gotshal & Manges, LLP v. Fashion Boutique of Short Hills, Inc."
 cite: "10 A.D.3d 267 (N.Y. App. Div. 2004)"
-    
+
 ---
 
+### Opinion
 
 This action for $2.7 million in unpaid legal fees arose out of the representation, commencing in 1993, of counterclaim plaintiff Fashion Boutique of Short Hills, Inc. and its principals by counterclaim defendant law firm and two of its partners (the law firm). Fashion Boutique alleges that, while representing it against Fendi USA, Inc. and Fendi Stores, Inc. (Fendi) in an action in federal court, Prada USA, which had acquired a controlling interest in Fendi in October 1999, retained the law firm. The federal action was based on alleged disparaging remarks by Fendi Stores, Inc., a competing Fifth Avenue boutique, and its parent Fendi USA, Inc., which led to the destruction of Fashion Boutique's retail business, thereby violating the Lanham Act (15 USC § 1125) and New York State law prohibiting product disparagement. The law firm represented Fashion Boutique through extensive pretrial discovery, a summary judgment motion resulting in the dismissal of the Lanham Act claim and a July 2000 jury trial, which resulted in the award of $35,000 in compensatory damages and $75,000 in punitive damages in favor of Fashion Boutique. Earlier, in March 2000, the Fendi defendants had made a settlement offer of $1.4 million, which, although recommended by the law firm, was rejected by Fashion Boutique. The law firm was granted leave to withdraw in September 2000. In December 2002, the United States Court of Appeals for the Second Circuit affirmed the dismissal of the Lanham Act claim.
 

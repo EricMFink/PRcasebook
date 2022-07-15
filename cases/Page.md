@@ -3,11 +3,10 @@
 
 title: 'Page v. Oath, Inc.'
 cite: 'C.A. No. S20C-07-030 CAK (Del. Sup. Ct. Jan. 11, 2021)'
-judge: 'Karsnitz, J.'
 
 ---
 
-# MEMORANDUM OPINION AND ORDER
+### Karsnitz, J.
 
 Several weeks ago, I issued a Rule to Show Cause why the approval I had given to L. Lin Wood, Esquire to practice before this Court in this case should not be revoked. Mr. Wood is not licensed to practice law in Delaware. Practicing _pro hac vice_ is a privilege and not a right. I respect the desire of litigants to select counsel of their choice. When out of state counsel is selected, however, I am required to ensure the appropriate level of integrity and competence.
 
@@ -41,6 +40,6 @@ One final matter. A number of events have occurred since the filing of the Rule 
 
 I am not here to litigate if Mr. Wood was ultimately the source of the incitement. I make no finding with regard to this conduct, and it does not form any part of the basis for my ruling. I reaffirm my limited role.
 
-I am revoking my order granting Lin Wood, Esquire the privilege of representing the Plaintiff in this case. 
+I am revoking my order granting Lin Wood, Esquire the privilege of representing the Plaintiff in this case.
 
 IT IS SO ORDERED.

@@ -1,17 +1,18 @@
 ---
 
- 
+
 title: 'McClure v. Thompson'
 cite: '323 F.3d 1233 (9th Cir. 2003)'
-judge: 'William W. Fletcher, Circuit Judge'
-    
+
 ---
+
+### William W. Fletcher, Circuit Judge
 
 Oregon state prisoner Robert A. McClure appeals the district court's denial of his habeas corpus petition challenging his jury trial conviction for three aggravated murders. McClure's original defense attorney, Christopher Mecca, placed an anonymous telephone call to law enforcement officials directing them to the locations of what turned out to be the bodies of two children whom McClure was ultimately convicted of killing. The district court rejected McClure's arguments that the disclosure constituted ineffective assistance of counsel, holding there was no breach of the duty of confidentiality and no actual conflict of interest. We affirm.
 
-# I. Background
+#### I. Background
 
-## A. Offense, Arrest and Conviction
+##### A. Offense, Arrest and Conviction
 
 On Tuesday, April 24, 1984, the body of Carol Jones was found in her home in Grants Pass, Oregon. She had been struck numerous times on the head, arms and hands with a blunt object. A gun cabinet in the home had been forced open and a .44 caliber revolver was missing. Two of Jones' children---Michael, age 14, and Tanya, age 10---were also missing. The fingerprints of Robert McClure, a friend of Jones, were found in the blood in the home. On Saturday, April 28, McClure was arrested in connection with the death of Carol Jones and the disappearance of the children.
 
@@ -19,7 +20,7 @@ That same day, McClure's mother contacted attorney Christopher Mecca and asked h
 
 Later that day and the following day, sheriff's deputies located the children's bodies, which were in locations more than 60 miles apart. The children had each died from a single gunshot wound to the head. Mecca then withdrew from representation. On May 3, McClure was indicted for the murders of Carol Jones and her children. At trial, the prosecution produced extensive evidence that stemmed from the discovery of the children's bodies and introduced testimony regarding the anonymous phone call. McClure was found guilty of all three murders and was sentenced to three consecutive life sentences with 30-year minimums. On direct appeal, his conviction was affirmed without opinion.
 
-## B. Disclosure of the Children's Whereabouts
+##### B. Disclosure of the Children's Whereabouts
 
 The parties agree that Mecca and McClure met at the jail and spoke on the telephone on a number of occasions between April 28 and May 1. However, the substance of the conversations between McClure and Mecca are the subject of significant dispute.
 
@@ -55,11 +56,11 @@ McClure testified that Mecca never asked him directly if the children were alive
 
 [ * * * ]
 
-# III. Discussion
+#### III. Discussion
 
 McClure's single claim is that habeas relief is appropriate because he received ineffective assistance of counsel under the Sixth Amendment. He asserts three independent grounds on which ineffectiveness could be found. The first two are based on alleged breaches of Mecca's professional duty to maintain client confidentiality. McClure argues that this duty was breached both by a failure to obtain informed consent prior to the disclosure of confidential information and by a failure to inquire thoroughly before concluding that disclosure was necessary to prevent the deaths of the children. The third ground is that the primacy of Mecca's concern for the victims constituted a conflict of interest that rendered Mecca's counsel constitutionally ineffective.
 
-## A. The Duty of Confidentiality
+##### A. The Duty of Confidentiality
 
 McClure contends that Mecca's disclosure of McClure's confidential statements about the location of the children violated McClure's Sixth Amendment right to effective assistance of counsel. ABA Model Rule of Professional Conduct 1.6 sets forth a widely recognized duty of confidentiality: "A lawyer shall not reveal information relating to representation of a client." Our legal system is premised on the strict adherence to this principle of confidentiality, and "the Supreme Court has long held attorneys to stringent standards of loyalty and fairness with respect to their clients." There are few professional relationships "involving a higher trust and confidence than that of attorney and client," and "few more anxiously guarded by the law, or governed by sterner principles of morality and justice."
 
@@ -67,7 +68,7 @@ As critical as this confidential relationship is to our system of justice, the d
 
 The duty of an attorney to keep his or her client's confidences in all but a handful of carefully defined circumstances is so deeply ingrained in our legal system and so uniformly acknowledged as a critical component of reasonable representation by counsel that departure from this rule "makes out a deprivation of the Sixth Amendment right to counsel." With this uncontested premise as our starting point, we examine whether the circumstances surrounding Mecca's revelation of a confidential client communication excused his disclosure, such that his performance could have been found by the state court and the district court to be constitutionally adequate. Specifically, we look to see if Mecca's client "consented after consultation" or if Mecca "reasonably believed the revelation was necessary to prevent the client from committing a criminal act that Mecca believed was likely to result in imminent death or substantial bodily harm." We conclude that the first of these exceptions does not apply to justify Mecca's behavior, but that the second does.
 
-### 1. Consent After Consultation
+###### 1. Consent After Consultation
 
 McClure argues that Mecca rendered constitutionally ineffective assistance because he breached his duty of confidentiality by not obtaining McClure's informed consent before disclosure. The professional standard that allows disclosure of confidential communications when "the client consents after consultation" has two distinct parts: consent by the client, and consultation by the counsel. Our required deference to both the state court's factual findings and the district court's credibility determination leads us to hold that the first of these elements was met. However, despite this deference, we hold that the second element was not met.
 
@@ -87,7 +88,7 @@ However, the mere fact of consent is not sufficient to excuse what would otherwi
 
 Emphasizing that McClure was "fully engaged" in his defense and that he was told that the obligation to disclose the children's location arose only if the children were alive, the district court held that "under the circumstances, Mecca's failure to advise petitioner of all possible adverse consequences was not unreasonable." We believe this holding is inconsistent with the consultation requirement because it does not attach sufficient importance to the role that an attorney's advice plays in the attorney-client relationship. It is not enough, as the district court suggests, that McClure "did not dissuade Mecca from his intentions" to share the map with authorities. The onus is not on the client to perceive the legal risks himself and then to dissuade his attorney from a particular course of action. The district court's statement that Mecca was relieved of his duty to counsel his client because "common sense dictated that petitioner understood the consequences of his actions" fails to acknowledge the seriousness of those consequences and the importance of good counsel regarding them. Even in cases in which the negative ramifications seem obvious---for example, when criminal defendants opt for self-representation---we require that a criminal defendant's decision be made on the basis of legal guidance and with full cautionary explanation. We disagree with the district court's conclusion that this case was so exceptional that the attorney's basic consultation duties did not apply. It is precisely because the stakes were so high that Mecca had an obligation to consult carefully with his client. In the absence of some other exception to the duty of confidentiality, his failure to obtain informed consent would demonstrate constitutionally deficient performance under the Sixth Amendment.
 
-### 2. Prevention of Further Criminal Acts
+###### 2. Prevention of Further Criminal Acts
 
 The State contends that, even if Mecca did not have informed consent, his revelation of client confidences did not amount to ineffective assistance of counsel because he reasonably believed that disclosing the location of the children was necessary in order to prevent further criminal acts. That is, Mecca reasonably believed that revealing the children's locations could have prevented the escalation of kidnapping to murder. This is not a traditional "prevention of further criminal acts" case, because all of the affirmative criminal acts performed by McClure had been completed at the time Mecca made his disclosure. Mecca was thus acting to prevent an earlier criminal act from being transformed by the passage of time into a more serious criminal offense. Nonetheless, we believe that where an attorney's or a client's omission to act could result in "imminent death or substantial bodily harm" constituting a separate and more severe crime from the one already committed, the exception to the duty of confidentiality may be triggered.
 
@@ -113,6 +114,6 @@ This is a close case, even after we give the required deference to the state and
 
 [ * * * ]
 
-# Conclusion
+#### Conclusion
 
 For the foregoing reasons, we conclude that McClure did not receive constitutionally ineffective assistance of counsel. Accordingly, the district court's denial of McClure's petition for writ of habeas corpus is affirmed.

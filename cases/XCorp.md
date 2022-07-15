@@ -1,17 +1,18 @@
 ---
 
- 
+
 title: 'X Corp. v. Doe'
 cite: '805 F. Supp. 1298 (E.D. Va. 1992)'
-judge: 'Ellis, District Judge'
-    
+
 ---
+
+### Ellis, District Judge
 
 Few problems are as vexing as determining what evidence justifies a lawyer's disclosure of a client's confidential information and documents, which the lawyer believes reflect an ongoing or future crime or fraud. This case presents precisely this problem. Plaintiff, X Corp. brings this suit, in part, to prevent defendant, John Doe, X Corp.'s former in-house counsel, from disclosing X Corp.'s confidential information and documents retained by Doe following his discharge from X Corp. X Corp. also seeks return of the documents. In support of the relief sought, X Corp. cites the attorney-client privilege, the parties' confidentiality agreement, and the lawyer's general duty to preserve a client's confidences. For his part, Doe claims that the documents in issue disclose ongoing civil and criminal frauds perpetrated by X Corp. against the federal government. As such, according to Doe, the documents fall within the public policy crime-fraud exception to the attorney-client privilege and to any general or contractual duty of confidentiality.
 
 The matter is before the Court on X Corp.'s motion for a preliminary injunction. For the reasons stated here, the motion is granted in part and denied in part.
 
-# Facts
+#### Facts
 
 X Corp. hired Doe in March 1989 as a member of its in-house legal staff based in Northern California. Formerly an Associate Deputy Attorney General of the United States and Chief of Staff to the Attorney General, Doe was a member of the bar of the state of Pennsylvania. When he was hired, Doe executed an "Employment, Invention and Confidential Information Agreement", in which he expressly agreed (i) to return to X Corp. all records obtained during, or in connection with, his employment and (ii) to preserve X Corp.'s confidential information. Thereafter, in the course of his employment, Doe regularly received confidential information from X Corp. management and its employees in order to provide legal opinions and advice. During approximately two years with X Corp., Doe apparently excelled; his professional performance was regarded as excellent. Eventually he was promoted to Group Counsel with primary responsibility worldwide for X Corp.'s compliance with numerous government regulations and antitrust laws.
 
@@ -23,7 +24,7 @@ By letter dated February 28, 1992, Doe, through counsel, asserted a state law wr
 
 On April 20, 1992, X Corp. moved this Court for a preliminary injunction (i) to maintain Doe's wrongful termination lawsuit, and all pleadings and papers filed therein, under seal until its conclusion; (ii) to prohibit Doe and his lawyer from making any disclosures of X Corp.'s allegedly privileged and confidential information; and (iii) to compel Doe to return all allegedly misappropriated documents. [ … ] Doe, by counsel, agreed to refrain from further disclosures of X Corp.'s claimed confidential information until the Court's ruling. On May 4, 1992, Doe filed his counterclaim alleging retaliatory discharge [ … ].
 
-# Analysis
+#### Analysis
 
 [ … ]
 
@@ -49,7 +50,7 @@ The evidentiary attorney-client privilege, while more familiar, is not the lawye
 
 > Information ... acquired [from a client] is sheltered from use by the attorney against his client by virtue of the existence of the attorney-client relationship. This is true without regard to whether someone else may be privy to it. The obligation of an attorney not to misuse information acquired in the course of representation serves to vindicate the trust and reliance that client's place in their attorneys. A client would feel wronged if an opponent prevailed against him with the aid of an attorney who formerly represented the client in the same matter ... this would undermine public confidence in the legal system as a means for adjudicating disputes.
 
-As the Fifth Circuit sensibly recognized in Brennan's and Doe, attorney confidentiality is essential to sustaining public confidence in the legal profession and the legal system. Clients therefore have a right to enforce that confidentiality, absent specific circumstances abrogating 1308*1308 that right. Of course, an attorney's duty to his client is limited by his duty to comply with the law and the standards of professional conduct. 
+As the Fifth Circuit sensibly recognized in Brennan's and Doe, attorney confidentiality is essential to sustaining public confidence in the legal profession and the legal system. Clients therefore have a right to enforce that confidentiality, absent specific circumstances abrogating 1308*1308 that right. Of course, an attorney's duty to his client is limited by his duty to comply with the law and the standards of professional conduct.
 
 Consistent with most jurisdictions, Virginia recognizes a broad duty of confidentiality in Canon 4 of the Virginia Code of Professional Responsibility, which states: "A Lawyer Should Preserve the Confidences and Secrets of a Client." The corresponding Disciplinary Rules provide in relevant part:
 
@@ -73,6 +74,6 @@ Given this, in proving its claim that Doe is obligated to maintain its confidenc
 
 There may be circumstances where ongoing or contemplated frauds actually exist, but disclosure is impermissible because the evidence relied on by the attorney falls short of clearly establishing the fraud. This result might permit the fraud to continue. But neither mere suspicion of fraud, nor the mere risk of undiscovered fraud, justify abrogating the duty of attorney confidentiality. A windfall to a wrongdoer may be the price exacted for the benefits conferred on the public and the legal system by vigilantly-maintained attorney confidentiality. [ … ]
 
-# Conclusion
+#### Conclusion
 
 In sum, the Court concludes that plaintiff's motion for preliminary injunction should be granted in part and denied in part. Specifically, an appropriately tailored preliminary injunction will issue with respect to disclosure of X Corp.'s claimed confidential information and documents. But no preliminary injunctive relief is warranted with respect to the return of documents.

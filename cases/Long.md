@@ -1,11 +1,12 @@
 ---
 
- 
+
 title: 'U.S. v. Long'
 cite: '857 F.2d 436 (8th Cir. 1988)'
-judge: 'Heaney, Circuit Judge'
-    
+
 ---
+
+### Heaney, Circuit Judge
 
 Thaddeus Adonis Long and Edward Larry Jackson appeal from their convictions on a number of counts for their involvement in a check forging and bank fraud scheme. We affirm their convictions on all counts.
 
@@ -33,9 +34,9 @@ Long and Jackson claim a number of errors.
 
 [ * * * ]
 
-## D. Ineffective Assistance of Counsel
+##### D. Ineffective Assistance of Counsel
 
-Jackson contends his trial counsel was ineffective. To prevail on an ineffective assistance of counsel claim, a defendant must show that his or her attorney's performance "fell below an objective standard of reasonableness," and that, but for this ineffective assistance, there is a reasonable probability that the outcome of the trial would have been different. 
+Jackson contends his trial counsel was ineffective. To prevail on an ineffective assistance of counsel claim, a defendant must show that his or her attorney's performance "fell below an objective standard of reasonableness," and that, but for this ineffective assistance, there is a reasonable probability that the outcome of the trial would have been different.
 
 Jackson cites a number of instances of ineffectiveness. [ * * * ]
 
@@ -43,9 +44,9 @@ Finally, Jackson claims his attorney abandoned his role as Jackson's advocate an
 
 In _Nix v. Whiteside_, the Supreme Court addressed the troubling question of how an attorney should respond upon learning a client will commit perjury upon taking the stand. In that case, Emmanuel Whiteside was convicted of the murder of Calvin Love. At trial, Whiteside had claimed he stabbed Love in self-defense.
 
-On collateral attack of that conviction, Whiteside alleged that his right to counsel and to testify had been violated because, although he took the stand, his attorney had coerced him not to testify that he had seen a gun in Love's hand before stabbing him. The trial court found that Whiteside would have perjured himself if he testified that he had seen the gun. It held that, because Whiteside's rights to effective assistance of counsel and to testify did not include the right to testify falsely, those rights were not violated. This Court reversed. 
+On collateral attack of that conviction, Whiteside alleged that his right to counsel and to testify had been violated because, although he took the stand, his attorney had coerced him not to testify that he had seen a gun in Love's hand before stabbing him. The trial court found that Whiteside would have perjured himself if he testified that he had seen the gun. It held that, because Whiteside's rights to effective assistance of counsel and to testify did not include the right to testify falsely, those rights were not violated. This Court reversed.
 
-The Supreme Court overruled this Court. It held that when a defendant "announces" an intention to commit perjury, the defendant's rights to effective assistance of counsel and to testify are not violated if the attorney takes certain clear steps to prevent the presentation of that false testimony. Those steps include attempting to dissuade the client from testifying falsely, threatening to report the possibility of perjury to the trial court, and possibly testifying against the defendant should he be prosecuted for perjury. As the Court observed, neither right was violated, because the right to testify does not "extend to testifying falsely," and because "the right to counsel includes no right to have a lawyer who will cooperate with planned perjury." 
+The Supreme Court overruled this Court. It held that when a defendant "announces" an intention to commit perjury, the defendant's rights to effective assistance of counsel and to testify are not violated if the attorney takes certain clear steps to prevent the presentation of that false testimony. Those steps include attempting to dissuade the client from testifying falsely, threatening to report the possibility of perjury to the trial court, and possibly testifying against the defendant should he be prosecuted for perjury. As the Court observed, neither right was violated, because the right to testify does not "extend to testifying falsely," and because "the right to counsel includes no right to have a lawyer who will cooperate with planned perjury."
 
 In the instant case, Jackson's lawyer asked to approach the bench after the government had presented its case. The lawyer told the trial judge that Jackson wanted to testify and that he was concerned about his testimony. The lawyer said he advised Jackson not to take the stand. The judge excused the jury and everyone else in the courtroom, except a United States Marshal, Jackson, and his lawyer. At that point, the lawyer said, "I'm not sure if it wouldn't be appropriate for me to move for a withdawal from this case based upon what I think may be elicited on the stand.... I'm concerned about the testimony that may come out and I'm concerned about my obligation to the Court." The trial judge informed Jackson he had a right under the law to testify on his own behalf, which Jackson said he understood. The court also informed Jackson that his counsel was bound by his professional obligation not to place evidence before the court which he believed to be untrue. Jackson also said he understood this.
 
@@ -73,7 +74,7 @@ _Second_, in _Whiteside_, the defendant did testify and was "'restricted' or res
 
 _Third_, in _Whiteside_, the defense attorney did not reveal his belief about his client's anticipated testimony to the trial court. In contrast, the disclosure to the trial court here was quite explicit. The attorney said to the judge that he might have to withdraw because of what might be elicited on the stand.
 
-Such a disclosure cannot be taken lightly. Even in a jury trial, where the judge does not sit as the finder of fact, the judge will sentence the defendant, and such a disclosure creates "significant risks of unfair prejudice" to the defendant.{% sidenote "sidenote-id" "(n.6 in opinion) Before disclosing to the court a belief of impending client perjury, not only must a lawyer have a firm factual basis for the belief that his or her client will commit perjury, but the lawyer must also have attempted to dissuade the client from committing the perjury. Such dissuasion is usually in the defendant's interest because [ … ] 'perjured testimony can ruin an otherwise meritorious case.'" %} 
+Such a disclosure cannot be taken lightly. Even in a jury trial, where the judge does not sit as the finder of fact, the judge will sentence the defendant, and such a disclosure creates "significant risks of unfair prejudice" to the defendant.{% sidenote "sidenote-id" "(n.6 in opinion) Before disclosing to the court a belief of impending client perjury, not only must a lawyer have a firm factual basis for the belief that his or her client will commit perjury, but the lawyer must also have attempted to dissuade the client from committing the perjury. Such dissuasion is usually in the defendant's interest because [ … ] 'perjured testimony can ruin an otherwise meritorious case.'" %}
 
 We note that, once the possibility of client perjury is disclosed to the trial court, the trial court should reduce the resulting prejudice. It should limit further disclosures of client confidences, inform the attorney of his other duties to his client, inform the defendant of her rights, and determine whether the defendant desires to waive any of those rights.
 
@@ -81,7 +82,7 @@ The trial judge here acted primarily with these concerns in mind. The judge disc
 
 Under such a procedure, the chance for violations of the defendant's constitutional rights will be reduced, the revelation of further client confidences will be prevented, and the defendant can make a knowing waiver of her constitutional right to testify and to counsel. It will also be necessary to establish that the waiver was voluntary and that the defendant's rights were not violated prior to the waiver. Such inquiries, however, are best made at an evidentiary hearing.
 
-# CONCLUSION
+#### CONCLUSION
 
 The most weighty decision in a case of possible client perjury is made by the lawyer who decides to inform the court, and perhaps incidentally his adversary and the jury, of his client's possible perjury. This occurs when the lawyer makes a motion for withdrawal (usually for unstated reasons) or allows his client to testify in narrative form without questioning from counsel. Once this has been done, the die is cast. The prejudice will have occurred. At a minimum, the trial court will know of the defendant's potential perjury. For this reason, defense counsel must use extreme caution before revealing a belief of impending perjury. It is, as Justice Blackmun noted, "the rarest of cases" where an attorney should take such action.
 

@@ -1,11 +1,12 @@
 ---
 
- 
+
 title: 'TIG Insurance Co. v. Giffin Winning Cohen & Bodewes'
 cite: '444 F. 3d 587 (7th Cir. 2006)'
-judge: 'Evans, Circuit Judge'
-    
+
 ---
+
+### Evans, Circuit Judge
 
 TIG Insurance Company appeals the dismissal of its malpractice case against the Giffin Winning law firm and one of its attorneys, Carol Hansen Posegate.
 

@@ -1,11 +1,12 @@
 ---
 
- 
+
 title: 'Dougherty v. Pepper Hamilton LLP'
 cite: '133 A. 3d 792 (Pa. Super. Ct. 2016)'
-judge: 'Shogan, J.'
-    
+
 ---
+
+### Shogan, J.
 
 Appellant, John J. Dougherty, appeals from the order granting summary judgment in favor of Pepper Hamilton LLP and its attorneys Amy B. Ginensky, Michael E. Baughman, Peter M. Smith, and Raphael Cunniff, in this civil action alleging breach of fiduciary duty and breach of contract. For the reasons that follow, we reverse and remand for further proceedings.
 

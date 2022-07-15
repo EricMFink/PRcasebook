@@ -75,7 +75,6 @@ A final observation is in order. Because our disposition is rested on the First 
 
 _Reversed._
 
----
 
 ### MR. JUSTICE DOUGLAS, concurring.
 

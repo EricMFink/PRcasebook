@@ -1,11 +1,11 @@
 ---
- 
+
 title: 'Bates v. State Bar of Arizona'
 cite: '433 U.S. 350 (1977)'
 
 ---
 
-MR. JUSTICE BLACKMUN delivered the opinion of the Court.
+### MR. JUSTICE BLACKMUN delivered the opinion of the Court.
 
 As part of its regulation of the Arizona Bar, the Supreme Court of that State has imposed and enforces a disciplinary rule that restricts advertising by attorneys. This case presents two issues: whether §§ 1 and 2 of the Sherman Act, 15 U. S. C. §§ 1 and 2, forbid such state regulation, and whether the operation of the rule violates the First Amendment, made applicable to the States through the Fourteenth.
 
@@ -87,7 +87,6 @@ Advertising that is false, deceptive, or misleading of course is subject to rest
 
 The constitutional issue in this case is only whether the State may prevent the publication in a newspaper of appellants' truthful advertisement concerning the availability and terms of routine legal services. We rule simply that the flow of such information may not be restrained, and we therefore hold the present application of the disciplinary rule against appellants to be violative of the First Amendment.
 
----
 
 ### MR. JUSTICE POWELL, with whom MR. JUSTICE STEWART joins, concurring in part and dissenting in part.
 
@@ -121,7 +120,7 @@ Pressures toward some relaxation of the proscription against general advertising
 
 The Court observes, and I agree, that there is nothing inherently misleading in the advertisement of the cost of an initial consultation. Indeed, I would not limit the fee information to the initial conference. Although the skill and experience of lawyers vary so widely as to negate any equivalence between hours of service by different lawyers, variations in quality of service by duly licensed lawyers are inevitable. Lawyers operate, at least for the purpose of internal control and accounting, on the basis of specified hourly rates, and upon request—or in an appropriate case—most lawyers are willing to undertake employment at such rates. The advertisement of these rates, in an appropriate medium, duly designated, would not necessarily be misleading if this fee information also made clear that the total charge for the representation would depend on the number of hours devoted to the client's problem—a variable difficult to predict. Where the price content of the advertisement is limited to the finite item of rate per hour devoted to the client's problem, the likelihood of deceiving or misleading is considerably less than when specific services are advertised at a fixed price.
 
-##### III
+#### III
 
 Although I disagree strongly with the Court's holding as to price advertisements of undefined—and I believe undefinable—routine legal services, there are reservations in its opinion worthy of emphasis since they may serve to narrow its ultimate reach. First, the Court notes that it has not addressed "the peculiar problems associated with advertising claims relating to the quality of legal services." There are inherent questions of quality in almost any type of price advertising by lawyers, and I do not view appellants' advertisement as entirely free from quality implications. Nevertheless the Court's reservation in this respect could be a limiting factor.
 
@@ -135,7 +134,6 @@ The area into which the Court now ventures has, until today, largely been left t
 
 I am apprehensive, despite the Court's expressed intent to proceed cautiously, that today's holding will be viewed by tens of thousands of lawyers as an invitation—by the public-spirited and the selfish lawyers alike—to engage in competitive advertising on an escalating basis. Some lawyers may gain temporary advantages; others will suffer from the economic power of stronger lawyers, or by the subtle deceit of less scrupulous lawyers. Some members of the public may benefit marginally, but the risk is that many others will be victimized by simplistic price advertising of professional services "almost infinite in variety and nature." Until today, in the long history of the legal profession, it was not thought that this risk of public deception was required by the marginal First Amendment interests asserted by the Court.
 
----
 
 ### MR. JUSTICE REHNQUIST, dissenting in part.
 

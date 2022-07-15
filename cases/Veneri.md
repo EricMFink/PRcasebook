@@ -1,11 +1,12 @@
 ---
- 
+
 
 title: 'Lawyer Disciplinary Board v. Veneri'
 cite: '524 S.E.2d 900 (W. Va. 1999)'
-judge: 'Per Curiam'
 
 ---
+
+### Per Curiam 
 
 This disciplinary proceeding is before this Court upon a review of the March 31, 1999, Recommended Disposition of the Hearing Panel Subcommittee of the Lawyer Disciplinary Board ("Board") concerning the respondent, Randall L. Veneri ("Veneri"), a member of the West Virginia State Bar. Veneri was charged with violating Rules 3.4(c) and 8.4(c) of the _Rules of Professional Conduct_ for failing to file an asset disclosure form listing his client's two separate employee benefit plans during the course of his client's divorce. The Board recommends that the charges alleging violations of Rules 3.4(c) and 8.4(c) be dismissed. We accept the Board's findings and recommendations and dismiss those two charges.
 
@@ -13,7 +14,7 @@ Veneri was also charged with violating Rule 8.4(d) of the _Rules of Professional
 
 Upon a thorough review of the record, we agree that the charge of professional misconduct in violation of Rule 8.4(d) was established by clear and convincing evidence. However, under the circumstances of this case, we find that an admonishment and the payment of costs are more appropriate penalties for Veneri.
 
-# I.
+#### I.
 
 In 1976, Michele Montgomery and Gary Montgomery were married; the Montgomerys separated in December of 1989. At the time of the couple's separation, Mr. Montgomery worked for Pocohantas Land Company, a wholly-owned subsidiary of Norfolk Southern Corporation. Mr. Montgomery was a participant in two benefit plans through his employment. The first, the Retirement Plan of Norfolk Southern, was a defined benefit plan maintained solely by employer contributions, and payable either at the payee's retirement or the earliest retirement date. The second benefit plan was a tax deferred savings plan consisting of employee contributions that were matched by Norfolk Southern. This second benefit plan was established under Section 401(k) of the Internal Revenue Code and referred to as a Thrift and Investment Plan ("TIP").
 
@@ -39,11 +40,11 @@ On December 16, 1993, the Circuit Court upheld the ruling of the family law mast
 
 A hearing was conducted before the Hearing Panel Subcommittee of the Board. Following the hearing, the Subcommittee filed its report, making findings of fact and conclusions of law. The Subcommittee found there was insufficient evidence to prove that Veneri knowingly disobeyed a known obligation of a tribunal (Rule 3.4(c)) or that he knowingly engaged in conduct involving fraud, deceit, dishonesty or misrepresentation (Rule 8.4(c)) when he failed to disclose Mr. Montgomery's two employee benefit plans.
 
-The Subcommittee further found that there was insufficient evidence to prove that Veneri deliberately set out to deceive Mrs. Montgomery or her counsel by altering the QDRO in violation of Rule 8.4(c). However, the Subcommittee did find that there was sufficient evidence to prove that Veneri's conduct in connection with the alteration of the QDRO and his failure to advise opposing counsel or the family law master of the alteration, constituted a violation of Rule 8.4(d). 
+The Subcommittee further found that there was insufficient evidence to prove that Veneri deliberately set out to deceive Mrs. Montgomery or her counsel by altering the QDRO in violation of Rule 8.4(c). However, the Subcommittee did find that there was sufficient evidence to prove that Veneri's conduct in connection with the alteration of the QDRO and his failure to advise opposing counsel or the family law master of the alteration, constituted a violation of Rule 8.4(d).
 
 Based upon the report of the Subcommittee, the Board recommended to this Court that Veneri's license be suspended for 12 months and that he be required to pay the costs of the proceedings. Following the filing of Veneri's objection to the recommendation, this case was submitted to this Court for review.
 
-# II.
+#### II.
 
 [ * * * ]
 
@@ -67,17 +68,17 @@ Veneri argued before the Board that the alteration of the QDRO was technically c
 
 We consequently find by clear and convincing evidence that Veneri violated Rule 8.4(d) by engaging in conduct prejudicial to the administration of justice.
 
-Having made the determination that Veneri violated Rule 8.4, we must now determine an appropriate disciplinary sanction. "This Court reviews _de novo_ questions of law and the appropriateness of a particular sanction." The law is well established that "[t]his Court is the final arbiter of legal ethics problems and must make the ultimate decisions about public reprimands, suspensions or annulments of attorneys' licenses to practice law." 
+Having made the determination that Veneri violated Rule 8.4, we must now determine an appropriate disciplinary sanction. "This Court reviews _de novo_ questions of law and the appropriateness of a particular sanction." The law is well established that "[t]his Court is the final arbiter of legal ethics problems and must make the ultimate decisions about public reprimands, suspensions or annulments of attorneys' licenses to practice law."
 
 While we are assisted by the Board's recommendation of discipline, we must examine each case individually and provide appropriate discipline. In our efforts to determine a proper sanction we must "consider not only what steps would appropriately punish the respondent attorney, but also whether the discipline imposed is adequate to serve as an effective deterrent to other members of the Bar[.]" We have further stated that:
 
-> "In disciplinary proceedings, this Court, rather than endeavoring to establish a uniform standard of disciplinary action, will consider the facts and circumstances [in each case], including mitigating facts and circumstances, in determining what disciplinary action, if any, is appropriate, and when the committee on legal ethics initiates proceedings before this Court, it has a duty to advise this Court of all pertinent facts with reference to the charges and the recommended disciplinary action." 
+> "In disciplinary proceedings, this Court, rather than endeavoring to establish a uniform standard of disciplinary action, will consider the facts and circumstances [in each case], including mitigating facts and circumstances, in determining what disciplinary action, if any, is appropriate, and when the committee on legal ethics initiates proceedings before this Court, it has a duty to advise this Court of all pertinent facts with reference to the charges and the recommended disciplinary action."
 
 We are also assisted in our determination by Rule 3.16 of the _Rules of Lawyer Disciplinary Procedure_ which provides:
 
 > In imposing a sanction after a finding of lawyer misconduct, unless otherwise provided in these rules, the Court or Board shall consider the following factors: (1) whether the lawyer has violated a duty owed to a client, to the public, to the legal system, or to the profession; (2) whether the lawyer acted intentionally, knowingly, or negligently; (3) the amount of the actual or potential injury caused by the lawyer's misconduct; and (4) the existence of any aggravating or mitigating factors.
 
-In addition to the above factors we have also held that "prior discipline is an aggravating factor in a pending disciplinary proceeding because it calls into question the fitness of the attorney to continue to practice a profession imbued with a public trust." 
+In addition to the above factors we have also held that "prior discipline is an aggravating factor in a pending disciplinary proceeding because it calls into question the fitness of the attorney to continue to practice a profession imbued with a public trust."
 
 We recognize that this is not the first time Veneri has had to address disciplinary charges. However, an examination of the previous disciplinary matter and the one now before this Court reveals no similarities between the two separate incidents. The previous discipline matter concerned the administration of Veneri's mother's estate and Veneri's conduct with his sister. The matter now before us is quite dissimilar.
 

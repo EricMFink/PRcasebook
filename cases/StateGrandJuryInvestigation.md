@@ -1,19 +1,18 @@
 ---
 
- 
+
 title: "In the Matter of the State Grand Jury Investigation"
 cite: "983 A.2d 1097 (N.J. 2009)"
-judge: "Justice Rivera-Soto delivered the opinion of the Court"
-    
+
 ---
 
-**
+### Justice Rivera-Soto delivered the opinion of the Court.
 
 Confronted with a grand jury inquiry that commanded the testimony of several of its employees, an employer elected to provide and pay for counsel to those employees for purposes of that investigation. Fearing that having individual employees/grand jury witnesses represented by counsel retained and compensated by the putative target of the grand jury inquiry violated several of the _Rules of Professional Conduct,_ the State moved to disqualify those counsel. The trial court denied that application, limited the amount of information to be transmitted by such counsel to the employer, and, further, imposed restrictions both on the ability of the employer to discontinue paying the fees of counsel for the employees as well as on the ability of those counsel to discontinue representing the subpoenaed employees.
 
 Regardless of the setting—whether administrative, criminal or civil, either as part of an investigation, during grand jury proceedings, or before, during and after trial—whether an attorney may be compensated for his services by someone other than his client is governed in large measure by _RPC_ 1.8(f) and, to a lesser extent, _RPC_ 1.7(a) and _RPC_ 5.4(c). The overarching _Rule,_ which purposely is written in the negative, forbids a lawyer from "accept[ing] compensation for representing a client from one other than the client unless [three factors coalesce]: (1) the client gives informed consent; (2) there is no interference with the lawyer's independence of professional judgment or with the lawyer-client relationship; and (3) information relating to representation of a client is protected" as provided in the _RPCs. RPC_ 1.8(f). A straightforward application of _RPCs_ 1.7(a), 1.8(f) and 5.4(c) requires that we affirm the order of the trial court.
 
-# I.
+#### I.
 
 The operative facts on which this appeal arise are readily stated. The State commenced a grand jury investigation into whether a corporate contractor had submitted fraudulent invoices for services purportedly rendered to a county government. That inquiry focused primarily on the contractor and three of its employees. In response, the company arranged for counsel for its employees. The company entered into four separate retainer agreements with four separate lawyers, three of whom were assigned to represent, respectively, the three specific employees noted, and the fourth was retained to represent "all non-target current and former employees of [the company] ... in connection with the current state grand jury investigation."
 
@@ -59,7 +58,7 @@ The trial court entered an order that denied the State's motion to disqualify co
 
 The State sought leave to appeal that determination and, in an unpublished order, the Appellate Division denied that application. It then moved before this Court, seeking leave to appeal the trial court's order and other ancillary relief. We also granted leave to the Association of Criminal Defense Lawyers of New Jersey (ACDL-NJ) to appear as amicus curiae. For the reasons that follow, we affirm the order of the trial court.
 
-# II.
+#### II.
 
 According to the State, a per se conflict of interest arises whenever, as here, two facts contemporaneously appear: a target in a grand jury investigation unilaterally selects and retains a lawyer to represent potential witnesses against it, _and_ the lawyer relies on the target for payment of legal fees. In the State's view, that arrangement will split the attorney's loyalty and will discourage the lawyer from counseling the client to cooperate with the State, even when cooperation might be in the client's best interest. It asserts that the perceived effect of allowing a target to select and pay for counsel for the witnesses against it is to irreparably taint the proceedings. The State also claims that such a conflict cannot be waived and that, even if it could be waived, a waiver could only be demonstrated through the live testimony of the witnesses, and not, as was done here, via certifications.
 
@@ -67,11 +66,11 @@ The lawyers whose disqualification is sought counter that _RPC_ 1.8(f) clearly c
 
 The company echoes the arguments advanced both by the lawyers whose disqualification is sought and by amicus, and further asserts that, under the laws of its place of incorporation, it has an obligation to provide counsel to its employees, noting that, absent counsel provided by and paid for by the company, most of its employees would be unable to afford a lawyer.
 
-# III.
+#### III.
 
-## A.
+##### A.
 
-"Our evaluation of an actual or apparent conflict ... does not take place in a vacuum, but is, instead, highly fact specific." "In that respect, the Court's attention is directed to something more than a fanciful possibility." "To warrant disqualification in this setting, the asserted conflict must have some reasonable basis." 
+"Our evaluation of an actual or apparent conflict ... does not take place in a vacuum, but is, instead, highly fact specific." "In that respect, the Court's attention is directed to something more than a fanciful possibility." "To warrant disqualification in this setting, the asserted conflict must have some reasonable basis."
 
 The State asserts that a target of a grand jury inquiry providing and paying for the lawyers who will represent the target's employees before the very grand jury considering the target's culpability creates an insoluble conflict not subject to waiver. Although the State's arguments possess considerable initial appeal, in light of modern changes in the manner in which attorney-client relationships are to be viewed, we are constrained to disagree.
 
@@ -79,7 +78,7 @@ No doubt, it long has been the law of this State that it is "improper for [the a
 
 > [i]t is inherently wrong to represent both the employer and the employee if the employee's interest may, and the public interest will, be advanced by the employee's disclosure of his employer's criminal conduct. For the same reasons, it is also inherently wrong for an attorney who represents only the employee to accept a promise to pay from one whose criminal liability may turn on the employee's testimony.
 
-## B.
+##### B.
 
 That said, effective September 10, 1984, New Jersey replaced its then extant _Canons of Professional Ethics_ and _Disciplinary Rules_ with the more modern _Rules of Professional Conduct._ Among these was _RPC_ 1.8(f), which then provided that
 
@@ -95,21 +94,21 @@ Thereafter, starting in 2001 and continuing for almost two years, New Jersey eng
 
 > (3) information relating to representation of a client is protected as required by _RPC_ 1.6.
 
-## C.
+##### C.
 
 However, _RPC_ 1.8(f) does not exist in a vacuum: two other _RPCs_ directly touch on the question presented. First, _RPC_ 1.7(a) forbids a lawyer from representing a client "if the representation involves a concurrent conflict of interest." That _RPC_ recognizes "[a] concurrent conflict of interest... if: ... there is a significant risk that the representation of one or more clients will be materially limited by the lawyer's responsibilities to ... a third person or by a personal interest of the lawyer." _RPC_ 1.7(a)(2). Second, _RPC_ 5.4(c) provides that "[a] lawyer shall not permit a person who recommends, employs, or pays the lawyer to render legal services for another to direct or regulate the lawyer's professional judgment in rendering such legal services."
 
 Our task, then, is to harmonize RPC's 1.7(a)(2), 1.8(f) and 5.4(c) seemingly overlapping mandates so as to give proper guidance on whether, and under what circumstances, a lawyer may represent a client when the fees and costs incurred are being paid by another.
 
-## D.
+##### D.
 
 The starting point for analysis must be the _RPC_ that most specifically addresses the question of when a lawyer can represent a client while being paid by another: _RPC_ 1.8(f). That _RPC_ makes clear that three factors must coalesce in order to allow a lawyer paid by a third party to represent a client: the client must give informed consent; the lawyer's independent professional judgment and the lawyer-client relationship must be maintained sacrosanct; and no improper disclosures relating or referring to the representation can be made. However, the considerations that animate _RPC_ 1.7(a)(2)—that there be no concurrent conflict of interest—and _RPC_ 5.4(c)—that no third party may influence the lawyer's professional judgment— also are relevant and must be addressed.
 
 A synthesis of _RPCs_ 1.7(a)(2), 1.8(f) and 5.4(c) yields a salutary, yet practical principle: a lawyer may represent a client but accept payment, directly or indirectly, from a third party provided each of the six conditions is satisfied. Those conditions are:
 
-(1) The informed consent of the client is secured. In this regard, "'[i]nformed consent' is defined as the agreement by a person to a proposed course of conduct after the lawyer has communicated adequate information and explanation about the material risks of and reasonably available alternatives to the proposed course of conduct." 
+(1) The informed consent of the client is secured. In this regard, "'[i]nformed consent' is defined as the agreement by a person to a proposed course of conduct after the lawyer has communicated adequate information and explanation about the material risks of and reasonably available alternatives to the proposed course of conduct."
 
-(2) The third-party payer is prohibited from, in any way, directing, regulating or interfering with the lawyer's professional judgment in representing his client. 
+(2) The third-party payer is prohibited from, in any way, directing, regulating or interfering with the lawyer's professional judgment in representing his client.
 
 (3) There cannot be any current attorney-client relationship between the lawyer and the third-party payer.
 
@@ -119,7 +118,7 @@ A synthesis of _RPCs_ 1.7(a)(2), 1.8(f) and 5.4(c) yields a salutary, yet practi
 
 (6) Once a third-party payer commits to pay for the representation of another, the third-party payer shall not be relieved of its continuing obligations to pay without leave of court brought on prior written notice to the lawyer and the client. In such an application, the third-party payer shall bear the burden of proving that its obligation to continue to pay for the representation should cease; the fact that the lawyer and the client have elected to pursue a course of conduct deemed in the client's best interests but disadvantageous to the third-party payer shall not be sufficient reason to discontinue the third-party payer's continuing obligation of payment. If a third-party payer fails to pay an employee's legal fees and expenses when due, the employee shall have the right, via a summary action, for an order to show cause why the third-party payer should not be ordered to pay those fees and expenses.
 
-## E.
+##### E.
 
 We now apply this principle, and its conditions, to the case on appeal.
 
@@ -135,6 +134,6 @@ _Prompt and continued payment._ Once an employer commits to paying the legal fee
 
 In sum, through the combined product of the good faith of an employer, the diligence of competent counsel and the exercise of a trial court's supervisory authority, the net result of the company's retention and payment of counsel for its employees complies with the _Rules of Professional Conduct._ For these reasons, the trial court properly denied the State's motion to disqualify counsel.
 
-# IV.
+#### IV.
 
 The order of the Law Division denying the State's motion to disqualify the counsel retained to represent the company's employees before the grand jury is affirmed.

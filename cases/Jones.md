@@ -1,15 +1,16 @@
 ---
 
- 
+
 title: 'Jones v. U.S.'
 cite: '828 A. 2d 169 (DC App. 2003)'
-judge: 'Terry, Associate Judge'
-    
+
 ---
+
+### Terry, Associate Judge
 
 After a jury trial, appellant was convicted of first-degree burglary, first-degree sexual abuse, first-degree felony murder, and second-degree murder. On appeal he contends that the trial court erred when it ruled that the attorney-client privilege did not require the exclusion of testimony about a conversation that appellant had with his girlfriend (at the time), who was an attorney employed by the federal government. We affirm on the merits, and remand for the sole purpose of vacating a redundant conviction.
 
-# I
+#### I
 
 On Saturday, March 23, 1996, at about 10:00 a.m., Metropolitan Police officers found Darcie Silver dead in her apartment after they received a call from her concerned co-workers reporting that she had failed to show up for work. The medical examiner determined that the cause of death was asphyxia by strangulation; other injuries indicated that she might also have been smothered. In addition, there were burns around her genital area; pieces of burned newspaper were found in the vicinity of her crotch. A vaginal swab revealed the presence of male deoxyribonucleic acid (DNA). In addition, investigators found semen stains on Ms. Silver's nightgown and on a denim jacket recovered from her apartment. The DNA evidence was later matched to appellant through testing by the FBI.
 
@@ -17,7 +18,7 @@ A police investigation revealed that on Friday evening, March 22, Ms. Silver had
 
 Two neighbors in Ms. Silver's apartment building heard a knocking at the front door of the building at about 2:30 a.m. on Saturday. One of the neighbors looked out a window and saw a "stocky" man with a fair to medium complexion at the door. This description was similar to that of appellant, who is a weightlifter and bodybuilder. Both neighbors heard the man respond to the building intercom using the name "Darcie." They then heard him say that he had locked himself out of his apartment and needed to borrow a telephone. The intercom made a buzzing noise, which unlocked the front door, and the man walked upstairs to the area of Ms. Silver's apartment. About fifteen minutes later, one neighbor heard a "crash" coming from Silver's apartment, and the other heard a loud "thump."
 
-# II
+#### II
 
 Appellant's primary argument on appeal is that the court erred when it ruled that the attorney-client privilege did not attach to a conversation that he had with his girlfriend at the time, Tina Ducharme, who was also a lawyer.
 

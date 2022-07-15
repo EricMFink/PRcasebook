@@ -1,11 +1,12 @@
 ---
 
- 
+
 title: 'In re Original Grand Jury Investigation'
 cite: '89 Ohio St. 3d 544 (Ohio 2000)'
-judge: 'Francis E. Sweeny, Sr., J.'
-    
+
 ---
+
+### Francis E. Sweeny, Sr., J.
 
 The issue presented in this case is whether an attorney can be compelled to disclose to the grand jury a letter written by a client and discovered by an investigator that contains evidence of a possible crime or whether the Ohio Code of Professional Responsibility prohibits such disclosure.
 
@@ -45,7 +46,7 @@ Other provisions of the code support our holding that appellant must relinquish 
 
 We agree with the court of appeals that the sanction imposed against appellant stemming from the contempt proceedings should be vacated, given that appellant challenged the subpoena on confidentiality grounds in good faith. Under these circumstances, we do not believe appellant should be punished and held in contempt. The finding of contempt is vacated on condition that appellant comply with the subpoena. Accordingly, we affirm the judgment of the court of appeals and order appellant to relinquish the letter in question to the grand jury.
 
-# PFEIFER, J., concurring in part and dissenting in part.
+#### PFEIFER, J., concurring in part and dissenting in part.
 
 I agree with the majority that the letter is a client secret and that Helmick was authorized to reveal the intent of his client to commit a crime. DR 4-101(C)(3). Revealing "the information necessary to prevent the crime" should have concluded the matter. Unfortunately, the trial court and now a majority of this court chose to read DR 4-101(C)(2) liberally. That reading of the exception swallows the rule of DR 4-101(B)(1), which states that a lawyer "shall not knowingly reveal a confidence or secret of his client," and declares open season on defense attorney files.
 

@@ -1,11 +1,12 @@
 ---
 
- 
+
 title: 'In the Matter of a Grand Jury Investigation'
 cite: '453 Mass. 453 (Mass. 2009)'
-judge: 'Spina, J.'
-    
+
 ---
+
+### Spina, J.
 
 This case requires us to decide whether the attorney-client privilege applies where a client leaves messages on his counsel's telephone answering machine threatening to harm others and the attorney discloses those communications in order to protect those threatened.
 

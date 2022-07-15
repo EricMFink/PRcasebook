@@ -1,15 +1,16 @@
 ---
 
- 
+
 title: 'Matter of Tennant'
 cite: '392 P. 3d 143 (Mont. 2017)'
-judge: 'Justice Beth Baker delivered the Opinion and Order of the Court.'
-    
+
 ---
+
+### Justice Beth Baker delivered the Opinion and Order of the Court.
 
 These consolidated proceedings include two formal disciplinary complaints filed against Montana attorney David G. Tennant. The complaints, which arise from Tennant's debt collection practices against clients and former clients, will be referenced in this Opinion and Order as the Ray complaint and the Harshman complaint.
 
-# Background
+#### Background
 
 Tennant represented Richard and Debbie Harshman in an action for eviction of tenants from, and possession of, real property in Hungry Horse, Montana. The Harshmans obtained a default judgment against their tenants for damages to the property, including attorney fees of $3,063.54. When he was unable to collect the attorney fees through execution on the tenants and the Harshmans did not pay their bill to Tennant's firm, Tennant filed an attorney's lien on the property. He later filed a complaint against the Harshmans alleging breach of contract, account stated, and foreclosure of the attorney's lien, in which action he was granted a default judgment of $8,148.68. Tennant assigned the judgment to a collection agency, which obtained a writ of execution on the Harshmans' property. A sheriff's sale was held, at which the collection agency was the successful bidder. The Harshmans later redeemed their property.
 
@@ -21,7 +22,7 @@ The Commission recommends that, as a result of his violations of the Montana Rul
 
 ODC has filed written objections to the Commission's findings, conclusions, and recommendation, and Tennant has filed a response.
 
-# Discussion 
+#### Discussion
 
 ODC argues that the Commission erred in concluding that it failed to prove violation of Rule 1.9, MRPC, in relation to the Harshmans. Rule 1.9(c) provides:
 
@@ -39,7 +40,7 @@ In this case, although it would have been possible for Tennant to discover the e
 
 ODC further claims that, absent the Harshmans' redemption of their property, Tennant would have exceeded his fee claim and lien by receiving a windfall from the sheriff's sale of upwards of $80,000---his former clients' equity in their property. ODC submits that this is a clear violation of Rule 1.9(c), MRPC. However, the Harshmans did redeem their property, and ODC's assumptions do not satisfy its burden of proof.
 
-## Sanctions
+##### Sanctions
 
 Finally, ODC argues that the Commission's recommended sanctions are inadequate given Tennant's unethical conduct and will not deter the same type of conduct by other Montana attorneys. ODC had recommended that Tennant be suspended from the practice of law for at least seven months and that he be required to retake and pass the Multistate Professional Responsibility Exam.
 

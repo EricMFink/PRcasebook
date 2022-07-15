@@ -1,3 +1,10 @@
+---
+
+title: 'Strickland v. Washington'
+cite: '466 U.S. 668 (1984)'
+
+---
+
 \case{Strickland v. Washington}{466 U.S. 668}{1984}
 
 ### JUSTICE O'CONNOR delivered the opinion of the Court.
@@ -8,7 +15,7 @@ This case requires us to consider the proper standards for judging a criminal de
 
 ##### A
 
-During a 10-day period in September 1976, respondent planned and committed three groups of crimes, which included three brutal stabbing murders, torture, kidnaping, severe assaults, attempted murders, attempted extortion, and theft. After his two accomplices were arrested, respondent surrendered to police and voluntarily gave a lengthy statement confessing to the third of the criminal episodes. The State of Florida indicted respondent for kidnapping and murder and appointed an experienced criminal lawyer to represent him.
+During a 10-day period in September 1976, respondent planned and committed three groups of crimes, which included three brutal stabbing murders, torture, kidnapping, severe assaults, attempted murders, attempted extortion, and theft. After his two accomplices were arrested, respondent surrendered to police and voluntarily gave a lengthy statement confessing to the third of the criminal episodes. The State of Florida indicted respondent for kidnapping and murder and appointed an experienced criminal lawyer to represent him.
 
 Counsel actively pursued pretrial motions and discovery. He cut his efforts short, however, and he experienced a sense of hopelessness about the case, when he learned that, against his specific advice, respondent had also confessed to the first two murders. By the date set for trial, respondent was subject to indictment for three counts of first-degree murder and multiple counts of robbery, kidnapping for ransom, breaking and entering and assault, attempted murder, and conspiracy to commit robbery. Respondent waived his right to a jury trial, again acting against counsel's advice, and pleaded guilty to all charges, including the three capital murder charges.
 
@@ -20,7 +27,7 @@ In preparing for the sentencing hearing, counsel spoke with respondent about his
 
 Counsel decided not to present and hence not to look further for evidence concerning respondent's character and emotional state. That decision reflected trial counsel's sense of hopelessness about overcoming the evidentiary effect of respondent's confessions to the gruesome crimes. It also reflected the judgment that it was advisable to rely on the plea colloquy for evidence about respondent's background and about his claim of emotional stress: the plea colloquy communicated sufficient information about these subjects, and by forgoing the opportunity to present new evidence on these subjects, counsel prevented the State from cross-examining respondent on his claim and from putting on psychiatric evidence of its own.
 
-Counsel also excluded from the sentencing hearing other evidence he thought was potentially damaging. He successfully moved to exclude respondent's "rap sheet." Because he judged that a presentence report might prove more detrimental than helpful, as it would have included respondent's criminal history and thereby would have undermined the claim of no significant history of criminal activity, he did not request that one be prepared.
+Counsel also excluded from the sentencing hearing other evidence he thought was potentially damaging. He successfully moved to exclude respondent's "rap sheet." Because he judged that a pre-sentence report might prove more detrimental than helpful, as it would have included respondent's criminal history and thereby would have undermined the claim of no significant history of criminal activity, he did not request that one be prepared.
 
 At the sentencing hearing, counsel's strategy was based primarily on the trial judge's remarks at the plea colloquy as well as on his reputation as a sentencing judge who thought it important for a convicted defendant to own up to his crime. Counsel argued that respondent's remorse and acceptance of responsibility justified sparing him from the death penalty. Counsel also argued that respondent had no history of criminal activity and that respondent committed the crimes under extreme mental or emotional disturbance, thus coming within the statutory list of mitigating circumstances. He further argued that respondent should be spared death because he had surrendered, confessed, and offered to testify against a co-defendant and because respondent was fundamentally a good person who had briefly gone badly wrong in extremely stressful circumstances. The State put on evidence and witnesses largely for the purpose of describing the details of the crimes. Counsel did not cross-examine the medical experts who testified about the manner of death of respondent's victims.
 

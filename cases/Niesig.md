@@ -1,13 +1,14 @@
 ---
 
- 
+
 title: "Niesig v. Team I"
 cite: "76 N.Y.2d 363 (NY 1990)"
-judge: "KAYE, J."
-    
+
 ---
 
-Plaintiff in this personal injury litigation, wishing to have his counsel privately interview a corporate defendant's employees who witnessed the accident, puts before us a question that has generated wide interest: are the employees of a corporate party also considered "parties" under Disciplinary Rule 7-104 (A) (1) of the Code of Professional Responsibility, which prohibits a lawyer from communicating directly with a [368](https://scholar.google.com/scholar_case?case=17261565756900857956&q=76+N.Y.2d+363&hl=en&as_sdt=6,34#p368)[\*368](https://scholar.google.com/scholar_case?case=17261565756900857956&q=76+N.Y.2d+363&hl=en&as_sdt=6,34#p368) "party" known to have counsel in the matter?{% sidenote "sidenote-id" "(n.1 in opinion) DR 7-104(A)(1) reads: 'During the course of \[the\] representation of a client a lawyer shall not * * * [c]ommunicate or cause another to communicate with a party [the lawyer] knows to be represented by a lawyer in that matter unless [the lawyer] has the prior consent of the lawyer representing such other party or is authorized by law to do so.'" %} The trial court and the Appellate Division both answered that an employee of a counseled corporate party in litigation is by definition also a "party" within the rule, and prohibited the interviews. For reasons of policy, we disagree.
+### Kaye, J.
+
+Plaintiff in this personal injury litigation, wishing to have his counsel privately interview a corporate defendant's employees who witnessed the accident, puts before us a question that has generated wide interest: are the employees of a corporate party also considered "parties" under Disciplinary Rule 7-104 (A) (1) of the Code of Professional Responsibility, which prohibits a lawyer from communicating directly with a "party" known to have counsel in the matter? The trial court and the Appellate Division both answered that an employee of a counseled corporate party in litigation is by definition also a "party" within the rule, and prohibited the interviews. For reasons of policy, we disagree.
 
 As alleged in the complaint, plaintiff was injured when he fell from scaffolding at a building construction site. At the time of the accident he was employed by DeTrae Enterprises, Inc.; defendant J.M. Frederick was the general contractor, and defendant Team I the property owner. Plaintiff thereafter commenced a damages action against defendants, asserting two causes of action centering on Labor Law § 240, and defendants brought a third-party action against DeTrae.
 

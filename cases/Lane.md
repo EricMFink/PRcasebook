@@ -1,17 +1,18 @@
 ---
 
- 
+
 title: 'Appeal of Lane'
 cite: '544 N.W.2d 367 (Neb. 1996)'
-judge: 'Per Curiam'
-    
+
 ---
+
+### Per Curiam 
 
 Gary M. Lane, challenges the decision of the bar commission of the Nebraska State Bar Association to deny his application for readmission to the Nebraska bar through membership in the association.
 
 [ * * * ]
 
-# Facts 
+#### Facts
 
 At various times Lane was admitted to the bars of Colorado, Iowa, Nebraska, Texas, Virginia, and Washington, D.C. He permitted the Nebraska membership obtained in 1978 to lapse, and in 1994 when he again applied for admission to the Nebraska bar, he no longer held membership in the Iowa bar.
 
@@ -45,15 +46,15 @@ B. On or about January 19, 1995, he was in attendance at a BAR-BRI Review at Cre
 
 A hearing was then held by the commission, which Lane attended with his attorney. Through his attorney, Lane was permitted to cross-examine witnesses testifying before the commission and to present his own witnesses and evidence, and he himself testified. The commission found there was no evidence to support the assertion that Lane had been rude or threatening toward employees of the NCLE and that he had substantially complied with question 11 on the application by listing a civil judgment against him on his bankruptcy schedules that had been provided to the commission. The commission also found that although Lane failed to reveal his prior admissions to the Nebraska and Iowa bars, as the application form requested, the omission was not the result of an intent to deceive, but that it did indicate a casual attitude about compliance with instructions and the need to fully inform the commission. The commission further found, however, that Lane had acted in a threatening and intimidating manner while at the Creighton University legal clinic and at the BAR-BRI review course. The commission also found that Lane had intended to conceal the history of his temporary employment in Colorado, denoting a lack of candor in the application process.
 
-# Reasons for Appeal
+#### Reasons for Appeal
 
 [Lane raised seven grounds for reversing the commission's decision, including that the evidence did not support denial of his application for admisssion.]
 
-# Evidence 
+#### Evidence
 
 The second reason rests on Lane's premise that the evidence is deficient in two respects. First, according to Lane, it does not support the conclusion that he was hostile, threatening, and disruptive, and even if the evidence does so, the conduct is not such as warrants denial of admission to the bar. Second, again according to Lane, the evidence that he failed to disclose his previous temporary employment does not support the conclusion that he lacked candor, and if the evidence does so, the conduct does not warrant denial of admission to the bar.
 
-## Hostile, Threatening, and Disruptive Conduct
+##### Hostile, Threatening, and Disruptive Conduct
 
 At the June 9, 1995, hearing, various witnesses testified to events which occurred during September 1994 and January through February 1995. Two of the events are worthy of discussion.
 
@@ -133,13 +134,13 @@ Appendix A to rule 3 explains that "[a]n attorney should be one whose record of 
 
 > such ill feeling should not influence a lawyer in his or her conduct, attitude, and demeanor toward opposing lawyers. A lawyer should not make unfair or derogatory personal reference to opposing counsel. Haranguing and offensive tactics by lawyers interfere with the orderly administration of justice and have no proper place in our legal system.
 
-The requisite restraint in dealing with others is obligatory conduct for attorneys because "[t]he efficient and orderly administration of justice cannot be successfully carried on if we allow attorneys to engage in unwarranted attacks on the court [or] opposing counsel.... Such tactics seriously lower the public respect for ... the Bar." It necessarily follows that "[a]n attorney who exhibits [a] lack of civility, good manners and common courtesy ... tarnishes the ... image of ... the bar...." 
+The requisite restraint in dealing with others is obligatory conduct for attorneys because "[t]he efficient and orderly administration of justice cannot be successfully carried on if we allow attorneys to engage in unwarranted attacks on the court [or] opposing counsel.... Such tactics seriously lower the public respect for ... the Bar." It necessarily follows that "[a]n attorney who exhibits [a] lack of civility, good manners and common courtesy ... tarnishes the ... image of ... the bar...."
 
-In addition, appendix A declares, in part, that "[t]he public interest requires that the public be secure in its expectation that those who are admitted to the bar are worthy of the trust and confidence clients may reasonably place in their attorneys." When members of the public engage attorneys, they expect that those attorneys will conduct themselves in a professional and businesslike manner. Attorneys who routinely exhibit abusive, disruptive, hostile, intemperate, intimidating, irresponsible, threatening, or turbulent behavior toward others involved in the legal system are not worthy of such trust and confidence. What cannot be permitted in attorneys cannot be tolerated in those applying for admission as attorneys. 
+In addition, appendix A declares, in part, that "[t]he public interest requires that the public be secure in its expectation that those who are admitted to the bar are worthy of the trust and confidence clients may reasonably place in their attorneys." When members of the public engage attorneys, they expect that those attorneys will conduct themselves in a professional and businesslike manner. Attorneys who routinely exhibit abusive, disruptive, hostile, intemperate, intimidating, irresponsible, threatening, or turbulent behavior toward others involved in the legal system are not worthy of such trust and confidence. What cannot be permitted in attorneys cannot be tolerated in those applying for admission as attorneys.
 
-Moreover, the qualities listed in the rule are merely illustrative; "[t]he fact is that in reviewing an application for admission to the bar, the decision as to an applicant's good moral character must be made on an ad hoc basis." We therefore join other courts in holding that abusive, disruptive, hostile, intemperate, intimidating, irresponsible, threatening, or turbulent behavior is a proper basis for the denial of admission to the bar. 
+Moreover, the qualities listed in the rule are merely illustrative; "[t]he fact is that in reviewing an application for admission to the bar, the decision as to an applicant's good moral character must be made on an ad hoc basis." We therefore join other courts in holding that abusive, disruptive, hostile, intemperate, intimidating, irresponsible, threatening, or turbulent behavior is a proper basis for the denial of admission to the bar.
 
-Even if we assume, arguendo, that Lane believes he is the victim of a conspiracy which encompasses various interests in Texas, various people in Colorado, and the commission itself, the sincerity of his belief in this supposed wide-ranging conspiracy against him cannot overcome the requirements for the practice of law. Belief unrelated to reason is a hallmark of fanaticism, zealotry, or paranoia rather than reasoned advocacy. The practice of law requires the ability to discriminate between fact and faith, evidence and imagination, reality and hallucination. While an applicant for admission to the bar is entitled to argue vigorously that the commission erred in its findings and recommendation, and this court would take seriously any substantiation of the existence of bias or misconduct on the part of the commission, a much stronger showing is needed than demonstrated by this record to warrant a conclusion that the commission had acted out of some type of political or personal animus. 
+Even if we assume, arguendo, that Lane believes he is the victim of a conspiracy which encompasses various interests in Texas, various people in Colorado, and the commission itself, the sincerity of his belief in this supposed wide-ranging conspiracy against him cannot overcome the requirements for the practice of law. Belief unrelated to reason is a hallmark of fanaticism, zealotry, or paranoia rather than reasoned advocacy. The practice of law requires the ability to discriminate between fact and faith, evidence and imagination, reality and hallucination. While an applicant for admission to the bar is entitled to argue vigorously that the commission erred in its findings and recommendation, and this court would take seriously any substantiation of the existence of bias or misconduct on the part of the commission, a much stronger showing is needed than demonstrated by this record to warrant a conclusion that the commission had acted out of some type of political or personal animus.
 
 Verbal abuse, unfounded accusations, and the like have no place in legal proceedings. While occasional lapses in decorum can be overlooked, Lane's transgressions exceed occasional incivility, anger, or loss of control. On this record, they form a pattern and a way of life which appear to be Lane's normal reaction to opposition and disappointment.
 
@@ -153,7 +154,7 @@ We agree with and adopt the observations in [_Matter of Ronwin,_ 139 Ariz. at 58
 
 Our de novo review leads us to independently conclude, contrary to Lane's contention, that his egregious pattern of abusive, disruptive, hostile, intemperate, intimidating, irresponsible, threatening, or turbulent conduct is sufficient relevant conduct to deny him admission to the bar.
 
-## Lack of Candor
+##### Lack of Candor
 
 Question 7 of the application read: "List every job you have held for the ten year period immediately prior to the date of this application or since the age of 18, beginning with your present employment, if any. Please include self-employment, clerkships, internships, temporary or part-time employment and military service." Lane explained that he had failed to list the Colorado temporary employment because he held simple common labor jobs, and he may have either misread the question or forgotten about the jobs. We agree with the commission's determination that such an explanation is not credible. The correspondence between Lane and Henshaw set out earlier establishes not only that Lane failed to list the employment, but that he originally denied having had any employment during the period in question.
 
@@ -165,15 +166,15 @@ Accordingly, our de novo review of the record leads us to independently find tha
 
 [ * * * ]
 
-# Conclusion 
+#### Conclusion
 
 For the foregoing reasons, we affirm the commission's decision to deny Lane's application to be readmitted to the bar of this state through membership in the Nebraska State Bar Association.
 
 AFFIRMED.
 
---- 
+---
 
-# WRIGHT, Justice, dissenting.
+#### WRIGHT, Justice, dissenting.
 
 The various incidents described by the majority suggest that Lane is at times obnoxious, has a temper, and can be difficult to work with and that these qualities appear to be amplified around women. With this, I cannot quibble. Until today, however, being obnoxious, having a quick temper, and being hard to get along with were not grounds for the extreme sanction of denial of admission to the Nebraska bar. The majority reaches far beyond the current rules governing admission to the Nebraska bar; therefore, I respectfully dissent.
 

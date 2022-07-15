@@ -1,11 +1,12 @@
 ---
 
- 
+
 title: 'Togstad v. Vesely, Otto, Miller & Keefe'
 cite: '291 N.W.2d 686 (Minn. 1980)'
-judge: 'Per Curiam'
-    
+
 ---
+
+### Per Curiam 
 
 This is an appeal by the defendants from a judgment of the Hennepin County District Court involving an action for legal malpractice. The jury found that the defendant attorney Jerre Miller was negligent and that, as a direct result of such negligence, plaintiff John Togstad sustained damages in the amount of $610,500 and his wife, plaintiff Joan Togstad, in the amount of $39,000. Defendants (Miller and his law firm) appeal to this court from the denial of their motion for judgment notwithstanding the verdict or, alternatively, for a new trial. We affirm.
 
@@ -30,11 +31,11 @@ Mrs. Togstad denied that Miller had told her his firm did not have expertise in 
 On cross-examination, Mrs. Togstad was asked whether she went to Miller's office "to see if he would take the case of her husband." She replied, "Well, I guess it was to go for legal advice, what to do, where shall we go from here? That is what we went for." Again in response to defense counsel's questions, Mrs. Togstad testified as follows:
 
 > Q And it was clear to you, was it not, that what was taking place was a preliminary discussion between a prospective client and lawyer as to whether or not they wanted to enter into an attorney-client relationship?
-> 
+>
 > A I am not sure how to answer that. It was for legal advice as to what to do.
-> 
+>
 > Q And Mr. Miller was discussing with you your problem and indicating whether he, as a lawyer, wished to take the case, isn't that true?
-> 
+>
 > A Yes.
 
 On re-direct examination, Mrs. Togstad acknowledged that when she left Miller's office she understood that she had been given a "qualified, quality legal opinion that she and her husband did not have a malpractice case."
@@ -46,26 +47,26 @@ Miller also claimed he related to Mrs. Togstad "that because of the grievous nat
 On cross-examination, Miller testified as follows:
 
 > Q Now, so there is no misunderstanding, and I am reading from your deposition, you understood that she was consulting with you as a lawyer, isn't that correct?
-> 
+>
 > A That's correct.
-> 
+>
 > Q That she was seeking legal advice from a professional attorney licensed to practice in this state and in this community?
-> 
+>
 > A I think you and I did have another interpretation or use of the term "Advice." She was there to see whether or not she had a case and whether the firm would accept it.
-> 
+>
 > Q We have two aspects; number one, your legal opinion concerning liability of a case for malpractice; number two, whether there was or wasn't liability, whether you would accept it, your firm, two separate elements, right?
-> 
+>
 > A I would say so.
-> 
+>
 > Q Were you asked on page 6 in the deposition, folio 14, "And you understood that she was seeking legal advice at the time that she was in your office, that is correct also, isn't it?" And did you give this answer, "I don't want to engage in semantics with you, but my impression was that she and Mr. Bucholz were asking my opinion after having related the incident that I referred to." The next question, "Your legal opinion?" Your answer, "Yes." Were those questions asked and were they given?
-> 
+>
 > MR. COLLINS: Objection to this, Your Honor. It is not impeachment.
-> 
+>
 > THE COURT: Overruled.
-> 
+>
 > THE WITNESS: Yes, I gave those answers. Certainly, she was seeking my opinion as an attorney in the sense of whether or not there was a case that the firm would be interested in undertaking.
 
-Kenneth Green, a Minneapolis attorney, was called as an expert by plaintiffs. He stated that in rendering legal advice regarding a claim of medical malpractice, the "minimum" an attorney should do would be to request medical authorizations from the client, review the hospital records, and consult with an expert in the field. John McNulty, a Minneapolis attorney, and Charles Hvass testified as experts on behalf of the defendants. McNulty stated that when an attorney is consulted as to whether he will take a case, the lawyer's only responsibility in refusing it is to so inform the party. He testified, however, that when a lawyer is asked his legal opinion on the merits of a medical malpractice claim, community standards require that the attorney check hospital records and consult with an expert before rendering his opinion. 
+Kenneth Green, a Minneapolis attorney, was called as an expert by plaintiffs. He stated that in rendering legal advice regarding a claim of medical malpractice, the "minimum" an attorney should do would be to request medical authorizations from the client, review the hospital records, and consult with an expert in the field. John McNulty, a Minneapolis attorney, and Charles Hvass testified as experts on behalf of the defendants. McNulty stated that when an attorney is consulted as to whether he will take a case, the lawyer's only responsibility in refusing it is to so inform the party. He testified, however, that when a lawyer is asked his legal opinion on the merits of a medical malpractice claim, community standards require that the attorney check hospital records and consult with an expert before rendering his opinion.
 
 Hvass stated that he had no recollection of Miller's calling him in October 1972 relative to the Togstad matter. He testified that:
 
@@ -77,7 +78,7 @@ This case was submitted to the jury by way of a special verdict form. The jury f
 
 In a legal malpractice action of the type involved here, four elements must be shown: (1) that an attorney-client relationship existed; (2) that defendant acted negligently or in breach of contract; (3) that such acts were the proximate cause of the plaintiffs' damages; (4) that but for defendant's conduct the plaintiffs would have been successful in the prosecution of their medical malpractice claim.
 
-We believe it is unnecessary to decide whether a tort or contract theory is preferable for resolving the attorney-client relationship question raised by this appeal. The tort and contract analyses are very similar in a case such as the instant one, and we conclude that under either theory the evidence shows that a lawyer-client relationship is present here. The thrust of Mrs. Togstad's testimony is that she went to Miller for legal advice, was told there wasn't a case, and relied upon this advice in failing to pursue the claim for medical malpractice. In addition, according to Mrs. Togstad, Miller did not qualify his legal opinion by urging her to seek advice from another attorney, nor did Miller inform her that he lacked expertise in the medical malpractice area. Assuming this testimony is true, we believe a jury could properly find that Mrs. Togstad sought and received legal advice from Miller under circumstances which made it reasonably foreseeable to Miller that Mrs. Togstad would be injured if the advice were negligently given. Thus, under either a tort or contract analysis, there is sufficient evidence in the record to support the existence of an attorney-client relationship. 
+We believe it is unnecessary to decide whether a tort or contract theory is preferable for resolving the attorney-client relationship question raised by this appeal. The tort and contract analyses are very similar in a case such as the instant one, and we conclude that under either theory the evidence shows that a lawyer-client relationship is present here. The thrust of Mrs. Togstad's testimony is that she went to Miller for legal advice, was told there wasn't a case, and relied upon this advice in failing to pursue the claim for medical malpractice. In addition, according to Mrs. Togstad, Miller did not qualify his legal opinion by urging her to seek advice from another attorney, nor did Miller inform her that he lacked expertise in the medical malpractice area. Assuming this testimony is true, we believe a jury could properly find that Mrs. Togstad sought and received legal advice from Miller under circumstances which made it reasonably foreseeable to Miller that Mrs. Togstad would be injured if the advice were negligently given. Thus, under either a tort or contract analysis, there is sufficient evidence in the record to support the existence of an attorney-client relationship.
 
 Defendants argue that even if an attorney-client relationship was established the evidence fails to show that Miller acted negligently in assessing the merits of the Togstads' case. They appear to contend that, at most, Miller was guilty of an error in judgment which does not give rise to legal malpractice. However, this case does not involve a mere error of judgment. The gist of plaintiffs' claim is that Miller failed to perform the minimal research that an ordinarily prudent attorney would do before rendering legal advice in a case of this nature.
 

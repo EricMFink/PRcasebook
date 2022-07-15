@@ -1,11 +1,12 @@
 ---
 
- 
+
 title: "In re Morse"
 cite: "748 S.E.2d 921 (Ga. 2013)"
-judge: Per Curiam
-    
+
 ---
+
+### Per Curiam
 
 This disciplinary matter is before the Court on a Petition for Voluntary Discipline filed by Respondent Jack O. Morse pursuant to Bar Rule 4-227(b)(2) before a formal complaint was issued. In his petition, Morse admits violating Rule 1.8(e) of the Georgia Rules of Professional Conduct set forth in Bar Rule 4-102(d). Although such a violation is punishable by public reprimand, Morse requests the imposition of a Review Panel reprimand. The State Bar has no objection.
 
@@ -17,7 +18,7 @@ _Petition for voluntary discipline accepted. Review Panel reprimand._
 
 All the Justices concur.
 
-# Blackwell, Justice, concurring.
+### Blackwell, Justice, concurring.
 
 I concur fully in the opinion of the Court, but I write separately to remind our readers that a lawyer providing financial assistance to a litigation client is not _always_ a violation of Rule 1.8(e). With two exceptions, Rule 1.8(e) provides that "[a] lawyer shall not provide financial assistance to a client in connection with pending or contemplated litigation." By its plain terms, the Rule only prohibits the provision of financial assistance to a litigation client to the extent of some "connection" between the financial assistance on the one hand, and the litigation or representation on the other.{% sidenote "sidenote-id" "(n.2 in opinion) Such a connection might exist, for instance, if the lawyer intended the financial assistance to enable or encourage the client to retain the lawyer or to prosecute the litigation, if the client actually was encouraged or enabled by the financial assistance to retain the lawyer or to prosecute the litigation, or if the lawyer and client agreed that the financial assistance would be repaid from amounts awarded in the litigation. By the way, this list of circumstances that might suffice to show the requisite connection is not intended to be an exhaustive one." %} Absent such a "connection," a lawyer may provide financial assistance to a litigation client without running afoul of Rule 1.8(e).
 

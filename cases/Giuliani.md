@@ -1,17 +1,17 @@
 ---
- 
 
 title: 'Matter of Giuliani'
 cite: '2021 NY Slip Op 04086 (N.Y. App. Div. June 24, 2021)'
-judge: 'Per Curiam'
 
 ---
+
+### Per Curiam
 
 The Attorney Grievance Committee moves for an order immediately suspending respondent from the practice of law based upon claimed violations of rules 3.3(a); 4.1; 8.4(c) and 8.4(h) of the Rules of Professional Conduct. Respondent was admitted to practice as an attorney and counselor at law in the State of New York on June 25, 1969, under the name Rudolph William Giuliani. He maintains a law office within the First Judicial Department.
 
 For the reasons that follow, we conclude that there is uncontroverted evidence that respondent communicated demonstrably false and misleading statements to courts, lawmakers and the public at large in his capacity as lawyer for former President Donald J. Trump and the Trump campaign in connection with Trump's failed effort at reelection in 2020. These false statements were made to improperly bolster respondent's narrative that due to widespread voter fraud, victory in the 2020 United States presidential election was stolen from his client. We conclude that respondent's conduct immediately threatens the public interest and warrants interim suspension from the practice of law, pending further proceedings before the Attorney Grievance Committee (sometimes AGC or Committee).
 
-# The Nature of this Proceeding
+#### The Nature of this Proceeding
 
 During the course of this ongoing investigation into numerous complaints of respondent's alleged professional misconduct, the AGC seeks respondent's immediate suspension from the practice law in the State of New York. Under certain circumstances, such serious interim relief is available, pending a full formal disciplinary proceeding. Interim suspension is available even where formal charges have not yet been filed.
 
@@ -21,7 +21,7 @@ Each Judicial Department of theAppellate Divisions of the New York Supreme Court
 
 In certain cases, the Committee may, during the pendency of its investigation, make a motion to the Court for an attorney's interim suspension. Interim suspension is a serious remedy, available only in situations where it is immediately necessary to protect the public from the respondent's violation of the Rules. At bar, the AGC is proceeding on the basis that there is uncontroverted evidence of professional misconduct. Importantly, when an attorney is suspended on an interim basis, he or she nonetheless has an opportunity for a post-suspension hearing.
 
-# Uncontroverted Claims of Misconduct
+#### Uncontroverted Claims of Misconduct
 
 Only uncontroverted claims of professional misconduct may serve as a basis for interim suspension on this motion. In connection with its claim that uncontroverted attorney misconduct has occurred, the AGC relies upon the following provisions of the New York Rules of Professional Conduct: rule 3.3 which provides that: "(a) A lawyer shall not knowingly: (1) make a false statement of fact or law to a tribunal. . . ." rule 4.1 which provides that: "In the course of representing a client, a lawyer shall not knowingly make a false statement of fact or law to a third person," and rule 8.4 "A lawyer or law firm shall not: . . . (c) engage in conduct involving dishonesty, fraud, deceit or misrepresentation, . . . or (h) engage in any other conduct that adversely reflects on the lawyer's fitness as a lawyer."
 
@@ -29,7 +29,7 @@ Under the Rules of Professional Conduct, the prohibition against false statement
 
 In general, the AGC relies upon statements that respondent made following the 2020 election at press conferences, state legislative hearings, radio broadcasts (as both a guest and host), podcasts, television appearances and one court appearance. Respondent concedes that the statements attributed to him in this motion were all made in the context of his representation of Donald J. Trump and/or the Trump campaign.
 
-# Preliminary Issues
+#### Preliminary Issues
 
 Respondent raises an overarching argument that the AGC's investigation into his conduct violates his First Amendment right of free speech. He does not attack the constitutionality of the particular disciplinary rules; he seemingly claims that they are unconstitutional as applied to him. We reject respondent's argument. This disciplinary proceeding concerns the professional restrictions imposed on respondent as an attorney to not knowingly misrepresent facts and make false statements in connection with his representation of a client. It is long recognized that "speech by an attorney is subject to greater regulation than speech by others". Unlike lay persons, an attorney is "a professional trained in the art of persuasion". As officers of the court, attorneys are "an intimate and trusted and essential part of the machinery of justice". In other words, they are perceived by the public to be in a position of knowledge, and therefore, "a crucial source of information and opinion". This weighty responsibility is reflected in the "ultimate purpose of disciplinary proceedings [which] is to protect the public in its reliance upon the integrity and responsibility of the legal profession". While there are limits on the extent to which a lawyer's right of free speech may be circumscribed, these limits are not implicated by the circumstances of the knowing misconduct that this Court relies upon in granting interim suspension in this case.
 
@@ -37,7 +37,7 @@ Respondent also raises lack or absence of knowledge as a general defense, statin
 
 On this motion, whenever the AGC has sustained its burden of proving that respondent made knowing false and misleading factual statements to support his claim that the presidential election was stolen from his client, respondent must then demonstrate that there is some legitimate dispute about whether the statement is false or whether the statement was made by him without knowledge it was false. Conclusory or vague arguments will not create a controverted issue as to whether there has been misconduct. Consequently, once the AGC has established its prima facie case, respondent's references to affidavits he has not provided, or sources of information he has not disclosed or other nebulous unspecified information, will not prevent the Court from concluding that misconduct has occurred. Respondent cannot create a controverted issue of misconduct based upon what he does not submit to this Court. Nor will offers to provide information at a later time, or only if the Court requests it, suffice.
 
-# Instances of Attorney Misconduct
+#### Instances of Attorney Misconduct
 
 In making this motion, the AGC primarily relies on claims that respondent made false and misleading factual statements to cast doubt on the reliability of the results of the 2020 presidential election, in which Joseph R. Biden was constitutionally certified and then inaugurated as the 46th President of the United States. We find that the following false statements made by respondent constitute uncontroverted proof of respondent's professional misconduct.
 
@@ -45,7 +45,7 @@ Respondent repeatedly stated that in the Commonwealth of Pennsylvania more absen
 
 Respondent does not deny that his factual statement, that only 1.8 million mail-in ballots were requested, was untrue. His defense is that he did not make this misstatement knowingly. Respondent claims that he relied on some unidentified member of his "team" who "inadvertently" took the information from the Pennsylvania website, which had the information mistakenly listed. There is simply no proof to support this explanation. For instance, there is no affidavit from this supposed team member who is not identified by name or otherwise, nor is there any copy of the web page that purportedly listed the allegedly incorrect data. In fact, the only proof in this record is the official data on the Pennsylvania open data portal correctly listing the ballots requested as 3.08 million.
 
-## The above identified misstatements violate Rules of Professional Conduct 4.1 and 8.4(c).
+##### The above identified misstatements violate Rules of Professional Conduct 4.1 and 8.4(c).
 
 On November 17, 2020 respondent appeared as the attorney for plaintiff on a matter captioned _Donald J. Trump for President, Inc. v Boockvar_, in the United States District Court for the Middle District of Pennsylvania. He was admitted pro hac vice based on his New York law license.
 
@@ -53,7 +53,7 @@ Respondent repeatedly represented to the court that his client, the plaintiff, w
 
 The plaintiff's original complaint had included claims about canvassing practices. The plaintiff, however, voluntarily withdrew those claims when it served the amended complaint. Notwithstanding, respondent insisted on extensively arguing a fraud case based on the withdrawn canvassing claims.
 
-Respondent's mischaracterization of the case was not simply a passing mistake or inadvertent reference. Fraud was the crown of his personal argument before the court that day. In his opening remarks, respondent claimed that the allegations in the complaint concerned "widespread, nationwide voter fraud of which this is a part." He persisted in making wide ranging conclusory claims of fraud in Pennsylvania elections and other jurisdictions allegedly occurring over a period of many years. Respondent argued that the plaintiff's fraud arguments pertained to the canvassing claim, notwithstanding that there was neither a fraud nor a canvassing claim before the court. 
+Respondent's mischaracterization of the case was not simply a passing mistake or inadvertent reference. Fraud was the crown of his personal argument before the court that day. In his opening remarks, respondent claimed that the allegations in the complaint concerned "widespread, nationwide voter fraud of which this is a part." He persisted in making wide ranging conclusory claims of fraud in Pennsylvania elections and other jurisdictions allegedly occurring over a period of many years. Respondent argued that the plaintiff's fraud arguments pertained to the canvassing claim, notwithstanding that there was neither a fraud nor a canvassing claim before the court.
 
 After opposing counsel pointed out, and respondent's own co-counsel agreed, that the plaintiff had asserted no claims of fraud the court made the following inquiries and received the following answers from respondent:
 
@@ -79,7 +79,7 @@ Respondent argues that there was no misconduct because he truthfully told the co
 
 The confusion respondent created by falsely insisting that there was a fraud/canvassing claim before the court persisted beyond that court appearance. The parties were given leave to submit briefs. Plaintiff's brief included argument about the canvassers' claim, even though it had been withdrawn. Consequently, the court addressed the claim in its subsequent decision and dismissed it on the merits. In footnote 127 the court stated "Count I makes no mention of the poll-watching allegations, nor does it seek relief for any violation of law on the basis of those allegations. Out of an abundance of caution, however, the Court considers whether these allegations state a claim".
 
-## The above identified misstatements violate RPC 8.4(c). These misstatements violate RPC 3.3 because they were made before a tribunal. These misstatements violate RPC 4.1 because they were made to third parties consisting of over 3,700 members of the press and the public.
+##### The above identified misstatements violate RPC 8.4(c). These misstatements violate RPC 3.3 because they were made before a tribunal. These misstatements violate RPC 4.1 because they were made to third parties consisting of over 3,700 members of the press and the public.
 
 Respondent repeatedly stated that dead people "voted" in Philadelphia in order to discredit the results of the vote in that city. He quantified the amount of dead people who voted at various times as 8,021; while also reporting the number as 30,000.
 
@@ -89,7 +89,7 @@ As for respondent's argument that his misstatements were unknowing, respondent f
 
 Respondent made these false statements at least twice before the AGC brought this motion; first at a November 7, 2020 press conference at Four Seasons Total Landscaping and again during the November 25, 2020 meeting of the Republican State Senate Majority Policy Committee in Gettysburg, Pennsylvania. Despite the unequivocal evidence provided in this very motion, that Mr. Frazier is not on the Pennsylvania voting rolls, respondent continued to endorse this fictionalized account in the March 4, March 11 and March 14, 2021 episodes of his broadcast radio show _Chat with the Mayor_, all of which aired after this motion was brought.
 
-## The above identified misstatements violate RPC 4.1 and RPC 8.4(c).
+##### The above identified misstatements violate RPC 4.1 and RPC 8.4(c).
 
 Respondent repeated to lawmakers and the public at large numerous false and misleading statements regarding the Georgia presidential election results. These statements, as particularized below, were all knowingly made with the object of casting doubt on the accuracy of the vote. Respondent's general claim, without providing this Court with any documentary support, that he relied on "hundreds of pages of affidavits and declarations in [respondent's] possession that document gross irregularities "will not suffice to controvert the specific findings that he knowingly made the false statements that are particularized below.
 
@@ -97,13 +97,13 @@ Respondent made extensive and wide-ranging claims about Dominion Voting Systems 
 
 In view of the hand counts conducted in Georgia, we find that respondent's statements about the results of the Georgia election count are false. Respondent provides no basis in this record for disputing the hand count audit. Respondent made these statements at least on December 3, 2020 when appearing before the Georgia Legislature's Senate Judiciary Committee, during a December 6, 2020 episode of the radio show _Uncovering the Truth_, during a December 22, 2020 episode of his radio show _Chat with the Mayor_, he alluded to it in a December 27, 2020 episode of _Uncovering the Truth_, and then again during a January 5, 2021 episode of the _War Room_ podcast.
 
-## The above identified misstatements violate RPC 4.1 and RPC 8.4(c).
+##### The above identified misstatements violate RPC 4.1 and RPC 8.4(c).
 
 At various times, respondent claimed that 65,000 or 66,000 or 165,00 underage voters illegally voted in the Georgia 2020 election. The Georgia Office of the Secretary of State undertook an investigation of this claim. It compared the list of all of the people who voted in Georgia to their full birthdays. The audit revealed that there were zero (0) underage voters in the 2020 election. While a small number of voters (four) had requested a ballot prior to turning 18, they all turned 18 by the time the election was held in November 2020. Respondent does not expressly deny the truth of this information. Instead respondent claims that he reasonably relied on "expert" affidavits, including one by Bryan Geels, in believing the facts he stated were true. None of these affidavits were provided to the Court. Respondent claims that Mr. Geels opined that there were "more than 65,000 individuals who voted had registered to vote prior to their 17th birthday" (Giuliani affidavit ¶62). At a bare minimum, the statement attributed to Mr. Geels does not support respondent's claim that the number of underage teenage voters was 165,000. But respondent's statement about what was said to him is insufficient as to all of respondent's statements on underage voters for other reasons. We do not have the affidavit that respondent claims Mr. Geels prepared and he relied on. We do not know when the affidavit was provided to respondent. We do not know what data or source information Mr. Geels relied on in reaching his conclusion, nor do we know what methodology Mr. Geels used for his analysis. Other than respondent calling him an "expert," we do not know Mr. Geels' actual area of expertise or what qualifies him as such. Merely providing names and conclusory assertions that respondent had a basis for what he said, does not raise any disputed issue about whether misconduct has occurred.
 
 Respondent made statements regarding underage voters in Georgia on his radio show, _Chat with the Mayor_, at least on January 5, January 7, and January 22, 2021. He then repeated this statement on the April 27th episode of his radio show, after this motion for interim suspension was brought.
 
-## The above identified misstatements violate RPC 4.1 and RPC 8.4(c).
+##### The above identified misstatements violate RPC 4.1 and RPC 8.4(c).
 
 Respondent stated to lawmakers, and the public at large, that more than 2,500 Georgia felons voted illegally. The Georgia Secretary of State also investigated this claim. By comparing lists from the Departments of Corrections and Community Supervision, with the list of people who actually voted in November 2020, the Secretary of State identified a universe of 74 potential felony voters, who were then investigated. Even if all 74 identified persons actually voted illegally, the number is nowhere near the 2,500 that respondent claimed and the number would, in any event, be statically irrelevant in supporting a claim that the election was stolen. Respondent's statements that there were 2,500 voting felons is false.
 
@@ -111,13 +111,13 @@ Respondent claims to have relied on the unproduced affidavit of Mr. Geels for th
 
 On January 5, 2021, during a _War Room_ podcast respondent stated that at least 2,500 felons voted in the Georgia election.
 
-## The above identified misstatements violate RPC 4.1 and RPC 8.4(c).
+##### The above identified misstatements violate RPC 4.1 and RPC 8.4(c).
 
 Respondent stated that dead people voted in Georgia during the 2020 presidential election. He claimed that he had the names of 800 dead people who voted based upon the number of people who had passed away in 2020. Respondent further stated that this number was really in the thousands. At another point he claimed that 6,000 dead people had voted. This claim was refuted by the Georgia Secretary of State. After reviewing public records, the Secretary of State concluded that potentially two votes may have been improperly cast in the name of dead voters in the 2020 election and those instances were being investigated. Respondent's claim of thousands of dead voters is false. So is respondent's claim of 800 dead voters. The two potentially dead voters discovered by the Secretary of State during its investigation is not statistically relevant to affect election results and does not support any narrative of fraud. Respondent does not claim that either of the identified experts he relied upon for information about the Georgia election made any statement to him whatsoever regarding the number of dead people in whose names votes were allegedly cast in the 2020 election and he does not provide any other source for the false numerical information he disseminated.
 
 On December 22, 2020, during a _War Room_ podcast, respondent stated that 6,000 dead people voted. On January 3, 2021, during an episode of _Uncovering the Truth_, respondent stated that 10,515 dead people voted. On January 5, 2021, during a _War Room_ podcast, respondent stated that 800 or more dead people voted in the Georgia election. On the April 7, 2021 episode of his radio show _Chat with the Mayor_, respondent challenged the Georgia Secretary of State's finding that only potentially two votes were cast in the name of dead voters, despite having no evidence to refute the facts developed after investigation of public records. The April 7th false statement was made after this motion for interim suspension was brought.
 
-## The above identified misstatements violate RPC 4.1 and RPC 8.4(c).
+##### The above identified misstatements violate RPC 4.1 and RPC 8.4(c).
 
 Respondent represented that video evidence from security cameras depicted Georgia election officials engaging in the illegal counting of mail-in ballots. Although respondent acknowledged that he had viewed the surveillance videos in their entirety, the version of the videos shown to the public was comprised only of snippets. The gist of his claim was that illegal ballots were being surreptitiously retrieved from suitcases hidden under a table and then tabulated. In fact, the entirety of the videos shows the "disputed" ballots were among those in a room filled with people, including election monitors, until about 10:00 pm. At about 10:00 p.m., the boxes---not suitcases---containing the ballots were placed under a table in preparation for the poll watchers to leave for the evening. Those boxes were reopened and their contents retrieved and scanned when the state official monitor intervened, instructing the workers that they should remain to tabulate the votes until 10:30 p.m. that evening. When viewed in full context and not as snippets, the videos do not show secreting and counting of illegal ballots. Based upon the claim, however, the Georgia Secretary of State conducted an investigation. The video tapes were viewed in their entirety by the Secretary's office, law enforcement, and fact checkers who, according to Secretary of State Brad Raffensperger, all concluded that there was no improper activity.
 
@@ -125,7 +125,7 @@ Respondent's argument with respect to the video is that a reasonable observer co
 
 Respondent showed the snippets of video and/or made false statements regarding its content on at least the following occasions: the podcast _Rudy Giuliani's Common Sense_ on December 4, 2020, the radio show _Uncovering the Truth_ on December 6, 2020 and then again on the same radio show on December 27, 2020 and January 3, 2021; on December 3, 2020 at a hearing before the Georgia State Legislature; and yet again on December 8, 2020 and December 10, 2020 on respondent's _Chat with the Mayor_ radio program, and on December 19, 2020, and January 5, 2021 as a guest on the _War Room_ podcast.
 
-## The above identified misstatements violate RPC 4.1 and RPC 8.4(c).
+##### The above identified misstatements violate RPC 4.1 and RPC 8.4(c).
 
 Respondent made false and misleading statements that "illegal aliens" had voted in Arizona during the 2020 presidential election. These false facts were made by respondent to perpetuate his overall narrative that the election had been stolen from his client.
 
@@ -135,13 +135,13 @@ On their face, these numerical claims are so wildly divergent and irreconcilable
 
 Respondent argues that he reasonably relied on Arizona State Senator Kelly Townsend, who respondent claims collected information on noncitizen voters. Respondent does not tell us what Senator Townsend actually said to him or when she said it. We do not have an affidavit or any statement from Senator Townsend. We simply have none of the information Senator Townsend is claimed to have collected. Saying that Senator Townsend collected information does not explain any of respondent's numbers, let alone why they are wildly divergent. Respondent's claim, that he also relied on "other witnesses" who testified that thousands of individuals voted despite any proof of citizenship, lacks detail and is not specific enough to be considered by this Court as probative. Not one of those witnesses is identified, none of their testimony is provided, nor has respondent provided an affidavit from any of them. Respondent cannot rely on this "evidence" to controvert that he knowingly made false statements to the public about the number of "illegal aliens" or "illegal immigrants" voting in the Arizona 2020 presidential election.
 
-## The above identified misstatements violate RPC 4.1 and RPC 8.4(c).
+##### The above identified misstatements violate RPC 4.1 and RPC 8.4(c).
 
-## We find that all of these acts of misconduct, when considered separately or taken together, also establish that respondent violated RPC 8.4(h) because his conduct adversely reflects on his fitness as a lawyer.
+##### We find that all of these acts of misconduct, when considered separately or taken together, also establish that respondent violated RPC 8.4(h) because his conduct adversely reflects on his fitness as a lawyer.
 
 We recognize that the AGC has identified other instances of respondent's misconduct. We make no substantive decision on those additional claims at this time because the record is insufficiently developed on those claims in this motion for interim relief. The additional claims may be part of any formal charges that the AGC will interpose in the full disciplinary proceeding that will follow this interim suspension. We find, nonetheless, that the incidents we have identified in this decision satisfy the requirement of uncontroverted misconduct required for an interim suspension.
 
-# Immediate Threat to the Public Interest
+#### Immediate Threat to the Public Interest
 
 Uncontroverted claims of misconduct alone will not provide a basis for interim suspension, unless there is a concomitant showing of an immediate threat to the public interest. We recognize that this case presents unique circumstances. Nonetheless, there are certain factors we generally consider in connection with whether an immediate threat of harm to the public has been established.
 

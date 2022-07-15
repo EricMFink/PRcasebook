@@ -1,11 +1,12 @@
 ---
 
- 
+
 title: 'Marker v. Greenberg'
 cite: '313 N.W.2d 4 (Minn. 1981)'
-judge: 'Scott, Justice'
-    
+
 ---
+
+### Scott, Justice
 
 This is an appeal from an order of the Hennepin County District Court in a legal malpractice action brought by the surviving joint tenant against the attorney who drafted the deed. By that order the trial court granted respondent Robert Greenberg's motion for summary judgment on the grounds that plaintiff could not bring the action absent an attorney-client relationship and that the six-year statute of limitations barred the action since the statutory period began to run in 1973 when the alleged negligence occurred. We affirm.
 

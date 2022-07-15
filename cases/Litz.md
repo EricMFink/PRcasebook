@@ -1,11 +1,12 @@
 ---
 
- 
+
 title: 'In re Litz'
 cite: '721 N.E.2d 258 (Ind. 1999)'
-judge: 'Per Curiam'
-    
+
 ---
+
+### Per Curiam 
 
 The respondent, Steven C. Litz, defended a woman accused of neglect of a dependent. While a retrial of that case proceeded, the respondent caused to be published in several newspapers a letter which stated his client had committed no crime, criticized the prosecutor's decision to retry the case, and mentioned that his client had passed a lie detector test. For that, we find today that the respondent violated Ind. Professional Conduct Rule 3.6(a), which forbids attorneys from making extrajudicial statements which they know or reasonably should have known a substantial likelihood of materially prejudicing an adjudicative proceeding.
 

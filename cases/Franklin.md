@@ -1,17 +1,17 @@
 ---
 
- 
 title: 'U.S. v. Franklin'
 cite: '598 F. 2d 954 (5th Cir. 1979)'
-judge: 'Per Curiam'
-    
+
 ---
+
+### Per Curiam
 
 Appealing his false loan application and obstruction of justice convictions, defendant contends that the indictment should have been dismissed because it was based on information obtained by the Government from his attorney. Concluding that the facts of this case do not support the relief requested, we affirm.
 
 Defendant was charged with assisting in the submission of a materially false statement to a federally insured bank to obtain financing for a gun smuggling operation and with obstructing justice by preventing an investigation into these financial arrangements.
 
-# Dismissal of the Indictment
+#### Dismissal of the Indictment
 
 Prior to trial, defendant moved to dismiss the indictment on the ground that the Government had improperly obtained information from his attorney, Robert Senor. Senor had contacted Government agents for the purpose of arranging leniency for the defendant on a marijuana charge. Without detailing the evidence in relation to these contacts and the information revealed to the Government by Senor, it appears from the record that defendant cannot prevail under any theory presented.
 

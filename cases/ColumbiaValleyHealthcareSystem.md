@@ -77,6 +77,6 @@ Finally, Magallanes asked Rodriguez to make copies for the Leal case on one occa
 
 Magallanes & Hinojosa also contends that the confidentiality agreement Rodriguez signed on leaving Brin & Brin satisfies the additional reasonable measures needed to ensure confidentiality. We disagree. As we made clear in _Phoenix Founders_, it is incumbent on the hiring attorney to "take other reasonable steps to ensure that the [employee] does not work in connection with matters on which the [employee] worked during the prior employment, absent client consent." Because the confidentiality agreement was not a step taken by the hiring attorney, it is not relevant to the disqualification analysis. We refuse to shift the screening responsibility to the former client or its counsel. Instead, it is the responsibility of the hiring firm to take effective, formal, institutional measures to shield the employee from the litigation.
 
-#### \* \* \*
+#### * * *
 
 Because the trial court abused its discretion in refusing to disqualify Magallanes & Hinojosa, we conditionally grant mandamus relief and direct the trial court to grant Valley Regional's motion to disqualify and recuse Magallanes & Hinojosa from the Leal matter. We are confident the court will comply, and the writ will issue only if it does not.

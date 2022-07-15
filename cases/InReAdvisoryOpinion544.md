@@ -1,11 +1,12 @@
 ---
 
- 
+
 title: 'In re Advisory Opinion No. 544 of NJ Sup. Court'
 cite: '511 A. 2d 609 (N.J. 1986)'
-judge: 'Handler, J.'
-    
+
 ---
+
+### Handler, J.
 
 We are called to consider in this case the application of attorney-client protections to the relationship between a public legal services organization and the individuals whom it assists. The issue posed is whether certain information relating to the clients of a legal services organization, which provides legal assistance to mentally impaired or disabled and indigent persons, may be disclosed to the private and governmental entities that provide funds to the organization, without violating the protections of confidentiality accorded attorney-client communications and relationships.
 
@@ -57,7 +58,7 @@ This result, we point out, would not be different under the former ethics rules.
 
 We acknowledge that if by statute or valid rule or regulation information concerning the identity of clients of a legal services organization were clearly required to be reported for legitimate governmental purposes, the analysis and result could well be different. A different conclusion as to the propriety of disclosure might also obtain in the event private funding sources sought client information under enforceable rules or regulations. It can reasonably be assumed that in such a context, the welfare and interests of clients would remain a paramount concern and that the disclosure occasioned by such necessary reporting would be attended by suitable protections reflecting needs for confidentiality and privacy.
 
-# II.
+#### II.
 
 We conclude that client-identifying data with respect to persons receiving legal assistance through the Law Project constitute matters clearly covered by the Rules of Professional Conduct as "information relating to representation." Such material is also covered under the attorney-client privilege and the former Disciplinary Rule as information in the nature of client secrets that could be embarrassing or detrimental to the client if revealed. Under these strictures we are satisfied that it would be improper to reveal such information to either public or private funding sources in the absence of valid consent or reasonable rules clearly requiring such disclosure for legitimate purposes.
 

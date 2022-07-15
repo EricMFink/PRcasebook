@@ -1,15 +1,16 @@
 ---
- 
+
 
 title: 'Hunter v. Virginia State Bar'
 cite: '744 S.E.2d 611 (Va. 2013)'
-judge: 'Opinion by Justice Cleo E. Powell'
 
 ---
 
+### Opinion by Justice Cleo E. Powell
+
 In this appeal of right by an attorney from a Virginia State Bar ("VSB") disciplinary proceeding, we consider whether an attorney's blog posts are commercial speech, whether an attorney may discuss public information related to a client without the client's consent, and whether the panel ordered the attorney to post a disclaimer that is insufficient under Rule 7.2(a)(3) of the Virginia Rules of Professional Conduct.
 
-# I. Facts and Proceedings
+#### I. Facts and Proceedings
 
 Horace Frazier Hunter, an attorney with the law firm of Hunter & Lipton, PC, authors a trademarked blog titled "This Week in Richmond Criminal Defense," which is accessible from his law firm's website, www.hunterlipton.com. This blog, which is not interactive, contains posts discussing a myriad of legal issues and cases, although the overwhelming majority are posts about cases in which Hunter obtained favorable results for his clients. Nowhere in these posts or on his website did Hunter include disclaimers.
 
@@ -29,9 +30,9 @@ Following the hearing, the VSB held that Hunter violated Rule 1.6 by "disseminat
 
 Hunter appealed to a three judge panel of the circuit court and the court heard argument. The court disagreed with Hunter that _de novo_ was the proper standard of review and instead applied the following standard: "whether the decision is contrary to the law or whether there is substantial evidence in the record upon which the district committee could reasonably have found as it did." The court further ruled that the VSB's interpretation of Rule 1.6 violated the First Amendment and dismissed that charge. The court held VSB's interpretation of Rules 7.1 and 7.2 do not violate the First Amendment and that the record contained substantial evidence to support the VSB's determination that Hunter had violated those rules. The court imposed a public admonition and required Hunter to post the following disclaimer: "Case results depend upon a variety of factors unique to each case. Case results do not guarantee or predict a similar result in any future case." This appeal followed.
 
-# II. Analysis
+#### II. Analysis
 
-## A. Whether "[t]he Ruling of the Circuit Court finding a violation of Rules 7.1(a)(4) and 7.2(a)(3) conflicts with the First Amendment to the Constitution of the United States."
+##### A. Whether "[t]he Ruling of the Circuit Court finding a violation of Rules 7.1(a)(4) and 7.2(a)(3) conflicts with the First Amendment to the Constitution of the United States."
 
 Rule 7.1(a)(4), which is the specific portion of the Rule that the VSB argued that Hunter violated, states:
 
@@ -55,19 +56,19 @@ In response to these allegations, Hunter contends that speech concerning the jud
 
 The VSB responds that Hunter's blog posts are inherently misleading commercial speech.
 
-"Whether the inherent character of a statement places it beyond the protection of the First Amendment is a question of law over which ... this Court ... exercise[s] de novo review." An appellate Court must independently examine the entire record in First Amendment cases to ensure that "'a forbidden intrusion on the field of free expression'" has not occurred. 
+"Whether the inherent character of a statement places it beyond the protection of the First Amendment is a question of law over which ... this Court ... exercise[s] de novo review." An appellate Court must independently examine the entire record in First Amendment cases to ensure that "'a forbidden intrusion on the field of free expression'" has not occurred.
 
 Turning to Hunter's argument that his blog posts are political, rather than commercial, speech, we note that "[t]he existence of 'commercial activity, in itself, is no justification for narrowing the protection of expression secured by the First Amendment.'" However, when speech that is both commercial and political is combined, the resulting speech is not automatically entitled to the level of protections afforded political speech.
 
-While it is settled that attorney advertising is commercial speech, _Bates_ and its progeny were decided in the era of traditional media. In recent years, however, advertising has taken to new forms such as websites, blogs, and other social media forums, like Facebook and Twitter. 
+While it is settled that attorney advertising is commercial speech, _Bates_ and its progeny were decided in the era of traditional media. In recent years, however, advertising has taken to new forms such as websites, blogs, and other social media forums, like Facebook and Twitter.
 
 Thus, we must examine Hunter's speech to determine whether it is commercial speech, specifically, lawyer advertising.
 
 > Advertising, like all public expression, may be subject to reasonable regulation that serves a legitimate public interest. To the extent that commercial activity is subject to regulation, the relationship of speech to that activity may be one factor, among others, to be considered in weighing the First Amendment interest against the governmental interest alleged. Advertising is not thereby stripped of all First Amendment protection. The relationship of speech to the marketplace of products or of services does not make it valueless in the marketplace of ideas.
 
-Simply because the speech is an advertisement, references a specific product, or is economically motivated does not necessarily mean that it is commercial speech. "The combination of _all_ these characteristics, however, provides strong support for the ... conclusion that [some blog posts] are properly characterized as commercial speech" even though they also discuss issues important to the public. 
+Simply because the speech is an advertisement, references a specific product, or is economically motivated does not necessarily mean that it is commercial speech. "The combination of _all_ these characteristics, however, provides strong support for the ... conclusion that [some blog posts] are properly characterized as commercial speech" even though they also discuss issues important to the public.
 
-Certainly, not all advertising is necessarily commercial, e.g., public service announcements.However, all commercial speech is necessarily advertising. Indeed, the Supreme Court of the United States has said that "[t]he diverse motives, means, and messages of advertising may make speech 'commercial' in widely varying degrees." 
+Certainly, not all advertising is necessarily commercial, e.g., public service announcements.However, all commercial speech is necessarily advertising. Indeed, the Supreme Court of the United States has said that "[t]he diverse motives, means, and messages of advertising may make speech 'commercial' in widely varying degrees."
 
 Here, Hunter's blog posts, while containing some political commentary, are commercial speech. Hunter has admitted that his motivation for the blog is at least in part economic. The posts are an advertisement in that they predominately describe cases where he has received a favorable result for his client. He unquestionably references a specific product, i.e., his lawyering skills as twenty-two of his twenty-five case related posts describe cases that he has successfully handled. Indeed, in nineteen of these posts, he specifically named his law firm in addition to naming himself as counsel.
 
@@ -99,11 +100,11 @@ Finally, we must determine whether the VSB's regulations are no more restrictive
 
 > shall precede the communication of the case results. When the communication is in writing, the disclaimer shall be in bold type face and uppercase letters in a font size that is at least as large as the largest text used to advertise the specific or cumulative case results and in the same color and against the same colored background as the text used to advertise the specific or cumulative case results.
 
-Rule 7.2(a)(3). This requirement ensures that the disclaimer is noticeable and would be connected to each post so that any member of the public who may use the website addresses to directly access Hunter's posts would be in a position to see the disclaimer. Therefore, we hold that the disclaimers required by the VSB are "not more extensive than is necessary to serve that interest." 
+Rule 7.2(a)(3). This requirement ensures that the disclaimer is noticeable and would be connected to each post so that any member of the public who may use the website addresses to directly access Hunter's posts would be in a position to see the disclaimer. Therefore, we hold that the disclaimers required by the VSB are "not more extensive than is necessary to serve that interest."
 
 Hunter's blog posts discuss lawful activity and are not inherently misleading, but the VSB has asserted a substantial governmental interest to protect the public from potentially misleading lawyer advertising. These regulations directly advance this interest and are not more restrictive than necessary, unlike outright bans on advertising. We thus conclude that the VSB's Rules 7.1 and 7.2 do not violate the First Amendment. As applied to Hunter's blog posts, they are constitutional and the panel did not err.
 
-## B. Whether the circuit court erred in holding that the VSB's application of Rule 1.6 to Hunter's blog violated his First Amendment rights.
+##### B. Whether the circuit court erred in holding that the VSB's application of Rule 1.6 to Hunter's blog violated his First Amendment rights.
 
 Rule 1.6(a) states, that with limited exceptions,
 
@@ -121,11 +122,11 @@ All of Hunter's blog posts involved cases that had been concluded. Moreover, the
 
 > balance "whether the 'practice in question [furthers] an important or substantial governmental interest unrelated to the suppression of expression' and whether 'the limitation of First Amendment freedoms is no greater than is necessary or essential to the protection of the particular governmental interest involved,'"
 
-State action that punishes the publication of truthful information can rarely survive constitutional scrutiny. 
+State action that punishes the publication of truthful information can rarely survive constitutional scrutiny.
 
 The VSB argues that it can prohibit an attorney from repeating truthful information made in a public judicial proceeding even though others can disseminate this information because an attorney repeating it could inhibit clients from freely communicating with their attorneys or because it would undermine public confidence in the legal profession. Such concerns, however, are unsupported by the evidence. To the extent that the information is aired in a public forum, privacy considerations must yield to First Amendment protections. In that respect, a lawyer is no more prohibited than any other citizen from reporting what transpired in the courtroom. Thus, the circuit court did not err in concluding that the VSB's interpretation of Rule 1.6 violated the First Amendment.
 
-## C. Whether the circuit court erred in requiring Hunter to post a disclaimer on his website that does not comply with the requirements of Rule 7.2(3) and therefore does not eliminate the misleading nature of his blog posts.
+##### C. Whether the circuit court erred in requiring Hunter to post a disclaimer on his website that does not comply with the requirements of Rule 7.2(3) and therefore does not eliminate the misleading nature of his blog posts.
 
 The VSB argues that the single disclaimer that the circuit court ordered Hunter to post on his blog was insufficient to comport with Rule 7.2(a)(3) because it did not eliminate the misleading nature of the posts.
 
@@ -137,17 +138,17 @@ Rule 7.2(a)(3).
 
 Here, the VSB required Hunter to post a disclaimer that complies with Rule 7.2(a)(3) on _all_ case-related posts. This means that Hunter's disclaimers "shall be in bold type face and uppercase letters in a font size that is at least as large as the largest text used to advertise the specific or cumulative case results and in the same color and against the same colored background as the text used to advertise the specific or cumulative case results." Rule 7.2(a)(3). The circuit court, however, imposed the following disclaimer to be posted once: "Case results depend upon a variety of factors unique to each case. Case results do not guarantee or predict a similar result in any future case."
 
-While the substantive meaning of the imposed disclaimer may conform to the requirements stated in Rule 7.2(a)(3)(i) through (iii), it nevertheless is less than what the rule requires. In contrast to the committee's determination, there is no provision in the circuit court's order requiring that the disclaimer be formatted and presented in the manner required by Rule 7.2(a)(3), and the text of the disclaimer prescribed by the circuit court is not itself formatted and presented in that manner. Even so, Hunter does not argue that the disclaimer required by the circuit court is an appropriate, less restrictive means of regulating his speech and, therefore, we decline to so hold. Based on the arguments presented to it, the circuit court erred by imposing a disclaimer that conflicted with the rule. 
+While the substantive meaning of the imposed disclaimer may conform to the requirements stated in Rule 7.2(a)(3)(i) through (iii), it nevertheless is less than what the rule requires. In contrast to the committee's determination, there is no provision in the circuit court's order requiring that the disclaimer be formatted and presented in the manner required by Rule 7.2(a)(3), and the text of the disclaimer prescribed by the circuit court is not itself formatted and presented in that manner. Even so, Hunter does not argue that the disclaimer required by the circuit court is an appropriate, less restrictive means of regulating his speech and, therefore, we decline to so hold. Based on the arguments presented to it, the circuit court erred by imposing a disclaimer that conflicted with the rule.
 
-# III. Conclusion
+#### III. Conclusion
 
 For the foregoing reasons, we hold that Hunter's blog posts are potentially misleading commercial speech that the VSB may regulate. We further hold that circuit court did not err in determining that the VSB's interpretation of Rule 1.6 violated the First Amendment. Finally, we hold that because the circuit court erred in imposing one disclaimer did not fully comply with Rule 7.2(a)(3), we reverse and remand for imposition of disclaimers that fully comply with that Rule.
 
 _Affirmed in part, reversed in part, and remanded_.
 
---- 
+---
 
-# Justice LEMONS, with whom Justice McCLANAHAN joins, dissenting in part.
+#### Justice LEMONS, with whom Justice McCLANAHAN joins, dissenting in part.
 
 I agree with the majority's resolution of the Rule 1.6 issue. However, I dissent from the majority's determination that Hunter is guilty of violating Rules 7.1(a)(4) and 7.2(a)(3) and that Hunter must post a disclaimer that complies with Rule 7.2(a)(3).
 
@@ -169,7 +170,7 @@ Rule 7.2 is only applicable to advertisements. Rule 7.2(a)(3) states:
 
 Hunter's blog contains articles about legal and policy issues in the news, as well as detailed descriptions of criminal trials, the majority of which are cases where Hunter was the defense attorney. The articles also contain Hunter's commentary and critique of the criminal justice system. He uses the case descriptions to illustrate his views.
 
-## The First Amendment
+##### The First Amendment
 
 I believe that the articles on Hunter's blog are political speech that is protected by the First Amendment. The Bar concedes that if Hunter's blog is political speech, the First Amendment protects him and the Bar cannot force Hunter to post an advertising disclaimer on his blog.
 
@@ -189,7 +190,7 @@ The traditional test for determining whether speech is commercial is if the spee
 
 The United States Supreme Court has held that commercial speech is "expression related _solely_ to the economic interests of the speaker and its audience." Marketing is not Hunter's sole motivation for maintaining this blog. As discussed above, one of Hunter's motivations in maintaining the blog is to disseminate information about "the criminal justice system, the criminal trials and the manner in which the government prosecutes its citizens."
 
-Even if marketing was Hunter's sole motivation, economic motivation cannot be the basis for determining whether otherwise political speech is protected. The United States Supreme Court recognized in _Pittsburgh Press Co_. that merely having some economic motivation does not create a basis for regulation. "If a newspaper's profit motive were determinative, all aspects of its operations---from the selection of news stories to the choice of editorial position---would be subject to regulation if it could be established that they were conducted with a view toward increased sales. Such a basis for regulation clearly would be incompatible with the First Amendment." 
+Even if marketing was Hunter's sole motivation, economic motivation cannot be the basis for determining whether otherwise political speech is protected. The United States Supreme Court recognized in _Pittsburgh Press Co_. that merely having some economic motivation does not create a basis for regulation. "If a newspaper's profit motive were determinative, all aspects of its operations---from the selection of news stories to the choice of editorial position---would be subject to regulation if it could be established that they were conducted with a view toward increased sales. Such a basis for regulation clearly would be incompatible with the First Amendment."
 
 The mere existence of some commercial motivation does not change otherwise political speech into commercial speech. "[S]peech does not lose its First Amendment protection because money is spent to project it, as in a paid advertisement of one form or another." In discussing the economic motivations at issue in _Sorrell v. IMS Health, Inc._, the United States Supreme Court recognized that "[w]hile the burdened speech results from an economic motive, so too does a great deal of vital expression."
 

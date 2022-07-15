@@ -1,3 +1,10 @@
+---
+
+title: In re Glass
+cite: '58 Cal.4th 500 (2014)'
+
+---
+
 Stephen Randall Glass made himself infamous as a dishonest journalist by fabricating material for more than 40 articles for The New Republic magazine and other publications. He also carefully fabricated supporting materials to delude The New Republic's fact checkers. The articles appeared between June 1996 and May 1998, and included falsehoods that reflected negatively on individuals, political groups, and ethnic minorities. During the same period, starting in September 1997, he was also an evening law student at Georgetown University's law school. Glass made every effort to avoid detection once suspicions were aroused, lobbied strenuously to keep his job at The New Republic, and, in the aftermath of his exposure, did not fully cooperate with the publications to identify his fabrications.
 
 Glass applied to become a member of the New York bar in 2002, but withdrew his application after he was informally notified in 2004 that his moral character application would be rejected. In the New York bar application materials, he exaggerated his cooperation with the journals that had published his work and failed to supply a complete list of the fabricated articles that had injured others.

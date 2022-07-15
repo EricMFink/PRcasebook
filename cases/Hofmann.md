@@ -1,11 +1,12 @@
 ---
 
- 
+
 title: 'Hoffman v. Conder'
 cite: '712 P. 2d 216 (Utah 1985)'
-judge: 'Per Curiam'
-    
+
 ---
+
+### Per Curiam 
 
 This matter comes before the Court in an extraordinary proceeding to prohibit the district court from compelling petitioner's hospital nurse to testify about statements she overheard petitioner make to his attorney. The trial court made no findings of fact, although it prepared a memorandum decision. It appears from that decision that the controlling issue on which the trial court decided the matter was a legal one, namely, the standard determining when the presence of a third party during communications between a lawyer and client results in a waiver of the attorney-client privilege. We hold that the trial court erred in deciding that the attorney-client privilege applies only if the presence of a third person, who overhears a confidential communication, is "necessary for urgent or life-saving procedures." The proper standard is whether the third person's presence is reasonably necessary under the circumstances.
 
@@ -13,7 +14,7 @@ The record establishes that the presence of petitioner's hospital nurse was reas
 
 The order of the trial court is vacated, and this matter is remanded for the entry of a protective order preventing the disclosure by the witness of confidential communications overheard by her.
 
---- 
+---
 
 ZIMMERMAN, Justice (dissenting).
 

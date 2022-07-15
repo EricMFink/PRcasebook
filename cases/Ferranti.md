@@ -1,13 +1,14 @@
 ---
 
- 
+
 title: 'Ferranti International PLC v. Clark'
 cite: '767 F.Supp. 670 (E.D. Pa. 1991)'
-judge: 'Ludwig, District Judge'
-    
+
 ---
 
-# MEMORANDUM
+### Ludwig, District Judge
+
+#### MEMORANDUM
 
 Plaintiff sues for breach of fiduciary duty and professional malpractice and to rescind a $2.75 million employee "settlement and release" agreement, which the complaint alleges was obtained by extortion. Defendant William A. Clark's motion to disqualify the firm of Hogan & Hartson from representing plaintiff Ferranti International plc in this action will be denied for the following reasons:
 
@@ -27,6 +28,6 @@ Plaintiff sues for breach of fiduciary duty and professional malpractice and to 
 
 This is not a case in which a layperson might have perceived or reasonably misperceived that his corporate employer's attorney was also representing him. As a general counsel, defendant must have keenly appreciated the distinction between the corporation and its employees as well as the employees' need for separate counsel. Defendant's assertion that the personal comments and observations exchanged between him and Hogan & Hartson attorneys were in contemplation of, or resulted in, a personal attorney-client relationship is factitious and unconvincing.
 
-8\. Although it became a Hogan & Hartson client through defendant, plaintiff has a cognizable interest in being permitted to continue to be represented by this firm. Moreover, disqualification—which is an increasingly frequent issue in the courts— may be the subject of tactical abuse. A party's choice of counsel should be set aside only where the circumstances legally require doing so. 
+8\. Although it became a Hogan & Hartson client through defendant, plaintiff has a cognizable interest in being permitted to continue to be represented by this firm. Moreover, disqualification—which is an increasingly frequent issue in the courts— may be the subject of tactical abuse. A party's choice of counsel should be set aside only where the circumstances legally require doing so.
 
 Under the Rules of Professional Conduct and the cases, there is no legal basis on which to disqualify Hogan & Hartson. An evidentiary hearing is unnecessary.

@@ -1,18 +1,19 @@
 ---
 
- 
+
 title: 'Florida Bar v. Pape'
 cite: '918 So.2d 240 (Fla. 2005)'
-judge: Pariente, C.J.
-    
+
 ---
+
+### Pariente, C.J.
 
 
 In this case we impose discipline on two attorneys for their use of television advertising devices that violate the Rules of Professional Conduct. These devices, which invoke the breed of dog known as the pit bull, demean all lawyers and thereby harm both the legal profession and the public's trust and confidence in our system of justice.
 
 We conclude that attorneys Pape and Chandler violated the Rules Regulating the Florida Bar by using the image of a pit bull and displaying the term "pit bull" as part of their firm's phone number in their commercial. Further, because the use of an image of a pit bull and the phrase "pit bull" in the firm's advertisement and logo does not assist the public in ensuring that an informed decision is made prior to the selection of the attorney, we conclude that the First Amendment does not prevent this Court from sanctioning the attorneys based on the rule violations. We determine that the appropriate sanctions for the attorneys' misconduct are public reprimands and required attendance at the Florida Bar Advertising Workshop.
 
-# Background and Procedural History
+#### Background and Procedural History
 
 On January 12, 2004, The Florida Bar filed complaints against the attorneys, alleging that their law firm's television advertisement was an improper communication concerning the services provided, in violation of the Rules of Professional Conduct. The advertisement included a logo that featured an image of a pit bull wearing a spiked collar and prominently displayed the firm's phone number, 1-800-PIT-BULL. The Bar asserted that this advertisement violated the 2004 version of Rules Regulating the Florida Bar 4-7.2(b)(3) and 4-7.2(b)(4), which state:
 
@@ -24,9 +25,9 @@ The referee found that the attorneys did not violate rule 4-7.2(b)(3), relying o
 
 The referee also concluded that the ad was protected speech and therefore that an interpretation of rules to prohibit the ad would render the rules unconstitutional as applied.
 
-# Analysis 
+#### Analysis
 
-## A. Violation of Attorney Advertising Rules
+##### A. Violation of Attorney Advertising Rules
 
 As a preliminary matter, the pit bull logo and 1-800-PIT-BULL telephone number in the ad by the attorneys do not comport with the general criteria for permissible attorney advertisements set forth in the comments to section 4-7 of the Rules of Professional Conduct. The rules contained in section 4-7 are designed to permit lawyer advertisements that provide objective information about the cost of legal services, the experience and qualifications of the lawyer and law firm, and the types of cases the lawyer handles. The comment to rule 4-7.1 provides that "a lawyer's advertisement should provide only useful, factual information presented in a nonsensational manner. Advertisements using slogans fail to meet these standards and diminish public confidence in the legal system." The television commercial at issue here uses both a sensationalistic image and a slogan, contrary to the purpose of section 4-7.
 
@@ -52,7 +53,7 @@ Further, we reject the referee's finding that the use of the words "pit bull" in
 
 Indeed, permitting this type of advertisement would make a mockery of our dedication to promoting public trust and confidence in our system of justice. Prohibiting advertisements such as the one in this case is one step we can take to maintain the dignity of lawyers, as well as the integrity of, and public confidence in, the legal system. Were we to approve the referee's finding, images of sharks, wolves, crocodiles, and piranhas could follow. For the good of the legal profession and the justice system, and consistent with our Rules of Professional Conduct, this type of non-factual advertising cannot be permitted. We therefore conclude that the 1-800-PIT-BULL ad aired by the attorneys violates rules 4-7.2(b)(3) and 4-7.2(b)(4).
 
-## B. First Amendment Protection of Lawyer Advertising
+##### B. First Amendment Protection of Lawyer Advertising
 
 We also disagree with the referee's conclusion that the application of rules 4-7.2(b)(3) and 4-7.2(b)(4) to prohibit this advertisement violates the First Amendment. Lawyer advertising enjoys First Amendment protection only to the extent that it provides accurate factual information that can be objectively verified. This thread runs throughout the pertinent United State Supreme Court precedent.
 
@@ -74,6 +75,6 @@ The most recent United States Supreme Court decision to address restrictions on 
 
 The pit bull logo and "1-800-PIT-BULL" phone number are in marked contrast to the illustration of the Dalkon Shield intrauterine device at issue in _Zauderer_, which the United States Supreme Court found to be "an accurate representation and have no features that are likely to deceive, mislead, or confuse the reader." The Dalkon Shield illustration informed the public that the lawyer represented clients in cases involving this device. The "pit bull" commercial produced by the attorneys in this case contains no indication that they specialize in either dog bite cases generally or in litigation arising from attacks by pit bulls specifically. Consequently, the logo and phone number do not convey objectively relevant information about the attorneys' practice. Instead, the image and words "pit bull" are intended to convey an image about the nature of the lawyers' litigation tactics. We conclude that an advertising device that connotes combativeness and viciousness without providing accurate and objectively verifiable factual information falls outside the protections of the First Amendment.
 
-# Conclusion
+#### Conclusion
 
 We disapprove the referee's finding that the television commercial at issue is constitutionally protected speech that does not violate our attorney advertising rules. We find John Robert Pape and Marc Andrew Chandler guilty of violating the Rules Regulating the Florida Bar. We order that each attorney receive a public reprimand, which shall be administered by the Board of Governors of The Florida Bar upon proper notice to appear. We also direct Pape and Chandler to attend and complete the Florida Bar Advertising Workshop within six months of the date of this opinion.

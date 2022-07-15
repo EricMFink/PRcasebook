@@ -1,11 +1,12 @@
 ---
 
- 
+
 title: "Nix v. Whiteside"
 cite: "475 U.S. 157 (1986)"
-judge: "CHIEF JUSTICE BURGER delivered the opinion of the Court."
-    
+
 ---
+
+### CHIEF JUSTICE BURGER delivered the opinion of the Court.
 
 
 We granted certiorari to decide whether the Sixth Amendment right of a criminal defendant to assistance of counsel is violated when an attorney refuses to cooperate with the defendant in presenting perjured testimony at his trial.
@@ -34,13 +35,13 @@ Whiteside then petitioned for a writ of habeas corpus in the United States Distr
 
 The United States Court of Appeals for the Eighth Circuit reversed and directed that the writ of habeas corpus be granted. The Court of Appeals accepted the findings of the trial judge, affirmed by the Iowa Supreme Court, that trial counsel believed with good cause that Whiteside would testify falsely and acknowledged that under _Harris v. New York_, a criminal defendant's privilege to testify in his own behalf does not include a right to commit perjury. Nevertheless, the court reasoned that an intent to commit perjury, communicated to counsel, does not alter a defendant's right to effective assistance of counsel and that Robinson's admonition to Whiteside that he would inform the court of Whiteside's perjury constituted a threat to violate the attorney's duty to preserve client confidences. According to the Court of Appeals, this threatened violation of client confidences breached the standards of effective representation set down in _Strickland v. Washington_. The court also concluded that _Strickland_'s prejudice requirement was satisfied by an implication of prejudice from the conflict between Robinson's duty of loyalty to his client and his ethical duties. A petition for rehearing en banc was denied. We granted certiorari and we reverse.
 
-# A
+#### A
 
 The right of an accused to testify in his defense is of relatively recent origin. Until the latter part of the preceding century, criminal defendants in this country, as at common law, were considered to be disqualified from giving sworn testimony at their own trial by reason of their interest as a party to the case. Iowa was among the states that adhered to this rule of disqualification.
 
 By the end of the 19th century, however, the disqualification was finally abolished by statute in most states and in the federal courts. Although this Court has never explicitly held that a criminal defendant has a due process right to testify in his own behalf, cases in several Circuits have so held, and the right has long been assumed. We have also suggested that such a right exists as a corollary to the Fifth Amendment privilege against compelled testimony.
 
-# B
+#### B
 
 We turn next to the question presented: the definition of the range of "reasonable professional" responses to a criminal defendant client who informs counsel that he will perjure himself on the stand. We must determine whether, in this setting, Robinson's conduct fell within the wide range of professional responses to threatened client perjury acceptable under the Sixth Amendment.
 
@@ -94,13 +95,13 @@ On this record, the accused enjoyed continued representation within the bounds o
 
 The rule adopted by the Court of Appeals, which seemingly would require an attorney to remain silent while his client committed perjury, is wholly incompatible with the established standards of ethical conduct and the laws of Iowa and contrary to professional standards promulgated by that State. The position advocated by petitioner, on the contrary, is wholly consistent with the Iowa standards of professional conduct and law, with the overwhelming majority of courts, and with codes of professional ethics. Since there has been no breach of any recognized professional duty, it follows that there can be no deprivation of the right to assistance of counsel under the Strickland standard.
 
-# Conclusion
+#### Conclusion
 
 Whiteside's attorney treated Whiteside's proposed perjury in accord with professional standards, and since Whiteside's truthful testimony could not have prejudiced the result of his trial, the Court of Appeals was in error to direct the issuance of a writ of habeas corpus and must be reversed.
 
---- 
+---
 
-# JUSTICE BRENNAN, concurring in the judgment.
+#### JUSTICE BRENNAN, concurring in the judgment.
 
 This Court has no constitutional authority to establish rules of ethical conduct for lawyers practicing in the state courts. Nor does the Court enjoy any statutory grant of jurisdiction over legal ethics.
 
@@ -110,13 +111,13 @@ Unfortunately, the Court seems unable to resist the temptation of sharing with t
 
 I join JUSTICE BLACKMUN's concurrence because I agree that respondent has failed to prove the kind of prejudice necessary to make out a claim under _Strickland v. Washington_.
 
---- 
+---
 
-# JUSTICE BLACKMUN, with whom JUSTICE BRENNAN, JUSTICE MARSHALL, and JUSTICE STEVENS join, concurring in the judgment.
+#### JUSTICE BLACKMUN, with whom JUSTICE BRENNAN, JUSTICE MARSHALL, and JUSTICE STEVENS join, concurring in the judgment.
 
 How a defense attorney ought to act when faced with a client who intends to commit perjury at trial has long been a controversial issue. But I do not believe that a federal habeas corpus case challenging a state criminal conviction is an appropriate vehicle for attempting to resolve this thorny problem. When a defendant argues that he was denied effective assistance of counsel because his lawyer dissuaded him from committing perjury, the only question properly presented to this Court is whether the lawyer's actions deprived the defendant of the fair trial which the Sixth Amendment is meant to guarantee. Since I believe that the respondent in this case suffered no injury justifying federal habeas relief, I concur in the Court's judgment.
 
-# I
+#### I
 
 On February 7, 1977, Emmanual Charles Whiteside stabbed Calvin Love to death. At trial, Whiteside claimed self-defense. On direct examination, he testified that Love's bedroom, where the stabbing had occurred, was "very much dark, and that he had stabbed Love during an argument because he believed that Love was about to attack him with a weapon:
 
@@ -146,9 +147,9 @@ Petitioner's motion for rehearing en banc was denied by a vote of 5 to 4. In dis
 
 A separate dissent by Judge Fagg, joined by Judges Ross, John R. Gibson, and Bowman, addressed the performance prong of _Strickland_. Robinson's admonition to Whiteside to testify truthfully simply could not be viewed as creating a conflict of interest; Robinson presented a full and zealous defense at trial; and, although Robinson's warning to Whiteside may have been "strident," he had communicated with his client in a manner the client understood.
 
-# II
+#### II
 
-# A
+#### A
 
 The District Court found that the trial judge's statement that "I find the facts to be as testified to by Ms. Paulsen and Mr. Robinson" was a factual finding that Whiteside "would have perjured himself if he had testified at trial that he actually saw a gun in his victim's hand." This factual finding by the state court is entitled to a presumption of correctness, which Whiteside has not overcome.
 
@@ -156,7 +157,7 @@ Respondent has never attempted to rebut the presumption by claiming that the fac
 
 Neither contention overcomes the presumption of correctness due the state court's finding. First, the trial judge's implicit decision not to credit the written statement is fairly supported by Robinson's testimony that the written statement had not been prepared by Whiteside alone and that, from the time of their initial meeting until the week before trial, Whiteside never again claimed to have seen a gun. Second, the finding properly accorded a presumption of correctness by the courts below was that Whiteside's "proposed testimony would have been deliberately untruthful." The lower courts did not purport to presume the correctness of the Iowa Supreme Court's holding concerning the mixed question respondent identifies---whether Robinson's response to Whiteside's proposed testimony deprived Whiteside of effective representation.
 
-# B
+#### B
 
 The Court approaches this case as if the performance-and-prejudice standard requires us in every case to determine "the perimeters of the range of reasonable professional assistance, but _Strickland v. Washington_ explicitly contemplates a different course:
 
@@ -174,7 +175,7 @@ The Court of Appeals erred in concluding that prejudice should have been presume
 
 In addition, the lawyer's interest in not presenting perjured testimony was entirely consistent with Whiteside's best interest. If Whiteside had lied on the stand, he would have risked a future perjury prosecution. Moreover, his testimony would have been contradicted by the testimony of other eyewitnesses and by the fact that no gun was ever found. In light of that impeachment, the jury might have concluded that Whiteside lied as well about his lack of premeditation and thus might have convicted him of first-degree murder. And if the judge believed that Whiteside had lied, he could have taken Whiteside's perjury into account in setting the sentence. In the face of these dangers, an attorney could reasonably conclude that dissuading his client from committing perjury was in the client's best interest and comported with standards of professional responsibility. In short, Whiteside failed to show the kind of conflict that poses a danger to the values of zealous and loyal representation embodied in the Sixth Amendment. A presumption of prejudice is therefore unwarranted.
 
-# C
+#### C
 
 In light of respondent's failure to show any cognizable prejudice, I see no need to "grade counsel's performance." The only federal issue in this case is whether Robinson's behavior deprived Whiteside of the effective assistance of counsel; it is not whether Robinson's behavior conformed to any particular code of legal ethics.
 
@@ -182,9 +183,9 @@ Whether an attorney's response to what he sees as a client's plan to commit perj
 
 I therefore am troubled by the Court's implicit adoption of a set of standards of professional responsibility for attorneys in state criminal proceedings. The States, of course, do have a compelling interest in the integrity of their criminal trials that can justify regulating the length to which an attorney may go in seeking his client's acquittal. But the American Bar Association's implicit suggestion in its brief amicus curiae that the Court find that the Association's Model Rules of Professional Conduct should govern an attorney's responsibilities is addressed to the wrong audience. It is for the States to decide how attorneys should conduct themselves in state criminal proceedings, and this Court's responsibility extends only to ensuring that the restrictions a State enacts do not infringe a defendant's federal constitutional rights. Thus, I would follow the suggestion made in the joint brief amici curiae filed by 37 States at the certiorari stage that we allow the States to maintain their "differing approaches" to a complex ethical question. The signal merit of asking first whether a defendant has shown any adverse prejudicial effect before inquiring into his attorney's performance is that it avoids unnecessary federal interference in a State's regulation of its bar. Because I conclude that the respondent in this case failed to show such an effect, I join the Court's judgment that he is not entitled to federal habeas relief.
 
---- 
+---
 
-# JUSTICE STEVENS, concurring in the judgment.
+### JUSTICE STEVENS, concurring in the judgment.
 
 Justice Holmes taught us that a word is but the skin of a living thought. A "fact" may also have a life of its own. From the perspective of an appellate judge, after a case has been tried and the evidence has been sifted by another judge, a particular fact may be as clear and certain as a piece of crystal or a small diamond. A trial lawyer, however, must often deal with mixtures of sand and clay. Even a pebble that seems clear enough at first glance may take on a different hue in a handful of gravel.
 
