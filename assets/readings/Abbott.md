@@ -1,7 +1,4 @@
 ---
-layout: sidenotes
-
-
 
 title: 'The System of Professions'
 author: 'Andrew Abbott'

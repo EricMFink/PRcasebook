@@ -6,7 +6,7 @@ cite: '712 P. 2d 216 (Utah 1985)'
 
 ---
 
-### Per Curiam 
+### Per Curiam
 
 This matter comes before the Court in an extraordinary proceeding to prohibit the district court from compelling petitioner's hospital nurse to testify about statements she overheard petitioner make to his attorney. The trial court made no findings of fact, although it prepared a memorandum decision. It appears from that decision that the controlling issue on which the trial court decided the matter was a legal one, namely, the standard determining when the presence of a third party during communications between a lawyer and client results in a waiver of the attorney-client privilege. We hold that the trial court erred in deciding that the attorney-client privilege applies only if the presence of a third person, who overhears a confidential communication, is "necessary for urgent or life-saving procedures." The proper standard is whether the third person's presence is reasonably necessary under the circumstances.
 
@@ -18,7 +18,9 @@ The order of the trial court is vacated, and this matter is remanded for the ent
 
 ZIMMERMAN, Justice (dissenting).
 
-I agree that Judge Conder applied the wrong standard in concluding that the presence of the nurse made the attorney-client privilege unavailable. A third person's presence should not avoid an otherwise available privilege if the third person's presence is reasonably necessary under the circumstances. The evidence indicates that the nurse's presence was reasonably necessary for Hofmann's well-being.{% sidenote "sidenote-id" "(n.2 in opinion) I also conclude that the privilege is not lost if a third person whose presence is not otherwise justified overhears a confidential attorney-client communication without the client's knowledge, so long as reasonable precautions were taken to protect against overhearing. However, because the nurse's presence was justified, the reasonableness of the precautions taken to exclude third parties has no bearing on the question before us." %}
+I agree that Judge Conder applied the wrong standard in concluding that the presence of the nurse made the attorney-client privilege unavailable. A third person's presence should not avoid an otherwise available privilege if the third person's presence is reasonably necessary under the circumstances. The evidence indicates that the nurse's presence was reasonably necessary for Hofmann's well-being.[^d116]
+
+[^d116]: (n.2 in opinion) I also conclude that the privilege is not lost if a third person whose presence is not otherwise justified overhears a confidential attorney-client communication without the client's knowledge, so long as reasonable precautions were taken to protect against overhearing. However, because the nurse's presence was justified, the reasonableness of the precautions taken to exclude third parties has no bearing on the question before us.
 
 I disagree with the result reached by the Court, however, and would uphold the ruling below, because I conclude that petitioner has not met the threshold requirement for claiming an attorney-client privilege---petitioner has failed to establish that the communication between the client and the attorney was intended by the client to be confidential. "The mere fact that the relationship of attorney and client exists between two individuals does not ipso facto make all communications between them confidential. The circumstances must indicate whether by implication the communication was of a sort intended to be confidential." I think the Court slights this inquiry. By failing to carefully consider the question of the client's intent, courts may shield from scrutiny communications that the privilege was not created to protect.
 
