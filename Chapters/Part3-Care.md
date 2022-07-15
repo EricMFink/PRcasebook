@@ -20,16 +20,18 @@ output:
 
 \part{Duty of Care}
 
-\chapter{Competence, Diligence, & Communication}
+\chapter{Competence, Diligence, \& Communication}
 
-\Begin{mrpc}
+\Begin{legalcode}
 
-### Rule 1.1: Competence
+\mrpc{}
+
+\codesec{Rule 1.1: Competence}
 
 A lawyer shall provide competent representation to a client. Competent representation requires the legal knowledge, skill, thoroughness and preparation reasonably necessary for the representation.
 
 
-#### Comment:
+\codesubsec{Comment:}
 
 _Legal Knowledge and Skill_
 
@@ -55,11 +57,11 @@ _Maintaining Competence_
 
 8. To maintain the requisite knowledge and skill, a lawyer should keep abreast of changes in the law and its practice, including the benefits and risks associated with relevant technology, engage in continuing study and education and comply with all continuing legal education requirements to which the lawyer is subject.
 
-### Rule 1.3: Diligence
+\codesec{Rule 1.3: Diligence}
 
 A lawyer shall act with reasonable diligence and promptness in representing a client.
 
-### Rule 1.4: Communication
+\codesec{Rule 1.4: Communication}
 
 (a) A lawyer shall:
 
@@ -75,16 +77,40 @@ A lawyer shall act with reasonable diligence and promptness in representing a cl
 
 (b) A lawyer shall explain a matter to the extent reasonably necessary to permit the client to make informed decisions regarding the representation.
 
-\End{mrpc}
+\End{legalcode}
 
 
 \chapter{Malpractice}
 
-\chap{Malpractice}
-
 The term "legal malpractice" is sometimes used generally to refer to any claim against an attorney for breach of fiduciary duty, and sometimes more specifically for claims involving the duty of care. The elements of such claims are similar to other torts: the existence of a duty, breach of the duty, and harm caused by the breach. In claims based on the duty of care, the standard of liability is negligence, i.e. failure to exercise the degree of care of a reasonably prudent attorney under similar circumstances. In contrast, attorneys may be strictly liable for breaching the duties of loyalty, impartiality, or confidentiality.
 
-\restlawyers{48-58}
+\Begin{legalcode}
+
+\restlawyers{}
+
+\codesec{\S~ 48}
+
+\codesec{\S~ 49}
+
+\codesec{\S~ 50}
+
+\codesec{\S~ 51}
+
+\codesec{\S~ 52}
+
+\codesec{\S~ 53}
+
+\codesec{\S~ 54}
+
+\codesec{\S~ 55}
+
+\codesec{\S~ 56}
+
+\codesec{\S~ 57}
+
+\codesec{\S~ 58}
+
+\End{legalcode}
 
 
 
@@ -125,7 +151,6 @@ The facts of the instant case are more similar to those of _Hiemstra v. Huston_.
 
 In the case before us, the objective of the deed was to transfer ownership of the real estate to joint tenancy between the father and the son. The complaint alleges no invalidity in the documents and no conflict of the result with decedent's intentions. The estate taxes that were due at Theodore Marker's death were the natural result of the form of ownership chosen by the decedent and not the result of any negligence by respondent. In this case summary judgment was proper. We therefore need not discuss the disputed application of the statute of limitations.
 
-\halfsep
 
 \Begin{questions}
 
@@ -137,7 +162,7 @@ In the case before us, the objective of the deed was to transfer ownership of th
 
 # Breach of the Duty
 
-{Ishmael v. Millington}{241 Cal. App. 2d 520}{Cal. Ct. App. 1966}
+\case{Ishmael v. Millington}{241 Cal. App. 2d 520}{Cal. Ct. App. 1966}
 
 ### FRIEDMAN, J.
 
@@ -185,7 +210,7 @@ care or the duty of loyalty?
 
 \End{questions}
 
-\case{Equitania Ins, v. Slone & Garrett}{191 S.W.3d 552}{Ky. 2006}
+\case{Equitania Ins. v. Slone \& Garrett}{191 S.W.3d 552}{Ky. 2006}
 
 ### Wintersheimer, Justice
 
@@ -227,8 +252,6 @@ This instruction form contains the elements prescribed in Daugherty without requ
 
 Consequently, under the circumstances regarding the instructions, this matter is reversed and remanded. The decisions of the Court of Appeals and the trial court are reversed and this matter is remanded to the trial court for a jury determination as to all factual issues.
 
-
-\halfsep
 
 \Begin{questions}
 
@@ -323,8 +346,6 @@ In conclusion, we would add that we do agree somewhat with a statement appellant
 
 To that, we would simply repeat that all the evidence in this case was submitted to a jury of twelve citizens of this community, nine of whom found for the attorney. Even though we may have found differently had we sat as jurors in this case, we cannot disturb their verdict, as it was sufficiently supported by the evidence.
 
-\halfsep
-
 \Begin{questions}
 
 1. What was the harm to Roach's estate? Could Runner have prevented that harm? Could anyone else have prevented the harm?
@@ -332,7 +353,7 @@ To that, we would simply repeat that all the evidence in this case was submitted
 
 \End{questions}
 
-\case{TIG Ins, v. Giffin, Winning, Cohen & Bodewes}{444 F. 3d 587}{7th Cir. 2006}
+\case{TIG Ins. v. Giffin, Winning, Cohen \& Bodewes}{444 F. 3d 587}{7th Cir. 2006}
 
 ### Evans, Circuit Judge
 
@@ -394,8 +415,6 @@ There is, in fact, nothing which distinguishes the failure to produce in this ca
 
 What is foreseeable as a result of a failure to produce documents is the reasonable procedure set out in Civil Rule of Civil Procedure 37, which provides for sanctions only after other reasonable efforts to work out disagreements fail. It may be that, as Judge Mihm also said, that did not happen enough in this case. But ISU and Giffin Winning could hardly be expected to foresee all this trouble over a phantom database. Why would they? It was ISU's alleged database and Giffin Winning was representing ISU at the time. They knew of no database; they were hiding no database; there was no database. For Giffin Winning's carelessness in failing to produce documents (which Bellows had in his possession), the sanction of $10,000 might well have been sustained on appeal. But as a matter of law, the injury alleged here was not reasonably foreseeable.
 
-\halfsep
-
 \Begin{questions}
 
 1. What was TIG's injury? Did Giffin Winning's negligence cause that injury?
@@ -443,8 +462,6 @@ After considering both positions, this Court finds the reasoning of the minority
 
 Accordingly, for the reasons expressed above, we find that the Superior Court correctly held that collectibility of damages in an underlying case is a matter which must be considered in a legal malpractice action and that the defendant/lawyer bears the burden of proving that the underlying case which formed the basis of the damages award in a legal malpractice action would not have been fully collectible. Therefore, the order of the Superior Court is affirmed and the matter remanded for further proceedings.
 
-\halfsep
-
 \Begin{questions}}
 
 1. Why did the court hold that Kituskie could only recover collectable damages? Why couldn't he recover all of his damages?
@@ -454,10 +471,9 @@ Accordingly, for the reasons expressed above, we find that the Superior Court co
 
 
 
-\chap{Ineffective Assistance of Counsel}
+\chapter{Ineffective Assistance of Counsel}
 
 \case{Strickland v. Washington}{466 U.S. 668}{1984}
-
 
 ### JUSTICE O'CONNOR delivered the opinion of the Court.
 
@@ -489,9 +505,7 @@ At the sentencing hearing, counsel's strategy was based primarily on the trial j
 
 ##### B
 
-Respondent subsequently sought collateral relief in state court on numerous grounds, among them that counsel had rendered ineffective assistance at the sentencing proceeding. Respondent challenged counsel's assistance in six respects. He asserted that counsel was ineffective because he failed to move for a continuance to prepare for sentencing, to request a psychiatric report, to investigate and present character witnesses, to seek a presentence investigation report, to present meaningful arguments to the sentencing judge, and to investigate the medical examiner's reports or cross-examine the medical experts. [ * * * ]
-
-[ * * * ]
+Respondent subsequently sought collateral relief in state court on numerous grounds, among them that counsel had rendered ineffective assistance at the sentencing proceeding. Respondent challenged counsel's assistance in six respects. He asserted that counsel was ineffective because he failed to move for a continuance to prepare for sentencing, to request a psychiatric report, to investigate and present character witnesses, to seek a presentence investigation report, to present meaningful arguments to the sentencing judge, and to investigate the medical examiner's reports or cross-examine the medical experts.
 
 [Strickland unsuccessfully challenged the conviction in state court, based on ineffective assistance of counsel. He then brought a habeas corpus action in federal court, again based on ineffective assistance of counsel. The Supreme Court "granted certiorari to consider the standards by which to judge a contention that the Constitution requires that a criminal judgment be overturned because of the actual ineffective assistance of counsel."]
 
@@ -508,8 +522,6 @@ Because of the vital importance of counsel's assistance, this Court has held tha
 For that reason, the Court has recognized that "the right to counsel is the right to the effective assistance of counsel." Government violates the right to effective assistance when it interferes in certain ways with the ability of counsel to make independent decisions about how to conduct the defense. Counsel, however, can also deprive a defendant of the right to effective assistance, simply by failing to render "adequate legal assistance".
 
 The Court has not elaborated on the meaning of the constitutional requirement of effective assistance in the latter class of cases---that is, those presenting claims of "actual ineffectiveness." In giving meaning to the requirement, however, we must take its purpose---to ensure a fair trial---as the guide. The benchmark for judging any claim of ineffectiveness must be whether counsel's conduct so undermined the proper functioning of the adversarial process that the trial cannot be relied on as having produced a just result.
-
-[ * * * ]
 
 #### III
 
@@ -535,7 +547,7 @@ These standards require no special amplification in order to define counsel's du
 
 The reasonableness of counsel's actions may be determined or substantially influenced by the defendant's own statements or actions. Counsel's actions are usually based, quite properly, on informed strategic choices made by the defendant and on information supplied by the defendant. In particular, what investigation decisions are reasonable depends critically on such information. For example, when the facts that support a certain potential line of defense are generally known to counsel because of what the defendant has said, the need for further investigation may be considerably diminished or eliminated altogether. And when a defendant has given counsel reason to believe that pursuing certain investigations would be fruitless or even harmful, counsel's failure to pursue those investigations may not later be challenged as unreasonable. In short, inquiry into counsel's conversations with the defendant may be critical to a proper assessment of counsel's investigation decisions, just as it may be critical to a proper assessment of counsel's other litigation decisions.
 
-## B
+##### B
 
 An error by counsel, even if professionally unreasonable, does not warrant setting aside the judgment of a criminal proceeding if the error had no effect on the judgment. The purpose of the Sixth Amendment guarantee of counsel is to ensure that a defendant has the assistance necessary to justify reliance on the outcome of the proceeding. Accordingly, any deficiencies in counsel's performance must be prejudicial to the defense in order to constitute ineffective assistance under the Constitution.
 
@@ -563,11 +575,7 @@ In making this determination, a court hearing an ineffectiveness claim must cons
 
 A number of practical considerations are important for the application of the standards we have outlined. Most important, in adjudicating a claim of actual ineffectiveness of counsel, a court should keep in mind that the principles we have stated do not establish mechanical rules. Although those principles should guide the process of decision, the ultimate focus of inquiry must be on the fundamental fairness of the proceeding whose result is being challenged. In every case the court should be concerned with whether, despite the strong presumption of reliability, the result of the particular proceeding is unreliable because of a breakdown in the adversarial process that our system counts on to produce just results.
 
-[ * * * ]
-
 Although we have discussed the performance component of an ineffectiveness claim prior to the prejudice component, there is no reason for a court deciding an ineffective assistance claim to approach the inquiry in the same order or even to address both components of the inquiry if the defendant makes an insufficient showing on one. In particular, a court need not determine whether counsel's performance was deficient before examining the prejudice suffered by the defendant as a result of the alleged deficiencies. The object of an ineffectiveness claim is not to grade counsel's performance. If it is easier to dispose of an ineffectiveness claim on the ground of lack of sufficient prejudice, which we expect will often be so, that course should be followed. Courts should strive to ensure that ineffectiveness claims not become so burdensome to defense counsel that the entire criminal justice system suffers as a result.
-
-[ * * * ]
 
 #### V
 
@@ -590,7 +598,6 @@ We conclude, therefore, that the District Court properly declined to issue a wri
 _Reversed._
 
 
-\halfsep
 
 \case{Knowles v. Mirzayance}{556 U.S. Ill}{2009}
 
@@ -634,8 +641,6 @@ Furthermore, even though it had suggested that the District Court unnecessarily 
 
 We granted the petition for writ of certiorari.
 
-[ * * * ]
-
 #### III
 
 Even if Mirzayance's ineffective-assistance-of-counsel claim were eligible for de novo review, it would still fail. _Strickland_ requires a defendant to establish deficient performance and prejudice. Mirzayance can establish neither.
@@ -665,9 +670,6 @@ In addition, Mirzayance has not demonstrated that he suffered prejudice from his
 #### IV
 
 Mirzayance has not shown that the state court's conclusion that there was no ineffective assistance of counsel "was contrary to, or involved an unreasonable application of, clearly established Federal law." In fact, he has not shown ineffective assistance at all. The judgment of the Court of Appeals is reversed, and the case is remanded with instructions to deny the petition.
-
-
-\halfsep
 
 \Begin{questions}
 
@@ -758,8 +760,6 @@ The Court today holds that a defendant can undo a guilty plea, well after senten
 
 #### I
 
-[ * * * ]
-
 ##### A
 
 The Court and both of the parties agree that the prejudice inquiry in this context is governed by _Strickland v. Washington_. The Court in _Strickland_ held that a defendant may establish a claim of ineffective assistance of counsel by showing that his "counsel's representation fell below an objective standard of reasonableness" and, as relevant here, that the representation prejudiced the defendant by "actually having an adverse effect on the defense."
@@ -796,8 +796,6 @@ Finally, the majority does not dispute that the prejudice inquiry in _Frye_ and 
 
 The majority today abandons any pretense of applying _Strickland_ to claims of ineffective assistance of counsel that arise at the plea stage. It instead concludes that one standard applies when a defendant goes to trial (_Strickland_); another standard applies when a defendant accepts a plea (_Hill_); and yet another standard applies when counsel does not apprise the defendant of an available plea or when the defendant rejects a plea (_Frye_ and _Lafler_). That approach leaves little doubt that the Court has "opened a whole new field of constitutionalized criminal procedure"---"plea-bargaining law"---despite its repeated assurances that it has been applying the same _Strickland_ standard all along. In my view, we should take the Court's precedents at their word and conclude that "an error by counsel does not warrant setting aside the judgment of a criminal proceeding if the error had no effect on the judgment."
 
-[ * * * ]
-
 #### III
 
 Applying the ordinary _Strickland_ standard in this case, I do not think a defendant in petitioner's circumstances could show a reasonable probability that the result of his criminal proceeding would have been different had he not pleaded guilty. Petitioner does not dispute that he possessed large quantities of illegal drugs or that the Government had secured a witness who had purchased the drugs directly from him. In light of this "overwhelming evidence of guilt," the Court of Appeals concluded that petitioner had "no bona fide defense, not even a weak one." His only chance of succeeding would have been to "throw a ‘Hail Mary' at trial." As I have explained, however, the Court in _Strickland_ expressly foreclosed relying on the possibility of a "Hail Mary" to establish prejudice. _Strickland_ made clear that the prejudice assessment should "proceed on the assumption that the decisionmaker is reasonably, conscientiously, and impartially applying the standards that govern the decision."
@@ -825,7 +823,6 @@ In addition to undermining finality, the Court's rule will impose significant co
 # Malpractice in Criminal Cases
 
 \case{Ang v. Martin}{114 P. 3d 637}{Wash. 2005}
-
 
 ### Owens, J.
 
@@ -926,7 +923,6 @@ Second, while it may be true that a majority of courts that have reached the iss
 
 This court should protect the public from lawyers' misdeeds, not the other way around. A plaintiff who is not categorically innocent seeking compensation under ordinary principles of tort law faces no light burden. Such a guilty plaintiff must prove a duty, a breach of that duty, injuries proximately caused by the breach, and the amount of his damages. I see no reason to provide additional protections for lawyers.
 
-\halfsep
 
 \Begin{questions}
 

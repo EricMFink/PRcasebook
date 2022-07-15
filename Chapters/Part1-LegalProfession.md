@@ -84,7 +84,6 @@ The social structure of professions is thus neither fixed nor uniformly benefici
 
 The central organizing reality of professional life is control of tasks. The tasks themselves are defined in the professions' cultural work. Control over them is established, as we have seen, by competitive claims in public media, in legal discourse, and in workplace negotiation.
 
-\halfsep
 
 \reading{The Discourse of Professionalism}{Kathi Weeks}{(2011)}
 
@@ -96,7 +95,6 @@ Whereas the term once suggested a certain mastery of a field of knowledge linked
 
 Today the term "professional" refers more to a prescribed attitude toward any work than the status of some work. To act like a professional---to be professional in one's work---calls for subjective investment in and identification with work, but also a kind of affective distancing from it. A professional invests his or her person in the job but does not "take it personally" when dealing with difficult co-workers, clients, patients, students, passengers, or customers. As an ideal of worker subjectivity, this requires not just the performance of a role, but a deeper commitment of the self, an immersion in and identification not just with work, but with work discipline. The popular injunction to "be professional;" to cultivate a professional attitude, style, and persona, serves as one way that the autonomy, especially of immaterial workers, can be managerially constituted up and down the [ ... ] labor hierarchy.
 
-\halfsep
 
 # Emergence of the Modern Legal Profession
 
@@ -188,7 +186,6 @@ The American rural scene was quite different. There lawyers were scarce and even
 
 Surprisingly, many problems related to the new government business—tax appeals and advocacy before minor and government tribunals—seem to be equally split between urban and rural American lawyers. The presumption that governmental work provided an expansion area mainly for upper-tier urban lawyers may thus be incorrect. The tax advice findings do support it, for that problem is a largely urban matter. But still, the government work may have offered more general opportunities than it seemed at the outset. Perhaps it was the attempt to enter this new jurisdiction that left the rural lawyers so open to invasion in their land and property work.
 
-\halfsep
 
 \case{People v. Alfani}{125 A. 671}{NY 1919}
 
@@ -244,9 +241,9 @@ So much of the section of the Penal Law under which the conviction was obtained 
 
 The defendant, at the time stated in the information, was a notary public, living at 475 Park avenue, Brooklyn, in the basement of which he had a small office for the transaction of business. Over the entrance of the office was the following sign:
 
-![](../assets/img/Alfani.png)
+\includegraphics[width=0.5\columnwidth]{../assets/img/Alfani.png}
 
-On the 27th of December, 1917, one Gallo, special investigator of the state industrial commission, in company with one Geannelis, entered defendant's office and he asked them what they wanted. Gallo stated that he was selling his store, which consisted of a soda water stand, together with a stock of cigars, cigarettes, etc., to Geannelis, for a certain consideration, which was named, part of which was to be paid down and the balance in installments. Gallo also stated there was a certain amount due to the American Siphon Company on the purchase price of the soda water fountain, which Geannelis was to assume and pay. The defendant advised that Gallo give a bill of sale to Geannelis and that he give a chattel mortgage for the amount remaining unpaid. He also explained it would be necessary to file the mortgage in the county clerk's office, so that the same could be foreclosed by the city marshal in case of non-payment.  His suggestions as to the bill of sale and mortgage were followed and he thereupon prepared the same, for which he was paid four dollars.
+On the 27th of December, 1917, one Gallo, special investigator of the state industrial commission, in company with one Geannelis, entered defendant's office and he asked them what they wanted. Gallo stated that he was selling his store, which consisted of a soda water stand, together with a stock of cigars, cigarettes, etc., to Geannelis, for a certain consideration, which was named, part of which was to be paid down and the balance in installments. Gallo also stated there was a certain amount due to the American Siphon Company on the purchase price of the soda water fountain, which Geannelis was to assume and pay. The defendant advised that Gallo give a bill of sale to Geannelis and that he give a chattel mortgage for the amount remaining unpaid. He also explained it would be necessary to file the mortgage in the county clerk's office, so that the same could be foreclosed by the city marshal in case of non-payment. His suggestions as to the bill of sale and mortgage were followed and he thereupon prepared the same, for which he was paid four dollars.
 
 It is contended that this transaction, together with the sign, amounted to a violation of the provisions of the statute quoted. I have been unable to reach this conclusion. The statute, unless something is read into it which does not there appear, is to prohibit a natural person practicing or appearing as an attorney-at-law in the courts mentioned, or to hold himself out to the public as being entitled to practice in such courts. The defendant did neither. Clearly, the drafting of the bill of sale and chattel mortgage was not practicing or appearing as an attorney-at-law in any court. Nor did the words on the sign, "Redaction of all legal papers" indicate that he was holding himself out as entitled to practice in such courts. The words "in any other manner," upon which stress is laid, relate to what precedes them in the sentence, viz., the courts referred to. The phrase, although general in its nature, is limited and qualified by the prior specific designations. The rule of ejusdem generis applies. Where the enumeration of specific things is followed by some more general word or phrase, such general word or phrase is held to refer to the things of the same kind.
 
@@ -258,17 +255,16 @@ One of the well-settled rules of statutory construction is that statutory offens
 
 I am of the opinion that the defendant was not guilty of violating section 270 of the Penal Law; that the Appellate Division was right in reversing the conviction and discharging him; and its judgment should, therefore, be affirmed.
 
-\halfsep
 
 # Regulation of Lawyers
 
 \Begin{legalcode}
 
-\mrpc
+\mrpc{}
 
-### Preamble and Scope
+\codesec{Preamble and Scope}
 
-#### PREAMBLE: A LAWYER'S RESPONSIBILITIES
+\codesubsec{Preamble: A Lawyer's Responsibilities}
 
 [1] A lawyer, as a member of the legal profession, is a representative of clients, an officer of the legal system and a public citizen having special responsibility for the quality of justice.
 
@@ -296,7 +292,7 @@ I am of the opinion that the defendant was not guilty of violating section 270 o
 
 [13] Lawyers play a vital role in the preservation of society. The fulfillment of this role requires an understanding by lawyers of their relationship to our legal system. The Rules of Professional Conduct, when properly applied, serve to define that relationship.
 
-#### SCOPE
+\codesubsec{Scope}
 
 [14] The Rules of Professional Conduct are rules of reason. They should be interpreted with reference to the purposes of legal representation and of the law itself. Some of the Rules are imperatives, cast in the terms "shall" or "shall not." These define proper conduct for purposes of professional discipline. Others, generally cast in the term "may," are permissive and define areas under the Rules in which the lawyer has discretion to exercise professional judgment. No disciplinary action should be taken when the lawyer chooses not to act or acts within the bounds of such discretion. Other Rules define the nature of relationships between the lawyer and others. The Rules are thus partly obligatory and disciplinary and partly constitutive and descriptive in that they define a lawyer's professional role. Many of the Comments use the term "should." Comments do not add obligations to the Rules but provide guidance for practicing in compliance with the Rules.
 
@@ -314,37 +310,35 @@ I am of the opinion that the defendant was not guilty of violating section 270 o
 
 [21] The Comment accompanying each Rule explains and illustrates the meaning and purpose of the Rule. The Preamble and this note on Scope provide general orientation. The Comments are intended as guides to interpretation, but the text of each Rule is authoritative.
 
-### Rule 1
+\codesec{Rule 1.0: Terminology}
 
-#### Terminology
+(a\) "Belief" or "believes" denotes that the person involved actually supposed the fact in question to be true. A person's belief may be inferred from circumstances.
 
-(a) "Belief" or "believes" denotes that the person involved actually supposed the fact in question to be true. A person's belief may be inferred from circumstances.
+(b\) "Confirmed in writing," when used in reference to the informed consent of a person, denotes informed consent that is given in writing by the person or a writing that a lawyer promptly transmits to the person confirming an oral informed consent. See paragraph (e) for the definition of "informed consent." If it is not feasible to obtain or transmit the writing at the time the person gives informed consent, then the lawyer must obtain or transmit it within a reasonable time thereafter.
 
-(b) "Confirmed in writing," when used in reference to the informed consent of a person, denotes informed consent that is given in writing by the person or a writing that a lawyer promptly transmits to the person confirming an oral informed consent. See paragraph (e) for the definition of "informed consent." If it is not feasible to obtain or transmit the writing at the time the person gives informed consent, then the lawyer must obtain or transmit it within a reasonable time thereafter.
+(c\) "Firm" or "law firm" denotes a lawyer or lawyers in a law partnership, professional corporation, sole proprietorship or other association authorized to practice law; or lawyers employed in a legal services organization or the legal department of a corporation or other organization.
 
-(c) "Firm" or "law firm" denotes a lawyer or lawyers in a law partnership, professional corporation, sole proprietorship or other association authorized to practice law; or lawyers employed in a legal services organization or the legal department of a corporation or other organization.
+(d\) "Fraud" or "fraudulent" denotes conduct that is fraudulent under the substantive or procedural law of the applicable jurisdiction and has a purpose to deceive.
 
-(d) "Fraud" or "fraudulent" denotes conduct that is fraudulent under the substantive or procedural law of the applicable jurisdiction and has a purpose to deceive.
+(e\) "Informed consent" denotes the agreement by a person to a proposed course of conduct after the lawyer has communicated adequate information and explanation about the material risks of and reasonably available alternatives to the proposed course of conduct.
 
-(e) "Informed consent" denotes the agreement by a person to a proposed course of conduct after the lawyer has communicated adequate information and explanation about the material risks of and reasonably available alternatives to the proposed course of conduct.
+(f\)  "Knowingly," "known," or "knows" denotes actual knowledge of the fact in question. A person's knowledge may be inferred from circumstances.
 
-(f)  "Knowingly," "known," or "knows" denotes actual knowledge of the fact in question. A person's knowledge may be inferred from circumstances.
+(g\) "Partner" denotes a member of a partnership, a shareholder in a law firm organized as a professional corporation, or a member of an association authorized to practice law.
 
-(g) "Partner" denotes a member of a partnership, a shareholder in a law firm organized as a professional corporation, or a member of an association authorized to practice law.
+(h\) "Reasonable" or "reasonably" when used in relation to conduct by a lawyer denotes the conduct of a reasonably prudent and competent lawyer.
 
-(h) "Reasonable" or "reasonably" when used in relation to conduct by a lawyer denotes the conduct of a reasonably prudent and competent lawyer.
+(i\) "Reasonable belief" or "reasonably believes" when used in reference to a lawyer denotes that the lawyer believes the matter in question and that the circumstances are such that the belief is reasonable.
 
-(i) "Reasonable belief" or "reasonably believes" when used in reference to a lawyer denotes that the lawyer believes the matter in question and that the circumstances are such that the belief is reasonable.
+(j\) "Reasonably should know" when used in reference to a lawyer denotes that a lawyer of reasonable prudence and competence would ascertain the matter in question.
 
-(j) "Reasonably should know" when used in reference to a lawyer denotes that a lawyer of reasonable prudence and competence would ascertain the matter in question.
+(k\) "Screened" denotes the isolation of a lawyer from any participation in a matter through the timely imposition of procedures within a firm that are reasonably adequate under the circumstances to protect information that the isolated lawyer is obligated to protect under these Rules or other law.
 
-(k) "Screened" denotes the isolation of a lawyer from any participation in a matter through the timely imposition of procedures within a firm that are reasonably adequate under the circumstances to protect information that the isolated lawyer is obligated to protect under these Rules or other law.
-
-(l) "Substantial" when used in reference to degree or extent denotes a material matter of clear and weighty importance.
+(l\) "Substantial" when used in reference to degree or extent denotes a material matter of clear and weighty importance.
 
 (m\) "Tribunal" denotes a court, an arbitrator in a binding arbitration proceeding or a legislative body, administrative agency or other body acting in an adjudicative capacity. A legislative body, administrative agency or other body acts in an adjudicative capacity when a neutral official, after the presentation of evidence or legal argument by a party or parties, will render a binding legal judgment directly affecting a party's interests in a particular matter.
 
-(n) "Writing" or "written" denotes a tangible or electronic record of a communication or representation, including handwriting, typewriting, printing, photostating, photography, audio or videorecording, and electronic communications. A "signed" writing includes an electronic sound, symbol or process attached to or logically associated with a writing and executed or adopted by a person with the intent to sign the writing.
+(n\) "Writing" or "written" denotes a tangible or electronic record of a communication or representation, including handwriting, typewriting, printing, photostating, photography, audio or videorecording, and electronic communications. A "signed" writing includes an electronic sound, symbol or process attached to or logically associated with a writing and executed or adopted by a person with the intent to sign the writing.
 
 \End{legalcode}
 
@@ -360,15 +354,15 @@ NC Gen. Stat. §§ 84-15, 84-16, 84-23
 
 \Begin{legalcode}
 
-\mrpc
+\mrpc{}
 
-### Rule 8.1: Bar Admission \& Disciplinary Matters
+\codesec{Rule 8.1: Bar Admission \& Disciplinary Matters}
 
 An applicant for admission to the bar, or a lawyer in connection with a bar admission application or in connection with a disciplinary matter, shall not:
 
-(a) knowingly make a false statement of material fact; or
+(a\) knowingly make a false statement of material fact; or
 
-(b) fail to disclose a fact necessary to correct a misapprehension known by the person to have arisen in the matter, or knowingly fail to respond to a lawful demand for information from an admissions or disciplinary authority, except that this rule does not require disclosure of information otherwise protected by Rule 1.6.
+(b\) fail to disclose a fact necessary to correct a misapprehension known by the person to have arisen in the matter, or knowingly fail to respond to a lawful demand for information from an admissions or disciplinary authority, except that this rule does not require disclosure of information otherwise protected by Rule 1.6.
 
 \End{legalcode}
 
@@ -382,8 +376,6 @@ NC Gen. Stat. §§ 84-1, 84-2, 84-4.1, 84-4.2, 84-24, 84-32
 
 Gary M. Lane, challenges the decision of the bar commission of the Nebraska State Bar Association to deny his application for readmission to the Nebraska bar through membership in the association.
 
-[ * * * ]
-
 #### Facts
 
 At various times Lane was admitted to the bars of Colorado, Iowa, Nebraska, Texas, Virginia, and Washington, D.C. He permitted the Nebraska membership obtained in 1978 to lapse, and in 1994 when he again applied for admission to the Nebraska bar, he no longer held membership in the Iowa bar.
@@ -394,27 +386,27 @@ The commission then received information indicating that Lane had exhibited thre
 
 After the investigation was concluded, the commission advised Lane's attorney by letter that it had concluded Lane lacked the current character and fitness required for admission to the Nebraska bar. The reasons for the denial of admission were stated to be:
 
-> 1\. Evidence of hostile, threatening, and disruptive interactions with individuals since ... Lane has resided in Nebraska.
+> 1. Evidence of hostile, threatening, and disruptive interactions with individuals since ... Lane has resided in Nebraska.
 
-> 2\. Lack of candor in completing his application for admission to the bar, including an incomplete disclosure of past employment and an incomplete disclosure of previous bar admissions.
+> 2. Lack of candor in completing his application for admission to the bar, including an incomplete disclosure of past employment and an incomplete disclosure of previous bar admissions.
 
 Lane then wrote the commission requesting a hearing. Lane's attorney later requested that the commission furnish him with a bill of particulars regarding the reasons for the denial of admission. The commission wrote Lane's attorney that the reasons supporting its decision were:
 
-> 1\. Lack of candor in completing the application for admission to the Bar.
+> 1. Lack of candor in completing the application for admission to the Bar.
 
-> A. The application was received on October 31, 1994. Question 2 inquired as to whether he had ever applied for admission to the Bar of any state or applied to take the Bar examination of any state. If so, he was to state the date of the application, the jurisdiction to which he applied, the outcome of the application, and the dates of admission in each jurisdiction. On January 27, 1995, he appeared at a hearing before the Commission and disclosed for the first time that he had been previously admitted in Nebraska and Iowa.
+> > A. The application was received on October 31, 1994. Question 2 inquired as to whether he had ever applied for admission to the Bar of any state or applied to take the Bar examination of any state. If so, he was to state the date of the application, the jurisdiction to which he applied, the outcome of the application, and the dates of admission in each jurisdiction. On January 27, 1995, he appeared at a hearing before the Commission and disclosed for the first time that he had been previously admitted in Nebraska and Iowa.
 
-> B. In his Application received on October 31, 1994, he was asked to respond to questions ... 7 and 8 relating to past employment. The response was to include temporary or part-time employment for the past 10 years. He did not list any employment since October of 1990. A specific inquiry was made of this matter by letter of November 22, 1994, from Jim L. Henshaw. He responded by letter of November 23, 1994, that he had been unemployed from October of 1990 to the date of his letter. It was not until a letter dated April 11, 1995, to Mr. Sajevic that he admitted to such temporary employment. No details were given. Our investigation has found that he had been employed for temporary employment in March and April, 1993, for Manpower and Apple One Employment.
+> > B. In his Application received on October 31, 1994, he was asked to respond to questions ... 7 and 8 relating to past employment. The response was to include temporary or part-time employment for the past 10 years. He did not list any employment since October of 1990. A specific inquiry was made of this matter by letter of November 22, 1994, from Jim L. Henshaw. He responded by letter of November 23, 1994, that he had been unemployed from October of 1990 to the date of his letter. It was not until a letter dated April 11, 1995, to Mr. Sajevic that he admitted to such temporary employment. No details were given. Our investigation has found that he had been employed for temporary employment in March and April, 1993, for Manpower and Apple One Employment.
 
-> C. In his Application received October 31, 1994, Question 11 asked if any civil actions or judgments had ever been filed against him. He indicated that such actions or judgments were in existence. He did not attach NSBC Form 3 to the Application. It was not until the hearing of January 27, 1995, that this matter was explained.
+> > C. In his Application received October 31, 1994, Question 11 asked if any civil actions or judgments had ever been filed against him. He indicated that such actions or judgments were in existence. He did not attach NSBC Form 3 to the Application. It was not until the hearing of January 27, 1995, that this matter was explained.
 
-> 2\. Evidence of Hostile, threatening, and disruptive interaction with individuals since he resided in Nebraska which reflect upon his character and fitness to practice.
+> 2. Evidence of Hostile, threatening, and disruptive interaction with individuals since he resided in Nebraska which reflect upon his character and fitness to practice.
 
-> A. At the hearing on January 27, 1995, he discussed his attempts to volunteer at the Creighton Legal Clinic. Catherine Mahern, the Director of the Clinic, has indicated that she and Connie Kearney had a meeting with him to discuss his role in the Clinic. At this meeting in September or October of 1994, it was reported that he was hostile and threatening. The next day, Catherine Mahern asked him to leave the Clinic and not return. He was again threatening, hostile and rude.
+> > A. At the hearing on January 27, 1995, he discussed his attempts to volunteer at the Creighton Legal Clinic. Catherine Mahern, the Director of the Clinic, has indicated that she and Connie Kearney had a meeting with him to discuss his role in the Clinic. At this meeting in September or October of 1994, it was reported that he was hostile and threatening. The next day, Catherine Mahern asked him to leave the Clinic and not return. He was again threatening, hostile and rude.
 
-B. On or about January 19, 1995, he was in attendance at a BAR-BRI Review at Creighton University. Apparently, he could not locate his keys and began accusing other attendees of taking his keys. Kay Strong was one of the individuals accused. He also accused Corby Gary and threatened to fight him. He also indicated to Mr. Gary that he would find out where he lived. As a result, he was asked to not participate in the BAR-BRI Review. An arrangement was made whereby he could review the tapes of the sessions by himself. Thomp Pattermann and Laura Pattermann were also witnesses to other disruptive behavior at the review sessions before he was asked to leave. Robert J. Launbenthal, an active member of the Nebraska and Iowa Bars, observed him making inappropriate and demeaning statements to a security guard at Creighton Law School during the early days of the BAR-BRI Review.
+> > B. On or about January 19, 1995, he was in attendance at a BAR-BRI Review at Creighton University. Apparently, he could not locate his keys and began accusing other attendees of taking his keys. Kay Strong was one of the individuals accused. He also accused Corby Gary and threatened to fight him. He also indicated to Mr. Gary that he would find out where he lived. As a result, he was asked to not participate in the BAR-BRI Review. An arrangement was made whereby he could review the tapes of the sessions by himself. Thomp Pattermann and Laura Pattermann were also witnesses to other disruptive behavior at the review sessions before he was asked to leave. Robert J. Launbenthal, an active member of the Nebraska and Iowa Bars, observed him making inappropriate and demeaning statements to a security guard at Creighton Law School during the early days of the BAR-BRI Review.
 
-> C. Shortly after his dismissal from the BAR-BRI Review, he spoke by telephone with Kay Coffey and Cindy Lilleoien of NCLE by telephone [sic]. He was rude and threatening to both of the NCLE employees. There apparently had been a controversy regarding whether audiotapes or videotapes would be supplied.
+> > C. Shortly after his dismissal from the BAR-BRI Review, he spoke by telephone with Kay Coffey and Cindy Lilleoien of NCLE by telephone [sic]. He was rude and threatening to both of the NCLE employees. There apparently had been a controversy regarding whether audiotapes or videotapes would be supplied.
 
 A hearing was then held by the commission, which Lane attended with his attorney. Through his attorney, Lane was permitted to cross-examine witnesses testifying before the commission and to present his own witnesses and evidence, and he himself testified. The commission found there was no evidence to support the assertion that Lane had been rude or threatening toward employees of the NCLE and that he had substantially complied with question 11 on the application by listing a civil judgment against him on his bankruptcy schedules that had been provided to the commission. The commission also found that although Lane failed to reveal his prior admissions to the Nebraska and Iowa bars, as the application form requested, the omission was not the result of an intent to deceive, but that it did indicate a casual attitude about compliance with instructions and the need to fully inform the commission. The commission further found, however, that Lane had acted in a threatening and intimidating manner while at the Creighton University legal clinic and at the BAR-BRI review course. The commission also found that Lane had intended to conceal the history of his temporary employment in Colorado, denoting a lack of candor in the application process.
 
@@ -720,9 +712,9 @@ The petitioner then left Florida and moved to Wyoming, where he attended the Nor
 
 The applicant's criminal record also includes the following:
 
-(1) On at least eight occasions from the spring of 1986 to as recently as the winter of 1997, Roots was caught speeding and ordered to pay fines. These moving-traffic violations occurred in Utah, Washington, and Montana.
+(1\) On at least eight occasions from the spring of 1986 to as recently as the winter of 1997, Roots was caught speeding and ordered to pay fines. These moving-traffic violations occurred in Utah, Washington, and Montana.
 
-(2) Roots apparently ignored his previous driver's license suspensions and flouted these dispositions because he later was charged in Georgia not once but twice in 1989 for driving on a suspended license. On the first occasion he not only drove on a suspended license, but also was issued citations for driving without a license, without insurance, and without proper registration. On the second such occasion, he was again driving on an expired registration plate and a suspended license. Roots's bar application explains his conduct thus:
+(2\) Roots apparently ignored his previous driver's license suspensions and flouted these dispositions because he later was charged in Georgia not once but twice in 1989 for driving on a suspended license. On the first occasion he not only drove on a suspended license, but also was issued citations for driving without a license, without insurance, and without proper registration. On the second such occasion, he was again driving on an expired registration plate and a suspended license. Roots's bar application explains his conduct thus:
 
 "I was without sufficient money for insurance or registration. I made it to work for several days but was pulled over by another officer only a couple days later. Again, I was arrested for driving without a license, registration, or insurance. * * * To this day I do not know what became of the cases in Georgia."
 
@@ -732,7 +724,7 @@ On the present record, we do not know whether Roots has satisfied whatever lawfu
 
 Every prospective attorney in this state must complete an application that asks for a listing of all the candidate's "violations of * * * traffic law[s] or ordinance[s] other than parking offenses." This part of the application is not superfluous nor a mere incursion into the applicant's privacy, and it should not be so considered. Rather, it bears a logical and appropriate relationship to the ability of a prospective attorney in this state to maintain respect for and to uphold the law. And although repeated violations of various traffic laws, in isolation, may not preclude a candidate from admission to the bar, they certainly are relevant to the moral fitness and good-character determination that must be made when evaluating the qualifications of prospective attorneys.
 
-(3) In Florida, Roots was convicted of providing a false statement to the authorities. To be sure, Roots has admitted that he provided a false name, but it should go without saying that this crime also reflects upon a candidate's ability to serve the public as an attorney, as well as upon the applicant's candor and truthfulness.
+(3\) In Florida, Roots was convicted of providing a false statement to the authorities. To be sure, Roots has admitted that he provided a false name, but it should go without saying that this crime also reflects upon a candidate's ability to serve the public as an attorney, as well as upon the applicant's candor and truthfulness.
 
 In their totality, these various citations, misdemeanors, and felonies that Roots has accumulated over the years present sufficient evidence to warrant, at minimum, a significant delay in acting favorably upon his application for admission to the Rhode Island bar, especially in light of the fact that Roots has admittedly ignored and violated the terms of his two previous probationary periods. Indeed, Roots's first probation required him to perform community services — yet he chose to ignore that mandate from the Florida court. Instead, it was only after he scuffled with an arresting police officer — itself a display of disobedience to the officer's attempt to effect a lawful arrest — and again disobeyed the terms of his probation, that Roots was ultimately forced to serve time in prison.
 
@@ -798,7 +790,7 @@ Accordingly, we hereby deny Roots's application without prejudice to his reappli
 
 ### EXHIBIT A
 
-_Report of the Committee on Character and Fitness Regarding Roger Roots_
+_REPORT OF THE COMMITTEE ON CHARACTER AND FITNESS REGARDING ROGER ROOTS_
 
 Roger Roots is recent graduate of Roger Williams Law School and a applicant for admission to the Rhode Island Bar. Mr. Roots has a problematic history which has necessitated an investigation and a hearing into his moral character and fitness as required by Article II, Rule 3. On the one hand, Mr. Roots has an exemplary record in college and in law school. On the other hand, for a period of some five years ending in 1990, he exhibited gross disrespect for the law, which disrespect was exacerbated by a stream of extremist writings, some of which have continued into the near past. In large measure, resolution of Mr. Roots' candidacy boils down to a question of whether one should emphasize the pre-1991 Mr. Roots or the man who post-dates that period. The issue is compounded by the First Amendment implications of considering content of his numerous political writings, some of which have attacked our system of laws and others of which have been on occasion blatantly racist.
 
@@ -848,7 +840,7 @@ For these reasons, the Committee concludes that Mr. Roots meets the minimum requ
 
 ### EXHIBIT B
 
-#### _CONCURRING REPORT TO THE SUPREME COURT ON THE APPLICATION OF ROGER ROOTS_
+_CONCURRING REPORT TO THE SUPREME COURT ON THE APPLICATION OF ROGER ROOTS_
 
 I write this separate report to the Court because, while I agree with the Majority that neither Mr. Roots' personal beliefs nor his past criminal convictions should disqualify him from being a member of the bar, I cannot fully agree with their assessment of his credibility and candor before this Committee.
 
@@ -878,7 +870,7 @@ Brendt W. Anderson
 
 ### EXHIBIT C
 
-#### _MINORITY REPORT APPLICATION OF ROGER ROOTS_
+_MINORITY REPORT APPLICATION OF ROGER ROOTS_
 
 To: Supreme Court of Rhode Island
 
@@ -1188,23 +1180,23 @@ The Review Department panel's dissenting opinion concluded that Glass had not pr
 
 ##### A. Applicable Law
 
-(1) To be qualified to practice law in this state, a person must be of good moral character. Good moral character includes "qualities of honesty, fairness, candor, trustworthiness, observance of fiduciary responsibility, respect for and obedience to the law, and respect for the rights of others and the judicial process." "Persons of good character ... do not commit acts or crimes involving moral turpitude—a concept that embraces a wide range of deceitful and depraved behavior." A lawyer's good moral character is essential for the protection of clients and for the proper functioning of the judicial system itself.
+(1\) To be qualified to practice law in this state, a person must be of good moral character. Good moral character includes "qualities of honesty, fairness, candor, trustworthiness, observance of fiduciary responsibility, respect for and obedience to the law, and respect for the rights of others and the judicial process." "Persons of good character ... do not commit acts or crimes involving moral turpitude—a concept that embraces a wide range of deceitful and depraved behavior." A lawyer's good moral character is essential for the protection of clients and for the proper functioning of the judicial system itself.
 
-(2) When the applicant has presented evidence that is sufficient to establish a prima facie case of his or her good moral character, the burden shifts to the State Bar to rebut that case with evidence of poor moral character. Once the State Bar has presented evidence of moral turpitude, the burden "falls squarely upon the applicant to demonstrate his [or her] rehabilitation."
+(2\) When the applicant has presented evidence that is sufficient to establish a prima facie case of his or her good moral character, the burden shifts to the State Bar to rebut that case with evidence of poor moral character. Once the State Bar has presented evidence of moral turpitude, the burden "falls squarely upon the applicant to demonstrate his [or her] rehabilitation."
 
 Of particular significance for the present case is the principle that "the more serious the misconduct and the bad character evidence, the stronger the applicant's showing of rehabilitation must be." "Cases authorizing admission on the basis of rehabilitation commonly involve a substantial period of _exemplary_ conduct following the applicant's misdeeds." Moreover, "truly exemplary" conduct ordinarily includes service to the community.
 
-(3) We independently weigh the evidence that was before the State Bar Court, recognizing that the applicant bears the burden of establishing good moral character. We ask whether the applicant is fit to practice law, paying particular attention to acts of moral turpitude and prior misconduct that bears particularly upon fitness to practice law.
+(3\) We independently weigh the evidence that was before the State Bar Court, recognizing that the applicant bears the burden of establishing good moral character. We ask whether the applicant is fit to practice law, paying particular attention to acts of moral turpitude and prior misconduct that bears particularly upon fitness to practice law.
 
 In reviewing moral fitness findings made by the State Bar, we accord significant weight to the State Bar Court hearing judge's findings of fact to the extent they are based on witness demeanor and credibility. Although "the moral character determinations of the Committee and the State Bar Court play an integral role in the admissions decision, and both bear substantial weight within their respective spheres," we are not bound by the determinations of the Committee or the State Bar Court. Rather, we "independently examine and weigh the evidence" to decide whether the applicant is qualified for admission.
 
-(4) Contrary to the Review Department majority's view that Glass's burden was significantly lighter than it would be for an attorney seeking readmission because he was a first-time applicant, in many respects the difference between admission and disciplinary proceedings is "more apparent than real." "Because both admission and disciplinary proceedings concern fitness to practice law as evidenced by acts of moral turpitude, this court routinely consults its disciplinary cases in deciding whether applicants for admission possess, at the outset, the requisite moral character." At both admission and disciplinary proceedings, "[t]he common issue is whether the applicant for admission or the attorney sought to be disciplined 'is a fit and proper person to be permitted to practice law, and that usually turns upon whether he has committed or is likely to continue to commit acts of moral turpitude'", particularly misconduct that bears upon the applicant's fitness to practice law.
+(4\) Contrary to the Review Department majority's view that Glass's burden was significantly lighter than it would be for an attorney seeking readmission because he was a first-time applicant, in many respects the difference between admission and disciplinary proceedings is "more apparent than real." "Because both admission and disciplinary proceedings concern fitness to practice law as evidenced by acts of moral turpitude, this court routinely consults its disciplinary cases in deciding whether applicants for admission possess, at the outset, the requisite moral character." At both admission and disciplinary proceedings, "[t]he common issue is whether the applicant for admission or the attorney sought to be disciplined 'is a fit and proper person to be permitted to practice law, and that usually turns upon whether he has committed or is likely to continue to commit acts of moral turpitude'", particularly misconduct that bears upon the applicant's fitness to practice law.
 
 "However, unlike in disciplinary proceedings, where the State Bar must show that an already admitted attorney is unfit to practice law and deserves professional sanction, the burden rests upon the candidate for admission to prove his own moral fitness."
 
-##### B. _Analysis_
+##### B. Analysis
 
-(5) The Review Department majority believed it was reasonable to draw all inferences in favor of Glass, failing to be constrained by our discussion in _Gossage_ as we shall explain. Although an applicant ordinarily receives the benefit of the doubt as to "conflicting, equally reasonable inferences" concerning moral fitness, the State Bar Court majority failed to recognize that this rule does not materially assist applicants who have engaged in serious misconduct. This is because "[w]here serious or criminal misconduct is involved, positive inferences about the applicant's moral character are more difficult to draw, and negative character inferences are stronger and _more reasonable._" When there have been very serious acts of moral turpitude, we must be convinced that the applicant "is no longer the same person who behaved so poorly in the past," and will find moral fitness "only if he [or she] has since behaved in exemplary fashion over a meaningful period of time."
+(5\) The Review Department majority believed it was reasonable to draw all inferences in favor of Glass, failing to be constrained by our discussion in _Gossage_ as we shall explain. Although an applicant ordinarily receives the benefit of the doubt as to "conflicting, equally reasonable inferences" concerning moral fitness, the State Bar Court majority failed to recognize that this rule does not materially assist applicants who have engaged in serious misconduct. This is because "[w]here serious or criminal misconduct is involved, positive inferences about the applicant's moral character are more difficult to draw, and negative character inferences are stronger and _more reasonable._" When there have been very serious acts of moral turpitude, we must be convinced that the applicant "is no longer the same person who behaved so poorly in the past," and will find moral fitness "only if he [or she] has since behaved in exemplary fashion over a meaningful period of time."
 
 Applying the _Gossage_ standard in this case of egregious malfeasance, we begin our own independent review of the record with a focus on Glass's many acts of dishonesty and professional misconduct, and then ask whether he has established a compelling showing of rehabilitation and truly exemplary conduct over an extended period that would suffice to demonstrate his fitness for the practice of law.
 
@@ -1218,27 +1210,27 @@ Glass's misconduct was also reprehensible because it took place while he was pur
 
 Moreover, Glass's lack of integrity and forthrightness continued beyond the time he was engaged in journalism. Once he was exposed, Glass's response was to protect himself, not to freely and fully admit and catalogue all of his fabrications. He never fully cooperated with his employers to clarify the record, failed to carefully review the editorials they published to describe the fabrications to their readership, made misrepresentations to The New Republic regarding some of his work during the period he purported to be cooperating with that magazine, and indeed some of his fabrications did not come to light until the California State Bar proceedings. He refused to speak to his editor at George magazine when the latter called to ask for help in identifying fabrications in the articles Glass wrote for that magazine.
 
-(6) The record also discloses instances of dishonesty and disingenuousness occurring after Glass's exposure, up to and including the State Bar evidentiary hearing in 2010. In the New York bar proceedings that ended in 2004, as even the State Bar Court majority acknowledged, he made misrepresentations concerning his cooperation with The New Republic and other publications and efforts to aid them identify all of his fabrications. He also submitted an incomplete list of articles that injured others. We have previously said about omissions on bar applications: "Whether it is caused by intentional concealment, reckless disregard for the truth, or an _unreasonable refusal to perceive the need for disclosure,_ such an omission is itself strong evidence that the applicant lacks the 'integrity' and/or 'intellectual discernment' required to be an attorney."
+(6\) The record also discloses instances of dishonesty and disingenuousness occurring after Glass's exposure, up to and including the State Bar evidentiary hearing in 2010. In the New York bar proceedings that ended in 2004, as even the State Bar Court majority acknowledged, he made misrepresentations concerning his cooperation with The New Republic and other publications and efforts to aid them identify all of his fabrications. He also submitted an incomplete list of articles that injured others. We have previously said about omissions on bar applications: "Whether it is caused by intentional concealment, reckless disregard for the truth, or an _unreasonable refusal to perceive the need for disclosure,_ such an omission is itself strong evidence that the applicant lacks the 'integrity' and/or 'intellectual discernment' required to be an attorney."
 
 Our review of the record indicates hypocrisy and evasiveness in Glass's testimony at the California State Bar hearing, as well. We find it particularly disturbing that at the hearing Glass persisted in claiming that he had made a good faith effort to work with the magazines that published his works. He went through many verbal twists and turns at the hearing to avoid acknowledging the obvious fact that in his New York bar application he exaggerated his level of assistance to the magazines that had published his fabrications, and that he omitted from his New York bar list of fabrications some that actually could have injured real persons. He also testified that he told his lawyer to work with Harper's Magazine to identify his fabrications, yet evaded questions concerning whether his lawyer had done so, while insisting that he took responsibility for an inferred failure to follow what obviously were significant instructions. He asserted that he had been too distraught to recognize that the list of fabrications The New Republic gave his lawyer was incomplete—or that in his response he had denied that articles including the egregious _Taxis and the Meaning of Work_ were in fact fabricated—while acknowledging that within a few days of his firing he made arrangements to reschedule a final examination for the end of the exam period and did well on the exam he took within a week of his exposure. Indeed, despite his many statements concerning taking personal responsibility, and contrary to what he suggested in his New York bar application, it was not until the California Bar proceedings that he shouldered the responsibility of reviewing the editorials his employers published disclosing his fabrications, thus failing to ensure that all his very public lies had been corrected publically and in a timely manner. He has "not acted with the 'high degree of _frankness_ and truthfulness' and the 'high standard of integrity' required by this process."
 
-(7) Honesty is absolutely fundamental in the practice of law; without it, "the profession is worse than valueless in the place it holds in the administration of justice." "[M]anifest dishonesty ... provide[s] a reasonable basis for the conclusion that the applicant or attorney cannot be relied upon to fulfill the moral obligations incumbent upon members of the legal profession." As the dissent in the Review Department pointed out, "if Glass were to fabricate evidence in legal matters as readily and effectively as he falsified material for magazine articles, the harm to the public and profession would be immeasurable."
+(7\) Honesty is absolutely fundamental in the practice of law; without it, "the profession is worse than valueless in the place it holds in the administration of justice." "[M]anifest dishonesty ... provide[s] a reasonable basis for the conclusion that the applicant or attorney cannot be relied upon to fulfill the moral obligations incumbent upon members of the legal profession." As the dissent in the Review Department pointed out, "if Glass were to fabricate evidence in legal matters as readily and effectively as he falsified material for magazine articles, the harm to the public and profession would be immeasurable."
 
 We also observe that instead of directing his efforts at serving others in the community, much of Glass's energy since the end of his journalistic career seems to have been directed at advancing his own career and financial and emotional well-being.
 
-(8) [W]e do well to repeat Justice Felix Frankfurter's "eloquent description" of the moral character required of lawyers: "It is a fair characterization of the lawyer's responsibility in our society that he [or she] stands 'as a shield' ... in defense of right and to ward off wrong. From a profession charged with such responsibilities there must be exacted those qualities of truth-speaking, of a high sense of honor, of granite discretion, of the strictest observance of fiduciary responsibility, that have, throughout the centuries, been compendiously described as 'moral character.'"
+(8\) [W]e do well to repeat Justice Felix Frankfurter's "eloquent description" of the moral character required of lawyers: "It is a fair characterization of the lawyer's responsibility in our society that he [or she] stands 'as a shield' ... in defense of right and to ward off wrong. From a profession charged with such responsibilities there must be exacted those qualities of truth-speaking, of a high sense of honor, of granite discretion, of the strictest observance of fiduciary responsibility, that have, throughout the centuries, been compendiously described as 'moral character.'"
 
-(9) As for Glass's case for admission, although he points to his youth at the time of his employment as a journalist and an asserted period of rehabilitation of 12 years (measured between the time he was fired and the hearing in the State Bar Court), we have outlined instances of dishonesty and disingenuousness persisting throughout that period, including at the California State Bar evidentiary hearing. In addition, Glass's behavior was under the scrutiny of first the New York bar from 2002 to 2004, and then the California Bar from 2007 to 2010, reducing the probative value of the evidence of his good conduct during those periods. "[G]ood conduct generally is expected from someone who has applied for admission with, and whose character is under scrutiny by, the State Bar."
+(9\) As for Glass's case for admission, although he points to his youth at the time of his employment as a journalist and an asserted period of rehabilitation of 12 years (measured between the time he was fired and the hearing in the State Bar Court), we have outlined instances of dishonesty and disingenuousness persisting throughout that period, including at the California State Bar evidentiary hearing. In addition, Glass's behavior was under the scrutiny of first the New York bar from 2002 to 2004, and then the California Bar from 2007 to 2010, reducing the probative value of the evidence of his good conduct during those periods. "[G]ood conduct generally is expected from someone who has applied for admission with, and whose character is under scrutiny by, the State Bar."
 
-(10) The Review Department majority relied heavily on the testimony of Glass's character witnesses, but the testimony of character witnesses will not suffice by itself to establish rehabilitation. Moreover, stressing that Glass's reputation as a journalist had been exploded and that so many years had passed, some of the character witnesses did not sufficiently focus on the seriousness of the misconduct, incorrectly viewing it as of little current significance despite its lingering impact on its victims and on public perceptions concerning issues of race and politics. They also did not take into account, as we do, that the misconduct reflected poorly on the particular commitment to honesty that Glass might have been expected to have had as a law student. For these reasons we believe the Review Department majority accorded too much probative value to the testimony of Glass's character witnesses.
+(10\) The Review Department majority relied heavily on the testimony of Glass's character witnesses, but the testimony of character witnesses will not suffice by itself to establish rehabilitation. Moreover, stressing that Glass's reputation as a journalist had been exploded and that so many years had passed, some of the character witnesses did not sufficiently focus on the seriousness of the misconduct, incorrectly viewing it as of little current significance despite its lingering impact on its victims and on public perceptions concerning issues of race and politics. They also did not take into account, as we do, that the misconduct reflected poorly on the particular commitment to honesty that Glass might have been expected to have had as a law student. For these reasons we believe the Review Department majority accorded too much probative value to the testimony of Glass's character witnesses.
 
-(11) Glass emphasized the remorse he expressed through his letters to victims, and characterized his novel and his appearance on _60 Minutes_ as efforts to make amends. Remorse does not establish rehabilitation, however, and in any event, the weight of this evidence is diminished because the letters were not written near the time of his misconduct and exposure, when they might have been most meaningful to the victims, but rather seemed timed to coincide with his effort to become a member of the New York bar. The novel served Glass's own purposes, producing notoriety and a fee of $175,000, and the appearance on _60 Minutes_ was timed to coincide with the release of the novel. Glass did not offer any restitution to Lane or Bradley. It was not until approximately 2008 that he made an offer to the then friendly Peretz—who roundly disclaimed any interest in restitution—to repay his salary. This offer was made after Glass applied to the California Bar and was another oddly belated and, we believe, disingenuous effort at making his victims whole.
+(11\) Glass emphasized the remorse he expressed through his letters to victims, and characterized his novel and his appearance on _60 Minutes_ as efforts to make amends. Remorse does not establish rehabilitation, however, and in any event, the weight of this evidence is diminished because the letters were not written near the time of his misconduct and exposure, when they might have been most meaningful to the victims, but rather seemed timed to coincide with his effort to become a member of the New York bar. The novel served Glass's own purposes, producing notoriety and a fee of $175,000, and the appearance on _60 Minutes_ was timed to coincide with the release of the novel. Glass did not offer any restitution to Lane or Bradley. It was not until approximately 2008 that he made an offer to the then friendly Peretz—who roundly disclaimed any interest in restitution—to repay his salary. This offer was made after Glass applied to the California Bar and was another oddly belated and, we believe, disingenuous effort at making his victims whole.
 
 The record of Glass's therapy does not represent "truly exemplary conduct in the sense of returning something to the community." To be sure, through therapy he seems to have gained a deep understanding of the psychological sources of his misconduct, as well as tools to help him avoid succumbing to the same pressures again. His treating psychiatrists are plainly highly competent and well regarded in their field, and they are convinced that he has no remaining psychological flaws tending to cause him to act dishonestly. Glass believed that he could best make amends by changing himself. But his 12 years of therapy primarily conferred a personal benefit on Glass himself.
 
-(12) Glass points to the pro bono legal work he does for clients of his firm as evidence of sustained efforts on behalf of the community, but we observe that pro bono work is not truly _exemplary_ for attorneys, but rather is expected of them.
+(12\) Glass points to the pro bono legal work he does for clients of his firm as evidence of sustained efforts on behalf of the community, but we observe that pro bono work is not truly _exemplary_ for attorneys, but rather is expected of them.
 
-(13) Glass and the witnesses who supported his application stress his talent in the law and his commitment to the profession, and they argue that he has already paid a high enough price for his misdeeds to warrant admission to the bar. They emphasize his personal redemption, but we must recall that what is at stake is not compassion for Glass, who wishes to advance from being a supervised law clerk to enjoying a license to engage in the practice of law on an independent basis. Given our duty to protect the public and maintain the integrity and high standards of the profession, our focus is on the applicant's moral fitness to practice law. On this record, the applicant failed to carry his heavy burden of establishing his rehabilitation and current fitness.
+(13\) Glass and the witnesses who supported his application stress his talent in the law and his commitment to the profession, and they argue that he has already paid a high enough price for his misdeeds to warrant admission to the bar. They emphasize his personal redemption, but we must recall that what is at stake is not compassion for Glass, who wishes to advance from being a supervised law clerk to enjoying a license to engage in the practice of law on an independent basis. Given our duty to protect the public and maintain the integrity and high standards of the profession, our focus is on the applicant's moral fitness to practice law. On this record, the applicant failed to carry his heavy burden of establishing his rehabilitation and current fitness.
 
 #### III. CONCLUSION
 
@@ -1266,7 +1258,7 @@ Rule 90.1(e) reads in full:
 
 The standard then I am to apply is if the continued admission would be inappropriate or inadvisable.
 
-I have no intention to litigate here, or make any findings, as to whether or not Mr. Wood violated other States' Rules of Professional Conduct. I agree that is outside my authority. It is the province of the Delaware Office of Disciplinary Counsel, and ultimately the Delaware Supreme Court, or their counterparts in other jurisdictions, to make a factual determination as to whether Mr. Wood violated the Rules of Professional Conduct. Thus, the cases cited by Mr. Wood are inapposite and of no avail. In [_Lendus, LLC v. Goode,_ 2018 WL 6498674 (Del. Ch. Dec. 10, 2018)](https://scholar.google.com/scholar_case?about=17978707468027188540&hl=en&as_sdt=6,34) and _Crumpler v. Superior Court, ex. rel New Castle County,_ Del. Supr., 56 A.3d 1000 (Del. 2012), the courts allowed the foreign lawyer to withdraw as _pro hac vice_ counsel and referred alleged ethical violations to the Office of Disciplinary Counsel. Neither of those is happening here. Similarly, in [_Kaplan v. Wyatt,_ 1984 WL 8274 (Del. Ch. Jan. 18, 1984),](https://scholar.google.com/scholar_case?about=10380125392707581321&hl=en&as_sdt=6,34) Chancellor Brown, on very different facts, allowed _pro hac vice_ counsel to continue his representation but stressed that this did not constitute approval of his conduct and that ethical violations could be addressed elsewhere.
+I have no intention to litigate here, or make any findings, as to whether or not Mr. Wood violated other States' Rules of Professional Conduct. I agree that is outside my authority. It is the province of the Delaware Office of Disciplinary Counsel, and ultimately the Delaware Supreme Court, or their counterparts in other jurisdictions, to make a factual determination as to whether Mr. Wood violated the Rules of Professional Conduct. Thus, the cases cited by Mr. Wood are inapposite and of no avail. In _Lendus, LLC v. Goode,_ and _Crumpler v. Superior Court, ex. rel New Castle County,_ the courts allowed the foreign lawyer to withdraw as _pro hac vice_ counsel and referred alleged ethical violations to the Office of Disciplinary Counsel. Neither of those is happening here. Similarly, in _Kaplan v. Wyatt,_ Chancellor Brown, on very different facts, allowed _pro hac vice_ counsel to continue his representation but stressed that this did not constitute approval of his conduct and that ethical violations could be addressed elsewhere.
 
 What I am always required to do is ensure that those practicing before me are of sufficient character, and conduct themselves with sufficient civility and truthfulness. Violations of Rules of Professional Conduct are for other entities to judge based upon an appropriate record following guidelines of due process. My role here is much more limited.
 
@@ -1290,7 +1282,7 @@ IT IS SO ORDERED.
 
 \Begin{legalcode}
 
-\mrpc
+\section*{Model Rules of Professional Conduct}
 
 ### Rule 5.5
 
@@ -1336,11 +1328,23 @@ NC Gen. Stat. §§ 84-2.1, 84-2.2, 84-4, 84-5, 84-5.1, 84-6, 84-7, 84-7.1, 84-8,
 
 \chapter{Attorney Discipline}
 
-\mrpc{8.2, 8.3, 8.4, 8.5}
+\Begin{legalcode}
 
-Restatement § 5
+\mrpc{}
 
-NC Gen. Stat. § 84-28, 84-36
+\codesec{8.2}
+
+\codesec{8.3}
+
+\codesec{8.4}
+
+\codesec{8.5}
+
+\restlawyers{}
+
+\codesec{\S~ 5}
+
+\End{legalcode}
 
 \case{Neal v. Clinton}{No. CIV 2000–5677, slip op.}{Ark. Cir. Ct. Jan. 19, 2001}
 
@@ -1355,19 +1359,20 @@ NC Gen. Stat. § 84-28, 84-36
 \chapter{Law Firms}
 
 \Begin{legalcode}
-\mrpc
 
-### Rule 5.1
+\mrpc{}
 
-### Rule 5.2
+\codesec{Rule 5.1}
 
-### Rule 5.3
+\codesec{Rule 5.2}
 
-### Rule 5.4
+\codesec{Rule 5.3}
 
-### Rule 5.6
+\codesec{Rule 5.4}
 
-### Rule 5.7
+\codesec{Rule 5.6}
+
+\codesec{Rule 5.7}
 
 \End{legalcode}
 
@@ -1385,11 +1390,11 @@ NC Gen. Stat. § 84-28, 84-36
 
 \Begin{legalcode}
 
-\mrpc
+\mrpc{}
 
-### Rule 7.1
+\codesec{Rule 7.1}
 
-### Rule 7.2
+\codesec{Rule 7.2}
 
 \End{legalcode}
 
@@ -1405,11 +1410,11 @@ NC Gen. Stat. § 84-28, 84-36
 
 \Begin{legalcode}
 
-\mrpc
+\mrpc{}
 
-### Rule 7.3
+\codesec{Rule 7.3}
 
-### Rule 7.6
+\codesec{Rule 7.6}
 
 \End{legalcode}
 
