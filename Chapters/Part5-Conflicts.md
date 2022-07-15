@@ -15,12 +15,12 @@ citation-abbreviations: '../assets/bibliography/casebook-abbrevs.json'
 output:
   pdf_document:
     template: casebook.tex
-    path: ../PDF/Part4.pdf
+    path: ../PDF/Part5.pdf
 
 ---
 
 
-\chapter{Conflicts Involving Current Clients}
+\chapter{Conflicts Between Current Clients}
 
 MRPC Rules 1.7 & 1.8; 6.3, 6.4, 6.5
 
@@ -32,6 +32,17 @@ In re Morse, 748 S.E.2d 921 (Ga. 2013)
 
 In re State Grand Jury Investigation, 983 A.2d 1097 (N.J. 2009)
 
+
+
+\chapter{Conflicts Between Lawyer and Client}
+
+MRPC Rule 1.8(a), (c), (d), (e)
+
+Restatement §§ 36
+
+Committee on Prof. Ethics v. Mershon, 316 N.W.2d 895 (Iowa 1982)
+
+Saladini v. Righellis, 426 Mass. 231 (1997)
 
 
 

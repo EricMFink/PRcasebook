@@ -15,7 +15,7 @@ citation-abbreviations: '../assets/bibliography/casebook-abbrevs.json'
 output:
   pdf_document:
     template: casebook.tex
-    path: ../PDF/Part5.pdf
+    path: ../PDF/Part6.pdf
 
 ---
 

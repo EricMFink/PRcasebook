@@ -147,9 +147,9 @@ In reviewing moral fitness findings made by the State Bar, we accord significant
 
 "However, unlike in disciplinary proceedings, where the State Bar must show that an already admitted attorney is unfit to practice law and deserves professional sanction, the burden rests upon the candidate for admission to prove his own moral fitness."
 
-## B. _Analysis_
+##### B. _Analysis_
 
-(5) The Review Department majority believed it was reasonable to draw all inferences in favor of Glass, failing to be constrained by our discussion in as we shall explain. Although an applicant ordinarily receives the benefit of the doubt as to "conflicting, equally reasonable inferences" concerning moral fitness, the State Bar Court majority failed to recognize that this rule does not materially assist applicants who have engaged in serious misconduct. This is because "[w]here serious or criminal misconduct is involved, positive inferences about the applicant's moral character are more difficult to draw, and negative character inferences are stronger and _more reasonable._" When there have been very serious acts of moral turpitude, we must be convinced that the applicant "is no longer the same person who behaved so poorly in the past," and will find moral fitness "only if he [or she] has since behaved in exemplary fashion over a meaningful period of time."
+(5) The Review Department majority believed it was reasonable to draw all inferences in favor of Glass, failing to be constrained by our discussion in _Gossage_ as we shall explain. Although an applicant ordinarily receives the benefit of the doubt as to "conflicting, equally reasonable inferences" concerning moral fitness, the State Bar Court majority failed to recognize that this rule does not materially assist applicants who have engaged in serious misconduct. This is because "[w]here serious or criminal misconduct is involved, positive inferences about the applicant's moral character are more difficult to draw, and negative character inferences are stronger and _more reasonable._" When there have been very serious acts of moral turpitude, we must be convinced that the applicant "is no longer the same person who behaved so poorly in the past," and will find moral fitness "only if he [or she] has since behaved in exemplary fashion over a meaningful period of time."
 
 Applying the _Gossage_ standard in this case of egregious malfeasance, we begin our own independent review of the record with a focus on Glass's many acts of dishonesty and professional misconduct, and then ask whether he has established a compelling showing of rehabilitation and truly exemplary conduct over an extended period that would suffice to demonstrate his fitness for the practice of law.
 
@@ -185,6 +185,6 @@ The record of Glass's therapy does not represent "truly exemplary conduct in the
 
 (13) Glass and the witnesses who supported his application stress his talent in the law and his commitment to the profession, and they argue that he has already paid a high enough price for his misdeeds to warrant admission to the bar. They emphasize his personal redemption, but we must recall that what is at stake is not compassion for Glass, who wishes to advance from being a supervised law clerk to enjoying a license to engage in the practice of law on an independent basis. Given our duty to protect the public and maintain the integrity and high standards of the profession, our focus is on the applicant's moral fitness to practice law. On this record, the applicant failed to carry his heavy burden of establishing his rehabilitation and current fitness.
 
-## III. CONCLUSION
+#### III. CONCLUSION
 
 For the foregoing reasons, we reject the State Bar Court majority's recommendation and decline to admit Glass to the practice of law.

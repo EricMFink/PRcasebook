@@ -61,10 +61,7 @@ breached the duty of care, and the breach caused a harm to the
 plaintiff. Of course, a duty of care exists only if an attorney-client
 relationship exists. So the first element of a malpractice claim for
 negligence is proving the existence of an attorney-client relationship.
----
-lang: en
-title: The Duty of Loyalty
----
+
 
 # The Duty of Loyalty
 
@@ -81,21 +78,13 @@ Under the duty of loyalty, attorneys cannot represent anyone with an
 interest adverse to one of their clients, because it would create a
 conflict of interest. If that interest becomes an issue, the attorney's
 loyalty would be divided between the two clients. Obviously, an attorney
-cannot
-
-
-
-
-represent two parties with interests directly adverse to each other,
+cannot represent two parties with interests directly adverse to each other,
 like opposing parties in litigation, because the conflict of interest is
 fundamental and unavoidable. MR 1.7, cmt. [8., But the restriction
 imposed by the duty of loyalty applies more broadly. Any adverse or
 potentially adverse interest may create a conflict of interest, even if
 that interest is not yet at issue.
----
-lang: en
-title: The Duty of Impartiality
----
+
 
 # The Duty of Impartiality
 
@@ -123,10 +112,6 @@ both represents and has a financial interest in a corporation, a
 conflict of interests exists, because the attorney has an incentive to
 provide advice that will benefit the attorney's investment and withhold
 advice that will not, depriving the client of the full range of options.
----
-lang: en
-title: "Model Rule 2.1: Advisor"
----
 
 # Model Rule 2.1: Advisor
 
@@ -135,10 +120,6 @@ professional judgment and render candid advice. In rendering advice, a
 lawyer may refer not only to law but to other considerations such as
 moral, economic, social and political factors, that may be relevant to
 the client's situation.
----
-lang: en
-title: The Duty of Confidentiality
----
 
 # The Duty of Confidentiality
 
@@ -153,20 +134,11 @@ information they disclose cannot be used against them.
 
 If a client's interests are adverse or potentially adverse to the
 attorney's interests or the interests of another client, a conflict of
-interests exists that will compromise the attorney's ability to
-
-
-
-
-maintain confidentiality. Under those circumstances, attorneys have an
+interests exists that will compromise the attorney's ability to maintain confidentiality. Under those circumstances, attorneys have an
 incentive to use the confidential information for their own benefit or
 the benefit of their other client. Even if the client is not harmed by
 the use of the confidential information, the client is harmed by the
 betrayal of trust.
----
-lang: en
-title: "Model Rule 1.6: Confidentiality of Information"
----
 
 # Model Rule 1.6: Confidentiality of Information
 
@@ -174,10 +146,7 @@ a. A lawyer shall not reveal information relating to the representation
 of a client unless the client gives informed consent, the disclosure is
 impliedly authorized in order to carry out the representation or the
 disclosure is permitted.
----
-lang: en
-title: Limitations on the Duties of an Attorney
----
+
 
 # Limitations on the Duties of an Attorney
 
@@ -222,14 +191,7 @@ Millington had previously represented Anders and his company. Anders
 asked Millington to represent Ishmael. He agreed, and prepared a
 settlement agreement that Ishmael signed. Ishmael was entitled to
 $41,250, but under the agreement she received $8,807. Ishmael filed a
-malpractice action, and
-
-
-
-
-the trial court granted Millington's motion for summary judgment. The
-appellate court reversed, holding that a jury could have found that
-Millington breached his duty of care.
+malpractice action, and the trial court granted Millington's motion for summary judgment. The appellate court reversed, holding that a jury could have found that Millington breached his duty of care.
 
 FRIEDMAN, J.
 

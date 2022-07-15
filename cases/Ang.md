@@ -36,7 +36,19 @@ The fourth element, proximate causation, includes "cause in fact and legal causa
 
 The trial court in the present case thus instructed the jury as follows on the elements of the Angs criminal malpractice claims:
 
-> To prove their legal malpractice claims, the plaintiffs bear the burden of proving by a preponderance of the evidence each of the following: First, that there is an attorney-client relationship giving rise to a duty owed by a defendant to a plaintiff; Second, that plaintiffs have obtained a successful challenge to their convictions based on their attorneys failure to adequately defend them; Third, that plaintiff was innocent of the crimes charged; Fourth, that there is an act of omission by a defendant that breached the duty of care of an attorney; Fifth, that a plaintiff was damaged; and Sixth, that a breach of duty by a defendant is a proximate cause of a plaintiff's damages.
+> To prove their legal malpractice claims, the plaintiffs bear the burden of proving by a preponderance of the evidence each of the following:
+>
+> First, that there is an attorney-client relationship giving rise to a duty owed by a defendant to a plaintiff;
+>
+> Second, that plaintiffs have obtained a successful challenge to their convictions based on their attorneys failure to adequately defend them;
+>
+> Third, that plaintiff was innocent of the crimes charged;
+>
+> Fourth, that there is an act of omission by a defendant that breached the duty of care of an attorney;
+>
+> Fifth, that a plaintiff was damaged; and
+>
+> Sixth, that a breach of duty by a defendant is a proximate cause of a plaintiff's damages.
 
 The Angs assigned error to this instruction, contending that their undisputed acquittal of the criminal charges met not only the additional element of postconviction relief but also the innocence requirement.
 
@@ -73,17 +85,15 @@ Legal causation is a subsequent inquiry, asking as a matter of law whether liabi
 
 Here the Angs's defense attorneys, Michael Martin and Richard Hansen, recommended a particular plea agreement. The Angs initially agreed but later withdrew the plea on recommendation from new counsel and were acquitted on all charges at a subsequent trial. They sued their former defense attorneys and a jury found that Martin alone was negligent even though it found the Angs had not proved their innocence by a preponderance of the evidence. Since the latter consideration should be irrelevant, Martin should bear the responsibility for his negligence. I would reverse as to Martin, and remand for a trial on damages.
 
----
 
-ALEXANDER, C.J. (concurring in dissent).
+### ALEXANDER, C.J. (concurring in dissent).
 
 I agree with Justice Sanders that the trial court erred in instructing the jury that Jessy and Editha Ang had to prove that they were actually innocent of the crime charged in order to prevail in their legal malpractice claim against attorneys Richard Hansen and Michael Martin. For that reason, we should reverse the Court of Appeals and remand to the trial court for a new trial on the Angs' claim against Martin.
 
 I write separately because, in my view, we should not stop with a determination that the trial court erred but should go further to indicate that the defendant attorney may raise the issue of the plaintiff's actual guilt in the criminal case as an affirmative defense. That was the position taken by the Supreme Court of Alaska in a similar case, _Shaw v. Department of Administration_. There, the court said that because plaintiffs in such actions must already bear the burden of proving that they have obtained postconviction relief from their criminal convictions, they should not have to prove their "actual innocence." The court went on to indicate, however, that the defendant may raise the issue of the plaintiff's "actual guilt" as an affirmative defense and seek to establish it by a preponderance of the evidence. Although the Alaska court did not engage in an extensive discussion of its reasons for placing the burden on the defendant to establish this affirmative defense, it did indicate that putting the burden there is consistent with the requirement that defendants establish traditional affirmative defenses that look to plaintiffs' actions such as contributory/comparative negligence and assumption of the risk. The Alaska rule makes perfect sense to me for that reason and for the additional reason that it is consonant with the traditional notion that one is presumed innocent until proven guilty beyond a reasonable doubt. Furthermore, shifting the burden to the defendant relieves the plaintiff of the almost impossible burden of proving innocence while at the same time addressing the policy concern noted by the majority, that criminals should not benefit from "their own bad acts."
 
----
 
-CHAMBERS, J. (concurring in dissent).
+### CHAMBERS, J. (concurring in dissent).
 
 I concur in Justice Sanders' dissent but write separately to express my indignation that this court, based upon the policy of protecting lawyers, would carve out a special protection for criminal defense attorneys whose acts of professional negligence are harmful to their clients. Under this logic, it is not enough for the injured client to prove actual harm from the attorney's failure to meet professional standards; the injured client must also prove that her hands were always clean. Under this logic, why not give immunity to accountants for professional negligence unless the accountant's client can prove he or she never understated income or requested an unavailable deduction, even when the accountants' bad acts caused actual harm to their clients or society? Surely tax dodgers should not profit from their misdeeds. Under this logic, why not give immunity to health care providers who harm their patients unless the patient can prove perfect good health but for the negligence of the provider? Surely the unhealthy should not profit from their illness.
 

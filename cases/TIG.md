@@ -23,11 +23,19 @@ For his part, Bellows filed a motion for sanctions against both ISU and Giffin W
 
 We now arrive at the essence of the case---the pivotal facts about the database. At a 4-day hearing on the pending motions, Gorrell testified that the database contained variables relevant to the issue of gender equity and was maintained in a format which enabled a user to prepare comparative studies. He testified that the gender equity studies were prepared from this database. He said he had done one of the studies himself, though he also said he had never personally accessed the database. The actual data processing, he said, was done by his research assistant, Anna Wells, and her preparation of the data for his 1994 study would have taken her no more than a day or two using the database:
 
-> Q How long did it take Anna Wells to compile the information for the 1994 study? A It could be done in a day or two.
+> Q How long did it take Anna Wells to compile the information for the 1994 study?
+>
+> A It could be done in a day or two.
 
 That apparently was news to Wells. She testified that she did not use any database in compiling the data.
 
-> Q Ms. Wells, when you collected the information reflected in these tables, was there a single source that you could go to to collect all the information reflected in the tables? A No. Q Was there a single database maintained by the Planning Policy department that contained all of the information reflected in these tables? A No.
+> Q Ms. Wells, when you collected the information reflected in these tables, was there a single source that you could go to to collect all the information reflected in the tables?
+>
+> A No.
+>
+> Q Was there a single database maintained by the Planning Policy department that contained all of the information reflected in these tables?
+>
+> A No.
 
 She used hard copy (probably the same 279 banker boxes of material which had, in fact, been produced to Bellows), and it took her "a few weeks, several weeks" to locate the information and format it for use. Why? Because, as Judge Mihm found, there was no database and never had been:
 

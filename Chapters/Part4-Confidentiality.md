@@ -3,7 +3,7 @@ date: Fall Term 2022
 
 title: Professional Responsibility
 
-Part: Confidentiality and Evidentiary Privileges
+Part: Confidentiality
 
 author: Eric M. Fink
 publisher: Elon University School of Law
@@ -15,7 +15,7 @@ citation-abbreviations: '../assets/bibliography/casebook-abbrevs.json'
 output:
   pdf_document:
     template: casebook.tex
-    path: ../PDF/Part3.pdf
+    path: ../PDF/Part4.pdf
 
 ---
 

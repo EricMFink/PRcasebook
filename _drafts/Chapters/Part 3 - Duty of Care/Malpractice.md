@@ -52,16 +52,13 @@ In the case before us, the objective of the deed was to transfer ownership of th
 
 \case{Equitania Ins, v. Slone & Garrett}{191 S.W.3d 552}{Ky. 2006}
 
-
-WINTERSHEIMER, Justice.
+### Wintersheimer, Justice
 
 This appeal is from an opinion of the Court of Appeals which affirmed a judgment of the circuit court based on a summary judgment/jury verdict that rejected the claim of the Equitania Insurance Company and its Vimont shareholder group for legal malpractice against Garrett and her law firm.
 
 The major issues are whether the proper standard for proving liability in a legal malpractice case was followed and whether the instructions given by the trial judge to the jury regarding specific factual issues violated the rule in favor of barebones jury instructions.
 
-Two groups of shareholders, the Vimont group, composed of four of the shareholders, and the Pavenstedt group, composed of a group of shareholders led by Johann Pavenstedt began to vie for control of Equitania, an insurance company which provided insurance for horse owners.
-
-After the Vimont group bought out the Pavenstedt group, the company continued to decline in its efforts to return a profit. Vimont eventually entered an agreement to sell the book of business to Markel Insurance Company. That deal was closed in January 1995. In March of that year, the Vimont group filed a civil action in circuit court, seeking to rescind the agreement between them and the Pavenstedt group. That case was assigned to Fayette Circuit Judge Gary Payne. A judgment was rendered against the Vimont group and it was upheld by the Court of Appeals in an unpublished opinion.
+Two groups of shareholders, the Vimont group, composed of four of the shareholders, and the Pavenstedt group, composed of a group of shareholders led by Johann Pavenstedt began to vie for control of Equitania, an insurance company which provided insurance for horse owners. After the Vimont group bought out the Pavenstedt group, the company continued to decline in its efforts to return a profit. Vimont eventually entered an agreement to sell the book of business to Markel Insurance Company. That deal was closed in January 1995. In March of that year, the Vimont group filed a civil action in circuit court, seeking to rescind the agreement between them and the Pavenstedt group. That case was assigned to Fayette Circuit Judge Gary Payne. A judgment was rendered against the Vimont group and it was upheld by the Court of Appeals in an unpublished opinion.
 
 Laurel Garrett and the law firm of Slone & Garrett represented the Vimont group in its attempt to gain control of the company prior to Vimont buying the shares of Pavenstedt. As a result of that representation, Vimont filed a civil action against Garrett in circuit court in February of 1997, alleging legal malpractice by Garrett in connection with her representation. That case was assigned to Fayette Circuit Judge John R. Adams and it is the principal subject of this appeal. Judge Adams ruled against Vimont and the Court of Appeals upheld that decision. This appeal followed.
 
@@ -79,23 +76,22 @@ The jury instructions given by the trial court over the objection by Vimont were
 
 The given instructions were incorrect for several reasons. It was properly preserved because there was an objection to Instruction No. 2 in the submitted instructions.
 
-Kentucky law does not provide for an exception for attorney liability for errors in judgment. A case relied on by the Court of Appeals, _Daugherty v. Runner_, stated that misjudgment of the law will generally not render a lawyer liable. However, Daugherty did not state that a lawyer can never be held liable for an error in judgment. The tendered instructions did not advise the jury that it had to be an error of law which precluded liability, nor did it inform the jury that there are circumstances in which misjudgment of the law could be a basis for liability. There can be many circumstances in which lawyers can commit errors of judgment which deviate from the standard of care. Whether an error of judgment is legal malpractice is a question of fact for the jury.
+Kentucky law does not provide for an exception for attorney liability for errors in judgment. A case relied on by the Court of Appeals, _Daugherty v. Runner_, stated that misjudgment of the law will generally not render a lawyer liable. However, _Daugherty_ did not state that a lawyer can never be held liable for an error in judgment. The tendered instructions did not advise the jury that it had to be an error of law which precluded liability, nor did it inform the jury that there are circumstances in which misjudgment of the law could be a basis for liability. There can be many circumstances in which lawyers can commit errors of judgment which deviate from the standard of care. Whether an error of judgment is legal malpractice is a question of fact for the jury.
 
-Vimont offered an expert, Manning Warren, to evaluate the methods undertaken by Garrett to assist the company in its shareholders dispute. Specifically, Warren testified that Garrett should have pursued an administrative process with the Department of Insurance to join the Vimont group to the Pavenstedt agreement which, if successful, would have resulted in the shareholders maintaining control of Equitania and would have resolved the issue. This would have avoided a prolonged battle with Pavenstedt and would have avoided spending over two million dollars by buying the stock. They also would have avoided the issues with the Department of Insurance regarding change of control as a result of their purchase. It was their conclusion that Garrett committed ongoing malpractice by failing to advise them of change of control issues. Warren further testified that it was a deviation to fail to pursue this option.
-
-However, it is apparently undisputed that the Department of Insurance would not have approved a Pavenstedt sale even if it had been properly submitted.
+Vimont offered an expert, Manning Warren, to evaluate the methods undertaken by Garrett to assist the company in its shareholders dispute. Specifically, Warren testified that Garrett should have pursued an administrative process with the Department of Insurance to join the Vimont group to the Pavenstedt agreement which, if successful, would have resulted in the shareholders maintaining control of Equitania and would have resolved the issue. This would have avoided a prolonged battle with Pavenstedt and would have avoided spending over two million dollars by buying the stock. They also would have avoided the issues with the Department of Insurance regarding change of control as a result of their purchase. It was their conclusion that Garrett committed ongoing malpractice by failing to advise them of change of control issues. Warren further testified that it was a deviation to fail to pursue this option. However, it is apparently undisputed that the Department of Insurance would not have approved a Pavenstedt sale even if it had been properly submitted.
 
 Kentucky should not allow lawyers to avoid liability for committing errors in judgment which the average reasonably prudent lawyer would not commit. Any avoidance of liability should only be allowed for errors of judgment made in absolute good faith.
 
 Here, Garrett failed to plead or present evidence regarding her alleged errors in judgment so as to justify her decision. The error in judgment instruction indirectly required the jury to define and understand abstract legal principles. The jury could not have reasonably understood the distinction between errors in judgment and legal malpractice. It is of interest to note that the instruction provided by Vimont in this case is similar to the instructions provided in Daugherty.
 
-The proper jury instruction must follow a form similar to that in _Palmore_ :
+The proper jury instruction must follow a form similar to that in _Palmore_:
 
 > It was the duty of Defendant in undertaking the legal representation of Plaintiff to exercise the degree of care and skill expected of a reasonably competent lawyer acting under similar circumstances. If you are satisfied from the evidence that Defendant failed to comply with this duty and that such failure was a substantial factor causing the loss, you will find for Plaintiff; otherwise you will find for Defendant.
 
-This instruction form contains the elements prescribed in _Daugherty_ without requiring the jury to understand abstract legal principles. The jury is able to determine from the evidence whether there was a breach of duty and whether that breach caused the loss.
+This instruction form contains the elements prescribed in Daugherty without requiring the jury to understand abstract legal principles. The jury is able to determine from the evidence whether there was a breach of duty and whether that breach caused the loss.
 
 Consequently, under the circumstances regarding the instructions, this matter is reversed and remanded. The decisions of the Court of Appeals and the trial court are reversed and this matter is remanded to the trial court for a jury determination as to all factual issues.
+
 
 \halfsep
 
@@ -202,11 +198,12 @@ To that, we would simply repeat that all the evidence in this case was submitted
 \End{questions}
 
 \case{TIG Ins, v. Giffin, Winning, Cohen & Bodewes}{444 F. 3d 587}{7th Cir. 2006}
-### EVANS, Circuit Judge.
+
+### Evans, Circuit Judge
 
 TIG Insurance Company appeals the dismissal of its malpractice case against the Giffin Winning law firm and one of its attorneys, Carol Hansen Posegate.
 
-To explain the malpractice claim we must reach back to the underlying lawsuit, in which Giffin Winning, at least for a time, represented Illinois State University (ISU) in a class-action, genderdiscrimination lawsuit brought by several female professors. In the suit, the plaintiffs contended that they were being paid less than male professors and that ISU retaliated against female professors who complained about the discrimination. Their attorney was Joel Bellows. TIG was ISU's liability insurer at the time and it paid the attorney fees which are at the heart of the present malpractice action; TIG, in turn, was reimbursed by its reinsurers.
+To explain the malpractice claim we must reach back to the underlying lawsuit, in which Giffin Winning, at least for a time, represented Illinois State University (ISU) in a class-action, gender-discrimination lawsuit brought by several female professors. In the suit, the plaintiffs contended that they were being paid less than male professors and that ISU retaliated against female professors who complained about the discrimination. Their attorney was Joel Bellows. TIG was ISU's liability insurer at the time and it paid the attorney fees which are at the heart of the present malpractice action; TIG, in turn, was reimbursed by its reinsurers.
 
 The malpractice alleged in the present case arose out of discovery problems in the case. The major problem involved Giffin Winning's failure to produce three documents called gender equity studies (two of which are at issue here) in their response to a discovery request. The response was signed in October 1996. A month later the case was stayed. Soon thereafter, the law firm of Latham & Watkins filed an appearance on behalf of ISU and essentially took control of ISU's defense, though Giffin Winning remained of record. Latham had an attorney-client relationship with ISU's insurer TIG. Giffin Winning did not.
 
@@ -223,9 +220,9 @@ We now arrive at the essence of the case---the pivotal facts about the database.
 > Q How long did it take Anna Wells to compile the information for the 1994 study?
 >
 > A It could be done in a day or two.
->
-> That apparently was news to Wells. She testified that she did not use any database in compiling the data.
->
+
+That apparently was news to Wells. She testified that she did not use any database in compiling the data.
+
 > Q Ms. Wells, when you collected the information reflected in these tables, was there a single source that you could go to to collect all the information reflected in the tables?
 >
 > A No.
@@ -238,15 +235,13 @@ She used hard copy (probably the same 279 banker boxes of material which had, in
 
 > I don't believe that the plaintiffs have ever established the existence of the kind of database that I thought was being alleged here, that there was some button at ISU that could be punched that would involve a print-out of all this information. That clearly is not true. The nonexistence of the database---which Bellows said there was an alleged conspiracy to hide---is not seriously contested.
 
-Nevertheless, Judge Mihm sanctioned Giffin Winning $10,000 for discovery lapses, a sanction which was later vacated. Judge Mihm, however, wisely denied Bellows' request for a default judgment based on the failure to produce the gender equity studies. He remarked that "I don't believe it was appropriate---but even if I had ordered that, I think that would have been reversed on appeal." In addition, although he denied Latham's motion to disqualify Bellows because of his contact with Gorrell, Judge Mihm sanctioned Bellows $10,000 as well.
-
-Ultimately, the case was settled; mercifully, we think.
+Nevertheless, Judge Mihm sanctioned Giffin Winning $10,000 for discovery lapses, a sanction which was later vacated. Judge Mihm, however, wisely denied Bellows' request for a default judgment based on the failure to produce the gender equity studies. He remarked that "I don't believe it was appropriate---but even if I had ordered that, I think that would have been reversed on appeal." In addition, although he denied Latham's motion to disqualify Bellows because of his contact with Gorrell, Judge Mihm sanctioned Bellows $10,000 as well. Ultimately, the case was settled; mercifully, we think.
 
 We now get to the present malpractice action that TIG filed against Giffin Winning in which the damages TIG alleges are the attorney fees it paid Latham to defend against the sanction motion---a whopping $1.2 million, give or take, for the work of 27 attorneys and various paralegals. It seems that when Latham said it took the motion seriously, it meant it. As we said, TIG paid the bill and was subsequently reimbursed by its reinsurers.
 
 The elements of a legal malpractice action in Illinois are well-settled. They are: "(1) the existence of an attorney-client relationship that establishes a duty on the part of the attorney; (2) a negligent act or omission constituting a breach of that duty; (3) proximate cause; and (4) damages." A legal malpractice case is similar to any other negligence claim, and traditional principles apply. Proximate cause describes two distinct requirements---cause in fact and legal cause. Cause in fact exists only if the defendant's conduct was a "material element and a substantial factor in bringing about the injury." Legal cause, on the other hand, is largely a question of foreseeability. The relevant inquiry is whether "the injury is of a type that a reasonable person would see as a likely result of his or her conduct." The occurrence must have been "reasonably" foreseeable: "Not what actually happened, but what the reasonably prudent person would then have foreseen as likely to happen, is the key to the question of reasonableness."
 
-This is not the same as (but, in this case, necessarily a bit difficult to distinguish from) a determination as to whether the fees themselves are reasonable. For purposes of proximate cause, if the fees do not reflect work reasonably, foreseeably related to the negligence alleged in the case, it does not matter that in some other sense they might be "reasonable." We draw this distinction in response to TIG's argument, that because the fees were paid, they are prima facie reasonable. In this situation, we find the argument breathtaking, say nothing of irrelevant.
+This is not the same as (but, in this case, necessarily a bit difficult to distinguish from) a determination as to whether the fees themselves are reasonable. For purposes of proximate cause, if the fees do not reflect work reasonably, foreseeably related to the negligence alleged in the case, it does not matter that in some other sense they might be "reasonable." We draw this distinction in response to TIG's argument, that because the fees were paid, they are _prima facie_ reasonable. In this situation, we find the argument breathtaking, say nothing of irrelevant.
 
 Proximate cause is the issue on which this case falters. Having said that, we recognize that the Illinois courts indicate that proximate cause should ordinarily be decided not as a matter or law, but by a trier of fact. However, in a situation in which it is clear as a matter of law that the injury could not have been foreseeable, Illinois courts have upheld summary judgment on the issue. The situation before us is such a case.
 
@@ -254,13 +249,13 @@ The fundamental negligence allegedly committed by Giffin Winning was a failure t
 
 In this all-too-common situation, the question for us is whether it would be reasonably foreseeable that a failure to produce these documents would result in the injury alleged here. Could the attorneys foresee that Gorrell, who failed to produce the documents when they turned the request over to him, would then, after he became disgruntled with ISU, independently provide the documents to Bellows? Beyond that, would reasonable people foresee that Gorrell would mislead Bellows about a database which did not exist? Would reasonable people then think that, upon hearing Gorrell's story, Bellows' first impulse would be to move for sanctions including default judgment in the case? Would reasonable people foresee that, next, a large law firm, apparently thinking of Judge Mihm as a bit trigger-happy, would jump into high gear out of fear of default judgment and launch an army of 27 attorneys, plus paralegals, to defend against the possibility that Judge Mihm might grant default judgment on the basis of an alleged conspiracy to hide something which does not exist? In other words, was the Latham response to a failure to produce documents and the resulting injury foreseeable?
 
-We think it was not as a matter of law. Our point can be illustrated by a very different sort of negligence action. In Abrams, the city failed to send an ambulance for a woman, Abrams (of course), who was in labor. A friend, who then drove her to the hospital, ran a red light and collided with a car driven by a drug-and-alcohol-impaired driver with a suspended license. Abrams was seriously injured and spent 2 weeks in a coma; sadly, her baby died. The court found, however, that as a matter of law there was no proximate cause. The city could not have foreseen the situation that unfolded. Perhaps a bit callously, the court remarked that "millions of women in labor make it safely to the hospital each year by private transportation."
+We think it was not as a matter of law. Our point can be illustrated by a very different sort of negligence action. In _Abrams_, the city failed to send an ambulance for a woman, Abrams (of course), who was in labor. A friend, who then drove her to the hospital, ran a red light and collided with a car driven by a drug-and-alcohol-impaired driver with a suspended license. Abrams was seriously injured and spent 2 weeks in a coma; sadly, her baby died. The court found, however, that as a matter of law there was no proximate cause. The city could not have foreseen the situation that unfolded. Perhaps a bit callously, the court remarked that "millions of women in labor make it safely to the hospital each year by private transportation."
 
 It is also true---though less tragically so---that countless failures to produce documents occur in the federal courts every year. That is not a good thing. But we are not at a point at which it is foreseeable that such a failure will spawn a million-dollar bill for attorney fees. If it were, litigation would become more of a blood sport than it already is. Lawyers would be even more obsessive about irrelevant and tedious details. No good could come of it.
 
 There is, in fact, nothing which distinguishes the failure to produce in this case with countless others. Judge Mihm himself made this point in response to Bellows' argument that this was the worst discovery abuse he had ever seen. Judge Mihm said:
 
-But you said in your 34 years of practice this was the most shocking thing you had ever seen in terms of this discovery issue. I wonder what kind of practice you've had if that's the case because, boy, in the scheme of things, I've seen things 50 times worse than this.
+> But you said in your 34 years of practice this was the most shocking thing you had ever seen in terms of this discovery issue. I wonder what kind of practice you've had if that's the case because, boy, in the scheme of things, I've seen things 50 times worse than this.
 
 What is foreseeable as a result of a failure to produce documents is the reasonable procedure set out in Civil Rule of Civil Procedure 37, which provides for sanctions only after other reasonable efforts to work out disagreements fail. It may be that, as Judge Mihm also said, that did not happen enough in this case. But ISU and Giffin Winning could hardly be expected to foresee all this trouble over a phantom database. Why would they? It was ISU's alleged database and Giffin Winning was representing ISU at the time. They knew of no database; they were hiding no database; there was no database. For Giffin Winning's carelessness in failing to produce documents (which Bellows had in his possession), the sanction of $10,000 might well have been sustained on appeal. But as a matter of law, the injury alleged here was not reasonably foreseeable.
 
@@ -313,7 +308,7 @@ After considering both positions, this Court finds the reasoning of the minority
 
 Accordingly, for the reasons expressed above, we find that the Superior Court correctly held that collectibility of damages in an underlying case is a matter which must be considered in a legal malpractice action and that the defendant/lawyer bears the burden of proving that the underlying case which formed the basis of the damages award in a legal malpractice action would not have been fully collectible. Therefore, the order of the Superior Court is affirmed and the matter remanded for further proceedings.
 
-\halfsep 
+\halfsep
 
 \Begin{questions}}
 
