@@ -5,12 +5,15 @@ title: Professional Responsibility
 
 author: Eric M. Fink
 publisher: Elon University School of Law
+repo: PRcasebook
 
 bibliography: '../assets/bibliography/PRCasebook.yaml'
 csl: '../assets/bibliography/casebook.csl'
 citation-abbreviations: '../assets/bibliography/casebook-abbrevs.json'
+nocite: |
+  @*
 
-version: '1.0'
+version: 'Version 1.0'
 published: July 2022
 
 output:
