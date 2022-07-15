@@ -1,6 +1,5 @@
 ---
 
-
 title: 'U.S. v. Stein'
 cite: '463 F. Supp. 2d 459 (S.D.N.Y. 2006)'
 

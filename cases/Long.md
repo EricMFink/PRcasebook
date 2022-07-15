@@ -1,6 +1,5 @@
 ---
 
-
 title: 'U.S. v. Long'
 cite: '857 F.2d 436 (8th Cir. 1988)'
 

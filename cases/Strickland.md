@@ -5,8 +5,6 @@ cite: '466 U.S. 668 (1984)'
 
 ---
 
-\case{Strickland v. Washington}{466 U.S. 668}{1984}
-
 ### JUSTICE O'CONNOR delivered the opinion of the Court.
 
 This case requires us to consider the proper standards for judging a criminal defendant's contention that the Constitution requires a conviction or death sentence to be set aside because counsel's assistance at the trial or sentencing was ineffective.

@@ -1,12 +1,11 @@
 ---
 
-
 title: 'Nebraska State Bar Association v. Statmore'
 cite: '352 N.W.2d 875 (Neb. 1984)'
 
 ---
 
-### Per Curiam 
+### Per Curiam
 
 This is an original disciplinary proceeding by the Nebraska State Bar Association against Clay B. Statmore, an attorney admitted to practice in Nebraska. After a hearing before the Committee on Inquiry of the First Disciplinary District and a review by the Disciplinary Review Board, formal charges against Statmore have been filed in this court.
 

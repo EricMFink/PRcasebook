@@ -1,6 +1,5 @@
 ---
 
-
 title: "Weil, Gotshal & Manges, LLP v. Fashion Boutique of Short Hills, Inc."
 cite: "10 A.D.3d 267 (N.Y. App. Div. 2004)"
 

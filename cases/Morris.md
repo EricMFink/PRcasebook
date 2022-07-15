@@ -1,12 +1,11 @@
 ---
 
-
 title: 'Morris v. Ohio Cas. Ins. Co.'
 cite: '35 Ohio St. 3d 45 (Ohio 1988)'
 
 ---
 
-### Douglas, J. 
+### Douglas, J.
 
 The sole question posed for our consideration is whether an insurance carrier may be liable for conversion when the carrier authorizes its bank to pay a draft over a forged endorsement. We answer the question in the affirmative and, accordingly, uphold the decision of the court of appeals.
 

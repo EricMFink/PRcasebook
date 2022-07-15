@@ -1,12 +1,11 @@
 ---
 
-
 title: 'Whiting v. Lacara'
 cite: '187 F. 3d 317 (2d Cir. 1999)'
 
 ---
 
-### Per Curiam 
+### Per Curiam
 
 Garrett R. Lacara appeals from two orders of Judge Spatt denying Lacara's motions to withdraw as counsel for plaintiff-appellee Joseph M. Whiting. Although the record before Judge Spatt justified denial of the motions, amplification of Whiting's position at oral argument persuades us to reverse.
 

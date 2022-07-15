@@ -1,6 +1,5 @@
 ---
 
-
 title: "In the Matter of the State Grand Jury Investigation"
 cite: "983 A.2d 1097 (N.J. 2009)"
 

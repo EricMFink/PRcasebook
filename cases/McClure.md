@@ -1,6 +1,5 @@
 ---
 
-
 title: 'McClure v. Thompson'
 cite: '323 F.3d 1233 (9th Cir. 2003)'
 

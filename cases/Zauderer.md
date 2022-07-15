@@ -1,6 +1,5 @@
 ---
 
-
 title: 'Zauderer v. Office of Disciplinary Counsel of the Supreme Court of Ohio'
 cite: '471 U.S. 626 (1985)'
 

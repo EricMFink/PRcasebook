@@ -1,6 +1,5 @@
 ---
 
-
 title: "Niesig v. Team I"
 cite: "76 N.Y.2d 363 (NY 1990)"
 

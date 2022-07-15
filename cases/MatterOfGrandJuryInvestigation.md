@@ -1,6 +1,5 @@
 ---
 
-
 title: 'In the Matter of a Grand Jury Investigation'
 cite: '453 Mass. 453 (Mass. 2009)'
 

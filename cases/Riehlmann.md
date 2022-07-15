@@ -1,12 +1,11 @@
 ---
 
-
 title: 'In re Riehlmann'
 cite: '891 So.2d 1239 (La. 2005)'
 
 ---
 
-### Per Curiam 
+### Per Curiam
 
 This disciplinary matter arises from formal charges filed by the Office of Disciplinary Counsel ("ODC") against respondent, Michael G. Riehlmann, an attorney licensed to practice law in Louisiana.
 

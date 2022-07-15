@@ -1,6 +1,5 @@
 ---
 
-
 title: 'Matter of Tennant'
 cite: '392 P. 3d 143 (Mont. 2017)'
 

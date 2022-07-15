@@ -1,6 +1,5 @@
 ---
 
-
 title: "In re Morse"
 cite: "748 S.E.2d 921 (Ga. 2013)"
 

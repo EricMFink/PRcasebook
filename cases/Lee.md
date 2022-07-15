@@ -78,9 +78,8 @@ The judgment of the United States Court of Appeals for the Sixth Circuit is reve
 
 It is so ordered.
 
----
 
-#### Justice THOMAS, with whom Justice ALITO joins except for Part I, dissenting.
+### Justice THOMAS, with whom Justice ALITO joins except for Part I, dissenting.
 
 The Court today holds that a defendant can undo a guilty plea, well after sentencing and in the face of overwhelming evidence of guilt, because he would have chosen to pursue a defense at trial with no reasonable chance of success if his attorney had properly advised him of the immigration consequences of his plea. Neither the Sixth Amendment nor this Court's precedents support that conclusion. I respectfully dissent.
 

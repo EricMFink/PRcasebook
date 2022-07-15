@@ -1,6 +1,5 @@
 ---
 
-
 title: "Nix v. Whiteside"
 cite: "475 U.S. 157 (1986)"
 
@@ -99,9 +98,8 @@ The rule adopted by the Court of Appeals, which seemingly would require an attor
 
 Whiteside's attorney treated Whiteside's proposed perjury in accord with professional standards, and since Whiteside's truthful testimony could not have prejudiced the result of his trial, the Court of Appeals was in error to direct the issuance of a writ of habeas corpus and must be reversed.
 
----
 
-#### JUSTICE BRENNAN, concurring in the judgment.
+### JUSTICE BRENNAN, concurring in the judgment.
 
 This Court has no constitutional authority to establish rules of ethical conduct for lawyers practicing in the state courts. Nor does the Court enjoy any statutory grant of jurisdiction over legal ethics.
 
@@ -111,9 +109,8 @@ Unfortunately, the Court seems unable to resist the temptation of sharing with t
 
 I join JUSTICE BLACKMUN's concurrence because I agree that respondent has failed to prove the kind of prejudice necessary to make out a claim under _Strickland v. Washington_.
 
----
 
-#### JUSTICE BLACKMUN, with whom JUSTICE BRENNAN, JUSTICE MARSHALL, and JUSTICE STEVENS join, concurring in the judgment.
+### JUSTICE BLACKMUN, with whom JUSTICE BRENNAN, JUSTICE MARSHALL, and JUSTICE STEVENS join, concurring in the judgment.
 
 How a defense attorney ought to act when faced with a client who intends to commit perjury at trial has long been a controversial issue. But I do not believe that a federal habeas corpus case challenging a state criminal conviction is an appropriate vehicle for attempting to resolve this thorny problem. When a defendant argues that he was denied effective assistance of counsel because his lawyer dissuaded him from committing perjury, the only question properly presented to this Court is whether the lawyer's actions deprived the defendant of the fair trial which the Sixth Amendment is meant to guarantee. Since I believe that the respondent in this case suffered no injury justifying federal habeas relief, I concur in the Court's judgment.
 
@@ -183,7 +180,6 @@ Whether an attorney's response to what he sees as a client's plan to commit perj
 
 I therefore am troubled by the Court's implicit adoption of a set of standards of professional responsibility for attorneys in state criminal proceedings. The States, of course, do have a compelling interest in the integrity of their criminal trials that can justify regulating the length to which an attorney may go in seeking his client's acquittal. But the American Bar Association's implicit suggestion in its brief amicus curiae that the Court find that the Association's Model Rules of Professional Conduct should govern an attorney's responsibilities is addressed to the wrong audience. It is for the States to decide how attorneys should conduct themselves in state criminal proceedings, and this Court's responsibility extends only to ensuring that the restrictions a State enacts do not infringe a defendant's federal constitutional rights. Thus, I would follow the suggestion made in the joint brief amici curiae filed by 37 States at the certiorari stage that we allow the States to maintain their "differing approaches" to a complex ethical question. The signal merit of asking first whether a defendant has shown any adverse prejudicial effect before inquiring into his attorney's performance is that it avoids unnecessary federal interference in a State's regulation of its bar. Because I conclude that the respondent in this case failed to show such an effect, I join the Court's judgment that he is not entitled to federal habeas relief.
 
----
 
 ### JUSTICE STEVENS, concurring in the judgment.
 

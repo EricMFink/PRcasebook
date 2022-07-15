@@ -1,12 +1,11 @@
 ---
 
-
 title: 'Matter of Silva'
 cite: '636 A.2d 316 (R.I. 1994)'
 
 ---
 
-### Per Curiam 
+### Per Curiam
 
 The respondent, Daniel J. Silva, appeared before this court on December 2, 1993, pursuant to an order to show cause why discipline should not be imposed. The Disciplinary Board conducted an evidentiary hearing and received legal memoranda from the respondent and disciplinary counsel. The board has filed with us its decision and a concurring opinion signed by three members of the board.
 

@@ -146,9 +146,8 @@ For the foregoing reasons, we hold that Hunter's blog posts are potentially misl
 
 _Affirmed in part, reversed in part, and remanded_.
 
----
 
-#### Justice LEMONS, with whom Justice McCLANAHAN joins, dissenting in part.
+### Justice LEMONS, with whom Justice McCLANAHAN joins, dissenting in part.
 
 I agree with the majority's resolution of the Rule 1.6 issue. However, I dissent from the majority's determination that Hunter is guilty of violating Rules 7.1(a)(4) and 7.2(a)(3) and that Hunter must post a disclaimer that complies with Rule 7.2(a)(3).
 

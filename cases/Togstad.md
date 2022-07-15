@@ -1,12 +1,11 @@
 ---
 
-
 title: 'Togstad v. Vesely, Otto, Miller & Keefe'
 cite: '291 N.W.2d 686 (Minn. 1980)'
 
 ---
 
-### Per Curiam 
+### Per Curiam
 
 This is an appeal by the defendants from a judgment of the Hennepin County District Court involving an action for legal malpractice. The jury found that the defendant attorney Jerre Miller was negligent and that, as a direct result of such negligence, plaintiff John Togstad sustained damages in the amount of $610,500 and his wife, plaintiff Joan Togstad, in the amount of $39,000. Defendants (Miller and his law firm) appeal to this court from the denial of their motion for judgment notwithstanding the verdict or, alternatively, for a new trial. We affirm.
 

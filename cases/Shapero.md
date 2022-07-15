@@ -1,6 +1,5 @@
 ---
 
-
 title: 'Shapero v. Kentucky Bar Association'
 cite: '486 U.S. 466'
 
@@ -58,7 +57,6 @@ To be sure, a letter may be misleading if it unduly emphasizes trivial or "relat
 
 The judgment of the Supreme Court of Kentucky is reversed, and the case is remanded for further proceedings not inconsistent with this opinion.
 
----
 
 ### JUSTICE O'CONNOR, with whom THE CHIEF JUSTICE and JUSTICE SCALIA join, dissenting.
 

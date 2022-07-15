@@ -1,12 +1,11 @@
 ---
 
-
 title: 'Lawyer Disciplinary Board v. Veneri'
 cite: '524 S.E.2d 900 (W. Va. 1999)'
 
 ---
 
-### Per Curiam 
+### Per Curiam
 
 This disciplinary proceeding is before this Court upon a review of the March 31, 1999, Recommended Disposition of the Hearing Panel Subcommittee of the Lawyer Disciplinary Board ("Board") concerning the respondent, Randall L. Veneri ("Veneri"), a member of the West Virginia State Bar. Veneri was charged with violating Rules 3.4(c) and 8.4(c) of the _Rules of Professional Conduct_ for failing to file an asset disclosure form listing his client's two separate employee benefit plans during the course of his client's divorce. The Board recommends that the charges alleging violations of Rules 3.4(c) and 8.4(c) be dismissed. We accept the Board's findings and recommendations and dismiss those two charges.
 

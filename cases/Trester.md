@@ -1,12 +1,11 @@
 ---
 
-
 title: 'In re Trester'
 cite: '172 P. 3d 31 (Kan. 2007)'
 
 ---
 
-### Per Curiam 
+### Per Curiam
 
 This is an original proceeding in discipline filed by the Disciplinary Administrator against respondent, Irwin S. Trester, an attorney admitted to the practice of law in Kansas in 1968. A hearing panel of the Kansas Board for the Discipline of Attorneys conducted a formal hearing, as required by Kansas Supreme Court Rule 211.
 

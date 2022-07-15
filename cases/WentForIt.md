@@ -1,7 +1,5 @@
 ---
 
-
-
 title: 'Florida Bar v. Went for It, Inc.'
 cite: '515 U.S. 618 (1995)'
 
@@ -65,7 +63,6 @@ Speech by professionals obviously has many dimensions. There are circumstances i
 
 We believe that the Bar's 30-day restriction on targeted direct-mail solicitation of accident victims and their relatives withstands scrutiny under the three-pronged Central Hudson test that we have devised for this context. The Bar has substantial interest both in protecting injured Floridians from invasive conduct by lawyers and in preventing the erosion of confidence in the profession that such repeated invasions have engendered. The Bar's proffered study, unrebutted by respondents below, provides evidence indicating that the harms it targets are far from illusory. The palliative devised by the Bar to address these harms is narrow both in scope and in duration. The Constitution, in our view, requires nothing more.
 
----
 
 ### Justice Kennedy, with whom Justice Stevens, Justice Souter, and Justice Ginsburg join, dissenting.
 
