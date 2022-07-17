@@ -2005,7 +2005,7 @@ IT IS FURTHER ORDERED that Irwin Trester shall comply with Supreme Court Rule 21
 
 IT IS FURTHER ORDERED that this opinion be published in the official Kansas Reports and that respondent pay the costs of these proceedings.
 
-\chapter{Attorney Discipline}
+# Attorney Discipline
 
 \Begin{legalcode}
 
@@ -2657,7 +2657,7 @@ It is further Ordered that respondent is directed to fully comply with the provi
 It is further Ordered that, within 20 days of the date of service of this decision, respondent may submit a request, in writing, to this Court for a post suspension hearing.
 
 
-\chapter{Law Firms}
+# Law Firms
 
 \Begin{legalcode}
 
@@ -3017,7 +3017,6 @@ While the trial court did not follow this procedure, defendants did, thereafter,
 
 Affirmed.
 
-
 \chapter{Advertising and Solicitation}
 
 # Advertising
@@ -3058,36 +3057,9 @@ A lawyer shall not make a false or misleading communication about the lawyer or 
 
 (d) Any communication made under this Rule must include the name and contact information of at least one lawyer or law firm responsible for its content.
 
-\codesec{Rule 7.3: Solicitation of Clients}
-
-(a) “Solicitation” or “solicit” denotes a communication initiated by or on behalf of a lawyer or law firm that is directed to a specific person the lawyer knows or reasonably should know needs legal services in a particular matter and that offers to provide, or reasonably can be understood as offering to provide, legal services for that matter.
-
-(b) A lawyer shall not solicit professional employment by live person-to-person contact when a significant motive for the lawyer’s doing so is the lawyer’s or law firm’s pecuniary gain, unless the contact is with a:
-
-> (1) lawyer;
->
-> (2) person who has a family, close personal, or prior business or professional relationship with the lawyer or law firm; or
->
-> (3) person who routinely uses for business purposes the type of legal services offered by the lawyer.
-
-(c) A lawyer shall not solicit professional employment even when not otherwise prohibited by paragraph (b), if:
-
-> (1) the target of the solicitation has made known to the lawyer a desire not to be solicited by the lawyer; or
->
-> (2) the solicitation involves coercion, duress or harassment.
-
-(d) This Rule does not prohibit communications authorized by law or ordered by a court or other tribunal.
-
-(e) Notwithstanding the prohibitions in this Rule, a lawyer may participate with a prepaid or group legal service plan operated by an organization not owned or directed by the lawyer that uses live person-to-person contact to enroll members or sell subscriptions for the plan from persons who are not known to need legal services in a particular matter covered by the plan.
-
-\codesec{Rule 7.6: Political Contributions to Obtain Legal Engagements or Appointments by Judges}
-
-A lawyer or law firm shall not accept a government legal engagement or an appointment by a judge if the lawyer or law firm makes a political contribution or solicits political contributions for the purpose of obtaining or being considered for that type of legal engagement or appointment.
-
 \End{legalcode}
 
 \case{Bates v. State Bar of Arizona}{433 U.S. 350}{1977}
-
 
 ### MR. JUSTICE BLACKMUN delivered the opinion of the Court.
 
@@ -3302,12 +3274,11 @@ We disapprove the referee's finding that the television commercial at issue is c
 
 \Begin{comment}
 
-The Florida Bar revisted the "pit bull" issue in 2021. [Florida Bar v. Robert Laurence Pelltier](https://www.emfink.net/ProfessionalResponsibility/assets/materials/Advertising/Pelletier-Complaint.pdf), No. 2021-00,159(4A) (March 2, 2021). In his [answer](https://www.emfink.net/ProfessionalResponsibility/assets/materials/Advertising/Pelletier-Answer.pdf) to the Bar complaint, Pelletier to the Bar complaint, Pelletier asserted that he "was unaware of said case law until recently. Furthermore, Respondent was unaware that using a nickname such as “Pitbull” was a violation of The Florida Bar Rules." He also contended that "The Florida Bar rule(s) sited [sic] violate the first amendment freedom of speech section." He ultimately [agreed to a consent judgment](https://www.emfink.net/ProfessionalResponsibility/assets/materials/Advertising/Pelletier-GuiltyPlea.pdf) and received a [reprimand](https://www.emfink.net/ProfessionalResponsibility/assets/materials/Advertising/Pelletier-RefereeReport.pdf).
+The Florida Bar revisted the "pit bull" issue in 2021. [Florida Bar v. Robert Laurence Pelltier](https://www.emfink.net/ProfessionalResponsibility/assets/materials/Advertising/Pelletier-Complaint.pdf), No. 2021-00,159(4A) (March 2, 2021). In his [answer](https://www.emfink.net/ProfessionalResponsibility/assets/materials/Advertising/Pelletier-Answer.pdf) to the Bar complaint, Pelletier to the Bar complaint, Pelletier asserted that he "was unaware of said case law until recently. Furthermore, Respondent was unaware that using a nickname such as “Pitbull” was a violation of The Florida Bar Rules." He also contended that "The Florida Bar rule(s) sited [sic] violate the first amendment freedom of speech section." He ultimately entered a [guilty plea](https://www.emfink.net/ProfessionalResponsibility/assets/materials/Advertising/Pelletier-GuiltyPlea.pdf) and received a [reprimand](https://www.emfink.net/ProfessionalResponsibility/assets/materials/Advertising/Pelletier-RefereeReport.pdf).
 
 \End{comment}
 
 \case{Hunter v. Virginia State Bar}{744 S.E.2d 611}{Va. 2013}
-
 
 ### Opinion by Justice Cleo E. Powell
 
@@ -3511,9 +3482,31 @@ Accordingly, I would hold that Hunter's speech is political, is entitled to the 
 
 \mrpc{}
 
-\codesec{Rule 7.3}
+\codesec{Rule 7.3: Solicitation of Clients}
 
-\codesec{Rule 7.6}
+(a) “Solicitation” or “solicit” denotes a communication initiated by or on behalf of a lawyer or law firm that is directed to a specific person the lawyer knows or reasonably should know needs legal services in a particular matter and that offers to provide, or reasonably can be understood as offering to provide, legal services for that matter.
+
+(b) A lawyer shall not solicit professional employment by live person-to-person contact when a significant motive for the lawyer’s doing so is the lawyer’s or law firm’s pecuniary gain, unless the contact is with a:
+
+> (1) lawyer;
+>
+> (2) person who has a family, close personal, or prior business or professional relationship with the lawyer or law firm; or
+>
+> (3) person who routinely uses for business purposes the type of legal services offered by the lawyer.
+
+(c) A lawyer shall not solicit professional employment even when not otherwise prohibited by paragraph (b), if:
+
+> (1) the target of the solicitation has made known to the lawyer a desire not to be solicited by the lawyer; or
+>
+> (2) the solicitation involves coercion, duress or harassment.
+
+(d) This Rule does not prohibit communications authorized by law or ordered by a court or other tribunal.
+
+(e) Notwithstanding the prohibitions in this Rule, a lawyer may participate with a prepaid or group legal service plan operated by an organization not owned or directed by the lawyer that uses live person-to-person contact to enroll members or sell subscriptions for the plan from persons who are not known to need legal services in a particular matter covered by the plan.
+
+\codesec{Rule 7.6: Political Contributions to Obtain Legal Engagements or Appointments by Judges}
+
+A lawyer or law firm shall not accept a government legal engagement or an appointment by a judge if the lawyer or law firm makes a political contribution or solicits political contributions for the purpose of obtaining or being considered for that type of legal engagement or appointment.
 
 \statute{N.C. Gen. Stat. chap. 84}
 
@@ -3530,7 +3523,6 @@ The council of the North Carolina State Bar is hereby authorized and empowered t
 \End{legalcode}
 
 \case{NAACP v. Button}{371 U.S. 415}{1963}
-
 
 ### MR. JUSTICE BRENNAN delivered the opinion of the Court.
 
