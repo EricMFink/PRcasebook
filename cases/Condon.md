@@ -1,6 +1,5 @@
 ---
 
-
 title: 'Estate of Condon'
 cite: '76 Cal. Rptr. 2d 922 (Cal. App. 1998)'
 

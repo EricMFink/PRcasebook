@@ -1,6 +1,5 @@
 ---
 
-
 title: 'Birbrower, Montalbano, Condon & Frank v. Superior Court'
 cite: '17 Cal. 4th 119 (Cal. 1998)'
 
