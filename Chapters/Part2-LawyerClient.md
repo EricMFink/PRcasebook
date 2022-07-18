@@ -739,11 +739,11 @@ A lawyer shall not accept compensation for representing a client from one other 
 
 \End{legalcode}
 
-Matter of Cooperman, 633 N.E.2d 1069 (N.Y. 1994)
+\case{Matter of Cooperman}{633 N.E.2d 1069}{N.Y. 1994}
 
-In the Matter of Fordham, 423 Mass. 481 (Mass. 1996)
+\case{In the Matter of Fordham}{423 Mass. 481}{Mass. 1996}
 
-Culpepper & Carroll, PLLC v. Cole, 929 So. 2d 1224 (La. 2006)
+\case{Culpepper & Carroll, PLLC v. Cole}{929 So. 2d 1224}{La. 2006}
 
 
 # Client Property
