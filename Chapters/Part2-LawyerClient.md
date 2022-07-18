@@ -650,13 +650,13 @@ A lawyer representing a governmental client must proceed in the representation a
 
 \End{legalcode}
 
-In the Matter of Silva, 636 A.2d 316 (R.I. 1994)
+\case{In the Matter of Silva}{636 A.2d 316}{R.I. 1994}
 
-Brennan v. Ruffner, 640 So. 2d 143 (Fla. 1994)
+\case{Brennan v. Ruffner}{640 So. 2d 143}{Fla. 1994}
 
-In re Grand Jury Subpoena: Under Seal, 415 F. 3d 334 (4th Cir. 2005)
+\case{In re Grand Jury Subpoena: Under Seal}{415 F. 3d 334}{4th Cir. 2005}
 
-U.S. v. Stein, 463 F. Supp. 2d 459 (S.D.N.Y. 2006)
+\case{U.S. v. Stein}{463 F. Supp. 2d 459}{S.D.N.Y. 2006}
 
 
 # Clients with Diminished Capacity
