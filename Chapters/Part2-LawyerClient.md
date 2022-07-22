@@ -19,6 +19,8 @@ output:
 
 ---
 
+\part{Attorney-Client Relationship}
+
 \chapter{Forming and Ending a Lawyer-Client Relationship}
 
 # Prospective Clients
@@ -33,23 +35,22 @@ output:
 
 (b)  Even when no client-lawyer relationship ensues, a lawyer who has learned information from a prospective client shall not use or reveal that information, except as Rule 1.9 would permit with respect to information of a former client.
 
-(c)   A lawyer subject to paragraph (b) shall not represent a client with interests materially adverse to those of a prospective client in the same or a substantially related matter if the lawyer received information from the prospective client that could be significantly harmful to that person in the matter, except as provided in paragraph (d). If a lawyer is disqualified from representation under this paragraph, no lawyer in a firm with which that lawyer is associated may knowingly undertake or continue representation in such a matter, except as provided in paragraph (d).
+(c) A lawyer subject to paragraph (b) shall not represent a client with interests materially adverse to those of a prospective client in the same or a substantially related matter if the lawyer received information from the prospective client that could be significantly harmful to that person in the matter, except as provided in paragraph (d). If a lawyer is disqualified from representation under this paragraph, no lawyer in a firm with which that lawyer is associated may knowingly undertake or continue representation in such a matter, except as provided in paragraph (d).
 
-(d)   When the lawyer has received disqualifying information as defined in paragraph (c), representation is permissible if:
+(d) When the lawyer has received disqualifying information as defined in paragraph (c), representation is permissible if:
 
-(1)   both the affected client and the prospective client have given informed consent, confirmed in writing, or:
+(1) both the affected client and the prospective client have given informed consent, confirmed in writing, or:
 
-(2)   the lawyer who received the information took reasonable measures to avoid exposure to more disqualifying information than was reasonably necessary to determine whether to represent the prospective client; and
+(2) the lawyer who received the information took reasonable measures to avoid exposure to more disqualifying information than was reasonably necessary to determine whether to represent the prospective client; and
 
-(i)    the disqualified lawyer is timely screened from any participation in the matter and is apportioned no part of the fee therefrom; and
+(i)  the disqualified lawyer is timely screened from any participation in the matter and is apportioned no part of the fee therefrom; and
 
-(ii)   written notice is promptly given to the prospective client.
+(ii) written notice is promptly given to the prospective client.
 
 
 \End{legalcode}
 
 \case{Clark Capital Management Group, Inc. v. Annuity Investors Life Ins. Co.}{149 F.Supp.2d 193}{E.D. Pa. 2001}
-
 
 ### Anita Brody, District Judge
 
@@ -1208,6 +1209,18 @@ A lawyer shall act with reasonable diligence and promptness in representing a cl
 > (5) consult with the client about any relevant limitation on the lawyer's conduct when the lawyer knows that the client expects assistance not permitted by the Rules of Professional Conduct or other law.
 
 (b) A lawyer shall explain a matter to the extent reasonably necessary to permit the client to make informed decisions regarding the representation.
+
+\codesec{Rule 2.1: Advisor}
+
+In representing a client, a lawyer shall exercise independent professional judgment and render candid advice. In rendering advice, a lawyer may refer not only to law but to other considerations such as moral, economic, social and political factors, that may be relevant to the client's situation.
+
+\codesec{Rule 2.2: Evaluation for Use by Third Persons}
+
+(a) A lawyer may provide an evaluation of a matter affecting a client for the use of someone other than the client if the lawyer reasonably believes that making the evaluation is compatible with other aspects of the lawyer's relationship with the client.
+
+(b) When the lawyer knows or reasonably should know that the evaluation is likely to affect the client's interests materially and adversely, the lawyer shall not provide the evaluation unless the client gives informed consent.
+
+(c) Except as disclosure is authorized in connection with a report of an evaluation, information relating to the evaluation is otherwise protected by Rule 1.6.
 
 \End{legalcode}
 

@@ -15,9 +15,11 @@ citation-abbreviations: '../assets/bibliography/casebook-abbrevs.json'
 output:
   pdf_document:
     template: casebook.tex
-    path: ../PDF/Part4.pdf
+    path: ../PDF/Part3.pdf
 
 ---
+
+\part{Confidentiality \& Evidentiary Protections}
 
 \chapter{Duty of Confidentiality}
 

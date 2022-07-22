@@ -15,10 +15,11 @@ citation-abbreviations: '../assets/bibliography/casebook-abbrevs.json'
 output:
   pdf_document:
     template: casebook.tex
-    path: ../PDF/Part5.pdf
+    path: ../PDF/Part4.pdf
 
 ---
 
+\part{Conflicts of Interest}
 
 \chapter{Conflicts Between Current Clients}
 
