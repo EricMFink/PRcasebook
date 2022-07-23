@@ -105,8 +105,8 @@ We hope that this free casebook helps show that it is possible to create teachin
 
 In closing, we would like to thank our research assistants Nicole Pottinger, Justin Cloyd, Mark Blankenship, Barrett Block, and Renee Wilson. We would also like to thank Cornelius Kearns, Brandon Magner, and Guy Hamilton-Smith for helpful comments.
 
-[Brian L. Frye](http://law.uky.edu/directory/brian-l-frye)  
+[Brian L. Frye](http://law.uky.edu/directory/brian-l-frye) 
 
-[Elizabeth Schiller](https://law.richmond.edu/faculty/eschille/)  
+[Elizabeth Schiller](https://law.richmond.edu/faculty/eschille/) 
 
 S.J. Morrison

@@ -290,61 +290,61 @@ The order of the Law Division denying the State's motion to disqualify the couns
 
 \codesec{Rule 1.8: Current Clients: Specific Rules}
 
-(a)  A lawyer shall not enter into a business transaction with a client or knowingly acquire an ownership, possessory, security or other pecuniary interest adverse to a client unless:
+(a) A lawyer shall not enter into a business transaction with a client or knowingly acquire an ownership, possessory, security or other pecuniary interest adverse to a client unless:
 
-> (1)  the transaction and terms on which the lawyer acquires the interest are fair and reasonable to the client and are fully disclosed and transmitted in writing in a manner that can be reasonably understood by the client;
+> (1) the transaction and terms on which the lawyer acquires the interest are fair and reasonable to the client and are fully disclosed and transmitted in writing in a manner that can be reasonably understood by the client;
 >
-> (2)  the client is advised in writing of the desirability of seeking and is given a reasonable opportunity to seek the advice of independent legal counsel on the transaction; and
+> (2) the client is advised in writing of the desirability of seeking and is given a reasonable opportunity to seek the advice of independent legal counsel on the transaction; and
 >
-> (3)  the client gives informed consent, in a writing signed by the client, to the essential terms of the transaction and the lawyer's role in the transaction, including whether the lawyer is representing the client in the transaction.
+> (3) the client gives informed consent, in a writing signed by the client, to the essential terms of the transaction and the lawyer's role in the transaction, including whether the lawyer is representing the client in the transaction.
 
-(b)  A lawyer shall not use information relating to representation of a client to the disadvantage of the client unless the client gives informed consent, except as permitted or required by these Rules.
+(b) A lawyer shall not use information relating to representation of a client to the disadvantage of the client unless the client gives informed consent, except as permitted or required by these Rules.
 
-(c)  A lawyer shall not solicit any substantial gift from a client, including a testamentary gift, or prepare on behalf of a client an instrument giving the lawyer or a person related to the lawyer any substantial gift unless the lawyer or other recipient of the gift is related to the client. For purposes of this paragraph, related persons include a spouse, child, grandchild, parent, grandparent or other relative or individual with whom the lawyer or the client maintains a close, familial relationship.
+(c) A lawyer shall not solicit any substantial gift from a client, including a testamentary gift, or prepare on behalf of a client an instrument giving the lawyer or a person related to the lawyer any substantial gift unless the lawyer or other recipient of the gift is related to the client. For purposes of this paragraph, related persons include a spouse, child, grandchild, parent, grandparent or other relative or individual with whom the lawyer or the client maintains a close, familial relationship.
 
-(d)  Prior to the conclusion of representation of a client, a lawyer shall not make or negotiate an agreement giving the lawyer literary or media rights to a portrayal or account based in substantial part on information relating to the representation.
+(d) Prior to the conclusion of representation of a client, a lawyer shall not make or negotiate an agreement giving the lawyer literary or media rights to a portrayal or account based in substantial part on information relating to the representation.
 
-(e)  A lawyer shall not provide financial assistance to a client in connection with pending or contemplated litigation, except that:
+(e) A lawyer shall not provide financial assistance to a client in connection with pending or contemplated litigation, except that:
 
-> (1)  a lawyer may advance court costs and expenses of litigation, the repayment of which may be contingent on the outcome of the matter;
+> (1) a lawyer may advance court costs and expenses of litigation, the repayment of which may be contingent on the outcome of the matter;
 >
-> (2)  a lawyer representing an indigent client may pay court costs and expenses of litigation on behalf of the client; and
+> (2) a lawyer representing an indigent client may pay court costs and expenses of litigation on behalf of the client; and
 >
-> (3)  a lawyer representing an indigent client pro bono, a lawyer representing an indigent client pro bono through a nonprofit legal services or public interest organization and a lawyer representing an indigent client pro bono through a law school clinical or pro bono program may provide modest gifts to the client for food, rent, transportation, medicine and other basic living expenses. The lawyer:
+> (3) a lawyer representing an indigent client pro bono, a lawyer representing an indigent client pro bono through a nonprofit legal services or public interest organization and a lawyer representing an indigent client pro bono through a law school clinical or pro bono program may provide modest gifts to the client for food, rent, transportation, medicine and other basic living expenses. The lawyer:
 >
-> > (i)  may not promise, assure or imply the availability of such gifts prior to retention or as an inducement to continue the client-lawyer relationship after retention;
+> > (i) may not promise, assure or imply the availability of such gifts prior to retention or as an inducement to continue the client-lawyer relationship after retention;
 > >
-> > (ii)  may not seek or accept reimbursement from the client, a relative of the client or anyone affiliated with the client; and
+> > (ii) may not seek or accept reimbursement from the client, a relative of the client or anyone affiliated with the client; and
 >
-> > (iii)  may not publicize or advertise a willingness to provide such gifts to prospective clients.
+> > (iii) may not publicize or advertise a willingness to provide such gifts to prospective clients.
 
 > Financial assistance under this Rule may be provided even if the representation is eligible for fees under a fee-shifting statute.
 
-(f)  A lawyer shall not accept compensation for representing a client from one other than the client unless:
+(f) A lawyer shall not accept compensation for representing a client from one other than the client unless:
 
-> (1)  the client gives informed consent;
+> (1) the client gives informed consent;
 >
-> (2)  there is no interference with the lawyer's independence of professional judgment or with the client-lawyer relationship; and
+> (2) there is no interference with the lawyer's independence of professional judgment or with the client-lawyer relationship; and
 >
-> (3)  information relating to representation of a client is protected as required by Rule 1.6.
+> (3) information relating to representation of a client is protected as required by Rule 1.6.
 
-(g)  A lawyer who represents two or more clients shall not participate in making an aggregate settlement of the claims of or against the clients, or in a criminal case an aggregated agreement as to guilty or nolo contendere pleas, unless each client gives informed consent, in a writing signed by the client. The lawyer's disclosure shall include the existence and nature of all the claims or pleas involved and of the participation of each person in the settlement.
+(g) A lawyer who represents two or more clients shall not participate in making an aggregate settlement of the claims of or against the clients, or in a criminal case an aggregated agreement as to guilty or nolo contendere pleas, unless each client gives informed consent, in a writing signed by the client. The lawyer's disclosure shall include the existence and nature of all the claims or pleas involved and of the participation of each person in the settlement.
 
-(h)  A lawyer shall not:
+(h) A lawyer shall not:
 
-> (1)  make an agreement prospectively limiting the lawyer's liability to a client for malpractice unless the client is independently represented in making the agreement; or
+> (1) make an agreement prospectively limiting the lawyer's liability to a client for malpractice unless the client is independently represented in making the agreement; or
 >
-> (2)  settle a claim or potential claim for such liability with an unrepresented client or former client unless that person is advised in writing of the desirability of seeking and is given a reasonable opportunity to seek the advice of independent legal counsel in connection therewith.
+> (2) settle a claim or potential claim for such liability with an unrepresented client or former client unless that person is advised in writing of the desirability of seeking and is given a reasonable opportunity to seek the advice of independent legal counsel in connection therewith.
 
-(i)  A lawyer shall not acquire a proprietary interest in the cause of action or subject matter of litigation the lawyer is conducting for a client, except that the lawyer may:
+(i) A lawyer shall not acquire a proprietary interest in the cause of action or subject matter of litigation the lawyer is conducting for a client, except that the lawyer may:
 
-> (1)  acquire a lien authorized by law to secure the lawyer's fee or expenses; and
+> (1) acquire a lien authorized by law to secure the lawyer's fee or expenses; and
 >
-> (2)   contract with a client for a reasonable contingent fee in a civil case.
+> (2) contract with a client for a reasonable contingent fee in a civil case.
 
-(j)  A lawyer shall not have sexual relations with a client unless a consensual sexual relationship existed between them when the client-lawyer relationship commenced.
+(j) A lawyer shall not have sexual relations with a client unless a consensual sexual relationship existed between them when the client-lawyer relationship commenced.
 
-(k)  While lawyers are associated in a firm, a prohibition in the foregoing paragraphs (a) through (i) that applies to any one of them shall apply to all of them.
+(k) While lawyers are associated in a firm, a prohibition in the foregoing paragraphs (a) through (i) that applies to any one of them shall apply to all of them.
 
 \End{legalcode}
 

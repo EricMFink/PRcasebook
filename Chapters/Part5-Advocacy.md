@@ -613,7 +613,7 @@ _Comments_
 
 \statute{ABA Criminal Justice Standards for the Prosecution Function (2017)}
 
-\codesec{Standard 3-1.2 Functions and Duties of the Prosecutor}
+\codesec{Standard 3-1.2: Functions and Duties of the Prosecutor}
 
 (a) The prosecutor is an administrator of justice, a zealous advocate, and an officer of the court. The prosecutor's office should exercise sound discretion and independent judgment in the performance of the prosecution function.
 
@@ -627,11 +627,11 @@ _Comments_
 
 (f) The prosecutor is not merely a case-processor but also a problem-solver responsible for considering broad goals of the criminal justice system. The prosecutor should seek to reform and improve the administration of criminal justice, and when inadequacies or injustices in the substantive or procedural law come to the prosecutor's attention, the prosecutor should stimulate and support efforts for remedial action. The prosecutor should provide service to the community, including involvement in public service and Bar activities, public education, community service activities, and Bar leadership positions. A prosecutorial office should support such activities, and the office's budget should include funding and paid release time for such activities.
 
-\codesec{Standard 3-1.3 The Client of the Prosecutor}
+\codesec{Standard 3-1.3: The Client of the Prosecutor}
 
 The prosecutor generally serves the public and not any particular government agency, law enforcement officer or unit, witness or victim. When investigating or prosecuting a criminal matter, the prosecutor does not represent law enforcement personnel who have worked on the matter and such law enforcement personnel are not the prosecutor's clients. The public's interests and views should be determined by the chief prosecutor and designated assistants in the jurisdiction.
 
-\codesec{Standard 3-1.4 The Prosecutor's Heightened Duty of Candor}
+\codesec{Standard 3-1.4: The Prosecutor's Heightened Duty of Candor}
 
 (a) In light of the prosecutor's public responsibilities, broad authority and discretion, the prosecutor has a heightened duty of candor to the courts and in fulfilling other professional obligations. However, the prosecutor should be circumspect in publicly commenting on specific cases or aspects of the business of the office.
 
@@ -639,13 +639,13 @@ The prosecutor generally serves the public and not any particular government age
 
 (c) The prosecutor should disclose to a court legal authority in the controlling jurisdiction known to the prosecutor to be directly adverse to the prosecution's position and not disclosed by others.
 
-\codesec{Standard 3-1.6 Improper Bias Prohibited}
+\codesec{Standard 3-1.6: Improper Bias Prohibited}
 
 (a) The prosecutor should not manifest or exercise, by words or conduct, bias or prejudice based upon race, sex, religion, national origin, disability, age, sexual orientation, gender identity, or socioeconomic status. A prosecutor should not use other improper considerations, such as partisan or political or personal considerations, in exercising prosecutorial discretion. A prosecutor should strive to eliminate implicit biases, and act to mitigate any improper bias or prejudice when credibly informed that it exists within the scope of the prosecutor's authority.
 
 (b) A prosecutor's office should be proactive in efforts to detect, investigate, and eliminate improper biases, with particular attention to historically persistent biases like race, in all of its work. A prosecutor's office should regularly assess the potential for biased or unfairly disparate impacts of its policies on communities within the prosecutor's jurisdiction, and eliminate those impacts that cannot be properly justified.
 
-\codesec{Standard 3-1.12   Duty to Report and Respond to Prosecutorial Misconduct}
+\codesec{Standard 3-1.12: Duty to Report and Respond to Prosecutorial Misconduct}
 
 (a) The prosecutor's office should adopt policies to address allegations of professional misconduct, including violations of law, by prosecutors. At a minimum such policies should require internal reporting of reasonably suspected misconduct to supervisory staff within the office, and authorize supervisory staff to quickly address the allegations. Investigations of allegations of professional misconduct within the prosecutor's office should be handled in an independent and conflict-free manner.
 

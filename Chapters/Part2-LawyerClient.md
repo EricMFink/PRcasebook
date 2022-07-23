@@ -19,9 +19,9 @@ output:
 
 ---
 
-\part{Attorney-Client Relationship}
+\part{Attorney \& Client}
 
-\chapter{Forming and Ending a Lawyer-Client Relationship}
+\chapter{The Attorney-Client Relationship}
 
 # Prospective Clients
 
@@ -31,9 +31,9 @@ output:
 
 \codesec{Rule 1.18: Duties to Prospective Client}
 
-(a)  A person who consults with a lawyer about the possibility of forming a client-lawyer relationship with respect to a matter is a prospective client.
+(a) A person who consults with a lawyer about the possibility of forming a client-lawyer relationship with respect to a matter is a prospective client.
 
-(b)  Even when no client-lawyer relationship ensues, a lawyer who has learned information from a prospective client shall not use or reveal that information, except as Rule 1.9 would permit with respect to information of a former client.
+(b) Even when no client-lawyer relationship ensues, a lawyer who has learned information from a prospective client shall not use or reveal that information, except as Rule 1.9 would permit with respect to information of a former client.
 
 (c) A lawyer subject to paragraph (b) shall not represent a client with interests materially adverse to those of a prospective client in the same or a substantially related matter if the lawyer received information from the prospective client that could be significantly harmful to that person in the matter, except as provided in paragraph (d). If a lawyer is disqualified from representation under this paragraph, no lawyer in a firm with which that lawyer is associated may knowingly undertake or continue representation in such a matter, except as provided in paragraph (d).
 
@@ -43,7 +43,7 @@ output:
 
 (2) the lawyer who received the information took reasonable measures to avoid exposure to more disqualifying information than was reasonably necessary to determine whether to represent the prospective client; and
 
-(i)  the disqualified lawyer is timely screened from any participation in the matter and is apportioned no part of the fee therefrom; and
+(i) the disqualified lawyer is timely screened from any participation in the matter and is apportioned no part of the fee therefrom; and
 
 (ii) written notice is promptly given to the prospective client.
 
@@ -889,11 +889,11 @@ In the end, Warley's showings amount merely to a claim of her subjective belief 
 
 A lawyer shall not accept compensation for representing a client from one other than the client unless:
 
-(1)  the client gives informed consent;
+(1) the client gives informed consent;
 
-(2)  there is no interference with the lawyer's independence of professional judgment or with the client-lawyer relationship; and
+(2) there is no interference with the lawyer's independence of professional judgment or with the client-lawyer relationship; and
 
-(3)  information relating to representation of a client is protected as required by Rule 1.6.
+(3) information relating to representation of a client is protected as required by Rule 1.6.
 
 \End{legalcode}
 
@@ -1235,9 +1235,9 @@ The term "legal malpractice" is sometimes used generally to refer to any claim a
 
 A lawyer shall not:
 
-(1)  make an agreement prospectively limiting the lawyer's liability to a client for malpractice unless the client is independently represented in making the agreement; or
+(1) make an agreement prospectively limiting the lawyer's liability to a client for malpractice unless the client is independently represented in making the agreement; or
 
-(2)  settle a claim or potential claim for such liability with an unrepresented client or former client unless that person is advised in writing of the desirability of seeking and is given a reasonable opportunity to seek the advice of independent legal counsel in connection therewith.
+(2) settle a claim or potential claim for such liability with an unrepresented client or former client unless that person is advised in writing of the desirability of seeking and is given a reasonable opportunity to seek the advice of independent legal counsel in connection therewith.
 
 
 \restlawyers{}
