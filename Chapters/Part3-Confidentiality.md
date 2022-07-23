@@ -19,7 +19,7 @@ output:
 
 ---
 
-\part{Confidentiality \& Evidentiary Protections}
+\part{Confidentiality}
 
 \chapter{Duty of Confidentiality}
 

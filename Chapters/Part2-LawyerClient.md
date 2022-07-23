@@ -444,7 +444,7 @@ We therefore reverse and order the district court to grant appellant's motion to
 
 
 
-\chapter{Lawyer \& Client as Agent \& Principal}
+\chapter{Attorney \& Client as Agent \& Principal}
 
 # Scope of Representation & Authority
 

@@ -4778,9 +4778,7 @@ As previously noted, the interest of the district court in preventing counsel fr
 
 We therefore reverse and order the district court to grant appellant's motion to withdraw as counsel. We note that Lacara agreed in this court to waive all outstanding fees and to turn over all pertinent files to Whiting.
 
-
-
-\chapter{Lawyer \& Client as Agent \& Principal}
+\chapter{Attorney \& Client as Agent \& Principal}
 
 # Scope of Representation & Authority
 
@@ -6434,7 +6432,7 @@ Second, while it may be true that a majority of courts that have reached the iss
 
 This court should protect the public from lawyers' misdeeds, not the other way around. A plaintiff who is not categorically innocent seeking compensation under ordinary principles of tort law faces no light burden. Such a guilty plaintiff must prove a duty, a breach of that duty, injuries proximately caused by the breach, and the amount of his damages. I see no reason to provide additional protections for lawyers.
 
-\part{Confidentiality \& Evidentiary Protections}
+\part{Confidentiality}
 
 \chapter{Duty of Confidentiality}
 
